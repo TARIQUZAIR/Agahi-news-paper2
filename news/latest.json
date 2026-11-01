@@ -1,374 +1,28 @@
 {
-  "generated_at": "2026-11-01T10:03:17.984737+00:00",
-  "count": 116,
+  "generated_at": "2026-11-01T10:41:37.095212+00:00",
+  "count": 34,
+  "target": 40,
+  "quotas": {
+    "National": 10,
+    "Economy": 5,
+    "Crime": 5,
+    "Sports": 5,
+    "World": 4,
+    "Middle East": 4,
+    "Strange": 2
+  },
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
     {
-      "title": "نئی جنگ کی صورت میں تنازع کا جغرافیہ مغربی ایشیا تک محدود نہیں رہے گا: ایرانی فوج کے ترجمان کا انتباہ",
-      "link": "https://www.bbc.co.uk/urdu/live/c8vgxzky176wt?at_medium=RSS&at_campaign=rss",
-      "description": "ایرانی خبر رساں اداروں کی جانب سے جاری کیے گئے بیان کے مطابق ایرانی فوج کے ترجمان بریگیڈیئر جنرل محمد اکرمینیا نے کہا کہ 'امریکی تنصیبات، ساز و سامان، افواج اور مفادات، جہاں کہیں بھی قابلِ رسائی ہوں، نشانہ بنائے جا سکتے ہیں۔' اُن کا کہنا تھا کہ مستقبل کی جنگ گذشتہ جنگ کے مقابلے میں کہیں زیادہ طویل ہو سکتی ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": ""
-    },
-    {
-      "title": "ٹک ٹاکر مسٹر پتلو کی شادی پر ’کار اور موٹر سائیکلوں سمیت کروڑوں کے انعامات کا لالچ‘، بھگدڑ سے دو افراد ہلاک: ’لوگ سمجھے جو پہلے اندر جائے گا اسے انعام ملے گا‘",
-      "link": "https://www.bbc.com/urdu/articles/ckdd8l2vvpvyo?at_medium=RSS&at_campaign=rss",
-      "description": "ایف آئی آر کے متن میں کہا گیا ہے کہ مسٹر پتلو نے سٹیج پر آ کر اعلان کیا کہ تمام لوگ فوری طور پر گراؤنڈ میں آ جائیں، جس پر لوگوں نے یکدم اندر جانے کی کوشش کی جس سے بھگدڑ مچ گئی اور عقیل نامی شخص موقع پر جان کی بازی ہار گیا۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 07:44:07 GMT"
-    },
-    {
-      "title": "فِلِن کروز میزائل: ممکنہ طور پر سستے اور چھوٹے نئے روسی ہتھیار میں کیا خصوصیات ہیں؟",
-      "link": "https://www.bbc.com/urdu/articles/cxp8g560z237o?at_medium=RSS&at_campaign=rss",
-      "description": "اس کی زیادہ سے زیادہ رفتار 800 کلومیٹر فی گھنٹہ تک بتائی جاتی ہے، جبکہ اس کی اندازاً مار 1,200 کلومیٹر ہے، اور یہ انتہائی کم بلندی (200 میٹر سے کم) سے لے کر 6 کلومیٹر تک کی بلندی پر پرواز کر سکتا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 06:32:17 GMT"
-    },
-    {
-      "title": "سکول میں 8 سالہ بچے کا 6 سالہ بچی پر تشدد، اساتذہ اور عملے کے خلاف مقدمہ درج: ’ایک بچہ اتنا سفاک تشدد کیسے کرسکتا ہے؟‘",
-      "link": "https://www.bbc.com/urdu/articles/cmgelvg482d4o?at_medium=RSS&at_campaign=rss",
-      "description": "ہریانہ کے شہر پنچکولا کے ایک سکول میں کلاس روم کے اندر 6 سالہ بچی کے ساتھ 8 سالہ بچے کی مبینہ مارپیٹ کے معاملے میں پولیس نے سکول کے پرنسپل سمیت تین افراد کے خلاف مقدمہ درج کر لیا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 05:24:16 GMT"
-    },
-    {
-      "title": "ستارہِ امتیاز کے لیے نامزد پہلی پاکستانی ٹرانس جینڈر نایاب علی: تیزاب کے حملے سے اقوامِ متحدہ میں پاکستان کی نمائندگی تک",
-      "link": "https://www.bbc.com/urdu/articles/cmlyl92rer4jo?at_medium=RSS&at_campaign=rss",
-      "description": "وزارتِ انسانی حقوق کی جانب سے رواں ماہ جاری کیے گئے ایک نوٹیفکیشن کے مطابق جنیوا میں ہونے والے اجلاس میں پاکستان کے چار رکنی وفد کی سربراہی وزیرِ مملکت برائے قانون بیرسٹر عقیل ملک کریں گے اور اس وفد میں ناب علی ٹرانسجیڈرز کے حقوق کی کنسلٹنٹ کی حیثیت سے شامل کی گئی ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 04:27:41 GMT"
-    },
-    {
-      "title": "انڈین الیکشن کمیشن کے سربراہ کے استعفے کے لیے حزب اختلاف کی دہلی میں میگا ریلی: کانگرس جین زی تک پہنچنے کے لیے کیا خاص کر رہی ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cmvg6zq6ynygo?at_medium=RSS&at_campaign=rss",
-      "description": "پولیس کی جانب سے جنتر منتر کو مظاہروں اور احتجاج وغیرہ کے لیے بند کیے جانے بعد رام لیلا میدان میں متحدہ اپوزیشن کی یہ پہلی ریلی ہے۔ اس میں سبھی اپوزیشن جماعتوں کے رہنما اور ملک کی مختلف ریاستوں سے یہاں بڑی تعداد میں آنے والے ان کے حامی شرکت کر رہے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 03:07:29 GMT"
-    },
-    {
-      "title": "پاکستان ٹرائی سیریز کا فاتح: فخر زمان کی ’فائنل میں پرفارم کرنے کی صلاحیت‘ اور ’گھر کے بڑے بیٹے کی انرجی‘ والے عرفات منہاس",
-      "link": "https://www.bbc.com/urdu/articles/cm62yeylwk13o?at_medium=RSS&at_campaign=rss",
-      "description": "لاہور میں کھیلے گئے پاکستان ون ڈے ٹرائی سیریز کے فائنل میں پاکستان نے سری لنکا کو تین وکٹوں سے شکست دے کر سیریز اپنے نام کر لی۔ پاکستان کی جانب سے فخر زمان نے 127، سعد بیگ نے 74 جبکہ عرفات منہاس نے محض 31 گیندں پر 61 رنز کی شاندار اننگز کھیلی۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 16:32:20 GMT"
-    },
-    {
-      "title": "سکردو میں میاں بیوی اور دو کمسن بچوں کا قتل: ’کمرے کا دروازہ کھولا تو اندر کا منظر انتہائی ہولناک تھا‘",
-      "link": "https://www.bbc.com/urdu/articles/cmvg6z22g006o?at_medium=RSS&at_campaign=rss",
-      "description": "سکردو پولیس کے مطابق محمد اسلم، اُن کی اہلیہ ہانیہ اسلم اور اُن کے دو بچوں، چار سالہ مہدی اور دو سالہ زہرا، کو تیز دھار آلے کی مدد سے گلے کاٹ کر قتل کیا گیا اور ملزمان جاتے ہوئے کمرے میں رکھی ہوئی ایک ڈش پر مبینہ طور پر مارے جانے والے افراد کے خون سے کچھ الفاظ بھی تحریر کر کے گئے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 13:03:11 GMT"
-    },
-    {
-      "title": "’یہ دل توڑ دینے والا ہے‘: کیپٹن صفدر کے کینسر سے متاثرہ خواتین سے متعلق ریمارکس پر سوشل میڈیا صارفین برہم اور مریم نواز کی مایوسی",
-      "link": "https://www.bbc.com/urdu/articles/cwm23pp090y7o?at_medium=RSS&at_campaign=rss",
-      "description": "وزیرِ اعلیٰ پنجاب مریم نواز نے صارف کی جانب سے شیئر کیے گئے کیپٹن (ر) صفدر کے اس ویڈیو کلپ پر تبصرہ کرتے ہوئے کہا کہ ’یہ دل توڑ دینے والا ہے۔ خاموش جنگیں، جو ایک عورت اور بیوی گھر کی چار دیواری کے اندر لڑتی ہے۔۔۔وہ طاقت جسے اسے تب بھی ڈھونڈنا پڑتا ہے، جب اسے لگے کہ وہ ٹوٹ رہی ہے۔۔کچھ لڑائیاں خاموشی سے لڑی جاتی ہیں اور کچھ زخم نظر نہیں آتے۔‘",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 11:38:24 GMT"
-    },
-    {
-      "title": "مصنوعی ذہانت نے 20 سال قبل چوری ہونے والی پینٹنگ کا سراغ کیسے لگایا؟",
-      "link": "https://www.bbc.com/urdu/articles/ck1wv44dexj8o?at_medium=RSS&at_campaign=rss",
-      "description": "صرف چند گھنٹے بعد پولیس کے نظام نے ان میں سے ای تصویر نشاندہی کی۔ یہ ایک نوجوان، گوری رنگت والی خاتون کی پینٹنگ تھی، جس نے فیروزی اور سرخ رنگ کا لباس پہن رکھا تھا اور ہاتھ میں جزوی طور پر کھلا ہوا ایک طومار تھامے ہوئے تھی۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 14:42:03 GMT"
-    },
-    {
-      "title": "اندرا گاندھی کا قتل اور وہ فون کال جس کے بعد انڈیا اور پاکستان کا کرکٹ میچ روکنا پڑا",
-      "link": "https://www.bbc.com/urdu/articles/cwjdmpry8n58o?at_medium=RSS&at_campaign=rss",
-      "description": "31 اکتوبر 1984 کو سیالکوٹ کے جناح سٹیڈیم میں پاکستان اور انڈیا کے درمیان جاری ایک روزہ بین الاقوامی کرکٹ میچ اس وقت اچانک روک دیا گیا جب انڈین وزیر اعظم اندرا گاندھی کے قتل کی خبر موصول ہوئی۔ خبر کے بعد میچ منسوخ کر دیا گیا اور نتیجہ ’نو رزلٹ‘ قرار پایا۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 05:52:37 GMT"
-    },
-    {
-      "title": "چین کا خفیہ خلائی طیارہ جس کی پہلی واضح تصویر پینٹاگون نے جاری کر دی",
-      "link": "https://www.bbc.com/urdu/articles/cr62y6z4vz84o?at_medium=RSS&at_campaign=rss",
-      "description": "امریکی وزارتِ دفاع کی دفاعی انٹیلی جنس ایجنسی نے چین کے ’خلائی طیارے‘ کی ایک تصویر جاری کی ہے، جو 2024 میں کمپنی ’میکسار ٹیکنالوجیز‘ کے سیٹلائٹ نے حاصل کی تھی۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 07:43:36 GMT"
-    },
-    {
-      "title": "’اسی لیے پاکستان خوشی کے انڈیکس میں اُوپر ہے‘: ہانگ کانگ سکسز میں انڈیا کو ہرانے پر شہباز شریف کی ’پُر جوش مبارکباد‘ طنز و مزاح کی زد میں",
-      "link": "https://www.bbc.com/urdu/articles/ckq6npd5mzqlo?at_medium=RSS&at_campaign=rss",
-      "description": "ورون کمار رانا نامی صارف نے لکھا کہ ’مجھے تو گوگل کرنا پڑا کہ دیکھوں کہ یہ ہانگ کانگ سکسز ہوتا کیا ہے؟ یہ تو بہت بڑی کامیابی ہے، آپ اس خوشی میں ایک ہفتے کی تعطیلات کا بھی اعلان کر دیں۔‘",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 06:51:53 GMT"
-    },
-    {
-      "title": "قصور میں ماں، باپ اور تین جوان بیٹوں کی 72 گھنٹوں میں موت کا معمہ: ’ایک چھپکلی میں کتنا زہر تھا کہ پانچ افراد جان سے گئے؟‘",
-      "link": "https://www.bbc.com/urdu/articles/cwj34pxye5k7o?at_medium=RSS&at_campaign=rss",
-      "description": "55 سالہ قاسم علی، اُن کی 52 سالہ اہلیہ حسنہ بی بی اور تین جوان بیٹوں، 28 سالہ آصف علی، 25 سالہ ناظم علی اور 15 سالہ امانت علی، کی موت تاحال معمہ بنی ہوئی ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Fri, 30 Oct 2026 08:37:50 GMT"
-    },
-    {
-      "title": "تائیوان کی ایئر لائنز پاکستانی فضائی حدود سے کیوں گزر رہی تھیں اور انھیں روکنے کی خبروں کے پیچھے کیا کہانی ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cm79pj08d7dro?at_medium=RSS&at_campaign=rss",
-      "description": "مشرقی ایشیائی ملک تائیوان کے حکام نے دعویٰ کیا ہے کہ حال ہی میں پاکستان نے ان کی کم از کم دو ایئر لائنز کو اپنی فضائی حدود میں داخل ہونے کی اجازت دینے سے انکار کیا ہے۔ بین الاقوامی ذرائع ابلاغ کا دعویٰ ہے کہ یہ خبر سامنے آنے کے بعد پاکستان نے مبینہ طور پر’عجلت میں‘ اپنا فیصلہ واپس لے لیا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Thu, 29 Oct 2026 15:05:43 GMT"
-    },
-    {
-      "title": "مریم نواز کا ’تھپڑ کے بدلے تھپڑ‘ کا موقف: کیا قانون زیرِ حراست ملزم کو سزا دینے کی اجازت دیتا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/c6gqwgpge2kpo?at_medium=RSS&at_campaign=rss",
-      "description": "مریم نواز کا کہنا تھا کہ ’کچھ لوگ مجھ پر تنقید کرتے ہیں اور کہتے ہیں کہ کل کو آپ پر مقدمے بنیں گے، لیکن میں آپ سب کو یہ بتانا چاہتی ہوں کہ مریم نواز شریف کو اُس کی پرواہ نہیں ہے کہ کل کو اس کے اُوپر کون سا مقدمہ بنے گا۔ مریم نواز اللہ کو جواب دہ ہے کیونکہ یہ کُرسی مجھے اللہ اور پنجاب کے عوام نے دی ہے۔‘",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Thu, 29 Oct 2026 12:21:46 GMT"
-    },
-    {
-      "title": "ولیم گیمبورگ اور ’سُر تال اکیڈمی‘: لاہور کے کم عمر موسیقار جن کی ویڈیوز انڈیا میں بھی وائرل ہو رہی ہیں",
-      "link": "https://www.bbc.com/urdu/articles/cmed3z6j387wo?at_medium=RSS&at_campaign=rss",
-      "description": "مختصر دورانیے کی یہ ویڈیو سوشل میڈیا پر تیزی سے وائرل ہو رہی ہے۔ انسٹاگرام پر 90 لاکھ کے قریب افراد اسے دیکھ چکے ہیں لیکن یہ بچے کون ہیں؟",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Tue, 27 Oct 2026 09:06:59 GMT"
-    },
-    {
-      "title": "اسرائیلی الیکشنز، کیا عرب پارٹیوں کی تاریخی کامیابی فلسطینیوں کے لیے کوئی بہتری لا سکتی ہے؟",
-      "link": "https://www.bbc.com/urdu/watch/c6y932pxqezjo?at_medium=RSS&at_campaign=rss",
-      "description": "کیا اسرائیلی اتحاد عرب جماعتوں سے مل کر حکومت کون بنانے کے لیے تیار ہو جائیں گے؟",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 10:55:47 GMT"
-    },
-    {
-      "title": "ایمان مزاری اور ہادی چٹھہ کو 10، 10 سال قید اور جرمانے کی سزا",
-      "link": "https://www.bbc.com/urdu/articles/cw4g1vr71d2ro?at_medium=RSS&at_campaign=rss",
-      "description": "انسدادِ دہشت گردی عدالت نے سڑک سے سکیورٹی بیریئرز ہٹانے اور کار سرکار میں مداخلت کے کیس میں وکیل ایمان مزاری اور اُن کے شوہر ہادی علی چٹھہ کو 10، 10 سال قید کی سزا سُنا دی ہے۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Thu, 29 Oct 2026 14:20:25 GMT"
-    },
-    {
-      "title": "حوثیوں اور سعودی عرب کی جنگ: دونوں کا آپس میں تنازع کیا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cje36w574e6po?at_medium=RSS&at_campaign=rss",
-      "description": "اِس ہفتے کے سربین میں ہم نے یہ سمجھنے کی کوشش کی ہے کہ یمن کے حوثیوں اور سعودی عرب کا آپس میں مسئلہ کیا ہے۔ اِس جنگ کی اصل وجوہات کیا ہیں",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Sat, 24 Oct 2026 10:21:57 GMT"
-    },
-    {
-      "title": "سعودی عرب میں سزائے موت پانے والے بنگلہ دیشی شہریوں کے اہلخانہ نے بی بی سی کو کیا بتایا؟",
-      "link": "https://www.bbc.com/urdu/articles/cq5ynkwe2ljpo?at_medium=RSS&at_campaign=rss",
-      "description": "سعودی عرب میں گذشتہ بدھ 14 اکتوبر کو ایک بنگلہ دیشی مرد اور خاتون کو سزائے موت دی گئی تھی۔",
-      "source": "BBC Urdu",
-      "cat": "World",
-      "date": "Tue, 20 Oct 2026 17:19:22 GMT"
-    },
-    {
-      "title": "Shops looted as German cost of living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 08:43:00 GMT"
-    },
-    {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 19:22:26 GMT"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 17:53:35 GMT"
-    },
-    {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 00:41:24 GMT"
-    },
-    {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 09:28:06 GMT"
-    },
-    {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 07:00:55 GMT"
-    },
-    {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 00:55:06 GMT"
-    },
-    {
-      "title": "Judge orders Trump administration to stop threatening US election officials",
-      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 00:27:33 GMT"
-    },
-    {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 00:46:12 GMT"
-    },
-    {
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 15:16:20 GMT"
-    },
-    {
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 14:28:15 GMT"
-    },
-    {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 05:44:21 GMT"
-    },
-    {
-      "title": "Global nature talks reach deal but money remains an issue",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 01:27:05 GMT"
-    },
-    {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 01:11:43 GMT"
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Fri, 30 Oct 2026 22:11:52 GMT"
-    },
-    {
-      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
-      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
-      "description": "The supermodel and TV host provided a gory new shock at her New York event.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 05:26:02 GMT"
-    },
-    {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 21:29:01 GMT"
-    },
-    {
-      "title": "Emotional reunions with loved ones for Oleshky evacuees",
-      "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 16:55:47 GMT"
-    },
-    {
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "description": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 09:16:14 GMT"
-    },
-    {
-      "title": "What's at stake for Trump in the US midterms?",
-      "link": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
-      "description": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Fri, 30 Oct 2026 10:19:48 GMT"
-    },
-    {
-      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-      "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 06:03:57 GMT"
-    },
-    {
-      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
-      "description": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 23:06:13 GMT"
-    },
-    {
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sun, 01 Nov 2026 01:37:26 GMT"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Sat, 31 Oct 2026 02:39:25 GMT"
-    },
-    {
-      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
-      "description": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
-      "source": "BBC World",
-      "cat": "World",
-      "date": "Fri, 30 Oct 2026 23:26:16 GMT"
+      "title": "کراچی: محمود آباد میں بریانی سینٹر پر فائرنگ کا مقدمہ ٹیپو سلطان تھانے میں درج",
+      "link": "https://www.express.pk/story/2841663/mehmoodabad-biryani-centre-firing-incident-fir-registered-2841663",
+      "description": "مقدمے میں لیاری گینگ وار کے بھتہ خور گروہ کا سرغنہ وصی لاکھو اوراس کے نامعلوم ساتھی نامزد",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 01 Nov 26 09:55:15 +0500",
+      "photo": ""
     },
     {
       "title": "خیبر پختونخوا حکومت کا غیر قانونی افغان باشندوں کیخلاف کارروائی جاری رکھنے کا اعلان",
@@ -376,31 +30,8 @@
       "description": "لوڈشیڈنگ پر حکام سے بات کریں گے، بجلی مالِ غنیمت نہیں، صارفین کو بل ادا کرنا پڑے گا، گورنر خیبر پختونخوا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 09:44:42 +0500"
-    },
-    {
-      "title": "مکہ دفاعی معاہدے میں شمولیت پر بات چیت جاری ہے، شام",
-      "link": "https://www.express.pk/story/2841661/syria-says-discussions-underway-on-joining-mecca-pact-2841661",
-      "description": "مشرق وسطیٰ کو اس وقت مشترکہ دفاعی اور بازدار قوت کے نظام کی پہلے سے زیادہ ضرورت ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 09:38:33 +0500"
-    },
-    {
-      "title": "لاہور؛ ٹرین حادثے اور دیگر واقعات میں خاتون سمیت 4 افراد جاں بحق",
-      "link": "https://www.express.pk/story/2841660/lahore-four-people-including-a-woman-killed-in-train-accident-and-other-incidents-2841660",
-      "description": "پولیس اور تحقیقاتی اداروں نے تمام واقعات کے شواہد اکٹھے کرکے مختلف پہلوؤں پر تحقیقات شروع کر دی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 04:23:23 +0000"
-    },
-    {
-      "title": "پی ایم ڈی سی کی رجسٹریشن خدمات میں نمایاں بہتری، 99 فیصد درخواستیں نمٹادیں",
-      "link": "https://www.express.pk/story/2841657/pmdc-resolved-99-registration-applications-2841657",
-      "description": "آن لائن رجسٹریشن نظام میں بہتری سے ڈاکٹرز کو غیر ضروری طور پر پی ایم اینڈ ڈی سی دفتر آنے سے نجات مل گئی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 04:03:53 +0000"
+      "date": "Sun, 01 Nov 26 04:44:42 +0000",
+      "photo": ""
     },
     {
       "title": "پی آئی اے کا پہلا جدید بوئنگ ڈریم لائنر طیارہ پاکستان پہنچ گیا",
@@ -408,7 +39,8 @@
       "description": "طیارہ جدید ٹیکنالوجی بشمول ان فلائٹ انٹرٹینمنٹ سے لیس اور کشادہ و آرام دہ کیبن کی خصوصیات کا حامل ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 04:02:31 +0000"
+      "date": "Sun, 01 Nov 26 04:02:31 +0000",
+      "photo": ""
     },
     {
       "title": "لاہور: تیز رفتار موٹر سائیکل بجلی کے پول سے ٹکرا گئی، نوجوان جاں بحق",
@@ -416,15 +48,8 @@
       "description": "حادثے میں ایک نوجوان شدید زخمی بھی ہوا جسے اسپتال منتقل کردیا گیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 08:43:15 +0500"
-    },
-    {
-      "title": "سی ٹی ڈی ہیڈکوارٹرز پر حملے کا خدشہ؟ جاسوس ڈرون عمارت سے ٹکرا گیا",
-      "link": "https://www.express.pk/story/2841652/threat-of-attack-on-ctd-headquarters-spy-drone-crashes-into-building-2841652",
-      "description": "نامعلوم ملزمان نے دہشت گردی کی نیت سے سی ٹی ڈی ہیڈکوارٹرز کی جانب ڈرون بھیجا، پولیس",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 03:41:47 +0000"
+      "date": "Sun, 01 Nov 26 08:43:15 +0500",
+      "photo": ""
     },
     {
       "title": "کراچی؛ سیوریج ڈھکن نے واٹر ٹینکر کو پلٹ دیا، ویڈیو سامنے آگئی",
@@ -432,15 +57,8 @@
       "description": "فوٹیج میں واٹر ٹینکر کو گلی سے نکل کر مین شاہراہ پر آتے دیکھا جاسکتا ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 03:21:22 +0000"
-    },
-    {
-      "title": "راولپنڈی: پولیس کے مبینہ تشدد سے شہری جاں بحق، اہلکاروں کیخلاف مقدمہ درج",
-      "link": "https://www.express.pk/story/2841643/man-died-by-police-torture-in-rawalpindi-2841643",
-      "description": "مقدمے میں اے ایس آئی کاشف اور دو کانسٹیبلوں سہیل اور قدیر کو نامزد کیا گیا ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 08:11:18 +0500"
+      "date": "Sun, 01 Nov 26 03:21:22 +0000",
+      "photo": ""
     },
     {
       "title": "پاکستان کو سہ ملکی ون ڈے کا فائنل جیتنے کیلیے کتنے سال انتظار کرنا پڑا؟",
@@ -448,7 +66,8 @@
       "description": "قومی ٹیم نے گزشتہ روز سری لنکا کو 3 وکٹوں سے شکست دے کر ٹائٹل اپنے نام کیا تھا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 08:08:09 +0500"
+      "date": "Sun, 01 Nov 26 08:08:09 +0500",
+      "photo": ""
     },
     {
       "title": "وزیراعلیٰ پنجاب نے 3 سال تک مجموعی طور پر10 لاکھ نوجوانوں کی اسکل ڈویلپمنٹ کا ہدف مقرر کر دیا",
@@ -456,31 +75,8 @@
       "description": "وزیراعلیٰ پنجاب مریم نواز شریف کی زیر صدارت خصوصی اجلاس میں اسکل ڈویلپمنٹ پراجیکٹس پر تفصیلی بریفنگ دی گئی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 02:54:28 +0000"
-    },
-    {
-      "title": "گوجرانوالہ: کمسن بچیوں کو جنسی درندگی کا نشانہ بنانے والا مبینہ مقابلے میں ہلاک کردیا گیا",
-      "link": "https://www.express.pk/story/2841637/gujranwala-man-who-subjected-young-girls-to-sexual-brutality-killed-in-alleged-encounter-2841637",
-      "description": "3 پولیس مقابلوں کے دوران کمسن بچیوں سے جنسی زیادتی کے مقدمات میں ملوث ملزم اپنے ہی ساتھیوں کی فائرنگ سے ہلاک ہوگیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 02:54:26 +0000"
-    },
-    {
-      "title": "یونانی بندرگاہ کی اسرائیلی کمپنی کو فروخت کے خلاف عوام سڑکوں پر نکل آئی",
-      "link": "https://www.express.pk/story/2841636/demonstrators-reject-possible-sale-of-lavrio-port-to-israeli-firm-2841636",
-      "description": "احتجاج میں فلسطینی پرچم بھی لہرائے گئے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 07:50:56 +0500"
-    },
-    {
-      "title": "جمرود سول اسپتال سے مبینہ طور پر چوری ہونے والی گاڑی برآمد، ڈرائیور گرفتار",
-      "link": "https://www.express.pk/story/2841635/vehicle-allegedly-stolen-from-jamrud-civil-hospital-recovered-driver-arrested-2841635",
-      "description": "ڈرائیور نے واقعے کو رقم کے لین دین تنازع کا شاخسانہ قرار دیا ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 02:44:50 +0000"
+      "date": "Sun, 01 Nov 26 02:54:28 +0000",
+      "photo": ""
     },
     {
       "title": "بالائی خیبر پختونخوا اور گلگت بلتستان میں بارش جبکہ پہاڑوں پر ہلکی برفباری کا امکان",
@@ -488,31 +84,8 @@
       "description": "ملک کے بیشتر علاقوں میں موسم خشک اور شمالی علاقوں میں جزوی ابرآلود رہے گا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 02:27:19 +0000"
-    },
-    {
-      "title": "راولپنڈی میں گھر میں سوئے نوجوان کو گولی مار کر قتل کردیا گیا",
-      "link": "https://www.express.pk/story/2841631/rawalpindi-murder-2841631",
-      "description": "مقتول کی شناخت عدنان کے نام سے ہوئی، واقعے کی تحقیقات شروع کردی، پولیس",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 07:16:28 +0500"
-    },
-    {
-      "title": "ایران جنگ میں امریکی فوجی اڈوں کو نقصان، تعمیرِ نو پر اربوں ڈالر کا خرچہ آسکتا ہے",
-      "link": "https://www.express.pk/story/2841630/iran-war-damage-to-us-bases-may-cost-billions-in-reconstruction-report-2841630",
-      "description": "24 امریکی فوجی مقامات پر 274 عمارتوں اور دیگر ڈھانچوں کو نقصان پہنچ",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 07:09:30 +0500"
-    },
-    {
-      "title": "لاہور؛ خاوند کی عدم موجودگی میں خاتون سے مبینہ زیادتی، ملزم گرفتار",
-      "link": "https://www.express.pk/story/2841629/lahore-man-arrested-for-allegedly-raping-woman-in-husbands-absence-2841629",
-      "description": "خاتون کے شور مچانے پر ملزم موقع سے فرار ہو گیا تھا، پولیس",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 02:08:49 +0000"
+      "date": "Sun, 01 Nov 26 02:27:19 +0000",
+      "photo": ""
     },
     {
       "title": "کراچی: منظور کالونی میں ڈاکوؤں کا راج، شہری سے واردات کی ویڈیو سامنے آگئی",
@@ -520,7 +93,8 @@
       "description": "فوٹیج میں دو موٹر سائیکلوں پر سوار شہری اور ڈاکوؤں کو گلی میں گرتے دیکھا جاسکتا ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 06:59:15 +0500"
+      "date": "Sun, 01 Nov 26 06:59:15 +0500",
+      "photo": ""
     },
     {
       "title": "کراچی میں دن بدستور گرم، درجہ حرارت 37 ڈگری تک جانے کا امکان",
@@ -528,410 +102,242 @@
       "description": "شہر میں دن اور رات کے درجہ حرارت میں نمایاں فرق انسانی صحت کو متاثر کر سکتا ہے، محکمہ موسمیات",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 01:43:40 +0000"
+      "date": "Sun, 01 Nov 26 01:43:40 +0000",
+      "photo": ""
     },
     {
-      "title": "گیس بحران میں اضافہ؛ نئے گھریلو کنکشن پر پابندی غیر معینہ مدت تک بڑھا دی گئی",
-      "link": "https://www.express.pk/story/2841622/gas-crisis-ban-on-new-domestic-connections-extended-indefinitely-2841622",
-      "description": "ہزاروں افراد فوری کنکشن کے لیے اضافی فیس ادا کرنے کے باوجود انتظار میں ہیں",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:41:44 +0000"
+      "title": "Pakistan exports rise 7.7% in first quarter of FY27 as government eyes sustainable growth - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0tMWHR0WUFmZzJ2R2ljdmlVQkhGTE5FSTIxZ2JodzVWUkRuc2Rqc044UDRKb2xmX1JjbElvWHpJakhZMEROY3RzVWM4anRuS1VfYmhIVnotMWtmYlZyeHRybnJycjE3ZFBoU3VqS0Q2SFRtNkRreFRnQkRpTUVFeFB1VURpLUhEcEp5R0FLNExSQjBjTzJ3OG5iZUVLeWx4bEtHb0xveVpCdHRoc3kxTDdGb0xReXJqWXpjUnhzRXF6X3NJSFJz?oc=5",
+      "description": "Pakistan exports rise 7.7% in first quarter of FY27 as government eyes sustainable growth Arab News PK",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sun, 01 Nov 2026 00:19:58 GMT",
+      "photo": ""
     },
     {
-      "title": "یورپی شہر لیون میں احتجاج کے دوران اسرائیلی اور امریکی پرچم نذرِ آتش، ویڈیو",
-      "link": "https://www.express.pk/story/2841621/israeli-us-flags-burned-in-lyon-as-economic-protests-turn-violent-in-european-cities-2841621",
-      "description": "لیون میں احتجاج کے دوران بعض مقامات پر مظاہرین اور پولیس کے درمیان جھڑپیں بھی ہوئیں",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 06:39:51 +0500"
+      "title": "Brotherly Pak-Saudi ties offer vast opportunities for economic coop: Jam Kamal - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUNaUW9qVlJCZERVa3czcF9KYWxyZnE2a3dQZVZVRzRXUXFFQ1lKS1hYeTNwVXdQUXBRejNPdWRhQ1JGRDRQa2NFWHRucFJlYXN1ZXZJSkNfU0xLUldNTUtKeHZDYzZLRGZxVmRnbmJqTnBDbF9nbmpRa1hKRnhCRG1oQ1M2YkZVQ0liellkR3d5blFQd1VrUWtWR2V5YUw1Qk5wTy01eG92ZHNtWUNaSg?oc=5",
+      "description": "Brotherly Pak-Saudi ties offer vast opportunities for economic coop: Jam Kamal The Nation (Pakistan )",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 31 Oct 2026 19:45:00 GMT",
+      "photo": ""
     },
     {
-      "title": "صادق آباد پبلک اسکول بہاولپور کے ہونہار طلبہ کی شاندار کامیابیاں",
-      "link": "https://www.express.pk/story/2841618/sadiqabad-public-school-bahawalpur-students-achievements-2841618",
-      "description": "شاندار انفرادی کامیابیوں کے علاوہ صادق پبلک اسکول نے مجموعی طور پر پہلی پوزیشن کی ٹرافی بھی اپنے نام کی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 06:31:08 +0500"
+      "title": "Pakistan PM says center imposed emergency in northwest to curb militancy, save economy - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmExQTE4elltUTBJamlsRGNzeXlIc2c3ckxUSkRFbVAzUlZvRzc1S1dqaUtvTjF2Qk1PM0pYNXJDSEJtOGZOY01mZWdTZzRPWlhodExpbG1ucGgySU9nd08wa2RZeGJQekplT3plV09MYTR6bTVKUUNoaDB6N2dSbzlnaFltWUc3VzFwTzlLejNQcXRxdmk2eHFCVlc0ZmtDRmVkU2pBTlJtU1pyZ25lRXBfRzcxYXY3TjhhbFVyemtBeDQz?oc=5",
+      "description": "Pakistan PM says center imposed emergency in northwest to curb militancy, save economy Arab News PK",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 31 Oct 2026 11:25:11 GMT",
+      "photo": ""
     },
     {
-      "title": "بھارت میں سکھوں کے بدترین قتلِ عام کو 42 سال بیت گئے",
-      "link": "https://www.express.pk/story/2841617/42-years-since-worst-massacre-of-sikhs-in-india-2841617",
-      "description": "فسادات کے دوران ہزاروں بے گناہ سکھ قتل کیے گئے، سیکڑوں خواتین کو جنسی تشدد کا نشانہ بنایا گیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 06:27:38 +0500"
+      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWZwUHpFd0UzQmVLa0JkazZGencyb1h2TVpIWnlIU0ozMUE4eHN1S3JmazJiOWMzbVM1aGF6a1BDMi1QSXRZMXkzWjdfN3EyajJ1ZW91U05PSUd5cVRGZWp4ZzhoemJTTm1pa21UV05NWElJVWw4S2k5VzJJZEFQdm9XX1prYXd3YTluS3c1NmJncXRwbDNr?oc=5",
+      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 31 Oct 2026 07:54:02 GMT",
+      "photo": ""
     },
     {
-      "title": "خیبرپختونخوا میں شہدا کے بچوں کی تعلیم کیلیے اسکالرشپ پروگرام کا آغاز",
-      "link": "https://www.express.pk/story/2841616/kp-launches-scholarship-program-martyrs-children-2841616",
-      "description": "اسکالرشپ شہدا کے خاندانوں کے ساتھ یکجہتی اور ان کی معاونت کے عزم کا عملی اظہار ہے، گورنر فیصل کریم کنڈی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:17:52 +0000"
+      "title": "Stocks outlook brightens on peace hopes and earnings - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUW5oUDRRcXBQM0J2V3VOTlVsRkM1b2phelNlYUFVRzB1d1V6SnNvc1dXY0tHMFdONzVOSWh1UlhweXBlanctZW1LVUtUTlJGVlkxeXFIbWJkR0MyVERmalM4XzlKMWZzWWVRYWkxREdHOGMxZTJsVW15bWJGT0JUa0s0V0JBNUw5ZEM2TGp5M1ZyMm8?oc=5",
+      "description": "Stocks outlook brightens on peace hopes and earnings The News Pakistan",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 31 Oct 2026 19:00:00 GMT",
+      "photo": ""
     },
     {
-      "title": "سیالکوٹ: این او سی کیخلاف ورزی پر مسٹر پتلو کی قوالی نائٹ منسوخ",
-      "link": "https://www.express.pk/story/2841615/sialkot-tiktoker-mr-patlus-sama-and-qawwali-night-cancelled-for-violating-noc-terms-2841615",
-      "description": "گزشتہ رات معروف ٹک ٹاکر کی مہندی کی تقریب میں بھگدڑ مچنے سے ایک شخص جاں بحق ہوگیا جب کہ 13 افراد شدید زخمی ہوگئے",
+      "title": "کراچی؛ گلستان جوہر میں نامعلوم مسلح ملزمان کی فائرنگ، ایک شخص جاں بحق",
+      "link": "https://www.express.pk/story/2841665/karachi-one-person-killed-in-firing-by-unidentified-armed-men-in-gulistan-e-johar-2841665",
+      "description": "مقتول کی فوری شناخت ممکن نہیں ہو سکی، پولیس کی جانب سے مزید تحقیقات جاری ہیں",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 06:14:26 +0500"
+      "cat": "Crime",
+      "date": "Sun, 01 Nov 26 05:06:47 +0000",
+      "photo": ""
     },
     {
-      "title": "ایم 4 توسیعی منصوبہ، اگلے ماہ کے وسط تک ٹریفک بحال کرنے کا حکم",
-      "link": "https://www.express.pk/story/2841614/m4-extension-project-directive-issued-to-restore-traffic-by-the-middle-of-next-month-2841614",
-      "description": "۔ وفاقی وزیر نے کمال پور انٹرچینج پر منصوبے کا معائنہ کیا",
+      "title": "لاہور؛ ٹرین حادثے اور دیگر واقعات میں خاتون سمیت 4 افراد جاں بحق",
+      "link": "https://www.express.pk/story/2841660/lahore-four-people-including-a-woman-killed-in-train-accident-and-other-incidents-2841660",
+      "description": "پولیس اور تحقیقاتی اداروں نے تمام واقعات کے شواہد اکٹھے کرکے مختلف پہلوؤں پر تحقیقات شروع کر دی",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:14:24 +0000"
+      "cat": "Crime",
+      "date": "Sun, 01 Nov 26 04:23:23 +0000",
+      "photo": ""
     },
     {
-      "title": "وزیراعظم کا پاکستان کو جی 24 کی چیئرمین شپ ملنے پر اظہار مسرت، اہم سفارتی سنگِ میل قرار دے دیا",
-      "link": "https://www.express.pk/story/2841613/prime-minister-expresses-delight-over-pakistan-securing-the-g-24-chairmanship-terms-it-a-significant-diplomatic-milestone-2841613",
-      "description": "وزیراعظم نے وزیر خزانہ اور وزارتِ خزانہ کی ٹیم کی محنت، مؤثر سفارت کاری اور پیشہ ورانہ صلاحیتوں کو خراجِ تحسین پیش کیا",
+      "title": "لاہور؛ خاوند کی عدم موجودگی میں خاتون سے مبینہ زیادتی، ملزم گرفتار",
+      "link": "https://www.express.pk/story/2841629/lahore-man-arrested-for-allegedly-raping-woman-in-husbands-absence-2841629",
+      "description": "خاتون کے شور مچانے پر ملزم موقع سے فرار ہو گیا تھا، پولیس",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:14:22 +0000"
+      "cat": "Crime",
+      "date": "Sun, 01 Nov 26 02:08:49 +0000",
+      "photo": ""
     },
     {
       "title": "لاہور: شالیمار پولیس کی کارروائی، 6 سالہ بچے سے بدفعلی کی کوشش کرنے والا ملزم گرفتار",
       "link": "https://www.express.pk/story/2841612/lahore-shalimar-police-take-action-suspect-arrested-for-attempting-to-sexually-assault-a-6-year-old-child-2841612",
       "description": "ملزم زوہیب بچے کو بہلا پھسلا کر اپنے گھر لے گیا، ملزم نے بچے کے ساتھ بدفعلی کرنے کی کوشش کی",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:14:20 +0000"
+      "cat": "Crime",
+      "date": "Sun, 01 Nov 26 01:14:20 +0000",
+      "photo": ""
     },
     {
-      "title": "راولپنڈی: 3 منزلہ عمارت میں خوفناک آتشزدگی ، پوری بلڈنگ کو اپنی لپیٹ میں لے لیا",
-      "link": "https://www.express.pk/story/2841611/rawalpindi-massive-fire-breaks-out-in-a-3-story-building-engulfing-the-entire-structure-2841611",
-      "description": "ذرائع نے کہا کہ گھر کو مبینہ غیر قانونی طور پر پلاسٹک کے کھلونوں کے گودام کیلئے استعمال کیا جا رہا تھا",
+      "title": "مریم نواز کا ’تھپڑ کے بدلے تھپڑ‘ کا موقف: کیا قانون زیرِ حراست ملزم کو سزا دینے کی اجازت دیتا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/c6gqwgpge2kpo?at_medium=RSS&at_campaign=rss",
+      "description": "مریم نواز کا کہنا تھا کہ ’کچھ لوگ مجھ پر تنقید کرتے ہیں اور کہتے ہیں کہ کل کو آپ پر مقدمے بنیں گے، لیکن میں آپ سب کو یہ بتانا چاہتی ہوں کہ مریم نواز شریف کو اُس کی پرواہ نہیں ہے کہ کل کو اس کے اُوپر کون سا مقدمہ بنے گا۔ مریم نواز اللہ کو جواب دہ ہے کیونکہ یہ کُرسی مجھے اللہ اور پنجاب کے عوام نے دی ہے۔‘",
+      "source": "BBC Urdu",
+      "cat": "Crime",
+      "date": "Thu, 29 Oct 2026 12:21:46 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1130/live/52e5c260-d24d-11f1-8ba3-9fd3e261415f.jpg"
+    },
+    {
+      "title": "پاکستان ٹرائی سیریز کا فاتح: فخر زمان کی ’فائنل میں پرفارم کرنے کی صلاحیت‘ اور ’گھر کے بڑے بیٹے کی انرجی‘ والے عرفات منہاس",
+      "link": "https://www.bbc.com/urdu/articles/cm62yeylwk13o?at_medium=RSS&at_campaign=rss",
+      "description": "لاہور میں کھیلے گئے پاکستان ون ڈے ٹرائی سیریز کے فائنل میں پاکستان نے سری لنکا کو تین وکٹوں سے شکست دے کر سیریز اپنے نام کر لی۔ پاکستان کی جانب سے فخر زمان نے 127، سعد بیگ نے 74 جبکہ عرفات منہاس نے محض 31 گیندں پر 61 رنز کی شاندار اننگز کھیلی۔",
+      "source": "BBC Urdu",
+      "cat": "Sports",
+      "date": "Sat, 31 Oct 2026 16:32:20 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7e1/live/a7c7ea40-d551-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "اندرا گاندھی کا قتل اور وہ فون کال جس کے بعد انڈیا اور پاکستان کا کرکٹ میچ روکنا پڑا",
+      "link": "https://www.bbc.com/urdu/articles/cwjdmpry8n58o?at_medium=RSS&at_campaign=rss",
+      "description": "31 اکتوبر 1984 کو سیالکوٹ کے جناح سٹیڈیم میں پاکستان اور انڈیا کے درمیان جاری ایک روزہ بین الاقوامی کرکٹ میچ اس وقت اچانک روک دیا گیا جب انڈین وزیر اعظم اندرا گاندھی کے قتل کی خبر موصول ہوئی۔ خبر کے بعد میچ منسوخ کر دیا گیا اور نتیجہ ’نو رزلٹ‘ قرار پایا۔",
+      "source": "BBC Urdu",
+      "cat": "Sports",
+      "date": "Sat, 31 Oct 2026 05:52:37 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/013f/live/f2013c70-d49c-11f1-9221-935a51ab8e4c.jpg"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka: Fakhar Zaman century propels hosts to three-wicket win in tri-series final - Sky Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalNsREdRU0d5OUlSZ2VZRzk2U3gzdUU5dUNpcHVIc3BwVnZ2ZmRNT2pqWlRZalBJSVkzaDZ6bk5ZVHd3bk5TNEZhNnBIQmlzWXZ0SnRNMTFVLUo0Wm12S2xiY0ZOOFVpV1p2MG1HYkN4VlFxNkJQVG9lU3lwbERnWnI3VE9yRjBFRjR1ZzhnUTdYSEMwOFZLbmY3VV90cU9fRjFXSXNTSFdFZjBJbVVfSzIxNDR2TzdpdlVwaURQTUVvanNXaDdGVE9kSHZSTDl5TmJEamcwU2V4eXhh?oc=5",
+      "description": "Pakistan vs Sri Lanka: Fakhar Zaman century propels hosts to three-wicket win in tri-series final Sky Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 31 Oct 2026 17:19:57 GMT",
+      "photo": ""
+    },
+    {
+      "title": "'I was just waiting for that moment': Fakhar Zaman after Pakistan match India's 2002 Lord's record - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1V5RWlHWi1jR2VjblJoLXVVXzhSb04wZWZpMEF2YmJ5TDBWaWdISjhsVVdGTFNRTmw2SGJyZ1VpTWVqcFYwYS1McWRScl9xYi1SbFh1NzRyYjVoYWZDcmFIUm5TNmxqYlkxTmtsSVZ2bkVxbGFOV1FDcDE2SEhTNDJRNS03ekM3?oc=5",
+      "description": "'I was just waiting for that moment': Fakhar Zaman after Pakistan match India's 2002 Lord's record Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sun, 01 Nov 2026 09:36:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Match India's 24-Year-Old World Record After Tri-Series Final Win Against Sri Lanka - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1Jpbjd6bjNnT05IdG45WV9KWlBnU3BCd0tKbU1XOV82QVJnelNiSGZyVk4wSmNSREU1MDJJcVZEOFVhZTlucU84aE5XSlh5Y2M2TW9XM1Y3ZFJvTlJKQlRJWFR5QmhsNXNDNndkNzJqcVM5QkdiWHNROFhRQmFUYnVFQTFQVExFeE9qQTZmQVhjZl9GRVVzck1acFZobzRUZTE3czMxTnNwSEY4QVc5QkdIZjNkcURtS1JpMUUzd2N2OF9HSHgzeVB2QlM?oc=5",
+      "description": "Pakistan Match India's 24-Year-Old World Record After Tri-Series Final Win Against Sri Lanka NDTV Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sun, 01 Nov 2026 05:23:24 GMT",
+      "photo": ""
+    },
+    {
+      "title": "سرکاری رہائش کے نادہندہ ہزاروں ملازمین کی الاٹمنٹ منسوخ کرنے کی تیاری",
+      "link": "https://www.express.pk/story/2841668/preparation-underway-to-cancel-allotments-of-thousands-of-government-employees-in-default-on-official-residences-2841668",
+      "description": "مختلف شہروں میں مجموعی طور پر 7 ہزار 973 وفاقی ملازمین کرایوں کے نادہندہ قرار پائے ہیں",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 01:14:18 +0000"
+      "cat": "World",
+      "date": "Sun, 01 Nov 26 05:13:56 +0000",
+      "photo": ""
     },
     {
-      "title": "چینی نوجوان نے شادی میں اجنبیوں کو دعوت دے دی، ہزاروں افراد مہنگے تحائف لے کر پہنچ گئے",
-      "link": "https://www.express.pk/story/2841610/chinese-man-with-few-relatives-invites-strangers-to-his-wedding-thousands-showed-up-2841610",
-      "description": "نوجوان نے شادی کے لیے رقم جمع کی اور تقریباً 167,500 چینی یوان (تقریباً 25 ہزار امریکی ڈالر) بچائے",
+      "title": "پی ایم ڈی سی کی رجسٹریشن خدمات میں نمایاں بہتری، 99 فیصد درخواستیں نمٹادیں",
+      "link": "https://www.express.pk/story/2841657/pmdc-resolved-99-registration-applications-2841657",
+      "description": "آن لائن رجسٹریشن نظام میں بہتری سے ڈاکٹرز کو غیر ضروری طور پر پی ایم اینڈ ڈی سی دفتر آنے سے نجات مل گئی",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 06:09:40 +0500"
+      "cat": "World",
+      "date": "Sun, 01 Nov 26 04:03:53 +0000",
+      "photo": ""
     },
     {
-      "title": "پاکستان نے ون ڈے فائنل میں مشترکہ طور پر سب سے بڑا ہدف حاصل کرنے کا ریکارڈ قائم کر دیا",
-      "link": "https://www.express.pk/story/2841609/pakistan-equal-joint-record-for-highest-successful-run-chase-in-an-odi-final-2841609",
-      "description": "پاکستان کا یہ کارنامہ مردوں کے ون ڈے ناک آؤٹ میچز میں بھی مشترکہ طور پر سب سے بڑا کامیاب ہدف کا تعاقب ہے",
+      "title": "سی ٹی ڈی ہیڈکوارٹرز پر حملے کا خدشہ؟ جاسوس ڈرون عمارت سے ٹکرا گیا",
+      "link": "https://www.express.pk/story/2841652/threat-of-attack-on-ctd-headquarters-spy-drone-crashes-into-building-2841652",
+      "description": "نامعلوم ملزمان نے دہشت گردی کی نیت سے سی ٹی ڈی ہیڈکوارٹرز کی جانب ڈرون بھیجا، پولیس",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 05:58:03 +0500"
+      "cat": "World",
+      "date": "Sun, 01 Nov 26 03:41:47 +0000",
+      "photo": ""
     },
     {
-      "title": "مقبوضہ مغربی کنارہ: اسرائیل کی جانب سے 9,500 سے زائد گھروں کی مسماری کا نوٹس",
-      "link": "https://www.express.pk/story/2841606/israel-issues-over-9500-demolition-stop-work-notices-in-west-bank-2841606",
-      "description": "کمیشن کا کہنا ہے کہ یہ تعداد زیادہ بھی ہوسکتی ہے",
+      "title": "راولپنڈی: پولیس کے مبینہ تشدد سے شہری جاں بحق، اہلکاروں کیخلاف مقدمہ درج",
+      "link": "https://www.express.pk/story/2841643/man-died-by-police-torture-in-rawalpindi-2841643",
+      "description": "مقدمے میں اے ایس آئی کاشف اور دو کانسٹیبلوں سہیل اور قدیر کو نامزد کیا گیا ہے",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 05:52:03 +0500"
+      "cat": "World",
+      "date": "Sun, 01 Nov 26 08:11:18 +0500",
+      "photo": ""
     },
     {
-      "title": "سندھ کے عوام بھی نئے صوبوں اور انتظامی یونٹس کے قیام کے حامی",
-      "link": "https://www.express.pk/story/2841605/sindh-public-supports-new-provinces-administrative-units-2841605",
-      "description": "کراچی کے فرسودہ انتظامی ڈھانچے کو بہتر بنانے کے لیے نئے انتظامی یونٹس کا قیام ناگزیر ہے، شہری",
+      "title": "مکہ دفاعی معاہدے میں شمولیت پر بات چیت جاری ہے، شام",
+      "link": "https://www.express.pk/story/2841661/syria-says-discussions-underway-on-joining-mecca-pact-2841661",
+      "description": "مشرق وسطیٰ کو اس وقت مشترکہ دفاعی اور بازدار قوت کے نظام کی پہلے سے زیادہ ضرورت ہے",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 00:45:31 +0000"
+      "cat": "Middle East",
+      "date": "Sun, 01 Nov 26 09:38:33 +0500",
+      "photo": ""
     },
     {
-      "title": "بلوچستان؛ متعدد خاندانوں کا دہشت گردی میں ملوث اہلخانہ سے اعلانِ لاتعلقی",
-      "link": "https://www.express.pk/story/2841604/balochistan-families-disown-relatives-involved-in-terrorism-2841604",
-      "description": "جنوری تا اکتوبر مختلف اضلاع میں 108 سے زائد خاندان اپنے دہشت گرد بیٹوں اور بھائیوں سے اعلان لاتعلقی کرچکے ہیں",
+      "title": "عالمی منڈی میں پٹرولیم مصنوعات کی قیمتیں کم ہوتے ہی عوام کو ریلیف دیں گے، وزیر پٹرولیم",
+      "link": "https://www.express.pk/story/2841644/petroleum-minister-relief-will-be-provided-to-the-public-as-soon-as-the-prices-of-petroleum-products-decrease-in-the-global-market-2841644",
+      "description": "ایران امریکا کشیدگی سے عالمی منڈی میں پٹرولیم مصنوعات کی قیمتیں متاثر ہوئیں، علی پرویز ملک",
       "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 00:40:41 +0000"
+      "cat": "Middle East",
+      "date": "Sun, 01 Nov 26 03:18:38 +0000",
+      "photo": ""
     },
     {
-      "title": "Portuguese police clash with housing protesters, arrest 13",
-      "link": "https://www.arabnews.com/world/portuguese-police-clash-with-housing-protesters-arrest-13-3009249",
-      "description": "Riot police clashed with housing protesters in Lisbon and Porto, arresting 13 and injuring several demonstrators. The protests are a response to Portugal’s escalating housing crisis.",
-      "source": "Arab News",
+      "title": "یونانی بندرگاہ کی اسرائیلی کمپنی کو فروخت کے خلاف عوام سڑکوں پر نکل آئی",
+      "link": "https://www.express.pk/story/2841636/demonstrators-reject-possible-sale-of-lavrio-port-to-israeli-firm-2841636",
+      "description": "احتجاج میں فلسطینی پرچم بھی لہرائے گئے",
+      "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 10:00:32 GMT"
+      "date": "Sun, 01 Nov 26 07:50:56 +0500",
+      "photo": ""
     },
     {
-      "title": "Saudi non-oil growth accelerates to 1.9% in Q3: GASTAT",
-      "link": "https://www.arabnews.com/business/saudi-non-oil-growth-accelerates-to-19-in-q3-gastat-3009246",
-      "description": "RIYADH: Saudi Arabia’s non-oil activities grew 1.9 percent year on year in the third quarter of 2026, accelerating from 0.8 percent in the previous three months, according to official flash estimates. The expansion helped cushion the wider economy’s decline. Real gross domestic product fell 3.8 percent from the same period last year, after a 4.7 percent contraction in the second quarter, the General Authority for Statistics reported. The latest figures highlight the contrasting pressures on t",
-      "source": "Arab News",
+      "title": "ایران جنگ میں امریکی فوجی اڈوں کو نقصان، تعمیرِ نو پر اربوں ڈالر کا خرچہ آسکتا ہے",
+      "link": "https://www.express.pk/story/2841630/iran-war-damage-to-us-bases-may-cost-billions-in-reconstruction-report-2841630",
+      "description": "24 امریکی فوجی مقامات پر 274 عمارتوں اور دیگر ڈھانچوں کو نقصان پہنچ",
+      "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 09:47:48 GMT"
+      "date": "Sun, 01 Nov 26 07:09:30 +0500",
+      "photo": ""
     },
     {
-      "title": "Watkins and Neves take Al-Hilal back to SPL summit",
-      "link": "https://www.arabnews.com/saudi-pro-league/watkins-and-neves-take-al-hilal-back-to-spl-summit-3009216",
-      "description": "Al-Hilal reclaimed the top spot in the Saudi Pro League with a 2-0 victory over Al-Fateh, thanks to goals from Ollie Watkins and Reuben Neves. The win brought Al-Hilal's points total to 30 from 11 matches, surpassing Al-Qadsiah, who are in second with 28 points from 12 matches.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 09:32:02 GMT"
-    },
-    {
-      "title": "Turkiye moves Kurdish militant leader Ocalan to a new part of an island prison under peace push",
-      "link": "https://www.arabnews.com/middle-east/turkiye-moves-kurdish-militant-leader-ocalan-to-a-new-part-of-an-island-prison-under-peace-push-3009245",
-      "description": "Turkiye has relocated Kurdish leader Abdullah Ocalan within his island prison as part of a peace initiative. This action is aimed at advancing efforts to resolve the long-standing conflict with the PKK.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 08:47:04 GMT"
-    },
-    {
-      "title": "Aramco closes $2.6bn deal for 49% stake in Humain",
-      "link": "https://www.arabnews.com/finance/aramco-closes-26bn-deal-for-49-stake-in-humain-3009220",
-      "description": "RIYADH: Saudi Aramco has completed its acquisition of a 49 percent stake in artificial intelligence company Humain, formalising an agreement first announced in October 2025, in a transaction involving approximately SR9.9 billion ($2.6 billion) in cash contributions during 2026. The Public Investment Fund retains a 51 percent stake in Humain, while Aramco holds its interest through a wholly owned subsidiary. The transaction also involves Aramco contributing AI, computing and digital assets to th",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 08:41:18 GMT"
-    },
-    {
-      "title": "Indian opposition parties stage new protest against the elections chief",
-      "link": "https://www.arabnews.com/world/indian-opposition-parties-stage-new-protest-against-the-elections-chief-3009221",
-      "description": "India’s opposition parties called for the elections chief’s resignation, leading to protests against Prime Minister Modi’s government. The event drew significant crowds and heightened security measures.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 08:13:04 GMT"
-    },
-    {
-      "title": "Qatari gas tanker struck in Gulf: state media",
-      "link": "https://www.arabnews.com/middle-east/qatari-gas-tanker-struck-in-gulf-state-media-3009222",
-      "description": "A Qatari liquefied natural gas tanker, Al Mayeda, was attacked in Gulf waters with unidentified objects. The incident is part of ongoing tensions involving Iran in the region.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 07:59:21 GMT"
-    },
-    {
-      "title": "New restrictions kick in as Delhi battles pollution",
-      "link": "https://www.arabnews.com/world/new-restrictions-kick-in-as-delhi-battles-pollution-3009215",
-      "description": "Delhi has implemented new anti-pollution measures to combat severe smog, including increased parking fees and work-from-home mandates, aimed at reducing traffic emissions.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 06:42:00 GMT"
-    },
-    {
-      "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-      "link": "https://www.arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
-      "description": "Russia announced that a drone hit an industrial area near Moscow, while Ukraine claimed responsibility for targeting a major refinery in the region. No casualties were reported.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 06:17:04 GMT"
-    },
-    {
-      "title": "‘Air-con nation’ Singapore eyes alternatives to cool down",
-      "link": "https://www.arabnews.com/offbeat/air-con-nation-singapore-eyes-alternatives-to-cool-down-3009213",
-      "description": "Singapore is seeking alternative cooling methods to decrease its heavy reliance on air conditioning and reduce energy consumption, as about 99 percent of private residences have air conditioning units.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 04:20:12 GMT"
-    },
-    {
-      "title": "Rubio says US not directly involved in Flavio Bolsonaro’s flight from Brazil",
-      "link": "https://www.arabnews.com/world/rubio-says-us-not-directly-involved-in-flavio-bolsonaros-flight-from-brazil-3009212",
-      "description": "Marco Rubio stated the US was not directly involved in Flavio Bolsonaro’s departure from Brazil post-election. Trump expressed that Bolsonaro could remain in the US indefinitely.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 03:26:57 GMT"
-    },
-    {
-      "title": "Trump calls $50 million contract for ex-lawyer Alina Habba Mildon ‘not acceptable’",
-      "link": "https://www.arabnews.com/world/trump-calls-50-million-contract-for-ex-lawyer-alina-habba-mildon-not-acceptable-3009211",
-      "description": "PALM ‌BEACH, Florida: President Donald Trump said on Saturday it was “unacceptable” for one of his former lawyers, Alina Habba Mildon, to ​secure a $50 million contract for herself while working at the US Department of Justice. “I thought it was totally obnoxious and outrageous, and it’s not acceptable,” Trump told reporters at his Mar-a-Lago club in Palm Beach, Florida. “Not acceptable at all.” The New York Times reported last week that the family of Julio Herrera ‌Velutini, a ‌Venezuelan ba",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 03:11:20 GMT"
-    },
-    {
-      "title": "Bangladesh to form wage board after garment protests shut factories",
-      "link": "https://www.arabnews.com/world/bangladesh-to-form-wage-board-after-garment-protests-shut-factories-3009210",
-      "description": "Bangladesh is establishing a wage board to reassess garment workers’ salaries following protests that halted factory operations. Workers demand a pay rise amid increasing living costs.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 03:10:07 GMT"
-    },
-    {
-      "title": "Trump administration’s social media posts ahead of elections criticized for being inflammatory",
-      "link": "https://www.arabnews.com/world/trump-administrations-social-media-posts-ahead-of-elections-criticized-for-being-inflammatory-3009208",
-      "description": "The Trump administration’s online accounts are circulating images of a pumpkin carved with a somberro design and a fake Halloween-themed background around a Black man apparently accused of food assistance fraud, in social media posts slammed by critics as inflammatory rhetoric. Only days before the midterm elections, the posts coincide with the government’s sweeping campaign to show its aggressive immigration enforcement, and highlight efforts to crack down on fraud to save taxpayers money when",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 02:57:51 GMT"
-    },
-    {
-      "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
-      "link": "https://www.arabnews.com/sport/gabby-williams-leads-valkyries-to-wnba-championship-in-second-season-beating-dream-68-63-in-game-7-3009209",
-      "description": "SAN FRANCISCO: Gabby Williams scored her team’s final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sensational first WNBA Finals Game 7 Saturday night. Jordin Canada scored 18 points, Allisha Gray 16 and Angel Reese eight points and 12 rebounds for the Dream, denied another championship in the franchise’s fourth try. Gray made two fr",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 02:57:12 GMT"
-    },
-    {
-      "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-      "link": "https://www.arabnews.com/middle-east/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-3009207",
-      "description": "WASHINGTON: President Donald Trump said on Saturday that the United States has knocked out much of Iran’s military but it still has to “take care of” one or two targets including a suspected nuclear site known as Pickaxe Mountain. Trump maintained that negotiations with Iran to end the war that the US and Israel began at the end of February were “going fine but you know they’re not very reliable.” The US president reiterated that the US was not in a hurry to take offensive action because it had",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 02:36:14 GMT"
-    },
-    {
-      "title": "Spewing US election falsehoods, AI chatbots face scrutiny",
-      "link": "https://www.arabnews.com/world/spewing-us-election-falsehoods-ai-chatbots-face-scrutiny-3009206",
-      "description": "Washington, United States: Dispensing misleading voter information, misidentifying candidates, and regurgitating Russian propaganda, AI chatbots are sowing information chaos ahead of the US midterm elections, researchers say. The November 3 vote marks the first federal election in which millions of voters are actively relying on AI tools for political information, a trend that experts say is playing a key role in shaping the information ecosystem ahead of the polls. But while chatbots can help d",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 02:23:54 GMT"
-    },
-    {
-      "title": "Bolivia declares state of emergency over El Nino",
-      "link": "https://www.arabnews.com/world/bolivia-declares-state-of-emergency-over-el-nino-3009205",
-      "description": "LA PAZ: Bolivian President Rodrigo Paz declared a state of emergency Saturday to free up resources for dealing with the impact of the El Nino weather phenomenon, wreaking havoc around the world. The decree also calls for deploying more rescue teams in hard-hit areas as Bolivia grapples with both flooding and drought because of El Nino, Paz said in an address to the nation. “This will be a phenomenon that will have very severe impacts in terms of drought and floods, and we need the cooperation of",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 02:04:46 GMT"
-    },
-    {
-      "title": "Syria’s security inseparable from Gulf stability, FM Al-Shaibani says",
-      "link": "https://www.arabnews.com/middle-east/syrias-security-inseparable-from-gulf-stability-fm-al-shaibani-says-3009204",
-      "description": "MANAMA: Syria considers the security and stability of Gulf states an integral part of its own national security and will not remain on the sidelines in the face of aggression against its neighbors, Foreign Minister Asaad Hassan Al-Shaibani said on Saturday. In an interview with Asharq News on the sidelines of the 22nd IISS Manama Dialogue in Bahrain, al-Shaibani said Damascus was holding high-level discussions with Gulf countries on political, economic, security and military cooperation, describ",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 01:57:27 GMT"
-    },
-    {
-      "title": "Lewis Hamilton wins pole for Ferrari at the Mexico City Grand Prix",
-      "link": "https://www.arabnews.com/motorsport/lewis-hamilton-wins-pole-for-ferrari-at-the-mexico-city-grand-prix-3009202",
-      "description": "MEXICO CITY: Upon his arrival at the Mexico City Grand Prix, British driver Lewis Hamilton claimed there has never been a driver like him in the history of motorsport. Perhaps his assertion is not entirely off the mark. The seven-time world champion Hamilton rebounded from a wretched Friday practice to capture pole position on Saturday. Hamilton edged out Mercedes’ George Russell and Ferrari teammate Charles Leclerc. “I feel great, that feels good, I am at a loss of words,” Hamilton said. “We di",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 00:41:54 GMT"
-    },
-    {
-      "title": "Saudi performing arts, poetry and cuisine draw crowds at Algiers International Book Fair",
-      "link": "https://www.arabnews.com/saudi-arabia/saudi-performing-arts-poetry-and-cuisine-draw-crowds-at-algiers-international-book-fair-3009203",
-      "description": "RIYADH: Traditional Saudi performances, poetry readings and culinary exchanges are drawing strong public interest at the 29th Algiers International Book Fair, where Saudi Arabia is participating as guest of honor, according to reports by the Saudi Press Agency (SPA). A centerpiece of the Kingdom’s program has been a series of live folk performances organized by the Theater and Performing Arts Commission, which have attracted large crowds across indoor venues and outdoor plazas at the fair. The c",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sun, 01 Nov 2026 00:38:29 GMT"
-    },
-    {
-      "title": "Barca hammer Alaves to retain Liga top spot",
-      "link": "https://www.arabnews.com/football/barca-hammer-alaves-to-retain-liga-top-spot-3009201",
-      "description": "BARCELONA: Raphinha and Lamine Yamal each struck twice as Barcelona thrashed Alaves 6-1 on Saturday to reclaim their La Liga lead and get back on track after two damaging defeats. Earlier Atletico Madrid, second, earned a solid 2-0 win at Levante, but Barca moved back two points clear of the Rojiblancos by routing the Basque visitors at Camp Nou. Still stinging after a Champions League defeat by Paris Saint-Germain and then last weekend’s La Liga home Clasico loss against rivals Real Madrid, Han",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:56:57 GMT"
-    },
-    {
-      "title": "Hegra hike",
-      "link": "https://www.arabnews.com/ksa-today/hegra-hike-3009200",
-      "description": "Explore Hegra’s dramatic sandstone formations on a guided hike on Saturday, and discover the geological wonders of this UNESCO World Heritage Site. For more details, visit experiencealula.com .",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:42:00 GMT"
-    },
-    {
-      "title": "Haunted adventure",
-      "link": "https://www.arabnews.com/ksa-today/haunted-adventure-3009199",
-      "description": "Step into Pinocchio: Dark Secret, a sinister reimagining of the classic tale in which every truth uncovered reveals a darker side to the story. For tickets, visit enjoy.sa .",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:40:52 GMT"
-    },
-    {
-      "title": "Game day",
-      "link": "https://www.arabnews.com/ksa-today/game-day-3009198",
-      "description": "Challenge Round provides a chance to enjoy hundreds of award-winning board games with family and friends, alongside snacks and beverages. For booking details, visit enjoy.sa .",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:39:46 GMT"
-    },
-    {
-      "title": "Trivia night",
-      "link": "https://www.arabnews.com/ksa-today/trivia-night-3009197",
-      "description": "Get your family and friends together for a fun-filled trivia night at the Ithra Center’s Energy Exhibit. It runs until Dec. 31. For booking and more details, check the Ithra app.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:38:51 GMT"
-    },
-    {
-      "title": "Canelo Alvarez regains WBC super-middleweight title with unanimous decision over Christian Mbilli",
-      "link": "https://www.arabnews.com/sport/canelo-alvarez-regains-wbc-super-middleweight-title-with-unanimous-decision-over-christian-mbilli-3009196",
-      "description": "RIYADH, Saudi Arabia: Canelo Alvarez regained the WBC super-middleweight championship on Saturday night, using precise counterpunching and a strong second-half performance to defeat Christian Mbilli by unanimous decision. The judges scored the fight 115-112, 116-111 and 117-110 for Alvarez, who handed Mbilli his first professional defeat. Alvarez improved to 64-3-2, while Mbilli fell to 29-1-1. Returning for the first time since losing his undisputed championship to Terence Crawford in September",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:34:18 GMT"
-    },
-    {
-      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
-      "link": "https://www.arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
-      "description": "NEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday. The bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year. The FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addres",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:29:01 GMT"
-    },
-    {
-      "title": "Makkah’s sanctuary pigeons preserve centuries-old legacy in holy city",
-      "link": "https://www.arabnews.com/saudi-arabia/makkahs-sanctuary-pigeons-preserve-centuries-old-legacy-in-holy-city-3009194",
-      "description": "MAKKAH: For centuries, flocks of pigeons have swept across the skies, courtyards and rooftops of Makkah, becoming an enduring part of the holy city's landscape and a familiar sight for generations of residents, pilgrims and visitors. Known locally as Hamam Al-Hima (Pigeons of the Sanctuary) and Hamam Rabb Al-Bayt (Pigeons of the Lord of the House), the birds have come to symbolize the serenity and heritage of Islam's holiest city, their presence linking its historical past with everyday life tod",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:26:20 GMT"
-    },
-    {
-      "title": "Pressure piles on Carrick as 10-man Man United beaten at Chelsea and Man City lose again",
-      "link": "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
-      "description": "Michael Carrick’s position as Manchester United manager was jeopardized further after a 2-0 loss at Chelsea in the Premier League, with Lisandro Martinez’s reckless sending-off adding to the woes of the beleaguered English giant on Saturday. It was a bad day for the other Manchester club, too, as first-placed City fell at home to Brighton 1-0 for a second straight league loss, having opened the campaign with seven wins in a row. Carrick was already under huge pressure — and seemingly operating o",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 23:24:22 GMT"
-    },
-    {
-      "title": "Milan earn 3-1 derby win over Inter, Roma thump Udinese 5-2",
-      "link": "https://www.arabnews.com/football/milan-earn-3-1-derby-win-over-inter-roma-thump-udinese-5-2-3009192",
-      "description": "MILAN: AC Milan’s Diego Moreira ‌claimed one goal and two assists as his side took local bragging rights and three precious points with a 3-1 victory over Inter Milan in their Serie A ​clash on Saturday, while AS Roma enjoyed a 5-2 victory at Udinese. In a week when Milan and Inter announced they would build a new shared 71,500-seater stadium to replace the San Siro, Milan’s fast start earned the win that lifts them into fourth place, four points behind leaders Lazio and Inter who have 25. The r",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 22:48:11 GMT"
-    },
-    {
-      "title": "Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent",
-      "link": "https://www.arabnews.com/world/rioters-loot-stores-in-frankfurt-as-gen-z-led-protests-in-germany-turn-violent-3009181",
-      "description": "FRANKFURT/BERLIN: Hooded rioters looted stores in Frankfurt late on Saturday after tens of thousands of demonstrators ​took to the streets across Germany’s biggest cities to demand better education and lower living costs. The protests followed a wave of Gen Z-led demonstrations across Europe this year. In Serbia, student-led activism helped unseat the country’s longtime leader at the ballot box, while protests in France have descended into rioting and looting. The German protests organized by th",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 22:12:02 GMT"
-    },
-    {
-      "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
-      "link": "https://www.arabnews.com/world/evacuees-reunite-with-family-at-the-ukrainian-belarusian-border-after-fleeing-oleshky-3009170",
-      "description": "CHERNIHIV REGION, Ukraine: Residents of Russian-occupied Oleshky crossed into Ukrainian-held territory Saturday in a major evacuation operation carried out under the most significant truce since Russia’s full-scale invasion of Ukraine 4½ years ago. Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members. Volunteers with hand-drawn welcome signs handed out coffee to the weary travelers who had journeyed by bus and p",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 21:55:52 GMT"
-    },
-    {
-      "title": "Kane misses penalty, hits post as Dortmund snatch draw",
-      "link": "https://www.arabnews.com/football/kane-misses-penalty-hits-post-as-dortmund-snatch-draw-3009169",
-      "description": "MUNICH: Ballon d’Or winner Harry Kane missed a ​penalty and hit the post for Bayern Munich as Borussia Dortmund snatched a last-gasp equalizer through Fabio Silva for a 2-2 draw in a thrilling Klassiker on Saturday that kept the teams level on points at the top. In a frustrating match for home fans, Bayern twice took the lead, missed a penalty, hit the post four times and had three players — Ismael Saibari, Serge ‌Gnabry and Michael ‌Olise — taken off injured. The Bavarians play ​Atletico ‌Madri",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 21:32:09 GMT"
-    },
-    {
-      "title": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu",
-      "link": "https://www.arabnews.com/middle-east/israeli-protesters-demand-opposition-ally-with-arab-parties-to-oust-netanyahu-3009167",
-      "description": "Protesters in Israel are calling for the opposition to form an alliance with Arab parties to remove Prime Minister Benjamin Netanyahu. This follows gains by Arab-majority parties in recent elections.",
-      "source": "Arab News",
-      "cat": "Middle East",
-      "date": "Sat, 31 Oct 2026 21:31:50 GMT"
+      "title": "ستارہِ امتیاز کے لیے نامزد پہلی پاکستانی ٹرانس جینڈر نایاب علی: تیزاب کے حملے سے اقوامِ متحدہ میں پاکستان کی نمائندگی تک",
+      "link": "https://www.bbc.com/urdu/articles/cmlyl92rer4jo?at_medium=RSS&at_campaign=rss",
+      "description": "وزارتِ انسانی حقوق کی جانب سے رواں ماہ جاری کیے گئے ایک نوٹیفکیشن کے مطابق جنیوا میں ہونے والے اجلاس میں پاکستان کے چار رکنی وفد کی سربراہی وزیرِ مملکت برائے قانون بیرسٹر عقیل ملک کریں گے اور اس وفد میں ناب علی ٹرانسجیڈرز کے حقوق کی کنسلٹنٹ کی حیثیت سے شامل کی گئی ہیں۔",
+      "source": "BBC Urdu",
+      "cat": "Strange",
+      "date": "Sun, 01 Nov 2026 04:27:41 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1ee/live/d4d6cc50-d59b-11f1-a209-e33b4e3a0179.png"
     }
   ],
   "sources": [
+    {
+      "source": "Geo Urdu",
+      "added": 0,
+      "ok": true
+    },
+    {
+      "source": "Express Urdu",
+      "added": 35,
+      "ok": true
+    },
+    {
+      "source": "Dunya Urdu",
+      "added": 0,
+      "ok": true
+    },
     {
       "source": "BBC Urdu",
       "added": 21,
@@ -943,50 +349,30 @@
       "ok": true
     },
     {
-      "source": "Express Urdu",
-      "added": 35,
-      "ok": true
-    },
-    {
       "source": "Arab News",
-      "added": 35,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "source": "CNN",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "source": "Geo Urdu",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "source": "Dunya Urdu",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "added": 35,
+      "ok": true
     },
     {
       "source": "Sports Pakistan",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "added": 35,
+      "ok": true
     },
     {
       "source": "Pakistan Economy",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "added": 35,
+      "ok": true
     },
     {
       "source": "Pakistan Crime",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "added": 21,
+      "ok": true
     }
   ]
 }
