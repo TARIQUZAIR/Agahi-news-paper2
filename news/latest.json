@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T04:08:43.391098+00:00",
-  "count": 34,
+  "generated_at": "2026-11-02T14:39:47.349356+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,108 +11,115 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 1
-  },
+  "shortages": {},
   "items": [
     {
-      "title": "فضائی آلودگی میں لاہور نے پوری دینا کو پیچھے چھوڑ دیا، ایئر کوالٹی انڈیکس خطرناک حد تک پہنچ گیا",
-      "link": "https://www.express.pk/story/2841746/lahore-has-surpassed-the-entire-world-in-air-pollution-with-the-air-quality-index-reaching-dangerous-levels-2841746",
-      "description": "بھارتی دارالحکومت نئی دہلی 221 اے کیو آئی کے ساتھ دوسرے نمبر پر ہے",
+      "title": "’’دل کررہا ہے خودکشی کرلوں‘‘، سیالکوٹ واقعے کے بعد مسٹر پتلو کا پہلا ویڈیو بیان وائرل",
+      "link": "https://www.express.pk/story/2841882/mr-patlu-first-video-statement-after-the-sialkot-incident-goes-viral-2841882",
+      "description": "روپوش ہونے والے مسٹر پتلو نے ویڈیو بیان میں روتے ہوئے وزیراعلیٰ پنجاب مریم نواز سے تحقیقات کا مطالبہ کردیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 22:44:04 +0000",
+      "date": "Mon, 02 Nov 26 13:11:07 +0500",
       "photo": ""
     },
     {
-      "title": "پشاور کے رمداس بازار میں کپڑوں کی دکان میں لگی آگ پر قابو پا لیا گیا",
-      "link": "https://www.express.pk/story/2841739/a-fire-that-broke-out-in-a-clothing-shop-in-peshawars-ramdas-bazaar-has-been-brought-under-control-2841739",
-      "description": "ریسکیو حکام کے مطابق آگ بجھانے کے بعد متاثرہ مقام پر کولنگ کا عمل جاری ہے",
+      "title": "ایل پی جی مافیا بے لگام، لاہور سمیت ملک بھر میں سرکاری نرخوں پر گیس کی فراہمی ناممکن",
+      "link": "https://www.express.pk/story/2841869/lpg-mafia-runs-rampant-gas-unavailable-at-official-prices-across-lahore-and-the-rest-of-the-country-2841869",
+      "description": "ایل پی جی پمپس ضبط کیے جانے کے اخراجات بھی صارفین سے وصول کیے جانے لگے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 22:20:13 +0500",
+      "date": "Mon, 02 Nov 26 06:49:28 +0000",
       "photo": ""
     },
     {
-      "title": "سیاسی مخالفین کے ساتھ سلوک",
-      "link": "https://www.express.pk/story/2841730/siyasi-mukhalifeen-ke-sath-sulook-2841730",
-      "description": "پاکستان سمیت دنیا بھر میں سیاسی مخالفین کے ساتھ روا رکھے جانے والے سلوک کے واقعات سامنے آتے رہتے ہیں۔",
+      "title": "لاہور میں خودکشی کے واقعات تھم نہ سکے، 10 ماہ میں 112 افراد نے اپنی جانیں لے لیں",
+      "link": "https://www.express.pk/story/2841860/suicide-incidents-in-lahore-show-no-signs-of-abating-112-people-have-taken-their-own-lives-in-10-months-2841860",
+      "description": "خودکشی کے واقعات میں غربت، محبت میں ناکامی، گھریلو ناچاقی سمیت دیگر محرکات کار فرما رہے، ایدھی ترجمان",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 21:00:32 +0500",
+      "date": "Mon, 02 Nov 26 06:16:53 +0000",
       "photo": ""
     },
     {
-      "title": "دہشت گردی کا خاتمہ اور قومی سلامتی کا تقاضا",
-      "link": "https://www.express.pk/story/2841729/dehshat-gardi-ka-khatma-aur-qaumi-salamti-ka-taqaza-2841729",
-      "description": "پاکستان نے دہشت گردی کے خلاف جنگ میں جو جانی، مالی اور معاشرتی نقصان اٹھایا ہے",
+      "title": "تحریک تحفظ آئین پاکستان کا بیرسٹر سیف کے بیان پر سخت ردعمل، شوکاز نوٹس دینے کا مطالبہ",
+      "link": "https://www.express.pk/story/2841852/tehreek-tahaffuz-e-aain-pakistan-strongly-reacts-to-barrister-saifs-statement-demands-show-cause-notice-2841852",
+      "description": "بیرسٹر سیف کی اب نوکری چلی گئی ہے، ان کا پی ٹی آئی سے بھی کوئی تعلق نہیں، اخونزادہ حسین یوسفزئی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 20:54:42 +0500",
+      "date": "Mon, 02 Nov 26 05:36:57 +0000",
       "photo": ""
     },
     {
-      "title": "ادیب و صحافی غلام عباس",
-      "link": "https://www.express.pk/story/2841728/adeeb-o-sahafi-ghulam-abbas-2841728",
-      "description": "قیام پاکستان کے بعد وہ پاکستان آ گئے اور ریڈیو پاکستان سے وابستگی اختیار کر لی۔",
-      "source": "Express Urdu",
+      "title": "لاہور ہائیکورٹ کا نورین نیازی کی بیٹیوں سے ملاقات کروانے کا حکم",
+      "link": "https://www.bbc.com/urdu/articles/c674pvxg80e4o?at_medium=RSS&at_campaign=rss",
+      "description": "لاہور ہائیکورٹ نے یہ حکم دیا ہے کہ کوٹ لکھپت جیل میں نظر بند سابق وزیر اعظم عمران خان کی بہن نورین نیازی کی منگل کے روز ان کی بیٹیوں سے ملاقات کروائی جائے۔",
+      "source": "BBC Urdu",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 20:54:40 +0500",
+      "date": "Mon, 02 Nov 2026 11:19:30 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9314/live/e2f77dc0-d6ae-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "’یہ دل توڑ دینے والا ہے‘: کیپٹن صفدر کے کینسر سے متاثرہ خواتین سے متعلق ریمارکس پر سوشل میڈیا صارفین برہم اور مریم نواز کی مایوسی",
+      "link": "https://www.bbc.com/urdu/articles/cwm23pp090y7o?at_medium=RSS&at_campaign=rss",
+      "description": "وزیرِ اعلیٰ پنجاب مریم نواز نے صارف کی جانب سے شیئر کیے گئے کیپٹن (ر) صفدر کے اس ویڈیو کلپ پر تبصرہ کرتے ہوئے کہا کہ ’یہ دل توڑ دینے والا ہے۔ خاموش جنگیں، جو ایک عورت اور بیوی گھر کی چار دیواری کے اندر لڑتی ہے۔۔۔وہ طاقت جسے اسے تب بھی ڈھونڈنا پڑتا ہے، جب اسے لگے کہ وہ ٹوٹ رہی ہے۔۔کچھ لڑائیاں خاموشی سے لڑی جاتی ہیں اور کچھ زخم نظر نہیں آتے۔‘",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Sat, 31 Oct 2026 11:38:24 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f37/live/e4e1c7b0-d4e4-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Pakistan plans nationwide golf promotion - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2hZLTJMVlhQS1NJQUdJWjJrNDRyVEl1OG5PcWxiUGRzNE8wWDg1c0xsSWNIaGFzSmQyM3NBeXhZT2ZMUUd4cHhyWU9pLWRTTktvaU1xLWxGSXFwa1NBODdQNzNicEdEYzhaTk5vY3NDR1JQaDRvZGE2bE02d082RVFBVdIBlgFBVV95cUxPejBmMkFBcWFESlVENGhSSDhHbUpteWlQeGVtODBLeU9VU09mZjJXQ1dfdmVzWFZrMThJZFVxZmVQNkcydXdMdjRSRTRJN01oYnRHNTNlN2E2b2RCUU1BWXBiS3BxRzFGcjFKeFRTNVFlSlcxaUI5WDUxZG9WaTZ2NmMwR19yUFpSRGdTRmk3dE1iLTZWUVE?oc=5",
+      "description": "Pakistan plans nationwide golf promotion The Express Tribune",
+      "source": "Sports Pakistan",
+      "cat": "National",
+      "date": "Sun, 01 Nov 2026 16:25:47 GMT",
       "photo": ""
     },
     {
-      "title": "پنجاب، ہزاروں ایکٹر سرکاری اراضی پر ناجائز قبضوں کا انکشاف",
-      "link": "https://www.express.pk/story/2841727/punjab-illegal-encroachments-on-thousands-of-acres-of-government-land-revealed-2841727",
-      "description": "محکمہ زراعت کی 541 ایکڑ اراضی پر غیرقانونی قبضے یا عدم واگزاری کی نشاندہی",
-      "source": "Express Urdu",
+      "title": "Pakistan lift O40s World Cup title in classic style - Jamaica Gleaner",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ1E2MUF5d2JuaXhGdlRhU09Ya05HYmJUbFJKZUdUcEhTbmZJQTlIel91UEVJNkpaOExVcmZCODV3QVdZNDhha3pYeTE2aFJQOGdRVDdrU00wNmJ6a011MkpaZVRnTHRtM25yRFoxUWhqV256bWp3ZW1mNmR1bGZnQmQtbVJXMmZUSDJmMURwb2JmY0ZienBlMFZob2tDNl9LLUE?oc=5",
+      "description": "Pakistan lift O40s World Cup title in classic style Jamaica Gleaner",
+      "source": "Sports Pakistan",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 15:53:30 +0000",
+      "date": "Mon, 02 Nov 2026 06:06:42 GMT",
       "photo": ""
     },
     {
-      "title": "پاکستانی اداکارہ جویریہ جمشید رشتہ ازدواج میں منسلک ہوگئیں",
-      "link": "https://www.express.pk/story/2841719/pakistani-actress-javeria-jamshed-2841719",
-      "description": "انہوں نے شوہر کے ہمراہ خوشگوار انداز میں تصاویر بھی بنوائیں جو سوشل میڈیا پر مداحوں کی توجہ کا مرکز بن گئیں",
-      "source": "Express Urdu",
+      "title": "Pakistan penalised for slow over rate against Sri Lanka - Jagonews24",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rQ0xvaVZIcXZLX3ZxMG9KWGo5QzdCbXZwYVJSMzJ0STEwME05SFczY2Nicnh6bU1zZ3J3V1V5bWMzVXd5a2N0NWE4dVFYRXFZaTNQZzIzNTBlOXc?oc=5",
+      "description": "Pakistan penalised for slow over rate against Sri Lanka Jagonews24",
+      "source": "Sports Pakistan",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 18:24:39 +0500",
+      "date": "Mon, 02 Nov 2026 14:20:13 GMT",
       "photo": ""
     },
     {
-      "title": "ایم کیو ایم کا نئے صوبوں کی تحریک چلانے کا اعلان، 29 نومبر سے قافلے کی صورت میں مارچ ہوگا",
-      "link": "https://www.express.pk/story/2841714/mqm-announces-a-campaign-for-new-provinces-a-march-in-the-form-of-a-convoy-will-take-place-starting-november-29-2841714",
-      "description": "ڈاکٹر خالد مقبول صدیقی نے کہا ہے کہ پاکستان میں نئے صوبوں کی سب سے زیادہ ضرورت سندھ کے شہری علاقوں میں ہے",
-      "source": "Express Urdu",
+      "title": "++[LIVESTREAMS]FREE!! Pakistan v Sri Lanka 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 31 october 2026 - Port of Rotterdam",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNN01lQXlkSWxQWnVfV183N0FWQVMxVTV5SDhXeXlBMjJKbnlURk80WFJmRFBrNGlTYjVsbHgyM0VMcnhLbDFfaVFCaFU3bXY0bVRkWnZYWXQzcDU3amZYWHBjQk5VRDVOOXJ2eFB1OHpBSlpTbUN2VndJbk5LUDZQZm5BM2NMVzBoZUNlOVVUTlN3ZUlDMXMxTUV3WW5uWUNYVkNJUmxWUnVJRWtyNHVNX0preW5iekhUUVJuN3FYTmJFTDBkMkdXcU01OVhxYUxReUVBdDlGLTNOWmZvTVFEYlU1bmZYNnRtRTFmZkNud1JlR3hsX09vclNQS0VQSzZuQ1ZFYmd6MkpJVDN0MXJkSWdnMjNyb212dXNhYlFscWJlLTA5U2d4NEtMUTMySnN3a3NxaUNyeERSaUw2Yi1sQnliWWktQVZPUTYtU2doOGMtaFNwMHl4NGZRM2FPcGJMNnNaZEVhWi1Xb1RSUElYLW9ua29YQQ?oc=5",
+      "description": "++[LIVESTREAMS]FREE!! Pakistan v Sri Lanka 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 31 october 2026 Port of Rotterdam",
+      "source": "Sports Pakistan",
       "cat": "National",
-      "date": "Sun, 01 Nov 26 17:10:52 +0500",
+      "date": "Sun, 01 Nov 2026 01:13:49 GMT",
       "photo": ""
     },
     {
-      "title": "چودھری رحمت علی کی ’’پاکستان اسکیم‘‘ کے سپاہی",
-      "link": "https://www.express.pk/story/2841713/chaudhry-rehmat-ali-ki-pakistan-scheme-ke-sipahi-2841713",
-      "description": "برصغیر جنوبی ایشیا میں مسلمان تقریباََ آٹھ سو سال تک حکمران رہے اور بالآخر برطانوی سامراج سے شکست کھا گئے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 17:09:11 +0500",
-      "photo": ""
-    },
-    {
-      "title": "افغانستان سے بلااشتعال فائرنگ، پاکستانی فورسزکی جوابی کارروائی، طالبان اپنی پوسٹیں چھوڑکر فرار",
-      "link": "https://www.express.pk/story/2841711/unprovoked-firing-from-afghanistan-pakistani-forces-retaliate-as-taliban-flee-their-posts-2841711",
-      "description": "انگور اڈہ میں سرحد پر افغان سرحدی پوسٹوں سے پاکستانی چوکیوں پر بلااشتعال فائرنگ کی گئی، ڈپٹی کمشنر جنوبی وزیرستان لوئر",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 01 Nov 26 16:54:25 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پاکستان کی معیشت 3 دہائیوں سے جمود کا شکار قرار",
-      "link": "https://www.express.pk/story/2841736/pakistans-economy-has-been-stagnant-for-3-decades-2841736",
-      "description": "ہارورڈ کانفرنس میں ماہرین معاشیات کی کمزور اداروں، اشرافیہ کے مفادات پر کڑی تنقید",
-      "source": "Express Urdu",
+      "title": "ریفائنریوں کے ریکارڈ منافع کے بعد وزیراعظم کی ’سخت ہدایت‘: پیٹرول کی قیمت مقرر کرنے کے فارمولے میں نظرثانی کیوں کی گئی؟",
+      "link": "https://www.bbc.com/urdu/articles/cq1j310z2j94o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کے وفاقی وزرا کا کہنا ہے کہ ریفائنریوں نے رواں مالی سال کی پہلی سہہ ماہی کے دوران اتنا منافع کمایا جو انھوں نے گذشتہ کئی برسوں میں نہیں دیکھا تھا۔ ان کا کہنا ہے کہ وزیر اعظم شہباز شریف نے جمعے کے روز یہ ’سخت‘ ہدایت دی کہ پیٹرول کی قیمت میں 15 روپے کا اضافہ نہیں کیا جائے گا بلکہ یہ اضافی بوجھ ریفائنریاں برداشت کریں گی۔",
+      "source": "BBC Urdu",
       "cat": "Economy",
-      "date": "Sun, 01 Nov 26 16:11:24 +0000",
-      "photo": ""
+      "date": "Mon, 02 Nov 2026 14:26:42 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74f4/live/22cc5f40-d6c0-11f1-aacc-5b5f23abff4b.jpg"
+    },
+    {
+      "title": "’سنتھیٹک آئڈنٹیٹی فراڈ‘: پاکستانی اور انڈین شہریوں کے گروہ نے کینیڈا میں ’لاکھوں ڈالر‘ کا مبینہ فراڈ کیسے کیا؟",
+      "link": "https://www.bbc.com/urdu/articles/cqpvg33j99plo?at_medium=RSS&at_campaign=rss",
+      "description": "این سی سی آئی اے کے مطابق پاکستانی اور انڈین شہریوں کی جانب سے کیے گئے مبینہ فراڈ کی مالیت ممکنہ طور پر لاکھوں کینیڈین ڈالر تک پہنچتی ہے جبکہ فراڈ سے سب سے زیادہ متاثر رائل بینک آف کینیڈا ہے۔ یہ گروہ فراڈ کیسے کرتا تھا اور کیسے پکڑا گیا؟",
+      "source": "BBC Urdu",
+      "cat": "Economy",
+      "date": "Mon, 02 Nov 2026 06:11:21 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeea/live/1f81f800-d638-11f1-8399-41f2bbe0e990.jpg"
     },
     {
       "title": "پاکستان میں پانچ سال سے زیادہ پرانی گاڑیوں کی درآمد کی اجازت: کیا صارفین کے لیے استعمال شدہ گاڑیوں کی قیمت کم ہو پائے گی؟",
@@ -124,39 +131,30 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5891/live/39b5ba50-d61e-11f1-905f-4bb31135b4e2.jpg"
     },
     {
-      "title": "Pakistan PM says center imposed emergency in northwest to curb militancy, save economy - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmExQTE4elltUTBJamlsRGNzeXlIc2c3ckxUSkRFbVAzUlZvRzc1S1dqaUtvTjF2Qk1PM0pYNXJDSEJtOGZOY01mZWdTZzRPWlhodExpbG1ucGgySU9nd08wa2RZeGJQekplT3plV09MYTR6bTVKUUNoaDB6N2dSbzlnaFltWUc3VzFwTzlLejNQcXRxdmk2eHFCVlc0ZmtDRmVkU2pBTlJtU1pyZ25lRXBfRzcxYXY3TjhhbFVyemtBeDQz?oc=5",
-      "description": "Pakistan PM says center imposed emergency in northwest to curb militancy, save economy Arab News PK",
+      "title": "Pakistan’s commerce minister in Istanbul for OIC economic talks, bilateral meetings - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmw3UnpOODhfdE9FeDJzbDZCdW4td2xpcDRCWVk0N0stNjNVUFBqenNicEVBM3ZNQ0kwWWxwN0dIcGVnV0JfSEZWbHlkRWduWHJpQ3QxTEw2NXR2X1FpcG4zaFNtMVljVVpPbGdGamNYa3JPeDhqeS1mQjlIOUF3bWNjUVZUdW5SQUJMbHgweklmTENKVEhRekJVQUJYa1ZsdFhuMHNSQXN5dXl1aFhLSkhRSVB2TTcxTUFSb3VuWQ?oc=5",
+      "description": "Pakistan’s commerce minister in Istanbul for OIC economic talks, bilateral meetings Arab News PK",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sat, 31 Oct 2026 11:25:11 GMT",
+      "date": "Mon, 02 Nov 2026 09:53:36 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan’s Battery Bet: The Economics Behind A $2.25 Billion Industrial Gamble - The Friday Times",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ09lNldtOFZmbG5mZHo3blpFc3hDOGVKNnkxYmk4ZlFkUklwajZYNGlQT0pWQXQ3dmcxTlY3MVJoMEdRREFNWmVqU3VUTTkwVk8xS0Q0NjNtV2dhb1hKZkhHX0EtbHN0UnIwSks1U1JvazNwckpGMFAteWdQRTBrNzVPdkNCUFpLTHJuR2dIWnh0SmtFYmZUcjVDNlNRV1dsOVBUVEx2QkdFUm4tWXktQVZabEdoTzMzQndYSA?oc=5",
-      "description": "Pakistan’s Battery Bet: The Economics Behind A $2.25 Billion Industrial Gamble The Friday Times",
+      "title": "Pakistan, Bangladesh explore new avenue for industrial cooperation, economic partnership - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWNrRFhHLU9yanR0RENqSWtCVWo3YWtPZGU4SVhlZE5BWVZ4NzNTQmdYRXh5MWJNb3RoU2xLaGU5cmh6bGVEQ2lMRFZfYXdCY2FnQXhtWkczczhZd0lZRDBsNE5DWk5pcXJZTFpBOE9CZHBwNGl4dEh4bkVEYkZMN2pXT3lFYUczVXN1NjlMOW9HYmJwUkg2TEppSmxSdzZGR0p0QzFGTUp4ZUF1MlhyeWx6akhtSVVnY29jeg?oc=5",
+      "description": "Pakistan, Bangladesh explore new avenue for industrial cooperation, economic partnership The Nation (Pakistan )",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sun, 01 Nov 2026 12:58:00 GMT",
+      "date": "Mon, 02 Nov 2026 12:22:54 GMT",
       "photo": ""
     },
     {
-      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWZwUHpFd0UzQmVLa0JkazZGencyb1h2TVpIWnlIU0ozMUE4eHN1S3JmazJiOWMzbVM1aGF6a1BDMi1QSXRZMXkzWjdfN3EyajJ1ZW91U05PSUd5cVRGZWp4ZzhoemJTTm1pa21UV05NWElJVWw4S2k5VzJJZEFQdm9XX1prYXd3YTluS3c1NmJncXRwbDNr?oc=5",
-      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Sat, 31 Oct 2026 07:54:02 GMT",
-      "photo": ""
-    },
-    {
-      "title": "لاہور، ٹریفک پولیس نے تیز رفتار ریسنگ اور ڈرفٹنگ کرنے والی گاڑیاں پکڑ لیں، مقدمہ درج",
-      "link": "https://www.express.pk/story/2841738/lahore-traffic-police-caught-vehicles-involved-in-high-speed-racing-and-drifting-case-registered-2841738",
-      "description": "گرفتار ڈرائیورز کی شناخت رجب شہزاد اور علی عاصم کے نام سے ہوئی ہے",
+      "title": "نارتھ کراچی؛ ڈالے میں سوار افراد کی فیملی سے بدتمیزی، مبینہ تشدد کی فوٹیج سامنے آگئی",
+      "link": "https://www.express.pk/story/2841865/north-karachi-men-in-pickup-truck-harass-family-footage-of-alleged-assault-emerges-2841865",
+      "description": "واقعے کا مقدمہ سرسید تھانے میں 4 نامزد ملزمان کے خلاف درج کر لیا گیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sun, 01 Nov 26 22:11:56 +0500",
+      "date": "Mon, 02 Nov 26 06:29:19 +0000",
       "photo": ""
     },
     {
@@ -169,40 +167,67 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3022/live/ec027c90-d090-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "130 Malaysians arrested in Pakistan raid on suspected online scam centre - The Sun Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalFOdzg5Mk9ZYW5acGRhR25tbEpoZDdkdm0tRUE0MkRvdjhXQUpwT3dWemY0ZFpUN0E2bkw0TVFQdWE5aGtRWk03ZG5QZllRa2lyZkRVMWJ4WEg3Tkx1bzIyRGhsQklHZTQyaE9mVkUwN2ZTOEZYbVN6NThONy1RU0FJalZsR1U3RWdFaGFFMDNkSHhCYXFDcnV0aFc?oc=5",
-      "description": "130 Malaysians arrested in Pakistan raid on suspected online scam centre The Sun Malaysia",
+      "title": "130 Malaysians detained in Pakistan over alleged cybercrime syndicate - Borneo Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlhKRldWby1BdTFNaW1IUzVrUDExcWNENlFrUzN2WF9rVGFVeWczNXcwRE56Zmt5TGVZT0pPamhPWU9HOGQ5cmhzdVB2MXNic3Y3bno0dEJOZWwxcEZESG1QLUE5cUUwZWFqekc4anlqdGZGTDFTd3RjdURYTEVwTExfd2FiOWtoN2Rib1U2aVZ2UjdnRlhMbFdtQ09QWnRheDBncC1BMlBCdlN5a191SQ?oc=5",
+      "description": "130 Malaysians detained in Pakistan over alleged cybercrime syndicate Borneo Post",
       "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sun, 01 Nov 2026 04:59:06 GMT",
+      "date": "Sat, 31 Oct 2026 22:47:14 GMT",
       "photo": ""
     },
     {
-      "title": "IGP confirms 130 Malaysians held in Pakistan over cybercrime syndicate, investigators may be sent to Rawalpindi - Malay Mail",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWEZ3dXNld0diX1A0azNoRE9yeWJ0M3diRllvb2Z5QzA1V3UxVnRMaVVUbXFBcWZrUUlHeXdpRGVsQVJpOGVSZUdqZEMzWDZUZy1JQXZoLW5kSHB3Mzdrdk1qUUhYUkJKSksxVmhqTVdjZTFVYjljUkxta25GRVRyWnhBLVp6SHgtS2lzUFpCYlB3aGk1Q2VIbmFoc1VLcFhvSzB6LVZIQThKbnhMYklKQTk5Z196T0I1SDhsbkhra2VpTXdUa00wQTlzUXFWMVo0RTR3S0c5TjFpUlBvRC0wUm9qU0ZQRWxCX1pFRFZ3MnZVSE0wWW9HemdLbm3SAYICQVVfeXFMTmVQTzJiT2dPaHQ4SlFZNnVNa3pxNFdQbG9TOXRhSlNYeGpOX3NrX1BhTmxRNWx6VEZwQ29qOGNaMml5aVhNZUpRb241R09hYXh2LWxwUjQxSTlQR2ZGc1dkTWZyWnRESmhKRGd6aXh5MkcwSmEzUFo1NTcxTUFnYnB3Q0hHVXp3UFJXZkszMjhVUl9oSWFWZlotSWRzWTRENlJWUEJfNHk4UTU5VDhUcXR0d0VzM29ZSmVsSjNJLWN2YjY4VVNmYkIySlFUMTdmaUJ1aVYta0tPSWVPdGF0bnpBVW5XWV9JV0hKV3p0R1d5aDA4WWs5YmxRSnYzaC1yMzdB?oc=5",
-      "description": "IGP confirms 130 Malaysians held in Pakistan over cybercrime syndicate, investigators may be sent to Rawalpindi Malay Mail",
+      "title": "Pakistan: Rights body raises alarm over killings, arrests of journalists - IANS LIVE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGh6S2pMc0o1NVpXZk92ckZGb25HR1JEMVpNLUJOcVNKZGk1eXAzN2xsaUtDS2tTWC0wenBWWW1LR2tTdkNEdTROWUxYNnJiTlkzTTh2ajZEYjlnZEY5TC1LVFJ0RVNWNm53eUZFRmIxWm5TR21aRHhZMlBKUU1SMk5SMEV3UTFkQm9IT0ZkSzRaOHFwdWIyTHlZYlhDVW9TTmluT1E1Y3Q0dw?oc=5",
+      "description": "Pakistan: Rights body raises alarm over killings, arrests of journalists IANS LIVE",
       "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sat, 31 Oct 2026 03:40:05 GMT",
+      "date": "Mon, 02 Nov 2026 12:31:00 GMT",
       "photo": ""
     },
     {
-      "title": "Authorities Confirm 130 Malaysians Arrested In Pakistan Over Cybercrime Activities - BusinessToday Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2ZrLXlpUFQyc2RlRXVJRU5IdUxsR2hVcUtEc3ZyX2h3TXBQN3dQbDRvc0lTZGZ1ZTZfa3psbXFZbFN6NU9zTHRwNzU1SVNpZ1VQdmE2S3RHWDBiN3pUNExCTjdEc1F4b19jRGJ3Y1BMNFRweFRfT1NYaDJ5M2h0R21iS2JrazdtczUtZHdvNjNaUVkwd2E2Sl9qbTVOenpveGp1Vmp0UFJtNjZ0aHpOV2dlWDZhQU9qb2huOFNrVzNFTktCUWc?oc=5",
-      "description": "Authorities Confirm 130 Malaysians Arrested In Pakistan Over Cybercrime Activities BusinessToday Malaysia",
+      "title": "Over 51,000 crimes reported in Karachi from January to October - Pakistan Connect",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcnlYRENaeFA0a3ZOdEoyM1hjOGgtT0pYTlhIb2JhNHhmNWpBRzFzSjRyNHBzZllzZkRJeFdRN3JqcjFOcVZIR0pGRmpHTHU2WnBUa1hDYUxkWmJyVVY4cE9xVXNRcDlCX25NYg?oc=5",
+      "description": "Over 51,000 crimes reported in Karachi from January to October Pakistan Connect",
       "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sat, 31 Oct 2026 05:52:31 GMT",
+      "date": "Mon, 02 Nov 2026 13:23:13 GMT",
       "photo": ""
     },
     {
-      "title": "پاکستان ٹرائی سیریز کا فاتح: فخر زمان کی ’فائنل میں پرفارم کرنے کی صلاحیت‘ اور ’گھر کے بڑے بیٹے کی انرجی‘ والے عرفات منہاس",
-      "link": "https://www.bbc.com/urdu/articles/cm62yeylwk13o?at_medium=RSS&at_campaign=rss",
-      "description": "لاہور میں کھیلے گئے پاکستان ون ڈے ٹرائی سیریز کے فائنل میں پاکستان نے سری لنکا کو تین وکٹوں سے شکست دے کر سیریز اپنے نام کر لی۔ پاکستان کی جانب سے فخر زمان نے 127، سعد بیگ نے 74 جبکہ عرفات منہاس نے محض 31 گیندں پر 61 رنز کی شاندار اننگز کھیلی۔",
-      "source": "BBC Urdu",
+      "title": "نیپال پریمیئر لیگ تنازع شدت اختیار کرگیا، 7 پاکستانی کرکٹرز واپس وطن آگئے",
+      "link": "https://www.express.pk/story/2841847/pakistani-cricketers-come-back-to-home-from-nepal-premiere-league-2841847",
+      "description": "مصباح الحق نے خراب آؤٹ فیلڈ میں میچ کھلانے پر اعتراض کردیا",
+      "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Sat, 31 Oct 2026 16:32:20 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7e1/live/a7c7ea40-d551-11f1-b441-2b33b063138f.jpg"
+      "date": "Mon, 02 Nov 26 10:29:15 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پاکستان نے آسٹریلیا کو شکست دے کر اوور 40 کرکٹ ورلڈ کپ جیت لیا",
+      "link": "https://www.express.pk/story/2841841/pakistan-wins-over-40-cricket-world-cup-2841841",
+      "description": "پاکستان نے آخری اوور میں 9 وکٹوں کے نقصان پر ہدف حاصل کرکے ٹائٹل اپنے نام کیا",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Mon, 02 Nov 26 10:08:54 +0500",
+      "photo": ""
+    },
+    {
+      "title": "The Camera And The Podium: How Sports Broadcasting Shaped India And Pakistan Differently - The Friday Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEo2ak5KdGxzVE10emNjZnl3UW9QNTZDMDVXUUJiWUtsMkkwMVJNNWwyc1hmeXlGOHdLWWx5cHdUenJMM1VWamJvLV9Rc3daTHBHX1VFcEJ4bE5OTk9UVHBkSmJrS1RyODFWY1V5Rnh2S3lmSEhjU2ZaUGttYTJfQUhJTmw3OHVEZkptU2s4ZmhJUnRlTy10d2FFSGhYZUgyd1E1TVo1XzNIZ2VsSjhZ?oc=5",
+      "description": "The Camera And The Podium: How Sports Broadcasting Shaped India And Pakistan Differently The Friday Times",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Mon, 02 Nov 2026 10:03:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Islamabad Family Festival | Starts | Tourism, Sports and Culture - Aaj Pakistan with Sidra Iqbal - Aaj News",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBacDVucnFfN1ZLaWpfQ1ZxbE1pUDFKRFdUdEVicmY3Mi1QUENyN1gwcHFNSmZBLVUyb0JJUmVwN0xXNnhoYzV4VGF3MTU?oc=5",
+      "description": "Islamabad Family Festival | Starts | Tourism, Sports and Culture - Aaj Pakistan with Sidra Iqbal Aaj News",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Mon, 02 Nov 2026 08:00:15 GMT",
+      "photo": ""
     },
     {
       "title": "Pakistan vs Sri Lanka: Fakhar Zaman century propels hosts to three-wicket win in tri-series final - Sky Sports",
@@ -214,112 +239,94 @@
       "photo": ""
     },
     {
-      "title": "24 years later: Pakistan recreate India's Lord's magic with record-equalling chase - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVhtMXVlRHl3NFlnS3I4bHlIczB1M1YxWnBXZ21BaHpkZ3RIbkdaRUVXUG9oektJcm9QYk1hczdGTk0xa0wtcXZUYWtiNmpPYktxRG1vZTFValVmM21pR0hJT3BlenVncTFKWkN5enhNdG5KSzZJeWpUdzQ2Y0VZMlE2QjhMMTNR?oc=5",
-      "description": "24 years later: Pakistan recreate India's Lord's magic with record-equalling chase Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sun, 01 Nov 2026 07:10:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "'I was just waiting for that moment': Fakhar Zaman after Pakistan match India's 2002 Lord's record - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1V5RWlHWi1jR2VjblJoLXVVXzhSb04wZWZpMEF2YmJ5TDBWaWdISjhsVVdGTFNRTmw2SGJyZ1VpTWVqcFYwYS1McWRScl9xYi1SbFh1NzRyYjVoYWZDcmFIUm5TNmxqYlkxTmtsSVZ2bkVxbGFOV1FDcDE2SEhTNDJRNS03ekM3?oc=5",
-      "description": "'I was just waiting for that moment': Fakhar Zaman after Pakistan match India's 2002 Lord's record Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sun, 01 Nov 2026 09:36:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "~$!【Pakistan vs Sri lanka】 PAK vs SL ODI Tri-Series final match 𝐋𝐈𝐕𝐄 𝚝𝚘𝚍𝚊𝚢 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 31 october 2026 - Port of Rotterdam",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPdXkycFJoa3N3aTJqdnJYcGY0Znh1ZjlncEpyalgweHVGY2JUazc0c21zeU9JUC1keFE2TE1DTnZkRWcxQlJIdnh6Z3AwNGhGZHRUYndmMG0tRHU3T3B6TkJtVk9VSC03NktjM01QUjdzSE01aTZ3Q01lTGxaQ0dTLVQyMGt5S2FBMU1yQTZHeXNaX2tHbEljM0lPN1dQaU85N0ZLZ01CcVFlTEVZSmxTWENHNFlHNkdHRE9ZZnVSUnJ1eEg5QlhQMjNxWXliM1dLcEk1YlV3Q1JROU9zZzdFWmlpZjh1bDFuelFzT203UmNscjZSVjN3ZXJHMmJwUWZpNHhRc2JsSmlQbGcyd3FFWTZBeGFDcXRsZmE3OFZ6N1J1X20yWThoVkxNMHNmY25zdDNpRTlMTWJhN2o3czY0RjdmalZSYnM0ZjI1V19mTllreFEwZkUwZ1RxelBoWTEzN1ZOVHNtRkQ5aEVyTmFTdEtVTHlOeDRpcVRIa3p5Z3BlQ1pOSFJjMDNpdnE?oc=5",
-      "description": "~$!【Pakistan vs Sri lanka】 PAK vs SL ODI Tri-Series final match 𝐋𝐈𝐕𝐄 𝚝𝚘𝚍𝚊𝚢 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 31 october 2026 Port of Rotterdam",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 31 Oct 2026 08:09:10 GMT",
-      "photo": ""
-    },
-    {
-      "title": "امریکی وسط مدتی انتخابات، 5 کروڑ سے زائد شہریوں کی پیشگی ووٹنگ",
-      "link": "https://www.express.pk/story/2841742/us-midterm-elections-over-50-million-citizens-vote-in-advance-2841742",
-      "description": "انتخابات میں ری پبلکنز کو سینیٹ میں 53 کے مقابلے میں 47 نشستوں کی برتری کا دفاع درپیش ہے",
+      "title": "بھارتی ٹی وی کے مشہور اداکار 33 برس کی عمر میں انتقال کرگئے",
+      "link": "https://www.express.pk/story/2841893/famous-indian-tv-actor-passes-away-at-the-age-of-33-2841893",
+      "description": "انوج ٹھاکر کی موت نیند کے دوران دل کا دورہ پڑنے کے باعث ہوئی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 01 Nov 26 19:59:29 +0000",
+      "date": "Mon, 02 Nov 26 14:34:12 +0500",
       "photo": ""
     },
     {
-      "title": "امریکی ریاست فلوریڈا میں نجی مسافر طیارہ گر کر تباہ، تمام 9 افراد ہلاک",
-      "link": "https://www.express.pk/story/2841741/private-passenger-plane-crashes-in-the-us-state-of-florida-all-9-people-on-board-killed-2841741",
-      "description": "طیارے نے ٹیکساس کے آسٹن برگسٹروم انٹرنیشنل ایئرپورٹ سے پرواز بھری تھی",
+      "title": "پی آئی اے کے نئے سی ای او ایڈرین ہیملٹن مانز نے عہدہ سنبھال لیا",
+      "link": "https://www.express.pk/story/2841891/pias-new-ceo-adrian-hamilton-manns-has-assumed-office-2841891",
+      "description": "وہ اس فیلڈ میں 30 سالہ تجربہ رکھتے ہیں، تین مختلف ایئرلائنز کے چیف ایگزیکٹو آفیسر کے طور پر خدمات انجام دے چکے ہیں",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 01 Nov 26 19:40:13 +0000",
+      "date": "Mon, 02 Nov 26 09:29:54 +0000",
       "photo": ""
     },
     {
-      "title": "آئینی عدالت، سپریم کورٹ کے فیصلے کی پابند نہیں، جسٹس عامر فاروق",
-      "link": "https://www.express.pk/story/2841735/a-constitutional-court-is-not-bound-by-a-supreme-court-judgment-says-justice-aamer-farooq-2841735",
-      "description": "سپریم کورٹ کے وضع کردہ اصول قانون کے مطابق ہوں تو ان پر عمل کیا جا سکتا ہے، تحریری فیصلہ",
+      "title": "دلجیت دوسانجھ نے بہار میں کنسرٹ نہ کرنے کے ذمے داری انتظامیہ پر ڈال دی",
+      "link": "https://www.express.pk/story/2841890/diljit-dosanjh-placed-the-responsibility-for-not-holding-a-concert-in-bihar-on-the-administration-2841890",
+      "description": "دلجیت نے دعویٰ کیا کہ دہلی میں بھی سیکیورٹی خدشات کی بنیاد پر ان کا کنسرٹ رکوانے کی کوشش کی گئی تھی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 01 Nov 26 16:04:18 +0000",
+      "date": "Mon, 02 Nov 26 14:26:14 +0500",
       "photo": ""
     },
     {
-      "title": "لائل پور سے فیصل آباد تک!",
-      "link": "https://www.express.pk/story/2841734/lyallpur-se-faisalabad-tak-2841734",
-      "description": "پچھلی صدی کی ساٹھ کی دہائی کا لائل پور حد درجہ سادہ اور منفرد تھا۔ یا شاید مجھے اپنے بچپن کی وجہ سے شہر کا مکمل ادراک نہیں تھا۔",
+      "title": "حارث رؤف بگ بیش لیگ 16 کے لیے ایڈیلیڈ اسٹرائیکرز کا حصہ بن گئے",
+      "link": "https://www.express.pk/story/2841888/haris-rauf-has-joined-the-adelaide-strikers-for-big-bash-league-16-2841888",
+      "description": "بگ بیش لیگ 16 میں حارث رؤف کو انگلینڈ کے بین اسٹوکس کے ساتھ کھیلنے کا موقع ملے گا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 01 Nov 26 21:00:34 +0500",
+      "date": "Mon, 02 Nov 26 13:55:45 +0500",
       "photo": ""
     },
     {
-      "title": "ایران کے پاس معاہدے کے سوا دوسرا کوئی راستہ نہیں بچا، ٹرمپ",
-      "link": "https://www.express.pk/story/2841744/iran-has-no-other-option-left-but-an-agreement-says-trump-2841744",
-      "description": "امریکا اور اسرائیل کی ایران کے خلاف جاری جنگ بھی زیادہ عرصے تک نہیں چلے گی، امریکی صدر",
+      "title": "امریکا کا ایران پر نئے حملے کا امکان؛ متحدہ عرب امارات نے بھی پیشگی تیاری کرلی",
+      "link": "https://www.express.pk/story/2841887/uae-better-prepared-for-new-us-attacks-on-iran-2841887",
+      "description": "متحدہ عرب امارات نے ممکنہ جنگ سے نمٹنے کیلیے اپنی تیاری پہلے سے کہیں زیادہ بہتر انداز میں کرلی، وزیر توانائی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 26 20:57:50 +0000",
+      "date": "Mon, 02 Nov 26 08:47:32 +0000",
       "photo": ""
     },
     {
-      "title": "خطے کے ایران مخالف ممالک ماضی کی غلطیاں نہ دہرائیں، عباس عراقچی",
-      "link": "https://www.express.pk/story/2841743/anti-iran-countries-in-the-region-should-not-repeat-the-mistakes-of-the-past-says-abbas-araghchi-2841743",
-      "description": "سکیورٹی خدشات کے باعث سپریم لیڈر کی تصاویر منظرعام پر نہیں لائی جارہیں، ایرانی وزیر خارجہ",
+      "title": "ایران کا خلیجی ممالک سے دشمنی نہ رکھنے کا اعلان، مذاکرات کے لیے وفد قطر سے روانہ",
+      "link": "https://www.express.pk/story/2841858/iran-says-it-has-no-hostility-towards-gulf-neighbours-warns-against-use-of-their-territory-2841858",
+      "description": "اسماعیل بقائی کے مطابق بعض خلیجی ممالک نے امریکا کی فوجی موجودگی پر ضرورت سے زیادہ بھروسا کیا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 26 20:10:43 +0000",
+      "date": "Mon, 02 Nov 26 11:02:41 +0500",
       "photo": ""
     },
     {
-      "title": "ایران کے خلاف حملوں کے لیے اسرائیلی فضائیہ نے مشقوں کا آغاز کر دیا، اسرائیلی میڈیا",
-      "link": "https://www.express.pk/story/2841740/israeli-air-force-begins-exercises-for-strikes-against-iran-israeli-media-reports-2841740",
-      "description": "امریکی فوج کے 10 ٹرانسپورٹ طیارے گزشتہ چند روز میں اسرائیلی فوجی اڈوں پر پہنچے ہیں",
+      "title": "غزہ میں اسرائیلی فائرنگ سے 4 فلسطینی شہید",
+      "link": "https://www.express.pk/story/2841853/israeli-fire-kills-4-palestinians-in-gaza-amid-ceasefire-violations-2841853",
+      "description": "خان یونس کے مغرب میں المواسی، مشرقی دیر البلاح اور متعدد دیگر مقامات پر حملے جاری ہیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 26 22:42:37 +0500",
+      "date": "Mon, 02 Nov 26 10:51:33 +0500",
       "photo": ""
     },
     {
-      "title": "اسرائیل ،انتخابی نتائج کے بعد سیاسی بحران شدت اختیار کر گیا",
-      "link": "https://www.express.pk/story/2841737/political-crisis-in-israel-intensifies-following-election-results-2841737",
-      "description": "سڑکیں مظاہرین سے بھر گئیں، نیتن کو نکالنے کے لیے عرب جماعتوں سے اتحاد کا مطالبہ",
+      "title": "غیر ملکی مداخلت کے الزامات ثابت ہونے پر بھی اسرائیلی انتخابات کے نتائج برقرار رہیں گے، الیکشن کمیشن",
+      "link": "https://www.express.pk/story/2841848/israel-says-election-results-will-stand-even-if-foreign-interference-allegations-are-proven-2841848",
+      "description": "قطر پہلے ہی اسرائیلی انتخابات میں مداخلت یا سیاسی جماعتوں کو فنڈنگ فراہم کرنے کے الزامات کی سختی سے تردید کر چکا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 01 Nov 26 21:19:40 +0500",
+      "date": "Mon, 02 Nov 26 10:35:24 +0500",
       "photo": ""
     },
     {
-      "title": "ستارہِ امتیاز کے لیے نامزد پہلی پاکستانی ٹرانس جینڈر نایاب علی: تیزاب کے حملے سے اقوامِ متحدہ میں پاکستان کی نمائندگی تک",
-      "link": "https://www.bbc.com/urdu/articles/cmlyl92rer4jo?at_medium=RSS&at_campaign=rss",
-      "description": "وزارتِ انسانی حقوق کی جانب سے رواں ماہ جاری کیے گئے ایک نوٹیفکیشن کے مطابق جنیوا میں ہونے والے اجلاس میں پاکستان کے چار رکنی وفد کی سربراہی وزیرِ مملکت برائے قانون بیرسٹر عقیل ملک کریں گے اور اس وفد میں ناب علی ٹرانسجیڈرز کے حقوق کی کنسلٹنٹ کی حیثیت سے شامل کی گئی ہیں۔",
+      "title": "وارن بفٹ 48 سال سے پانی کے بجائے کوکا کولا پی رہے ہیں، ارب پتی شخصیت کی انوکھی عادت",
+      "link": "https://www.express.pk/story/2841844/warren-buffett-has-been-drinking-coca-cola-instead-of-water-for-48-yearsa-unique-habit-of-the-billionaire-2841844",
+      "description": "وارن بفٹ ہمیشہ سے کوکا کولا کے شوقین نہیں تھے، پہلے وہ پیپسی پیتے تھے۔",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Mon, 02 Nov 26 10:22:56 +0500",
+      "photo": ""
+    },
+    {
+      "title": "آن لائن دعوت نامہ اور نہ ہونے والی شادی کا جشن، جو 11 خواتین کے لیے زندگی کے خوبصورت ترین سفر کی وجہ بنا",
+      "link": "https://www.bbc.com/urdu/articles/c54g1yxmz28yo?at_medium=RSS&at_campaign=rss",
+      "description": "جب ان کے منگیتر کو ایک میڈیکل ایمرجنسی کا سامنا کرنا پڑا اور ان کی طے شدہ شادی اور رشتہ دونوں ختم ہو گئے، تو برجٹ ڈیوانی چاہتیں تو خاموشی سے زندگی کے اس باب کو بند کر دیتیں۔ مگر انھوں نے اس کے برعکس ایک ایسا قدم اٹھایا جو بیک وقت حیران کن بھی تھا اور امید افزا بھی۔",
       "source": "BBC Urdu",
       "cat": "Strange",
-      "date": "Sun, 01 Nov 2026 04:27:41 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1ee/live/d4d6cc50-d59b-11f1-a209-e33b4e3a0179.png"
+      "date": "Mon, 02 Nov 2026 12:05:26 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3da8/live/bf699010-d473-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "sources": [
@@ -356,7 +363,7 @@
     },
     {
       "source": "CNN",
-      "added": 35,
+      "added": 34,
       "ok": true
     },
     {
@@ -371,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 20,
+      "added": 21,
       "ok": true
     }
   ]
