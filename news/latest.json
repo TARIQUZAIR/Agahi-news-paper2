@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T05:08:45.669731+00:00",
-  "count": 34,
+  "generated_at": "2026-11-03T13:32:33.129070+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,35 +11,78 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 1
-  },
+  "shortages": {},
   "items": [
     {
-      "title": "پاکستان کو درپیش علاقائی چیلنجز",
-      "link": "https://www.express.pk/story/2841951/pakistan-ko-darpaish-ilaqai-challenges-2841951",
-      "description": "پاکستان کو جہاں مختلف نوعیت کے داخلی چیلنجز درکار ہیں وہیں ان چیلنجز کی ایک بڑی نوعیت علاقائی سیاست یا علاقائی ممالک سے بھی جڑی ہوئی ہیں۔",
+      "title": "جامعہ کراچی سے ملحقہ لا کالجز کے امتحانی نتائج کی تحقیقات کے لیے کمیٹی تشکیل",
+      "link": "https://www.express.pk/story/2842114/three-member-committee-formed-to-investigate-exam-results-of-law-colleges-affiliated-to-karachi-university-2842114",
+      "description": "سپریم کورٹ، سندھ ہائی کورٹ اور وفاقی ہائر ایجوکیشن کمیشن کے نمائندوں پر مشتمل تین رکنی کمیٹی بنائی گئی ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Mon, 02 Nov 26 21:09:14 +0500",
+      "date": "Tue, 03 Nov 26 13:19:45 +0500",
       "photo": ""
     },
     {
-      "title": "سرحدی سلامتی اور افغانستان کی ذمے داریاں",
-      "link": "https://www.express.pk/story/2841945/sarhadi-salamti-aur-afghanistan-ki-zimmedariyan-2841945",
-      "description": "افغانستان سے پاکستان کو درپیش سلامتی کے مسائل محض سرحدی کشیدگی یا دوطرفہ تعلقات کی سردمہری تک محدود نہیں رہے",
+      "title": "پنجاب بھر میں قانونی اور غیر قانونی ہاؤسنگ سوسائٹیز کی تفصیلات طلب",
+      "link": "https://www.express.pk/story/2842096/details-sought-on-legal-and-illegal-housing-societies-across-punjab-2842096",
+      "description": "ڈپٹی کمشنرز کو 60 روز کے اندر اپنے اضلاع میں موجود ہاؤسنگ سوسائٹیز کی مکمل تفصیلات جمع کروانے کی ہدایت",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Mon, 02 Nov 26 20:43:18 +0500",
+      "date": "Tue, 03 Nov 26 06:48:12 +0000",
       "photo": ""
     },
     {
-      "title": "لاہور کے باغِ جناح میں موجود 90 سالہ قدیم ’شیطان درخت‘ کی حقیقت کیا ہے؟",
-      "link": "https://www.express.pk/story/2841923/what-is-the-truth-behind-the-90-year-old-devil-tree-located-in-lahores-bagh-e-jinnah-2841923",
-      "description": "باغِ جناح کے ٹورسٹ آفیسر سید نجم گیلانی نے بتایا کہ اس درخت کا سائنسی نام ’السٹونیا‘ ہے",
+      "title": "اوورسیز پاکستان فاؤنڈیشن کے ملازمین کو حکومت کی اعلان کردہ تنخواہ سے بھی کم معاوضہ ملنے کا انکشاف",
+      "link": "https://www.express.pk/story/2842075/it-has-been-revealed-that-overseas-pakistan-foundation-employees-are-being-paid-less-than-the-salary-announced-by-the-government-2842075",
+      "description": "منیمم ویجز دینے کے لیے بھی آپ کو بورڈ کی اپروول چاہیے؟ حکومت کا حکم کوئی اہمیت نہیں رکھتا؟ چیئرمین اوورسیز کمیٹی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Mon, 02 Nov 26 17:39:45 +0500",
+      "date": "Tue, 03 Nov 26 05:39:56 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی پورٹ کو جدید بنانے کے لیے نئی ٹیکنالوجی کے حامل منصوبوں پر کام تیز",
+      "link": "https://www.express.pk/story/2842068/work-on-projects-involving-new-technology-to-modernize-karachi-port-accelerated-2842068",
+      "description": "ڈرائیو تھرو این ایل سی اسکیننگ سسٹم کے ذریعے اب فی گھنٹہ 25 سے 30 کنٹینرز کی اسکیننگ ممکن ہوگئی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 26 05:27:00 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ایم کیو ایم پاکستان کے رکن نے 10 نومبر کو عام تعطیل کیلئے وزیر اعلیٰ سندھ کو خط لکھ دیا",
+      "link": "https://www.express.pk/story/2842065/mqm-p-mpa-letter-to-cm-sindh-for-2842065",
+      "description": "8 سے 10 نومبر کے دوران اسکولوں، کالجوں اور جامعات میں امتحانات ملتوی کرنے کا مطالبہ",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 26 05:24:27 +0000",
+      "photo": ""
+    },
+    {
+      "title": "برطانوی شراکت داری سے پاکستانیوں کے لیے تعلیم حاصل کرنے کے مزید مواقع",
+      "link": "https://www.express.pk/story/2842064/pakstanio-k-li-taalim-hasl-krn-k-li-mzid-moakaa-2842064",
+      "description": "یونیورسٹیوں میں مکمل مالی معاونت کے ساتھ ماسٹرز ڈگریاں حاصل کرنے کا موقع ملے گا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 26 05:19:20 +0000",
+      "photo": ""
+    },
+    {
+      "title": "لاہور کے گرد ایک ہفتے کے دوران آگ لگنے کے 3,712 مقامات کی نشاندہی",
+      "link": "https://www.express.pk/story/2842062/3712-fire-incidents-identified-around-lahore-over-the-course-of-one-week-2842062",
+      "description": "بھارتی حدود میں آگ کے مقامات کی تعداد گزشتہ آٹھ برسوں کی اوسط سے نمایاں طور پر کم ریکارڈ ہوئی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 26 10:02:08 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ایم کیو ایم پاکستان سے انتخابی نشان واپس لینے کا عندیہ، الیکشن کمیشن نے نوٹس جاری کردیا",
+      "link": "https://www.express.pk/story/2842061/indication-of-withdrawing-the-election-symbol-from-mqm-pakistan-election-commission-issues-a-notice-2842061",
+      "description": "پارٹی الیکشنز ایکٹ 2017 کی دفعات 208، 209 اور 215 کے تقاضے پورے کرنے میں ناکام رہی ہے، نوٹس",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 26 05:00:59 +0000",
       "photo": ""
     },
     {
@@ -52,57 +95,21 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4f37/live/e4e1c7b0-d4e4-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Almost 8.4m ticket requests for India-Pakistan World Cup tie - BBC",
+      "title": "India vs Pakistan 2027 World Cup tie has 8.4m applications for tickets - BBC",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ndmY3RWpZZ3Z3S3I3bHJIRHdxS3pTZVQwM1pya1pRMmNtdzRycnRCcWYxZ2h0TElGc3ZSUnlWV29ZdzRtaHZrRWZCLXljUXhoMVRuTHFFM3g3UU9BLW1XcVE0S2VHMk0?oc=5",
-      "description": "Almost 8.4m ticket requests for India-Pakistan World Cup tie BBC",
+      "description": "India vs Pakistan 2027 World Cup tie has 8.4m applications for tickets BBC",
       "source": "Sports Pakistan",
       "cat": "National",
       "date": "Mon, 02 Nov 2026 17:59:02 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan plans nationwide golf promotion - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2hZLTJMVlhQS1NJQUdJWjJrNDRyVEl1OG5PcWxiUGRzNE8wWDg1c0xsSWNIaGFzSmQyM3NBeXhZT2ZMUUd4cHhyWU9pLWRTTktvaU1xLWxGSXFwa1NBODdQNzNicEdEYzhaTk5vY3NDR1JQaDRvZGE2bE02d082RVFBVdIBlgFBVV95cUxPejBmMkFBcWFESlVENGhSSDhHbUpteWlQeGVtODBLeU9VU09mZjJXQ1dfdmVzWFZrMThJZFVxZmVQNkcydXdMdjRSRTRJN01oYnRHNTNlN2E2b2RCUU1BWXBiS3BxRzFGcjFKeFRTNVFlSlcxaUI5WDUxZG9WaTZ2NmMwR19yUFpSRGdTRmk3dE1iLTZWUVE?oc=5",
-      "description": "Pakistan plans nationwide golf promotion The Express Tribune",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Sun, 01 Nov 2026 16:25:47 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan penalised for slow over rate against Sri Lanka - Jagonews24",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rQ0xvaVZIcXZLX3ZxMG9KWGo5QzdCbXZwYVJSMzJ0STEwME05SFczY2Nicnh6bU1zZ3J3V1V5bWMzVXd5a2N0NWE4dVFYRXFZaTNQZzIzNTBlOXc?oc=5",
-      "description": "Pakistan penalised for slow over rate against Sri Lanka Jagonews24",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Mon, 02 Nov 2026 14:20:13 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan lift O40s World Cup title in classic style - Jamaica Gleaner",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0Q0V0ZVSkVNUUsxd2liZV93TlBVcWZXUnBpZXpaSjdUaVZLYnZHRXVUR1JGWFJySnJMemd3RHl1aWhZcVlXMFdYQVhQbGItWnV6ZFZpN3lwR3E0OFhVcHdaRGpiMnE5NF9SVUtwWnNyX21lR2lteWMtSktPb3BRMzZHUVU1dVg1cld6ZGc0bkVoS0JNbTl1dXp0aXJaWmJD?oc=5",
-      "description": "Pakistan lift O40s World Cup title in classic style Jamaica Gleaner",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Mon, 02 Nov 2026 06:06:42 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Ex-Pakistan pacer Mohammad Amir breaks silence on IPL 2027 auction entry report - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0VuQW9ZX0IwSlZqT2RBaGtfM3duNWxyYUtJSnRQa1ZwX0RNM2xidXlkeGV6U0pTM2l3Rm1aN0JyN25IOFlBYWlQUWpZT2tpdWVDcW43d1VMUVIxSHIydXU3UDBnT21oazMzUXRYTnJUWDFqZDk4N1ZTMUNfc21pNjRVMkdhNVZYSW5Lamx3TG1BdC1XQzdmM1VvUEdHXzZCOC14ajQwazBZdGtaRl9Wa25VeklEazlTRFVFVElpOWR2Z9IBxwFBVV95cUxNQ1BKd3BEenZkYk1NMU94SG83N2JDQWJKamU4cVRCcHNidWNlbnhsdHZnLUFNWGVlNGFYTXRrNUZOUFNBcTlWSURHbGtWaVNPWGNWV0ZDVlVSSzExS0c1T0pQdVY1TUlVYzJWV2ROc20zX0FKdnc2MXhpYmU4ek9DZUJyekpwUEZpbDJFVXh3bHlJSV8zNlhPb19hcmhYOVZJdi1Sd01hbEhwdFpEZGNDY0Jza2JlS0E0Ti1BNEZiWm1lNmc1N2s0?oc=5",
-      "description": "Ex-Pakistan pacer Mohammad Amir breaks silence on IPL 2027 auction entry report India Today",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Mon, 02 Nov 2026 17:49:41 GMT",
-      "photo": ""
-    },
-    {
-      "title": "India's Prema Rawat snatches world record from Pakistan, hits fastest Women's T20 fifty - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTF2Z1dzRDZpcGxGcnYzVG14NV9zakc5TFBVdnQwb3hBMmprRTNQblQ3dTRIWE1nWnhWVmdKVWJwM3pXUjlKMWdTaGY3ZTlIZm91WTFGUzg1N0FjcmctN2V6ZDdORkFSSGg3WldmaU9pUjBYNFV1T0hiVGdDa1djSWg3UzM3SlM0NW5MSnpid1JfZjJpZzQyempicGpwTnRJR0w5bGRpdFZFbXBZZ1dyVDZwdUhNU0ZEYnhyODNqYjdoZjMwNnpnV1d30gHPAUFVX3lxTE5hak5SRUFCQnRSWVNJZDNXT1NWYTBLeGpVdHBvTWdYV0l6dHJyc0ZHOUF0cjJDWDdPLWVUYkVwSGhudlMwUGQ3Zkg4SDFMY2R6TjBUMjQzOU9zNHVqOHFKQWdKeFRlajBXUmhEWGxvMFRiWlVuMV9Ua2Q5YlpZUHU2TUY2amc3M0JMRVdsUzQxcVZaUzBZd0lNbW9jSjROQzIzLS1hZFNRVkhVdkdKSmE2SWJiTXc3eGg2R3IwMUNVaFAta0pITEppajE5WEtsZw?oc=5",
-      "description": "India's Prema Rawat snatches world record from Pakistan, hits fastest Women's T20 fifty India Today",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Mon, 02 Nov 2026 16:41:58 GMT",
+      "title": "پاکستان ریلویز کا پہلی بار عالمی مالیاتی رپورٹنگ معیارات کے تحت آڈٹ کروانے کا فیصلہ",
+      "link": "https://www.express.pk/story/2842099/pakistan-railways-to-undergo-first-ever-audit-under-international-financial-reporting-standards-2842099",
+      "description": "پاکستان ریلویز میں شفافیت پر کوئی سمجھوتہ نہیں کیا جائے گا اور ادارے کے ایک ایک روپے کا حساب لیا جائے گا، حنیف عباسی",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Tue, 03 Nov 26 06:56:56 +0000",
       "photo": ""
     },
     {
@@ -124,75 +131,102 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeea/live/1f81f800-d638-11f1-8399-41f2bbe0e990.jpg"
     },
     {
-      "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg.com",
+      "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHFSdFVCbGVzcFY0X2IyQUdUbTVqNzZlcjVVQnBNUzJETTlSczhra1hVb3JJVVZWS2l3MXdvRE91WDU5Ui1GZUpnYzF2VVlDM0IyTnhnRFdqaWtLdG1rTkdRZkJTNDVLWUlmZzBLeWhCREhZY0tnNDFjbno1ZW5SU1F3TWUtYVZodGd6bFVhbFRDSDBfYURBYzV5NGVBWEZkWm9YZjJjNnh2Q1h0aU9Heg?oc=5",
-      "description": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy Bloomberg.com",
+      "description": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy Bloomberg",
       "source": "Pakistan Economy",
       "cat": "Economy",
       "date": "Tue, 03 Nov 2026 03:31:00 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan’s commerce minister in Istanbul for OIC economic talks, bilateral meetings - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmw3UnpOODhfdE9FeDJzbDZCdW4td2xpcDRCWVk0N0stNjNVUFBqenNicEVBM3ZNQ0kwWWxwN0dIcGVnV0JfSEZWbHlkRWduWHJpQ3QxTEw2NXR2X1FpcG4zaFNtMVljVVpPbGdGamNYa3JPeDhqeS1mQjlIOUF3bWNjUVZUdW5SQUJMbHgweklmTENKVEhRekJVQUJYa1ZsdFhuMHNSQXN5dXl1aFhLSkhRSVB2TTcxTUFSb3VuWQ?oc=5",
-      "description": "Pakistan’s commerce minister in Istanbul for OIC economic talks, bilateral meetings Arab News PK",
+      "title": "Pakistan pushes for deeper OIC trade integration at Istanbul economic summit - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRzlycVd5RGFWV1d4MnlKZko5Q1I5V0dNbURESHVJRHJvMUF3aWxkS0RXTEFBWThEZWZveHRZMmtuYjJCcUVoNzFlalBkTGwxNHdCM3lQc0kzb19rYnhMQ09LdmxFdkZ0ZmdwVWxPbHRNa2NpYVZ6OUFEYkFzUTdFWkpiNG4xcVd6Z1JnWGlIV1pnZ05DXzRfWnZUZ2hWMTkwcEV5eE42cGM3VjFTZ3RPcW13aktfR2FG?oc=5",
+      "description": "Pakistan pushes for deeper OIC trade integration at Istanbul economic summit Arab News PK",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Mon, 02 Nov 2026 09:53:36 GMT",
+      "date": "Tue, 03 Nov 2026 06:24:10 GMT",
       "photo": ""
     },
     {
-      "title": "Tajik envoy for stronger economic engagement with Pakistan - Business Recorder",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10Nl9JbkVjTDJ6ZWc4TlFZSGx4U21QNTE0elB4QWllUEUya1pSc2FLVm5aQWZnaXI4ZWxmMnFGb25Gc1gxU2w3TjE3dmR3bnhS0gFWQVVfeXFMTzBMNzdoU19UZ0x1Z05ScDZoc0pQZ19IMGozSWtvOUxrdmJXUVhwTjEwQ2c1a3ptUGJ5dmIwOW9JMjhlODNPdW5UenpSUElSQW9jYVAxSHc?oc=5",
-      "description": "Tajik envoy for stronger economic engagement with Pakistan Business Recorder",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Tue, 03 Nov 2026 00:12:26 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کراچی: پولیس مقابلوں میں ایک ڈاکو ہلاک، 7 زخمی حالت میں گرفتار",
-      "link": "https://www.express.pk/story/2841954/karachi-police-encounters-2841954",
-      "description": "ملزمان کے قبضے سے اسلحہ و دیگر مسروقہ سامان بھی برآمد ہوا",
+      "title": "اسلام آباد؛ بچوں سے جنسی زیادتی کا میٹریل بنانے، رکھنے، پھیلانے میں ملوث ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2842106/islamabad-suspects-involved-in-producing-possessing-and-distributing-child-sexual-abuse-material-arrested-2842106",
+      "description": "ایک ملزم اپنے ہی بچے کے حوالے سے قابل اعتراض مواد بنانے اور پھیلانے میں ملوث نکلا، ذرائع",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 03 Nov 26 04:22:52 +0500",
+      "date": "Tue, 03 Nov 26 12:35:52 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی: سرجانی ٹاؤن میں فائرنگ سے نوجوان جاں بحق",
-      "link": "https://www.express.pk/story/2841953/man-shot-dead-in-karachi-2841953",
-      "description": "پولیس نے واقعہ ذاتی رنجش کا شاخسانہ قرار دیدیا جبکہ عینی شاہد کے مطابق نوجوان کو ڈکیتی مزاحمت پر قتل کیا گیا",
+      "title": "کراچی: کھڑی کار سے ملنے والے شخص کی لاش کے واقعہ کا مقدمہ درج",
+      "link": "https://www.express.pk/story/2842100/karachi-case-registered-in-connection-with-the-incident-of-a-persons-body-found-in-a-parked-car-2842100",
+      "description": "مقدمہ قتل کی دفعہ کے تحت جاں بحق شخص کے بھائی کی مدعیت میں ایف آئی آر نمبر 589 سال 2026 بتاریخ 3 نومبر کو درج کیا گیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 03 Nov 26 04:22:50 +0500",
+      "date": "Tue, 03 Nov 26 07:00:49 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی میں نوسرباز بینک کی خاتون کیشیئر کا دماغ ماؤف کر کے ہزاروں روپے لے کر فرار",
-      "link": "https://www.express.pk/story/2841939/hypnotized-a-female-cashier-inside-a-private-bank-and-fled-with-41000-rupees-in-cash-2841939",
-      "description": "ملزم نے خاتون سے بات کی اور اس دوران کیشیئر نے اُس کے ہاتھ میں 41 ہزار روپے نقد پکڑا دیے جس پر نوسرباز فرار ہوگیا",
+      "title": "کراچی: ڈاکس میں ٹریفک حادثے میں پولیس اہلکار جاں بحق",
+      "link": "https://www.express.pk/story/2842090/karachi-traffic-accident-2842090",
+      "description": "گاڑی کا ٹائی راڈ ٹوٹنے کی وجہ سے ہائی روف توازن کھو بیٹھی اور فٹ پاتھ سے ٹکراگئی",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Mon, 02 Nov 26 19:22:32 +0500",
+      "date": "Tue, 03 Nov 26 11:20:07 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور میں گھریلو ناچاقی پر سسرالیوں کا داماد پر تشدد",
-      "link": "https://www.express.pk/story/2841938/in-laws-assault-son-in-law-over-domestic-discord-in-lahore-2841938",
-      "description": "پولیس نے کارروائی کر کے سسر، سالے اور لڑکی کے کزن کو گرفتار کرلیا",
+      "title": "کراچی؛ دھاگے کی فیکٹری میں نوجوان کی پھندا لگی لٹکی ہوئی لاش برآمد",
+      "link": "https://www.express.pk/story/2842085/karachi-young-mans-body-found-hanging-by-a-rope-at-thread-factory-2842085",
+      "description": "پولیس نے واقعے کو ابتدائی طور پر خود کشی قرار دے کر مزید تفتیش شروع کر دی ہے",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Mon, 02 Nov 26 19:20:12 +0500",
+      "date": "Tue, 03 Nov 26 06:06:37 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی: ملزم نے ہپناٹائز کرکے خاتون کیشئر سے 41 ہزار روپے ہتھیالیے، ویڈیو وائرل",
-      "link": "https://www.express.pk/story/2841932/karachi-accused-hypnotized-and-stole-rs-41000-from-female-cashier-video-goes-viral-2841932",
-      "description": "ملزم نے گڈی مانگی اور گننے کے بہانے اس میں سے کمال ہوشیاری سے 41 ہزار روپے نکال کر رفو چکر ہوتے ہوئے دیکھا گیا",
-      "source": "Express Urdu",
+      "title": "مہندی کی تقریب میں بھگدڑ مچنے کے واقعے کے بعد ٹک ٹاکر مسٹر پتلو کی حفاظتی ضمانت منظور",
+      "link": "https://www.bbc.com/urdu/articles/ckdd8l2vvpvyo?at_medium=RSS&at_campaign=rss",
+      "description": "اسلام آباد ہائیکورٹ نے ٹک ٹاکر مسٹر پتلو کی حفاظتی ضمانت منظور کرتے ہوئے پولیس کو 10 نومبر تک ملزم کو گرفتار کرنے سے روک دیا ہے۔ جبکہ عدالت نے ملزم کو 10 نومبر کو دوبارہ عدالت میں پیش کرنے کا حکم بھی دیا ہے۔",
+      "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Mon, 02 Nov 26 18:36:29 +0500",
+      "date": "Tue, 03 Nov 2026 12:46:29 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9893/live/f98226a0-d783-11f1-9440-953b82c8f55a.png"
+    },
+    {
+      "title": "کراچی؛ نائٹ میچ کھیلنے والی پوری ٹیم ڈاکوؤں کے ہاتھوں لٹ گئی، ویڈیو سامنے آگئی",
+      "link": "https://www.express.pk/story/2842071/karachi-entire-team-playing-a-night-match-robbed-by-dacoits-video-emerges-2842071",
+      "description": "ملزمان نے واردات کے دوران کرکٹ میچ کھیلنے والے نوجوانوں کو تشدد کا نشانہ بھی بنایا",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Tue, 03 Nov 26 05:29:40 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ویمنز ٹی ٹوئنٹی: بھارتی کرکٹر پریما راوت نے پاکستانی کپتان فاطمہ ثنا کا ریکارڈ توڑ دیا",
+      "link": "https://www.express.pk/story/2842066/indias-prema-rawat-breaks-pakistan-captain-fatima-sanas-record-with-14-ball-fifty-2842066",
+      "description": "فاطمہ ثنا نے مئی 2026 میں زمبابوے کے خلاف کراچی میں یہ ریکارڈ قائم کیا تھا",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Tue, 03 Nov 26 10:26:46 +0500",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan v Sri Lanka First Test Day 1 - Kayo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0xTVXZLUGcwMXNqeG5NdHh4ZFJvUVZ6REhvd0Q3bUNCX1dESDl6ZDNPRHZzMnpxTmJ0UHVxcEVkVm5xM3NaMmlxbWd0d3RHQ2hRRFE4NkFrdVN1bkVUQVhsTmVVdHpPc3JUZHhjN0dTYlJqRF95VmRSZHdIYVo1clJ4V0F2RnRGY1VXOVMyRGFMWGJVTTk0OXJQRlU0bi1HQm8xM1QtM1VtZw?oc=5",
+      "description": "Pakistan v Sri Lanka First Test Day 1 Kayo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Tue, 03 Nov 2026 13:00:42 GMT",
+      "photo": ""
+    },
+    {
+      "title": "India-Pakistan 2027 World Cup clash draws 84 lakh ticket requests for 34,000-capacity stadium - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzhqV0dpMlp1QnJ6cF9mR3JiRnpONnd3dGxjS05scllGMC1ibGtsT05kNEFZOVlvbXdDazM2SlZheEpXZDB4dFctOHNuZWI2S2dKN2tNR2RDM1dVMWpSSGpVdGtkeXlmZ3lEZVE3TGlFM1RzeWRkZWRzdzhsSXM1TkFJOFo?oc=5",
+      "description": "India-Pakistan 2027 World Cup clash draws 84 lakh ticket requests for 34,000-capacity stadium Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Tue, 03 Nov 2026 11:10:00 GMT",
       "photo": ""
     },
     {
@@ -205,121 +239,94 @@
       "photo": ""
     },
     {
-      "title": "Nearly 8.4 million applications submitted for India–Pakistan match in Johannesburg — BBC Sport - UA.NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEVFN0tnVFg3bG83YmxBdHJERFlCZFN5ang0cDRwREhIc0RHNGdtNjk1SjdmRV9McFJTQlBjM09aVDExOFV0Qk41NzNfa0VQUlJNaHQ3LUU5a2VVSWljVHJOTThqRkpjUGswdmVKQTVraWhHT2Rjb2REM0h1eF9keWEyODQ0TjBXVE10em4xcmZTRVVrbDY4OS1wMU92SHp0a0VadjQ1Nlg?oc=5",
-      "description": "Nearly 8.4 million applications submitted for India–Pakistan match in Johannesburg — BBC Sport UA.NEWS",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Mon, 02 Nov 2026 19:03:45 GMT",
-      "photo": ""
-    },
-    {
-      "title": "India vs Pakistan match for ODI World Cup 2027 gets 84 lakh requests for 34,000 seats - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWGtYMmFnZ2lYN0c5M0UzRWpVbm9wYWVsWmV4bEhSc2huRUpJZjJTcVNKQXFXeXBJdkJRUHhfelU5Y1hQeFVsLXlaUUpRNWpsajF2cWJVOUc1dG1rTzBoUW5UVkJaSEVCc0NSN2dqUXE1eUlKa1pmSHZTN1IwbFFnYjl1VnZWbTJiLWQ1SEpWbjJIdnMxNS05NFRJNmR2azJOVkpCZUV3dFVzT3cyUGwzeE5sa1BHbXJSSWszanRCczZEQ005TlFxTNIBzgFBVV95cUxNVkFvWnhnQnlfZHZUSnlqdWpRZjdEakNTWUVCMmhRdTVwekR5TkFpdzdqMXNONzdzZUJOUXg5amFhRlhZUGZmQUxjMmF3bFgyM0VpUXBSckNuY3NRTmtMX2x3QlpMZTNOTEJOMjNPd1ZZWk15YmZuRUdPNFJKOUFxMlU1TW1OQ05DLWdEbml6cm5udDFHU1NEeE9tWkFYT2M2NnZhRHBsVi1Yc05PNDd2R01vWGJTWmdPd1BRdmo4ckVRenJhNmFfQ0NXcUV2QQ?oc=5",
-      "description": "India vs Pakistan match for ODI World Cup 2027 gets 84 lakh requests for 34,000 seats India Today",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Tue, 03 Nov 2026 03:23:23 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Islamabad Family Festival | Starts | Tourism, Sports and Culture - Aaj Pakistan with Sidra Iqbal - Aaj News",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBacDVucnFfN1ZLaWpfQ1ZxbE1pUDFKRFdUdEVicmY3Mi1QUENyN1gwcHFNSmZBLVUyb0JJUmVwN0xXNnhoYzV4VGF3MTU?oc=5",
-      "description": "Islamabad Family Festival | Starts | Tourism, Sports and Culture - Aaj Pakistan with Sidra Iqbal Aaj News",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Mon, 02 Nov 2026 08:00:15 GMT",
-      "photo": ""
-    },
-    {
-      "title": "24 years later: Pakistan recreate India's Lord's magic with record-equalling chase - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVhtMXVlRHl3NFlnS3I4bHlIczB1M1YxWnBXZ21BaHpkZ3RIbkdaRUVXUG9oektJcm9QYk1hczdGTk0xa0wtcXZUYWtiNmpPYktxRG1vZTFValVmM21pR0hJT3BlenVncTFKWkN5enhNdG5KSzZJeWpUdzQ2Y0VZMlE2QjhMMTNR?oc=5",
-      "description": "24 years later: Pakistan recreate India's Lord's magic with record-equalling chase Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sun, 01 Nov 2026 07:10:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "فلائی جناح کے نئے ایئربس اے 320 طیارے کی فرانس میں پہلی کامیاب آزمائشی پرواز",
-      "link": "https://www.express.pk/story/2841960/fly-jinnahs-new-airbus-a320-completes-first-successful-test-flight-in-france-2841960",
-      "description": "طیارے نے پہلی اڑان وقتی طور پر فرانسیسی رجسٹریشن کے ساتھ کی،",
+      "title": "شاہ رخ خان کی فلم ’کنگ‘ نے ریلیز سے پہلے 665 کروڑ روپے کا بزنس کرلیا",
+      "link": "https://www.express.pk/story/2842115/shah-rukh-khan-film-king-has-generated-665-crore-rupees-in-business-before-its-release-2842115",
+      "description": "’کنگ‘ 2023 کی کامیاب فلم ’پٹھان‘ کے بعد شاہ رخ خان اور سدھارتھ آنند کا دوسرا بڑا اشتراک ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 02 Nov 26 23:34:25 +0000",
+      "date": "Tue, 03 Nov 26 13:20:27 +0500",
       "photo": ""
     },
     {
-      "title": "بھارت میں انتخابی فہرستوں پر تنازع شدت اختیار کرگیا،نئی دہلی میں بڑااحتجاج",
-      "link": "https://www.express.pk/story/2841957/controversy-over-electoral-rolls-intensifies-in-india-major-protest-in-new-delhi-2841957",
-      "description": "مظاہرین نےالیکشن کمیشن حکام کیخلاف شدید نعرے بازی کی",
+      "title": "مقتول نے خواب میں آکر 20 راتیں سونے نہیں دیا؛ قاتل دوست خود پولیس کے پاس پہنچ گیا",
+      "link": "https://www.express.pk/story/2842112/maharashtra-man-kills-friend-surrenders-after-20-days-nightmares-2842112",
+      "description": "شراب نوشی کے دوران دونوں دوستوں کے درمیان ہاتھا پائی میں ایک دوست قتل ہوگیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 03 Nov 26 04:31:59 +0500",
+      "date": "Tue, 03 Nov 26 13:06:42 +0500",
       "photo": ""
     },
     {
-      "title": "کرپٹو کا فریب اور6 ارب ڈالر کی چوری",
-      "link": "https://www.express.pk/story/2841950/crypto-ka-fareb-aur-6-arab-dollar-ki-chori-2841950",
-      "description": "بٹ کوائن نے اکیسویں صدی کے انسان کو ایک نہایت دلکش اور ماورائی وعدہ دیا تھا کہ ’’کوڈ پر بھروسا کرو، ادارے پر نہیں۔‘‘",
+      "title": "حکومت کا آسان ٹیکس اسکیم میں رجسٹر نہ ہونے والے دکانداروں کے خلاف کارروائی کا فیصلہ",
+      "link": "https://www.express.pk/story/2842111/govt-easy-tax-scheme-action-against-non-registered-shopkeepers-2842111",
+      "description": "حکومت نان فائلر دکان داروں کے خلاف سخت قانونی کارروائی اور جرمانوں کا آغاز کر رہی ہے، وزیرمملکت بلال اظہر کیانی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 02 Nov 26 21:06:51 +0500",
+      "date": "Tue, 03 Nov 26 08:03:33 +0000",
       "photo": ""
     },
     {
-      "title": "کیا مڈٹرم الیکشن ٹرمپ کے پر کاٹیں گے؟",
-      "link": "https://www.express.pk/story/2841949/kya-midterm-elections-trump-ke-par-kaatain-ge-2841949",
-      "description": "امریکی کانگریس کے ہر دو برس بعد وسط مدتی انتخابات اب سے پہلے کوئی بڑی عالمی خبر نہیں تھے۔",
+      "title": "پولینڈ، اسپین اور بلغاریہ کے 4 طیاروں کو بم سے اُڑانے کی دھمکی پر ہلچل مچ گئی",
+      "link": "https://www.express.pk/story/2842110/four-flights-bomb-threats-emergency-landings-europe-2842110",
+      "description": "بم کی اطلاع پر برطانیہ سے روانہ ہونے والی دو پروازوں کو بھی بحفاظت اتارا گیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 02 Nov 26 21:04:55 +0500",
+      "date": "Tue, 03 Nov 26 07:51:03 +0000",
       "photo": ""
     },
     {
-      "title": "ایران کے جزیرہ قشم پر امریکی حملے کی خبر کے بعد عالمی منڈی میں خام تیل مہنگا ہوگیا",
-      "link": "https://www.express.pk/story/2841964/oil-prices-rise-after-reports-of-us-strikes-on-irans-qeshm-island-2841964",
-      "description": "امریکی حملے کی خبر نے خطے میں کشیدگی اور تیل کی ترسیل کے حوالے سے خدشات کو دوبارہ نمایاں کردیا ہے",
+      "title": "قشم جزیرے پر مبینہ امریکی حملوں میں اسرائیل کے ملوث ہونے کی تردید",
+      "link": "https://www.express.pk/story/2842080/israeli-military-says-it-had-no-role-in-reported-attacks-on-qeshm-2842080",
+      "description": "اسرائیلی فوج کے مطابق جزیرے پر امریکی حملوں میں اس کا کوئی کردار نہیں تھا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 02 Nov 26 23:38:17 +0000",
+      "date": "Tue, 03 Nov 26 10:53:10 +0500",
       "photo": ""
     },
     {
-      "title": "امریکا کے آبنائے ہرمز میں ایرانی جزیرے قشم پر حملے، دفاعی کارروائی قرار دے دیا",
-      "link": "https://www.express.pk/story/2841952/us-carries-out-limited-defensive-strikes-on-irans-qeshm-island-officials-say-2841952",
-      "description": "یہ کارروائیاں دفاعی نوعیت کی اور محدود ہیں، جن کا مقصد اثاثوں کو ایرانی میزائل حملوں سے محفوظ رکھنا ہے، امریکی حکام",
+      "title": "ایم کیو ایم والے کان کھول کر سن لیں، شاہراہِ فیصل پر جلسے کی اجازت ہرگز نہیں ہوگی، شرجیل میمن",
+      "link": "https://www.express.pk/story/2842079/sindh-information-minister-sharjeel-memon-2842079",
+      "description": "ایم کیو ایم کو 12 مئی جیسے واقعات دہرانے نہیں دیں گے، سینئر صوبائی وزیر کی پریس کانفرنس",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 02 Nov 26 23:03:00 +0000",
+      "date": "Tue, 03 Nov 26 05:50:06 +0000",
       "photo": ""
     },
     {
-      "title": "نیتن یاہو کا اقتدار خطرے میں!",
-      "link": "https://www.express.pk/story/2841946/netanyahu-ka-iqtidar-khatray-mein-2841946",
-      "description": "ایران پر حملہ کرنے والے دو ممالک امریکا اور اسرائیل کے صدر اپنے سیاسی مستقبل کے حوالے سے پریشان کن صورت حال سے دوچار ہیں۔",
+      "title": "مکہ مکرمہ پر ڈرون حملہ، سعودی اتحاد نے فضا میں ہی تباہ کرنے کا دعویٰ کردیا",
+      "link": "https://www.express.pk/story/2842072/saudi-led-coalition-says-it-intercepted-a-drone-in-makkah-region-2842072",
+      "description": "سعودی عرب کو حالیہ عرصے میں متعدد مرتبہ حملوں کی لہروں کا سامنا کرنا پڑا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 02 Nov 26 20:47:32 +0500",
+      "date": "Tue, 03 Nov 26 05:34:19 +0000",
       "photo": ""
     },
     {
-      "title": "امریکا سے حساس مذاکرات جاری ہیں، پاکستان اور قطر سرگرم کردار ادا کر رہے ہیں؛ ایران",
-      "link": "https://www.express.pk/story/2841930/abbas-araghchi-intensive-indirect-talks-us-qatar-pakistan-2841930",
-      "description": "ایران اپنی تجاویز اور شرائط پیش کرچکا ہے اور اب اگلا قدم امریکی حکومت کے ردعمل پر منحصر ہے، عباس عراقچی",
+      "title": "اکتوبر میں سیمنٹ کی مقامی فروخت بڑھ گئی، برآمدات میں کمی ریکارڈ",
+      "link": "https://www.express.pk/story/2842060/domestic-cement-sales-increased-in-october-a-decline-was-recorded-in-exports-2842060",
+      "description": "جولائی تا اکتوبر سیمنٹ کی مجموعی فروخت 2.93 فیصد اضافے سے ایک کروڑ 79 لاکھ 53 ہزار ٹن تک پہنچ گئی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 02 Nov 26 13:20:53 +0000",
+      "date": "Tue, 03 Nov 26 04:56:26 +0000",
       "photo": ""
     },
     {
-      "title": "آن لائن دعوت نامہ اور نہ ہونے والی شادی کا جشن، جو 11 خواتین کے لیے زندگی کے خوبصورت ترین سفر کی وجہ بنا",
-      "link": "https://www.bbc.com/urdu/articles/c54g1yxmz28yo?at_medium=RSS&at_campaign=rss",
-      "description": "جب ان کے منگیتر کو ایک میڈیکل ایمرجنسی کا سامنا کرنا پڑا اور ان کی طے شدہ شادی اور رشتہ دونوں ختم ہو گئے، تو برجٹ ڈیوانی چاہتیں تو خاموشی سے زندگی کے اس باب کو بند کر دیتیں۔ مگر انھوں نے اس کے برعکس ایک ایسا قدم اٹھایا جو بیک وقت حیران کن بھی تھا اور امید افزا بھی۔",
+      "title": "کم کارڈیشین نے اپنی صلاحیتوں پر سوال اٹھانے والوں کو دلچسپ جواب دے دیا",
+      "link": "https://www.express.pk/story/2842101/kim-kardashian-gave-an-interesting-response-to-those-questioning-her-abilities-2842101",
+      "description": "کم کارڈیشین کے مطابق وہ اپنے اردگرد ایسے باصلاحیت افراد کو رکھنا چاہتی ہیں جو ان سے زیادہ تجربہ رکھتے ہوں",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Tue, 03 Nov 26 12:07:15 +0500",
+      "photo": ""
+    },
+    {
+      "title": "بی بی سی اُردو اب موبائل ایپ پر بھی دستیاب",
+      "link": "https://www.bbc.com/urdu/articles/cmgrvzx905wro?at_medium=RSS&at_campaign=rss",
+      "description": "بی بی سی اُردونے اپنی نئی ایپ لانچ کر دی ہے، جس کے ذریعے اب صارفین اپنی دلچسپی کی تمام علاقائی و عالمی خبریں، تجزیے اور معلومات براہ راست اپنے موبائل فون یا ٹیبلٹ پر حاصل کر سکیں گے۔",
       "source": "BBC Urdu",
       "cat": "Strange",
-      "date": "Mon, 02 Nov 2026 12:05:26 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3da8/live/bf699010-d473-11f1-a701-fddedf244c16.jpg"
+      "date": "Tue, 03 Nov 2026 07:36:43 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3be0/live/956bd7d0-d759-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "sources": [
@@ -345,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 35,
+      "added": 25,
       "ok": true
     },
     {
@@ -371,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 35,
+      "added": 24,
       "ok": true
     }
   ]
