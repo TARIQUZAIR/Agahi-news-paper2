@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T19:26:17.927688+00:00",
-  "count": 35,
+  "generated_at": "2026-11-06T01:21:24.489705+00:00",
+  "count": 34,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,69 +11,53 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
     {
-      "title": "میر رضا کیس کی جے آئی ٹی کا اجلاس طلب، مقتول کے اہل خانہ کا بیان ریکارڈ کیا جائے گا",
-      "link": "https://www.express.pk/story/2842579/mir-raza-jit-1st-meeting-2842579",
-      "description": "اجلاس ڈی آئی جی ویسٹ زون آفس کراچی کے کانفرنس روم میں منعقد ہوگا",
+      "title": "بلوچستان کے حالات دیکھ کر دل خون کے آنسو روتا ہے، جسٹس جمال مندوخیل",
+      "link": "https://www.express.pk/story/2842620/my-heart-weeps-tears-of-blood-when-i-look-at-the-situation-in-balochistan-says-justice-jamal-mandokhail-2842620",
+      "description": "امن قائم ہوگا تو کاروباری سرگرمیاں بحال ہوں گی اور لوگ اپنے مسائل کے حل کے لیے عدالتوں کا رخ کریں گے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 26 17:59:37 +0500",
+      "date": "Fri, 06 Nov 26 01:01:59 +0500",
       "photo": ""
     },
     {
-      "title": "تونسہ بیراج پر عالمی معیار کا ڈولفن ریزورٹ افتتاح کے بعد سیاحوں کے لیے کھول دیا گیا",
-      "link": "https://www.express.pk/story/2842570/the-world-class-dolphin-resort-at-taunsa-barrage-has-been-opened-to-tourists-following-its-inauguration-2842570",
-      "description": "وزیراعلیٰ پنجاب مریم نواز نے کوٹ ادو میں دریائے سندھ کے کنارے قائم ٹی ڈی سی پی ڈولفن ریزورٹ کا باقاعدہ افتتاح کیا",
+      "title": "پنجاب حکومت کو بدنام کرکے متبادل انتظام لانے کی کوشش ہو رہی ہے، خواجہ آصف",
+      "link": "https://www.express.pk/story/2842615/efforts-are-being-made-to-bring-in-an-alternative-arrangement-by-discrediting-the-punjab-government-says-khawaja-asif-2842615",
+      "description": "کرپشن صرف پنجاب کا مسئلہ نہیں بلکہ پورے ملک میں موجود ہے، وزیر دفاع",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 26 17:08:23 +0500",
+      "date": "Thu, 05 Nov 26 19:17:30 +0000",
       "photo": ""
     },
     {
-      "title": "پاک-افغان سرحد پر فتنۃ الخوارج دہشتگرد تشکیل، دراندازی کی کوشش ناکام بنا دی گئی",
-      "link": "https://www.express.pk/story/2842568/pak-afghan-border-fitna-tul-khawarij-terrorist-attempted-infiltration-by-fitna-al-khawarij-militants-foiled-2842568",
-      "description": "پاکستانی سیکیورٹی فورسز نے بھاری ہتھیاروں کا استعمال کرتے ہوئے افغان طالبان کی جارحیت کا منہ توڑ جواب دیا، ذرائع",
+      "title": "برآمد کنندگان کی بلیک لسٹنگ کے مسائل حل کرینگے، راشد لنگڑیال",
+      "link": "https://www.express.pk/story/2842612/we-will-resolve-issues-regarding-the-blacklisting-of-exporters-says-rashid-langrial-2842612",
+      "description": "گورنر سندھ کی موجودگی میں ٹاول مینوفیکچررز اینڈ ایکسپورٹرز ایسوسی ایشن کے ساتھ اجلاس",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 26 11:52:13 +0000",
+      "date": "Thu, 05 Nov 26 18:10:57 +0000",
       "photo": ""
     },
     {
-      "title": "ایئربلیو کا جہاز کراچی میں لینڈنگ کے دوران بڑے حادثے سے بچ گیا",
-      "link": "https://www.express.pk/story/2842563/airblue-plane-during-landing-in-karachi-narrowly-escape-major-accident-2842563",
-      "description": "ذرائع نے بتایا کہ اسلام آباد سے کراچی آنے والا ایئربلیو کا طیارہ لینڈنگ کے دوران بڑے حادثے سے بچ گیا",
+      "title": "کراچی، سینٹرل جیل کی بیرک میں کرنٹ لگنے سے سزائے موت کا قیدی ہلاک",
+      "link": "https://www.express.pk/story/2842604/death-row-prisoner-dies-from-electric-shock-in-a-karachi-central-jail-barrack-2842604",
+      "description": "قیدی امجد پر ریپ کے مقدمات درج تھے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 26 15:57:04 +0500",
+      "date": "Thu, 05 Nov 26 20:58:04 +0500",
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا؛ لوکل کونسل کا بلدیاتی انتخابات کا التوا آئینی عدالت میں چیلنج کرنے کا فیصلہ",
-      "link": "https://www.express.pk/story/2842561/kp-local-council-decide-challenge-postponement-of-local-elections-in-constitutional-court-2842561",
-      "description": "وکلا سے مشاورت کرلی ہے اور اس فیصلے کو آئینی عدالت میں چیلنج کریں گے، چیئرمین لوکل کونسل ایسوسی ایشن حمایت اللہ مایار",
+      "title": "کراچی: پی ایس بی کوچنگ سینٹر کے گراؤنڈ پر مصنوعی کے بجائے قدرتی گھاس لگانے کا فیصلہ",
+      "link": "https://www.express.pk/story/2842593/karachi-decision-taken-to-plant-real-natural-grass-on-the-psb-coaching-centre-ground-2842593",
+      "description": "پی ایس بی کی جانب سے نئے تعمیراتی منصوبے کے تحت قدرتی گھاس کی بجائے مصنوعی گھاس لگانے کا فیصلہ کیا گیا تھا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 26 10:35:44 +0000",
-      "photo": ""
-    },
-    {
-      "title": "پاکستان کے عرفات منہاس آئی سی سی پلیئر آف دی منتھ ایوارڈ کے لیے نامزد",
-      "link": "https://www.express.pk/story/2842554/arafat-minhas-nominated-for-icc-player-of-the-month-2842554",
-      "description": "ایوارڈ کے لیے جنوبی افریقہ کے آل راؤنڈر مارکو جانسن اور ویسٹ انڈیز کے کپتان شائی ہوپ کو بھی نامزد کیا گیا ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Thu, 05 Nov 26 15:13:13 +0500",
-      "photo": ""
-    },
-    {
-      "title": "سندھ ہائیکورٹ؛ نواز شریف کی گھر اسکیم کی 12 ایکڑ زمین کا تنازع، سیکریٹری طلب",
-      "link": "https://www.express.pk/story/2842549/sindh-high-court-nawaz-sharifs-house-scheme-12-acre-land-dispute-sec-summoned-2842549",
-      "description": "وفاق نے 1962 میں حکومت سندھ سے 80 ایکڑ زمین خریدی، پاکستان ہاؤسنگ اتھارٹی کے وکیل کا مؤقف",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Thu, 05 Nov 26 14:56:31 +0500",
+      "date": "Thu, 05 Nov 26 19:38:59 +0500",
       "photo": ""
     },
     {
@@ -104,6 +88,33 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d5f/live/0e5e2920-d8dd-11f1-aa01-7b3ecf1680c0.png"
     },
     {
+      "title": "تھرپارکر میں نومولود بچی، ماں سمیت 10 ہلاک: تحقیقاتی کمیٹی دھماکے کی وجہ کا تعین نہ کر سکی",
+      "link": "https://www.bbc.com/urdu/articles/c6m2dp2yd10eo?at_medium=RSS&at_campaign=rss",
+      "description": "سندھ کے ضلع تھرپارکر کے علاقے ڈانو داندل میں بنیادی مرکز صحت کے باہر کھڑی ایمبولینس میں آگ لگنے اور دھماکے کی حتمی وجہ تاحال سامنے نہیں آ سکی ہے۔ محکمہ صحت سندھ کی قائم کردہ انکوائری کمیٹی نے فرانزک اور تکنیکی رپورٹس کا انتظار کرنے کی سفارش کی ہے۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Thu, 05 Nov 2026 14:12:20 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df8a/live/1dfdf0b0-d5e3-11f1-8fc6-43c59756914a.jpg"
+    },
+    {
+      "title": "اسلام آباد کی پہلی جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی؟",
+      "link": "https://www.bbc.com/urdu/watch/cv4g1511w85wo?at_medium=RSS&at_campaign=rss",
+      "description": "اسلام آباد کی پہلی جیل کا پہلا حصہ 17سال کے بعد مکمل ہو پایا۔ یہ جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی اور اس نئی جیل میں کن قیدیوں کو رکھا جائے گا؟",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Thu, 05 Nov 2026 14:04:52 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47d7/live/183ca570-d91e-11f1-ad94-e17fee4cd332.jpg"
+    },
+    {
+      "title": "پیٹرولیم مصنوعات کی قیمتوں میں کمی کے بعد گڈز ٹرانسپورٹرز بھی میدان میں آگئے",
+      "link": "https://www.express.pk/story/2842618/following-the-reduction-in-the-prices-of-petroleum-products-goods-transporters-have-also-stepped-forward-2842618",
+      "description": "آل پاکستان گڈز ٹرانسپورٹ اتحاد کے صدر کا پیٹرولیم مصنوعات کی قیمتوں میں کمی کا خیرمقدم",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Thu, 05 Nov 26 19:39:58 +0000",
+      "photo": ""
+    },
+    {
       "title": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
       "link": "https://www.bbc.com/urdu/articles/cky93zz5r90lo?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان کے زرمبادلہ ذخائر میں ایک بڑا حصہ ان ڈیپازٹس کا ہے جو دوست ملکوں کی جانب سے پاکستان کو دیے گئے ہیں۔ ان میں سعودی عرب کی جانب سے دیے گئے آٹھ ارب ڈالر بھی شامل ہیں۔",
@@ -122,76 +133,67 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67a5/live/4a270740-76a1-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
+      "title": "پیٹرول 9.41 روپے، ڈیزل 5.56 روپے فی لیٹر سستا",
+      "link": "https://www.bbc.co.uk/urdu/live/c6d098zgmdnlt?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں پیٹرول کی قیمت میں 9.41 روپے اور ہائی سپیڈ ڈیزل کی قیمت میں 5.56 روپے فی لیٹر کمی کر دی گئی ہے۔ کمی کے بعد پیٹرول کی نئی قیمت 352.59 روپے جبکہ ہائی سپیڈ ڈیزل کی قیمت 382.25 روپے فی لیٹر ہو گئی ہے۔",
+      "source": "BBC Urdu",
+      "cat": "Economy",
+      "date": "",
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5f/live/96f1e9c0-d955-11f1-b7f4-8bd3c0617693.jpg"
+    },
+    {
       "title": "IMF country head urges Pakistan to broaden tax base, pursue growth-oriented reforms - The Express Tribune",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWxHMzdmOGhyUGdrUmRWTVpGV18tYWkybGJfc3BYNlpTd05HNmFNeThXOURqeEVvWTlQeWdoUWttSVFqWTV5R1ZpYlc5bVdJV3pHaGV2b3NkQU91LVppRFNpTFJEZk9uRkdmNXBfcmp3UEFLTHZ0UWdHQXFlRGItOTJRRVM3VTlEZmhQaE9YeWpUSy1mUWIyMzVhSGJzTG5HRWI0TWhicUFUaURHT0xBSnExYzJqeWV2bXY4?oc=5",
       "description": "IMF country head urges Pakistan to broaden tax base, pursue growth-oriented reforms The Express Tribune",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Thu, 05 Nov 2026 17:14:32 GMT",
+      "date": "Thu, 05 Nov 2026 19:07:44 GMT",
       "photo": ""
     },
     {
-      "title": "Issue Brief on “Pakistan’s Push Towards a Digital Economy” - Institute of Strategic Studies Islamabad (ISSI)",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkhVdTduWDl0YnJQRWRhRGNvSFNDcU0zNkxmUlJUcW0xQXc5VTE3ZGtMS1QyQkdKbjYyd21wbzhtOW1iRnNmTjVyNnRwRGdHLWV1aFhwUEZoUHZma2VFS1RFRDhwcnQzb0dqV1FXTmVIOEZKS1RqaU5aellDUnlKX1pB?oc=5",
-      "description": "Issue Brief on “Pakistan’s Push Towards a Digital Economy” Institute of Strategic Studies Islamabad (ISSI)",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 04 Nov 2026 16:14:49 GMT",
-      "photo": ""
-    },
-    {
-      "title": "An Illusion Of Reform: The Political Economy Of Pakistan's Persistent Failures - The Friday Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclhWaDJUSFFJSGlSaEhXWm5MRldsUmRtendGdTNyQnA4Rm1tUl8xeVBqbllMdGdfQmdOSU1WMGZGcWEyNzB5N1dDTXlMNU13cXJ5ZnR3S3RvdHM3VjhqMm5IZ1dxdFBWdTVvVXFJZ0tqY0YweG9URVpSVFZKY1VmdGEwR05fMDItM0VUVW9aaDdGMk12WnNySHJOa2pxdU1oVXVQVnd0Tl9kY2M?oc=5",
-      "description": "An Illusion Of Reform: The Political Economy Of Pakistan's Persistent Failures The Friday Times",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 04 Nov 2026 09:52:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کراچی میں بارات کی خوشی میں فائرنگ سے چھت پر سویا 11 سالہ بچہ جاں بحق",
-      "link": "https://www.express.pk/story/2842589/11-year-old-boy-sleeping-on-a-rooftop-was-killed-by-gunfire-during-wedding-celebrations-2842589",
-      "description": "پولیس نے علاقے سے جانے والی بارات کا سراغ لگا شادی ہال پر چھاپہ مار کر دلہا کو حراست میں لےلیا، ایس ایچ او زمان ٹاؤن",
+      "title": "خیبرپختونخوا میں تھری ایم پی او کے تحت گرفتاریاں روکنے کے احکامات معطل",
+      "link": "https://www.express.pk/story/2842616/orders-to-stop-arrests-under-3-mpos-suspended-in-khyber-pakhtunkhwa-2842616",
+      "description": "جہاں فوج تعینات ہو وہاں آرٹیکل 199 کے تحت ہائیکورٹ براہ راست کیس نہیں سکتی",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 05 Nov 26 19:06:10 +0500",
+      "date": "Thu, 05 Nov 26 19:23:44 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی میں اندھی گولیاں لگنے سے اکتوبر میں مزید 43 شہری زخمی",
-      "link": "https://www.express.pk/story/2842572/43-more-civilians-injured-in-karachi-in-october-due-to-indiscriminate-shooting-2842572",
-      "description": "2 ماہ ستمبر سے اکتوبر میں نامعلوم سمت کی گولیاں لگنے سے مجموعی طور پر 67 افراد زخمی ہوئے، پولیس روک تھام میں ناکام",
+      "title": "اورنگی ٹاؤن الطاف نگر میں فائرنگ سے نوجوان جاں بحق ہوگیا",
+      "link": "https://www.express.pk/story/2842605/a-young-man-was-killed-in-a-shooting-in-altaf-nagar-orangi-town-2842605",
+      "description": "واقعہ نامعلوم ملزمان کی فائرنگ سے پیش آیا ہے ۔ پاکستان بازار پولیس",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 05 Nov 26 12:18:47 +0000",
+      "date": "Thu, 05 Nov 26 21:02:33 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی: قبرستان میں آدھی دفنائی گئی لاش کا معمہ حل، دو بھائی گرفتار",
-      "link": "https://www.express.pk/story/2842552/body-found-in-karachi-turned-out-to-be-that-of-a-criminal-2842552",
-      "description": "لاش کی شناخت کامران گل کے نام سے کی گئی ، پولیس نے 6 گھنٹوں میں ملزمان کو گرفتار کرلیا",
+      "title": "پسند کی شادیوں پر مسلسل قتل",
+      "link": "https://www.express.pk/story/2842601/pasand-ki-shadiyon-par-musalsal-qatl-2842601",
+      "description": "کراچی میں پسند کی شادی کرنے والے جوڑا جو جان بچانے کی غرض سے اسکردو منتقل ہوگیا تھا، اس کو برسوں بعد بھی برداشت نہیں کیاگیا۔",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 05 Nov 26 15:04:49 +0500",
+      "date": "Thu, 05 Nov 26 20:54:40 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور: دورانِ ڈیوٹی شہری سے کھانے کے پیسے مانگنے والے تین پولیس اہلکار گرفتار، مقدمہ درج",
-      "link": "https://www.express.pk/story/2842550/lahore-three-police-officers-arrested-for-demanding-money-for-food-from-a-citizen-while-on-duty-case-registered-2842550",
-      "description": "تینوں اہلکاروں نے برکت مارکیٹ میں ایک شہری کو روک کر کھانے کے لیے پیسے مانگے تھے",
+      "title": "کراچی، گلشن معمار گبول گوٹھ میں ڈکیتی مزاحمت پر زخمی شخص دوران علاج دم توڑ گیا",
+      "link": "https://www.express.pk/story/2842597/in-karachis-gulshan-e-memar-gabol-goth-a-man-wounded-while-resisting-a-robbery-succumbed-to-his-injuries-during-treatment-2842597",
+      "description": "رواں سال ڈاکووں کی فائرنگ سے جاں بحق شہریوں کی تعداد 65 ہوگئی",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 05 Nov 26 14:56:36 +0500",
+      "date": "Thu, 05 Nov 26 20:52:19 +0500",
       "photo": ""
     },
     {
-      "title": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم جو پیٹرول پمپ کی سی سی ٹی وی فوٹیج سے پکڑا گیا",
-      "link": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
-      "description": "یہ 28 اکتوبر کی شام سات بجے کا وقت ہو گا جب جنوبی پنجاب کے ضلع ملتان کے علاقے لطف آباد میں ایک مکان کی بالائی منزل پر آگ لگنے کا شور مچا۔ لیکن آگ بجھنے پر اندر کا منظر ہولناک تھا۔",
-      "source": "BBC Urdu",
+      "title": "کراچی میں ڈکیتی مزاحمت پر مزید 2 شہری جاں بحق",
+      "link": "https://www.express.pk/story/2842594/two-more-citizens-killed-in-karachi-for-resisting-robbery-2842594",
+      "description": "گلشن معمار گبول گوٹھ میں ڈکیتی مزاحمت پر زخمی ہونے والا شہری اور اورنگی ٹاؤن الطاف نگر میں 22 سالہ نوجوان جاں بحق",
+      "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 05 Nov 2026 04:15:54 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aebb/live/d2b21bb0-d8c9-11f1-a2a7-03373c220754.jpg"
+      "date": "Thu, 05 Nov 26 19:50:40 +0500",
+      "photo": ""
     },
     {
       "title": "ابوظبی ٹی 10 لیگ میں پاکستانی کرکٹرز کی شرکت کی راہ ہموار، پی سی بی اور منتظمین میں معاملات طے",
@@ -203,12 +205,12 @@
       "photo": ""
     },
     {
-      "title": "ساف چیمپئن شپ: بھارت نے پاکستان کو 3-2 سے ہرادیا",
-      "link": "https://www.express.pk/story/2842565/saff-championship-india-defeated-pakistan-3-2-2842565",
-      "description": "پاکستان اپنا آخری گروپ میچ اتوار 8 نومبر کو دوپہر 2 بج کر 30 منٹ پر مالدیپ کے خلاف کھیلے گا",
-      "source": "Express Urdu",
+      "title": "Pakistan U-19 cricketers inspire youngsters at Beaconhouse sports day - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm42RWJ2cm93bGtzWkI2bmRHQ3BoeVNOekdNcVN5dmt6UGtOcHFqZlhQVXlYRm1sNDdUTmsyNXNwWjZObFpmUzFUYlhUdmVtZldpQzlYUnl5VGszMnJNdE51Rk5TSi0xdFl2MzBzcTJ4TTBCVFRJZnNOZVVKSW5TcXlFWnhDMVR2V3JaemdiSnk5cXlhXzUwZEFUZHA1OWNBMFkxczNRbHpmdw?oc=5",
+      "description": "Pakistan U-19 cricketers inspire youngsters at Beaconhouse sports day The News Pakistan",
+      "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 05 Nov 26 16:09:52 +0500",
+      "date": "Wed, 04 Nov 2026 19:00:00 GMT",
       "photo": ""
     },
     {
@@ -230,93 +232,84 @@
       "photo": ""
     },
     {
-      "title": "Pakistan U-19 cricketers inspire youngsters at Beaconhouse sports day - The News Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm42RWJ2cm93bGtzWkI2bmRHQ3BoeVNOekdNcVN5dmt6UGtOcHFqZlhQVXlYRm1sNDdUTmsyNXNwWjZObFpmUzFUYlhUdmVtZldpQzlYUnl5VGszMnJNdE51Rk5TSi0xdFl2MzBzcTJ4TTBCVFRJZnNOZVVKSW5TcXlFWnhDMVR2V3JaemdiSnk5cXlhXzUwZEFUZHA1OWNBMFkxczNRbHpmdw?oc=5",
-      "description": "Pakistan U-19 cricketers inspire youngsters at Beaconhouse sports day The News Pakistan",
+      "title": "Pakistan vs. India Lineups and Confirmed Team News for SAFF Championship - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWF9hdVp2X1d1MjZYVFVjVFY1TXVJZFFMc25mb1RNVC16YXNDMWliRDFid0JHYjczNmg1eFBVYzNVdzNsakpfcVBpMEs0SWFPQWZRUnFCc29FRFYxQmZ6MGNFR0dlYlRoNk41MlY3VHF6QlJQQlJhSUZDRjBXN0Zfd3ljNnBuVWxXbnpaSA?oc=5",
+      "description": "Pakistan vs. India Lineups and Confirmed Team News for SAFF Championship Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Wed, 04 Nov 2026 19:00:00 GMT",
+      "date": "Thu, 05 Nov 2026 06:25:00 GMT",
       "photo": ""
     },
     {
-      "title": "ایف بی آر کی جانب سے ٹیکس دہندگان کیلئے نئی سہولت متعارف",
-      "link": "https://www.express.pk/story/2842586/fbr-introduces-tax-payers-new-facility-2842586",
-      "description": "انوائس میں ترمیم یا منسوخی کے لیے متعلقہ کمشنر ان لینڈ ریونیو کی قبل از وقت منظوری لازمی قرار دیا گیا ہے",
+      "title": "کیلے کے باغ میں 9 سالہ کمسن بچی سے زیادتی کی کوشش، 60 سالہ ملزم گرفتار",
+      "link": "https://www.express.pk/story/2842619/attempted-sexual-assault-of-a-9-year-old-girl-in-a-banana-orchard-60-year-old-suspect-arrested-2842619",
+      "description": "بچی معمول کے مطابق ٹیوشن پڑھنے کے لیے گھر سے نکلی تھی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 05 Nov 26 13:48:08 +0000",
+      "date": "Fri, 06 Nov 26 00:54:26 +0500",
       "photo": ""
     },
     {
-      "title": "جنوبی کوریا کا آبنائے ہرمز کے قریب فوجی مشن بھیجنے کا فیصلہ",
-      "link": "https://www.express.pk/story/2842585/south-korea-military-mission-near-strait-of-hormuz-2842585",
-      "description": "جنوبی کوریا نے بحری قزاقوں کیخلاف اپنے مشن کو خلیج عدن سے بڑھا کر عمان کے جنوب تک توسیع دینے کا منصوبہ بنایا ہے",
+      "title": "بجلی صارفین پر 23 ارب روپے سے زائد اضافی بوجھ ڈالنے کی تیاری",
+      "link": "https://www.express.pk/story/2842617/preparations-underway-to-impose-an-additional-burden-of-over-rs-23-billion-on-electricity-consumers-2842617",
+      "description": "کے الیکٹرک کے صارفین بھی اس سے متاثر ہوں گے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 05 Nov 26 13:38:25 +0000",
+      "date": "Thu, 05 Nov 26 19:30:16 +0000",
       "photo": ""
     },
     {
-      "title": "بی آئی ایس پی میں مبینہ کرپشن، ایک شخص کی سات بیویاں رجسٹرڈ، گریڈ 17 تا20 کے افسران بھی مستفید",
-      "link": "https://www.express.pk/story/2842584/bisp-alleged-corruption-seven-wives-of-one-man-registered-as-beneficiaries-grade-17-to-20-officers-also-benefited-2842584",
-      "description": "مردوں نے بھی خواتین کے نام پر پیسے نکلوائے، 51کروڑ روپے سرکاری ملازمین اور ان کے اہل خانہ میں تقسیم کردیے گئے، رپورٹ",
+      "title": "نبیوں کے مشن پر چلو، جنت کے حقدار بن جاؤ، تبلیغی اجتماع شروع",
+      "link": "https://www.express.pk/story/2842610/follow-the-mission-of-the-prophets-and-become-deserving-of-paradisethe-tablighi-ijtima-preaching-gathering-has-begun-2842610",
+      "description": "مسلمانوں کے مصائب کی وجہ دنیاوی لالچ میں جھکڑا جانا ہے ، مولانا احمد بٹلہ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 05 Nov 26 13:31:25 +0000",
+      "date": "Thu, 05 Nov 26 17:23:24 +0000",
       "photo": ""
     },
     {
-      "title": "خلیل الرحمٰن قمر کی بیٹی پر نامناسب لباس میں ڈانس ویڈیوز بنانے پر تنقید",
-      "link": "https://www.express.pk/story/2842582/khalil-ur-rehman-qamar-daughter-faces-criticism-for-making-videos-in-inappropriate-attire-2842582",
-      "description": "حجاب خلیل ایسا لباس پہنے نظر آئیں جس سے ان کے کندھے اور پیٹ کا کچھ حصہ نمایاں تھا",
+      "title": "منشیات فروش کے ساتھ بات چیت کی آڈیو، ایس ایچ او پاک کالونی کے خلاف انکوائری کا حکم",
+      "link": "https://www.express.pk/story/2842608/inquiry-ordered-against-sho-pak-colony-following-audio-of-conversation-with-a-drug-dealer-2842608",
+      "description": "اس عمل کو پولیس کے نظم و ضبط کے لیے انتہائی نقصان دہ قرار دیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 05 Nov 26 18:17:38 +0500",
+      "date": "Thu, 05 Nov 26 21:12:10 +0500",
       "photo": ""
     },
     {
-      "title": "حوثیوں کا جنگ بندی کیلیے سعودیہ سے 51 ارب ڈالر ہرجانہ اور حکومت تسلیم کرنے کا مطالبہ",
-      "link": "https://www.express.pk/story/2842587/houthis-demand-51-billion-saudi-arabia-war-end-2842587",
-      "description": "حوثیوں نے 51 ارب ڈالر کی رقم سعودی فضائی حملوں اور یمن کی طویل ناکہ بندی کے نقصانات کا معاوضہ قرار دیا",
+      "title": "ایران کے جوہری پروگرام پر امریکا کی اجازت لازمی ہے، ٹرمپ",
+      "link": "https://www.express.pk/story/2842614/us-approval-is-essential-for-irans-nuclear-program-says-trump-2842614",
+      "description": "امریکی انتظامیہ کئی اہم امور پر کام کر رہی ہے، امریکی صدر",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 05 Nov 26 13:50:06 +0000",
+      "date": "Thu, 05 Nov 26 18:39:36 +0000",
       "photo": ""
     },
     {
-      "title": "ایران میں سوشل میڈیا ایکٹوسٹ کو انسٹاگرام پوسٹ پر 5 سال قید اور موت کی سزا",
-      "link": "https://www.express.pk/story/2842581/iran-activist-amirhossein-mousavi-death-sentence-x-posts-2842581",
-      "description": "زمین میں فساد کے الزام میں سزائے موت اور مذہبی مقدسات کی توہین کے الزام میں 5 سال قید بھی سنائی گئی",
+      "title": "برادر کشی کا سامراجی جال",
+      "link": "https://www.express.pk/story/2842607/baradar-kushi-ka-samraji-jaal-2842607",
+      "description": "معاشی طور پر مستحکم سعودی عرب کے تیل کی تنصیبات پر ہونے والے حملوں نے اس کی معاشی اور دفاعی بنیادوں کو ہلا کر رکھ دیا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 05 Nov 26 18:02:30 +0500",
+      "date": "Thu, 05 Nov 26 21:09:14 +0500",
       "photo": ""
     },
     {
-      "title": "نیتن یاہو کے اقتدار کا سورج بھی غروب؟ عرب جماعتوں کا اتحاد کنگ میکر بن گیا",
-      "link": "https://www.express.pk/story/2842571/israel-joint-list-backs-eisenkot-67-mk-support-2842571",
-      "description": "اسرائیل میں عرب اتحاد کی حمایت سے گادی آئزنکوٹ کو 120 رکنی پارلیمان کے 67 ارکان کی سفارشات حاصل ہوگئی",
+      "title": "ابن صفی کا زیرو لینڈ بہ مقابلہ اسپیکٹر",
+      "link": "https://www.express.pk/story/2842606/ibn-e-safi-ka-zero-land-ba-muqabla-spectre-2842606",
+      "description": "آئن فلیمنگ جب جیمز بانڈ کے لیے اسپیکٹر تخلیق کر رہے تھے توشاید اُن کے ذہن میں ایک بہت سادہ سی دنیا تھی۔",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 05 Nov 26 12:11:01 +0000",
+      "date": "Thu, 05 Nov 26 21:09:12 +0500",
       "photo": ""
     },
     {
-      "title": "سعودی عرب کے بعد چین اور کویت کی بھی 4.3 ارب ڈالر قرض رول اوور کی یقین دہانی",
-      "link": "https://www.express.pk/story/2842556/after-saudi-arabia-china-and-kuwait-have-also-given-assurances-to-roll-over-43-billion-debts-2842556",
-      "description": "چین سے 4 ارب ڈالر اور کویت سے 30 کروڑ ڈالر قرض رول اوور کرایا جائے گا، ذرائع وزارت خزانہ",
+      "title": "گدھوں نے ہاتھیوں کو روند ڈالا",
+      "link": "https://www.express.pk/story/2842603/gidhon-ne-hathiyon-ko-rond-dala-2842603",
+      "description": "مڈٹرم انتخابات میں اقتدار پر فائز ری پبلکنز اور ٹرمپ کی شکست پر ایران اور ایرانی قیادت بے حد خوش ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 05 Nov 26 10:31:23 +0000",
-      "photo": ""
-    },
-    {
-      "title": "اٹلی میں 20 سال قبل چوری ہونے والی نایاب پینٹنگ اے آئی کی مدد سے برآمد",
-      "link": "https://www.express.pk/story/2842562/rare-painting-stolen-in-italy-20-years-ago-recovered-with-the-help-of-ai-2842562",
-      "description": "پینٹنگ 11 اگست 2004 کو نیپلز کے قریب واقع ایک چرچ سے غائب ہوئی تھی",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Thu, 05 Nov 26 15:37:48 +0500",
+      "date": "Thu, 05 Nov 26 20:54:40 +0500",
       "photo": ""
     },
     {
@@ -352,7 +345,7 @@
     },
     {
       "source": "BBC World",
-      "added": 21,
+      "added": 22,
       "ok": true
     },
     {
@@ -368,7 +361,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 32,
+      "added": 34,
       "ok": true
     },
     {
@@ -378,7 +371,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 28,
+      "added": 23,
       "ok": true
     }
   ]
