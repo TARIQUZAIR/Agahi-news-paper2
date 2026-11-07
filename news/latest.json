@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T00:36:09.798662+00:00",
-  "count": 35,
+  "generated_at": "2026-11-07T09:34:38.461993+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,42 +11,71 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 2
+  },
   "items": [
     {
-      "title": "پاکستان میں 20 سال بعد سمندر میں تیل و گیس کی تلاش؛ ترک جہاز رواں ماہ کراچی پہنچے گا",
-      "link": "https://www.express.pk/story/2842790/turkish-vessel-for-oil-and-gas-exploration-to-arrive-in-karachi-between-november-17-and-20-2842790",
-      "description": "وفاقی وزیر پیٹرولیم علی پرویز ملک کی زیر صدارت ترک سیسمک جہاز کی آمد کے انتظامات پر اعلیٰ سطح کا اجلاس منعقد ہوا",
+      "title": "سندھ حکومت کا تھرپارکر کو آفت زدہ ضلع قرار دینے کا فیصلہ، 90 فیصد فصلیں تباہ",
+      "link": "https://www.express.pk/story/2842865/tharparkar-declared-disaster-hit-district-amid-severe-drought-2842865",
+      "description": "وزیراعلیٰ سندھ کی تھرپارکر میں خشک سالی سے نمٹنے کے لیے فوری اقدامات کی ہدایت",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 06 Nov 26 12:50:31 +0000",
+      "date": "Sat, 07 Nov 26 03:03:43 +0000",
       "photo": ""
     },
     {
-      "title": "فیلڈ مارشل سے سوڈان کے وزیر داخلہ کی ملاقات، انسداد دہشت گردی پر بات چیت",
-      "link": "https://www.express.pk/story/2842781/sudanese-interior-minister-meets-field-marshal-discusses-counter-terrorism-2842781",
-      "description": "سوڈانی وزیر داخلہ نے علاقائی امن اور استحکام کے فروغ میں پاکستان کے کردار کو سراہا",
+      "title": "بہاولنگر: گھر پر 11 ہزار وولٹ کی تار گرنے سے میاں بیوی اور بیٹا جاں بحق",
+      "link": "https://www.express.pk/story/2842858/high-voltage-transmission-line-fall-on-home-in-bahawalnagar-2842858",
+      "description": "وزیراعلیٰ پنجاب کا واقعے پر اظہارِ افسوس، رپورٹ طلب کرلی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 06 Nov 26 11:51:28 +0000",
+      "date": "Sat, 07 Nov 26 02:13:01 +0000",
       "photo": ""
     },
     {
-      "title": "وادی سندھ کی تاریخ پر 15ویں عالمی تھاپ کانفرنس کا آغاز",
-      "link": "https://www.express.pk/story/2842777/15th-international-thaap-conference-on-the-history-of-the-indus-valley-begins-2842777",
-      "description": "دو روزہ کانفرنس میں پاکستان بھر سے ممتاز ماہرین تعلیم، محققین اور نوجوان اسکالرز شرکت کر رہے ہیں",
+      "title": "پاکستان بیڈمنٹن فیڈریشن کے 24 اکتوبر 2025 کے انتخابات غیر قانونی قرار",
+      "link": "https://www.express.pk/story/2842857/pakistan-badminton-federation-elections-held-on-october-24-2025-declared-illegal-2842857",
+      "description": "عدالت نے انتخابی عمل مکمل ہونے تک ایڈہاک کمیٹی قائم کرنے کا حکم بھی دیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 06 Nov 26 15:41:33 +0500",
+      "date": "Sat, 07 Nov 26 07:02:50 +0500",
       "photo": ""
     },
     {
-      "title": "سندھ کی جامعات اور کراچی یونیورسٹی کی داخلہ پالیسی پر سوشل میڈیا پر بحث چھڑ گئی",
-      "link": "https://www.express.pk/story/2842776/a-debate-has-erupted-on-social-media-regarding-the-admission-policies-of-universities-in-sindh-and-the-university-of-karachi-2842776",
-      "description": "سال 2026ء میں سندھ کے دیگر اضلاع کے 1018 طلبہ کو داخلے ملے جبکہ الزام ہے کہ اندرون سندھ طلبا کو داخلے نہیں ملتے",
+      "title": "بیرسٹر سلمان صفدر کا جیل میں ملاقات کے بعد بشریٰ بی بی سے متعلق پہلا بڑا انکشاف",
+      "link": "https://www.express.pk/story/2842854/barrister-saman-safdar-reveled-bushra-bibi-health-update-2842854",
+      "description": "بیرسٹر سلمان صفدر نے 190 ملین پاؤنڈ کیس میں بیان حلفی اسلام آباد ہائیکورٹ میں جمع کرا دیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 06 Nov 26 10:30:51 +0000",
+      "date": "Sat, 07 Nov 26 01:26:23 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی کے شہریوں نے نئے انتظامی یونٹس اور چھوٹے صوبوں کے قیام کو ناگزیر قراردیدیا",
+      "link": "https://www.express.pk/story/2842844/karachi-people-support-new-provinces-2842844",
+      "description": "ارکان اسمبلی اور انتظامیہ کو عوامی مسائل پر توجہ دینی چاہیے مگر شہر کے مسائل جوں کے توں ہیں، شہری",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 00:28:09 +0000",
+      "photo": ""
+    },
+    {
+      "title": "اسلام آباد میں فضل الرحمان سے منسلک مدارس کو تعمیراتی قوانین کی خلاف ورزیوں پر سی ڈی اے کے نوٹس جاری",
+      "link": "https://www.express.pk/story/2842841/cda-notice-to-madarsa-in-islamabad-2842841",
+      "description": "مدرسہ اختر العلوم کی انتظامیہ کو 15 روز میں عمارت کا منظور شدہ نقشہ جمع کرانے کی ہدایت",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 00:12:38 +0000",
+      "photo": ""
+    },
+    {
+      "title": "گورنرخیبرپختونخوا کا 9 نومبرسے پشاور تا لاہور براہِ راست فضائی سروس کا اعلان",
+      "link": "https://www.express.pk/story/2842835/governor-kpk-announced-peshawar-to-lahore-direct-flight-service-2842835",
+      "description": "یومِ اقبال کے موقع پر پشاورسے لاہور کے لیے براہِ راست پروازوں کا آغاز ہوگا، فیصل کریم کنڈی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Fri, 06 Nov 26 23:48:21 +0000",
       "photo": ""
     },
     {
@@ -77,40 +106,22 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f1b/live/8ba1e7c0-d9f3-11f1-bb10-cdca6001fbcf.jpg"
     },
     {
-      "title": "فاز: پاکستان کے پہلے مقامی فضائی میزائل کا تجربہ کیوں اہم سمجھا جا رہا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/c6n8dm9vy3k2o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان نے فاز نامی اپنے پہلے مقامی طور پر تیار کردہ فضا سے فضا میں مار کرنے والے میزائل کا تجربہ کیا ہے۔ فاز میزائل کی تکنیکی صلاحیتیں کیا ہیں اور کیا یہ پاکستانی فضائیہ کو کوئی نئی صلاحیت فراہم کر سکتا ہے؟ انڈیا کے ساتھ فضائی ہتھیاروں کی دوڑ میں اس کی کیا اہمیت ہے؟",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Thu, 05 Nov 2026 06:23:59 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d5f/live/0e5e2920-d8dd-11f1-aa01-7b3ecf1680c0.png"
-    },
-    {
-      "title": "راولا کوٹ میں کشیدگی کے دوران تین ہلاکتیں، اب کیا صورتحال ہے؟",
-      "link": "https://www.bbc.com/urdu/watch/cx2400le5gj1o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے زیر انتظام کشمیر کے علاقے راولا کوٹ میں حالات ایک مرتبہ پھر کشیدہ ہو گئے ہیں۔ جمعرات سے کالعدم تنظیم جوائنٹ ایکشن کمیٹی کے کارکنوں اور قانون نافذ کرنے والے اداروں کے اہل",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Fri, 06 Nov 2026 14:38:29 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
-    },
-    {
-      "title": "اسلام آباد کی پہلی جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی؟",
-      "link": "https://www.bbc.com/urdu/watch/cv4g1511w85wo?at_medium=RSS&at_campaign=rss",
-      "description": "اسلام آباد کی پہلی جیل کا پہلا حصہ 17سال کے بعد مکمل ہو پایا۔ یہ جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی اور اس نئی جیل میں کن قیدیوں کو رکھا جائے گا؟",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Thu, 05 Nov 2026 14:04:52 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47d7/live/183ca570-d91e-11f1-ad94-e17fee4cd332.jpg"
-    },
-    {
-      "title": "رواں مالی سال کے پہلے چار ماہ میں پاکستان کا تجارتی خسارہ 14.6 ارب ڈالر تک پہنچ گیا",
-      "link": "https://www.express.pk/story/2842816/in-the-first-four-months-of-the-current-fiscal-year-pakistans-trade-deficit-reached-146-billion-2842816",
-      "description": "برآمدات میں معمولی بہتری دیکھنے میں آئی اور جولائی تا اکتوبرکے دوران مجموعی برآمدات 11 ارب 40 کروڑ ڈالررہیں",
+      "title": "لاہور میں شہری 600 روپے فی کلو ایل پی جی خریدنے پر مجبور",
+      "link": "https://www.express.pk/story/2842852/lpg-prices-lahore-2842852",
+      "description": "گیس سستی ملے گی تو سستی فروخت کریں گے، دکانداروں کا موقف",
       "source": "Express Urdu",
       "cat": "Economy",
-      "date": "Fri, 06 Nov 26 17:31:07 +0000",
+      "date": "Sat, 07 Nov 26 01:16:21 +0000",
       "photo": ""
+    },
+    {
+      "title": "’15 ہزار والا سلینڈر 24 ہزار کا ہو گیا‘: ایل پی جی کا سرکاری نرخ 295 روپے فی کلو، مگر صارف دگنی قیمت کیوں ادا کر رہے ہیں؟",
+      "link": "https://www.bbc.com/urdu/articles/c51kdd09dgnyo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں ایل پی جی کی سرکاری قیمت تقریباً 295 روپے فی کلو ہونے کے باوجود کئی علاقوں میں صارفین 550 سے 700 روپے فی کلو تک ادا کر رہے ہیں۔ حکومت اس صورتحال کی وجہ سرحدی بندش، ذخیرہ اندوزی، درآمدی نظام کی خامیوں اور محدود مسابقت کو قرار دیتی ہے جبکہ نئی ایل پی جی پالیسی کے تحت چار سرکاری کمپنیوں کو گیس درآمد کرنے کی اجازت دی گئی ہے۔",
+      "source": "BBC Urdu",
+      "cat": "Economy",
+      "date": "Sat, 07 Nov 2026 03:02:48 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a4a/live/a45ebf80-d9ef-11f1-bb10-cdca6001fbcf.jpg"
     },
     {
       "title": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
@@ -122,67 +133,31 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg"
     },
     {
-      "title": "Pakistan pushes for greater economic cooperation among Muslim nations amid regional tensions - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzdobGcxLTBHSVBmRnoxMFp3Z0JZMV90cmpTZXkyVmtuWGlweF9hZEh4emxpSUtUZ3FpS2RyX25OMkY5WFZOSkVzLUs5aU1JaFBYcng5SFV2eTZvWU5XQkJ2blhXM1lxenBnck5JYUVOY1pnSG40Q3d2NWN0ZlY4cmFSZGUxMGxpcE1FMlhfZkhEaDQ0a0dPcEVuLXdFQXBYcWE4OEYwblRXeHN1RU04cWhfTG9Pb3B3UW9DQ3FzRlV3TzhVNjd4SEZmNlZQUQ?oc=5",
-      "description": "Pakistan pushes for greater economic cooperation among Muslim nations amid regional tensions Arab News PK",
+      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVM0TmJ6a3JUNjJva0g3SDUxT19SVmdVM3dPOGljSThiOHpsanl1dzJ1SGQxOWtJSXd5bVJpeGNNdG9jWmdOTlBqWDRaZjBzYkNDQ3g2WmYyRlBwZzJlTGg0VV9Bak5NM3ZDamNUaGlRMzFxV0Fvemt1MTNDUkVDYy1JMkdCNVZhczAweGZXZmNBZXk1UVRJ?oc=5",
+      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Fri, 06 Nov 2026 07:32:25 GMT",
+      "date": "Sat, 07 Nov 2026 07:54:02 GMT",
       "photo": ""
     },
     {
-      "title": "Musadik Malik Warns of Climate, Technology Risks to Pakistan's Economy - The Nation (Pakistan )",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUhJY0NZbU1qQURZSTRyNW5lNnRSVHJjYVhvX3hpRGY1RXdPWHhOZmdfOVJCVlNudnhjVEpNVk5kTmdjekJIY25MT2ZZMzBWcFF1eUJLbnJ4OXdoTUNUaTUwNjRzNTFZMFpiMGtZT3NLSlJQZW9qQ1BGeHd5YURDWWhuSmlDN0JmTEZ6RmRCMkNZV2tpTXNYREh0NFhQd0NDLU9ucVhFV1RhdFhHNHlIZmhWLVFWcEd3LVV5MWVFd0xkWXJpRU1J?oc=5",
-      "description": "Musadik Malik Warns of Climate, Technology Risks to Pakistan's Economy The Nation (Pakistan )",
+      "title": "Persistent Protests Across PoK and Gilgit-Baltistan Expose Pakistan's Governance Failures, Political Suppression, and Economic Grievances - Defence.in",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdGNEbWFkcFVjZTB4RkZkVTBwV0tZZFhKSV8wQnNlVWtfbnlRSVJwajBGVGxvbURoenN5bWY3Z1Zscl9Cb1U1eTJRT3FLV0Z5N2NNMjdla0w4VzZ6WGdFektNb3FKMXJaQjM2TkFGYWJ2TDVyMWcwb2xYU0MtZjBacFBnbVZfdzdub203UUg0YzcyZ3VxV2lVSExhbC1NclY1QUdpbVROV0RENEFneDZFbjFUWTlLa0R6ZFM5aWdTVnB2dUg0MFFsYjhyRHpfalZncFJTanVoNV9GRXJYOEhJTUpkck15bTNueWtZVDNocldNM2p5WU03MWM0Y2I?oc=5",
+      "description": "Persistent Protests Across PoK and Gilgit-Baltistan Expose Pakistan's Governance Failures, Political Suppression, and Economic Grievances Defence.in",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Fri, 06 Nov 2026 09:56:00 GMT",
+      "date": "Sat, 07 Nov 2026 06:34:01 GMT",
       "photo": ""
     },
     {
-      "title": "Economic sovereignty hinges on boosting exports beyond $100bn by 2035: Ahsan - The News Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFpIRFVVU0VTdDhmc1Y2WS11V2MxWjNJNzhNSWhaS28yS0lYYmdUdWJydmZRTnJHLV9pQ1A1LTEweDZlcHFTMS1aY0JXU2F1SmJKWnVJcUlRSS1ZZ0ppbTdxSm5uYVpjaEQ2ajhPOGdKQWdUa2VkRlRjX1EyX1NwaDJEUE1kUzE5bzNvMkJFZ2ZVS0JoOE45UTA5X284bzRPQWxUSHg0blAyWDBtNXJaNQ?oc=5",
-      "description": "Economic sovereignty hinges on boosting exports beyond $100bn by 2035: Ahsan The News Pakistan",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Fri, 06 Nov 2026 19:00:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کراچی: اسلحہ نمائش پر عائد پابندی کی خلاف ورزی پر 5 سیکیورٹی گارڈ گرفتار، اسلحہ برآمد",
-      "link": "https://www.express.pk/story/2842801/karachi-5-security-guards-arrested-for-violating-ban-on-arms-exhibition-weapons-recovered-2842801",
-      "description": "حکومت سندھ کی جانب سے دفعہ 144 کے تحت اسلحہ کی نمائش پر عائد پابندی ہے",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Fri, 06 Nov 26 20:40:00 +0500",
-      "photo": ""
-    },
-    {
-      "title": "کراچی میں ڈکیتی کی بڑی واردات، ملزمان 82 تولے سونا اور چاندی چھین کر فرار",
-      "link": "https://www.express.pk/story/2842799/major-robbery-in-karachi-suspects-flee-after-making-off-with-82-tolas-of-gold-and-silver-2842799",
-      "description": "فیروز آباد کے علاقے طارق روڈ کے قریب موٹر سائیکل سوار مسلح ڈاکو دکان کے ملازم سے سامان چھین کر فرار ہوا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Fri, 06 Nov 26 19:28:56 +0500",
-      "photo": ""
-    },
-    {
-      "title": "کراچی کے نجی کلینک میں فائرنگ سے ڈاکٹر جاں بحق",
-      "link": "https://www.express.pk/story/2842788/karachi-doctor-killed-armed-attacked-2842788",
-      "description": "ملزم نے کلینک میں گھس کر فائرنگ کی، مقتول کی شناخت ڈاکٹر کاشف کے نام سے ہوئی ہے",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Fri, 06 Nov 26 17:46:35 +0500",
-      "photo": ""
-    },
-    {
-      "title": "ملتان میں ماں اور دو بہنوں کے مبینہ قتل کو آتشزدگی کا روپ دینے والا 22 سالہ ملزم ’پولیس مقابلے میں‘ ہلاک",
-      "link": "https://www.bbc.com/urdu/articles/cx240j8p0ym8o?at_medium=RSS&at_campaign=rss",
-      "description": "یہ 28 اکتوبر کی شام سات بجے کا وقت ہو گا جب جنوبی پنجاب کے ضلع ملتان کے علاقے لطف آباد میں ایک مکان کی بالائی منزل پر آگ لگنے کا شور مچا۔ لیکن آگ بجھنے پر اندر کا منظر ہولناک تھا۔",
+      "title": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں",
+      "link": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
+      "description": "بلوچستان کے ضلع لسبیلہ کے علاقے اوتھل میں 20 کروڑ 20 لاکھ روپے کی بینک ڈکیتی کے مقدمے میں پولیس نے تین ملزمان کو گرفتار کرنے کا دعویٰ کیا ہے۔ پولیس کے مطابق ملزمان نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں، بینک میں داخل ہو کر رقم لوٹی اور بعد ازاں شواہد مٹانے کے لیے گاڑی کو نذر آتش کر دیا۔",
       "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Fri, 06 Nov 2026 05:17:23 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4b5/live/7cb16ab0-d9c6-11f1-a00c-673f8daaffd9.jpg"
+      "date": "Sat, 07 Nov 2026 05:18:05 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Focus - Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi - France 24",
@@ -194,139 +169,148 @@
       "photo": ""
     },
     {
-      "title": "Advisor and National Coordinator to the Prime Minister on Tourism, Sardar Yasir Ilyas Khan, cuts the ribbon to inaugurate the three-day Pakistan Tourism, Sports and Family Festival at the Pakistan Sports Complex. - | Associated Press Of Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQdFFVYjFUTTJDRk81X1ZUN3JGRHZnMC1lOHI4X2dQUFg2MW9DcHVMRnpuNGZOSXIzanVJcHlLN1dMbFFUYzd2MTV2d25YNUpxdDBsYXIyb3NoLXdaSEZnVGV5N1ZPZ3F2U25oeTFUU1dQOW9DLW5jSFBkZDg4R0VCVlBEWnNIbk8tQ0pUZnV1RW01M1h0N1ZEMWVzQ1VWYjlQLXRTNXhCODF6d0huZTRGTktHUXVVWTdscUNwV3IyTEFUeGlMcWEtZ3NNaWw4ejlaaE90WUY0dENVdFNjZk9Pdkh4UDRLcEg5Y1JEU010Z3owdklhNkhWQ0RQZ2x3MzNsem5uTDVCVk9YMDdDdUFnOVZkMExtQlpoTUJ3UVJnb1RUbGVmcFQzM3BCTzBjOXZjd1JvZXlaZjZodG5LdHc1M3hFbFh5U25GX1RMLWNYS2NRZzM3eXZj?oc=5",
-      "description": "Advisor and National Coordinator to the Prime Minister on Tourism, Sardar Yasir Ilyas Khan, cuts the ribbon to inaugurate the three-day Pakistan Tourism, Sports and Family Festival at the Pakistan Sports Complex. | Associated Press Of Pakistan",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Fri, 06 Nov 2026 17:41:09 GMT",
+      "title": "Pakistan, UK agree to expand cooperation on counterterrorism and organised crime - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUtaRnF6ckk2dGJ4S2pjT3NBRnRfS2JDZzBySDRvN1ZSaVk0eGdXN2ZtaTVfeGZTOGxpQ2lselFlQWk0N3ktZjJTVU1YeEFsbVl2cGtsbXl5cjFwZ0U1VG5DamJNM3YwOVlXNGo1S1doZENmZEZhX0RlMUJiUnpqZlFDSGFtNFJmQTJWRXFqckdZZm41ZTRuZTdzdTBXVy1Gai1oY3RLbl9mdE0?oc=5",
+      "description": "Pakistan, UK agree to expand cooperation on counterterrorism and organised crime The Nation (Pakistan )",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Fri, 06 Nov 2026 14:25:46 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan vs. India Lineups and Confirmed Team News for SAFF Championship - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWF9hdVp2X1d1MjZYVFVjVFY1TXVJZFFMc25mb1RNVC16YXNDMWliRDFid0JHYjczNmg1eFBVYzNVdzNsakpfcVBpMEs0SWFPQWZRUnFCc29FRFYxQmZ6MGNFR0dlYlRoNk41MlY3VHF6QlJQQlJhSUZDRjBXN0Zfd3ljNnBuVWxXbnpaSA?oc=5",
-      "description": "Pakistan vs. India Lineups and Confirmed Team News for SAFF Championship Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Thu, 05 Nov 2026 06:25:00 GMT",
+      "title": "Pakistan cybercrime agency says up to 350 suspected scam call centers operating in Karachi - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWG01QkFpNHU4MDlUdFhtc1RNbkRsdS0tWHgza3pBRjRoSlBmVFpfVnNGZHFxeTVtTXZuY0QyVDM2RkF5eTdqaElFQ3JqVm1MTEpZNm1Dbl9yUGd4UnZsWUNzU19JRjJlX2FVRmh3S1psMnJWTGo4cWtEMnZIWVBELUp0QXdpZGgwQ1FqZFA4YkhNYWt6UW11OTVrdEJ2c0E3OHRMWnZNZFlQMjd1RXBJazRtZTMxVlB2T3pqWTUwWnVrXzhydlFmOEhNMA?oc=5",
+      "description": "Pakistan cybercrime agency says up to 350 suspected scam call centers operating in Karachi Arab News PK",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Fri, 06 Nov 2026 22:36:54 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan v Sri Lanka First Test Day 4 - Kayo Sports",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXFoSjZSdWNVZUFHWTVscXJWVzB3OEMtejJ5SG83NVFCMGJ3Q2Y3WUViQmtNdTVENENKUmh2TGxSejVHc1ZPWmNKcHhvdmUydVU1UHg0OHJOa2NCN3A5cUpKTU8tUzUyMWNjN3dOMUVtZkdtdmd2Y3cwX1plWWdkZC1BeVdhRFpGU2NFb0Iya0Nwa3ZmRTRmc1pqLTg3MDQzS3UxSjdMUjI4bGg0ZEM1SFpXT3dpOHo2Q3ZTMFdYN2VTWlgwYXM4b01hOE0?oc=5",
-      "description": "Pakistan v Sri Lanka First Test Day 4 Kayo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Thu, 05 Nov 2026 09:02:04 GMT",
+      "title": "Pakistan, UK join forces to tackle cybercrimes, drug smuggling, illegal migration - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORl9USW9teG1pWkZXX3hMaDdFXzA3ZVVvbGthSTdfYjNSclZsbFh6b18yZlNyUmZpTkh5NHV1elpjX3RQU2xtbEtmZFBQWHJmX1dIUzR0TFlDSnptZ2NSM0VPN3hLS0tZZU9BVzhFZ1N3V09OMWQxR3VoTXc4dXA3aVNDQnFaYnAzME1manRnSTMtb0p2ZmVoWEphdjFnTFI5OWFwZXRmSkVFSkphVE9zRzlHZVZVQQ?oc=5",
+      "description": "Pakistan, UK join forces to tackle cybercrimes, drug smuggling, illegal migration The News Pakistan",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Fri, 06 Nov 2026 19:00:00 GMT",
       "photo": ""
     },
     {
-      "title": "How & Where to Watch India vs. Pakistan SAFF Championship? Start Time Live Stream & TV Channels - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeHlrLWNTVG5wTV9NSTBJa1Ytc3RWVFlJeUZhQjA3U3FmYTdPZVZ1cjZOYUFCX2Q3b0hVd0dEb2ZhdVdJajRDb0E3TldvRndUUU83ajQ4Y2kyNWZ0a2FoY2VKMV9kMTB5eGVlS2p3OENtenBNdkJucWZPb3lCeE9fZzhGTzc?oc=5",
-      "description": "How & Where to Watch India vs. Pakistan SAFF Championship? Start Time Live Stream & TV Channels Yahoo Sports",
-      "source": "Sports Pakistan",
+      "title": "کرکٹ میں تلخی، فٹبال میں دوستی؛ پاک بھارت کھلاڑیوں نے نئی مثال قائم کردی",
+      "link": "https://www.express.pk/story/2842855/india-and-pakistan-footballers-do-what-cricketers-refused-to-do-2842855",
+      "description": "ڈھاکا میں 5 نومبر کو ساف چیمپئن شپ کے افتتاحی میچ میں بھارت نے پاکستان کو سنسنی خیز مقابلے کے بعد 2-3 سے شکست دی",
+      "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Thu, 05 Nov 2026 08:30:00 GMT",
+      "date": "Sat, 07 Nov 26 06:50:22 +0500",
       "photo": ""
     },
     {
-      "title": "Three-day Pakistan Tourism, Sports and Family Festival kicks off in Islamabad - Islamabad Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjlYVUNEVlA0TG9aejJaMllna05zV1lmaTBLVUZNWWhNRlJHNy1lM1ZwOVI3NVJsa2k1TUEwVHh5TmNTcVhDR2hoSzhucmxOWHBpYjBJeWpuMVdPbXQ1b3hoYmRWeE9aRnVjaXctRl9jWlRkaGtocEFMVXI4V3djNTlDODhCZjd4YUxHamdoel80VV81eVlMV2xuV3FXMDRMS05GM3gxdVJPZw?oc=5",
-      "description": "Three-day Pakistan Tourism, Sports and Family Festival kicks off in Islamabad Islamabad Post",
+      "title": "Folk artists performing traditional dance at the three-day Pakistan Tourism, Sports and Family Festival at the Pakistan Sports Complex. - | Associated Press Of Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORTB2d1dLaDRvREJ3SFZpNkdsakNOWVZya2VNeDhsR1YzU2FWZG1HUjFlS1otQjhWUGI1S2p6Rjg1cEk0V3NGejB6RlJ6NUxjbmN1VzhSejQ3NUctRU0xMzJhbjRiaFdJblVfSGU2ZDg2cU9MUnlFYjI3aWZuNUdpRXJtOURLU3MxOE85bkRPbXdwV1Vra202MDc2X2JpQUc4QUQ0b2FhNE5LX1VMSTVIRG5Icm5DS0M5UlNYV2d6RGFZMTFqc1RNd2Jhem5BcEdtR2hCQWw0TTRBVVJlMEl3RmRFSFFJX1VkTUg4d1BkMEtOU19keW5Ocl9PeG1vczZJcFE?oc=5",
+      "description": "Folk artists performing traditional dance at the three-day Pakistan Tourism, Sports and Family Festival at the Pakistan Sports Complex. | Associated Press Of Pakistan",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Fri, 06 Nov 2026 17:15:35 GMT",
+      "date": "Sat, 07 Nov 2026 03:20:19 GMT",
       "photo": ""
     },
     {
-      "title": "اسٹیفن ملر وائٹ ہاؤس کے نئے چیف آف اسٹاف مقرر",
-      "link": "https://www.express.pk/story/2842820/stephen-miller-appointed-new-white-house-chief-of-staff-2842820",
-      "description": "موجودہ چیف آف اسٹاف سوسی وائلز ٹرمپ کے سیاسی امور کے شعبے میں ذمہ داریاں سنبھالیں گی",
+      "title": "IND U19 vs PAK U19: Where To Watch India vs Pakistan U19 Asia Cup 2026 Group Match? - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSFBPejh4eWFTaEJNUXlBNE1kQkFVYndhUjZDZTBZVWl0RFBBcU40eXI4SWpWQnNHSUVhYzVuX0ZJYmQwbXVqZDBzWk9ZMlR0TEY0ajg5R191RUQ5U3hCRHlMYnB2NWtYZXFJNjBabmxSMVc5SnFkQ3M1c0JLMmxyeFBBMEppWTBSbG5WNXpod1NMdENqQXA5MXY0S1VyXzR3UG1kZkJTM1pTZUMzOE0tdktYOVFuR181bTI5WUVqZThld1k1T2hIU2FhT1ZLTlFPLUZmcV84d1ItamUyOVozd1lHWFFqblBQNU51anF30gHzAUFVX3lxTE1vODl0c2NkT2tGQm5WVVJZSmQxTUdFTGZnOTdiQnVPaDJsMDB0YjM4N2MzaGtLWUhxR0RBNlR1Ymt5eDhyai1nWHZmc19UMS1hOVY4RVd2NVJLbW5KV0M0X2hmbmc1OGFIVW40al9zazMzT09xVFQxdnEzS2NwUGlGS3JCWVlzYXZQRlVTdDdZZ0MweWNUN3hfaXZWMFJjVUg4emJTYVRnZks3azd5THZrQnJKc0xOTGs5bGdCVzl5SG1NcVFEdDhDRFcwQ0tuODAyTE1YVFJVMW14LU9IQnV5ZVVQUTF6d2Fmc0h4U0V1Q193Zw?oc=5",
+      "description": "IND U19 vs PAK U19: Where To Watch India vs Pakistan U19 Asia Cup 2026 Group Match? ETV Bharat",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 09:01:51 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan - | Associated Press Of Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOElsWFU4bXk2Y2Y2Vldhdm9DMUwyeFRrYTdmdlRlM2tQR29xUjdVVXkwd0M2cHdNeFRyYjRSZTh3VDVJVDhDV0dZcGNWelpTMERaaDQtVUVqZjY0a0lvLWhsWWdBWmZNQldYM3NhMVhkdFpnREx3SXJldEN0N2FTSlZvZ0NjMkFNSVM4VmtJZGJwODBXZWYyMXZDZjJRUXhHeXVmRjdLeXBWOE52d1B6YXhPZHB6akE?oc=5",
+      "description": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan | Associated Press Of Pakistan",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 03:16:53 GMT",
+      "photo": ""
+    },
+    {
+      "title": "India and Pakistan footballers do what cricketers refused to do - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaWZKX3AzNlBDdmRUYXhtZWJtbVlfcVNxSmx0RWxiei1zblYyRm4yRnVJNEtmdG5lX09BcnloODIwRG52M0hJTFJweGlwcHJaMzV4ckF3Z3VkY0VoTlI3N0FhV2xIVlR6U0o4UkVyUC1pd0lFNzNyNzk2cnJYbE9VbDhXTWpVXzJ5OGh1cjV1Y3pFYjVqWHJTaHhRYzhvdENTc2NWa2VYOUFqcTU2NVNmV256X0RBTGNfVWJpQzNmM29GRlHSAcMBQVVfeXFMTWlmSl9wMzZQQ3ZkVGF4bWVibW1ZX3FTcUpsdEVsYnotc25WMkZuMkZ1STRLZnRuZV9PQXJ5aDgyMERudjNISUxScHhpcHByWjM1eHJBd2d1ZGNFaE5SNzdBYVdsSFZUelNKOFJFclAtaXdJRTczcjc5NnJyWGxPVWw4V01qVV8yeThodXI1dWN6RWI1alhyU2h4UWM4b3RDU3NjVmtlWDlBanE1NjVTZlduel9EQUxjX1ViaUMzZjNvRkZR?oc=5",
+      "description": "India and Pakistan footballers do what cricketers refused to do Gulf News",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 03:06:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "اسحاق ڈار کا لیاقت بلوچ سے ٹیلی فونک رابطہ، 10 نومبر کو مذاکرات کا آخری دور ہوگا",
+      "link": "https://www.express.pk/story/2842870/ishaq-dar-liaqat-baloch-talks-2842870",
+      "description": "جماعت اسلامی کے احتجاج نے عوامی ریلیف کیلئے بہت سارے اہداف حاصل کرلیے ہیں، نائب وزیراعظم",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 06 Nov 26 23:09:04 +0500",
+      "date": "Sat, 07 Nov 26 04:06:40 +0000",
       "photo": ""
     },
     {
-      "title": "بغیر انسولین شوگر کنٹرول کرنے والی ڈیوائس تیار کر لی گئی",
-      "link": "https://www.express.pk/story/2842819/a-device-for-controlling-blood-sugar-without-insulin-has-been-developed-2842819",
-      "description": "تیار کردہ یہ ڈیوائس خون میں موجود اضافی گلوکوز کو گلوکونیٹ میں تبدیل کرتی ہے",
+      "title": "سری لنکا کیخلاف ٹیسٹ سیریز کے آغاز سے دو روز قبل قومی ٹیم میں بڑی تبدیلیاں",
+      "link": "https://www.express.pk/story/2842869/major-changes-in-pakistan-team-before-start-of-sri-lanka-test-series-2842869",
+      "description": "ٹیم مینجمنٹ نے کھلاڑیوں کو آگاہ کیا کہ گرین ٹاپ وکٹ بنانے جارہے ہیں اسی لیے ابھی آپ کی ضرورت نہیں ہے، ذرائع",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 06 Nov 26 22:53:54 +0500",
+      "date": "Sat, 07 Nov 26 08:48:02 +0500",
       "photo": ""
     },
     {
-      "title": "میگھن مارکل کے والد بچوں کے جنسی استحصال کی تصاویر رکھنے کے الزام میں گرفتار",
-      "link": "https://www.express.pk/story/2842813/meghan-markles-father-arrested-on-charges-of-possessing-child-sexual-abuse-images-2842813",
-      "description": "ایف بی آئی اہلکاروں نے لیک لینڈ شہر میں واقع ریٹائرمنٹ ہوم سے تھامس مارکل کو حراست میں لیا",
+      "title": "ڈاکٹر اختر عباس کو سیکرٹری فارمیسی کونسل کا اضافی چارج دینے کا نوٹیفکیشن غیر قانونی قرار",
+      "link": "https://www.express.pk/story/2842867/isb-high-court-2842867",
+      "description": "سیکرٹری کی تقرری کے لیے وفاقی حکومت کی منظوری اور مخصوص پیشہ ورانہ اہلیت لازمی ہے، اسلام آباد ہائیکورٹ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 06 Nov 26 21:49:49 +0500",
+      "date": "Sat, 07 Nov 26 08:31:41 +0500",
       "photo": ""
     },
     {
-      "title": "میاں فاروق الطاف مرحوم، ’راہ نما کارکن‘",
-      "link": "https://www.express.pk/story/2842809/mian-farooq-altaf-marhoom-rahnuma-karkun-2842809",
-      "description": "جس روز پہلی بار میری اُن سے ملاقات ہوئی، بلکہ کہنا چاہیے کہ شناسائی ہوئی، اُس روز بھی وہ وہیل چیئر پر میٹنگ میں شریک ہوئے تھے۔",
+      "title": "خواتین پر تشدد اور استحصال کرنے والے قانون کے شکنجے میں",
+      "link": "https://www.express.pk/story/2842866/perpetrators-of-violence-and-exploitation-against-women-caught-in-the-grip-of-the-law-2842866",
+      "description": "ملزمان کے خلاف مقدمات درج کر کے تحقیقات کا آغاز کر دیا گیا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 06 Nov 26 21:03:10 +0500",
+      "date": "Sat, 07 Nov 26 08:14:27 +0500",
       "photo": ""
     },
     {
-      "title": "ایرانی میڈیا کا قشم جزیرے پر میزائل حملوں کا دعویٰ، ٹرمپ کا ایرانیوں کو گھروں میں رہنے کا مشورہ",
-      "link": "https://www.express.pk/story/2842822/iranian-media-claims-missile-attacks-on-qeshm-trump-advises-iranians-to-stay-indoors-2842822",
-      "description": "ایران کو سختی سے نشانہ بنانا شروع بھی نہیں کیا، بڑی کارروائی جلد ہونے والی ہے؛ ٹرمپ کی امریکی صحافی سے گفتگو",
+      "title": "ڈیانا کے مبینہ زیادتی کیس کے ملزم احمد تنویر کے خلاف اغوا تشدد کیس پر سماعت",
+      "link": "https://www.express.pk/story/2842868/hearing-on-the-kidnapping-and-assault-case-against-ahmed-tanveer-2842868",
+      "description": "مدعی مقدمہ نے شناخت پریڈ پر ملزم احمد تنویر اور احتشام کو شناخت کر رکھا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 06 Nov 26 19:16:36 +0000",
+      "date": "Sat, 07 Nov 26 08:42:31 +0500",
       "photo": ""
     },
     {
-      "title": "امریکا اور ایران کے درمیان معاہدہ نہ ہونے کی خبر غلط ہے: قطر",
-      "link": "https://www.express.pk/story/2842821/reports-that-there-is-no-agreement-between-the-us-and-iran-are-incorrect-qatar-2842821",
-      "description": "قطری میڈیا آفس کے مطابق وزیرِاعظم کے بیان کو توڑ مروڑ کر پیش کیا گیا",
+      "title": "آبنائے ہرمز کھولنے کے لیے امریکا کو ایران کی شرائط تسلیم کرنا ہوں گی، ایرانی فوج",
+      "link": "https://www.express.pk/story/2842864/iran-says-strait-of-hormuz-will-remain-closed-until-us-accepts-tehrans-terms-2842864",
+      "description": "آبنائے ہرمز خلیج فارس کو خلیج عمان اور بحیرہ عرب سے ملاتی ہے اور عالمی توانائی کی ترسیل کے اہم ترین سمندری راستہ ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 06 Nov 26 18:55:18 +0000",
+      "date": "Sat, 07 Nov 26 07:58:28 +0500",
       "photo": ""
     },
     {
-      "title": "پنجابی فلم ’’عاشق رنگ رنگیلے‘‘ کا گرینڈ پریمیئر لاہور کے مقامی سینما گھر میں منعقد",
-      "link": "https://www.express.pk/story/2842814/the-grand-premiere-of-the-punjabi-film-aashiq-rang-rangile-was-held-at-a-local-cinema-in-lahore-2842814",
-      "description": "فلم ایک کامیڈی میوزیکل لو اسٹوری ہے، جس میں محبت، رومانس، مزاح، جذبات اور ایکشن کے دلکش رنگ شامل کیے گئے ہیں",
+      "title": "امریکا اور ایران کے درمیان ممکنہ سمجھوتے کے لیے نمایاں پیش رفت ہوئی ہے، قطری وزیراعظم کا دعویٰ",
+      "link": "https://www.express.pk/story/2842848/qatar-says-mediation-between-us-and-iran-continues-expresses-confidence-in-a-deal-2842848",
+      "description": "امریکی انتظامیہ وسط مدتی انتخابات کے بعد بھی مسئلے کا سفارتی حل تلاش کرنے کے لیے آمادہ ہے، شیخ محمد",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 06 Nov 26 22:02:15 +0500",
+      "date": "Sat, 07 Nov 26 00:55:34 +0000",
       "photo": ""
     },
     {
-      "title": "ایران کو جوہری ہتھیار بنانے سے نہ روکتا تو اسرائیل اور پورا مشرق وسطیٰ آج موجود نہ ہوتا: ٹرمپ",
-      "link": "https://www.express.pk/story/2842805/if-iran-had-not-been-stopped-from-developing-nuclear-weapons-israel-and-the-entire-middle-east-would-not-exist-today-trump-2842805",
-      "description": "ٹروتھ سوشل پر بیان میں ٹرمپ نے کہا کہ کوئی اس بات کا اعتراف نہیں کرنا چاہتا، تاہم سب جانتے ہیں کہ یہ سچ ہے",
+      "title": "ایران نے آبنائے ہرمز میں دو امریکی ڈرون مار گرانے کا دعویٰ کر دیا",
+      "link": "https://www.express.pk/story/2842847/iran-claims-it-shot-down-two-us-mq-9-drones-over-qeshm-island-2842847",
+      "description": "قشم جزیرہ آبنائے ہرمز میں واقع ہے، جو عالمی سطح پر تیل اور گیس کی ترسیل کے لیے ایک اہم سمندری گزرگاہ ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 06 Nov 26 15:57:54 +0000",
+      "date": "Sat, 07 Nov 26 05:53:44 +0500",
       "photo": ""
-    },
-    {
-      "title": "کراچی؛ نایاب اسپرم وہیل کی موجودگی، سندھ کے سمندر میں پہلی مرتبہ دیوہیکل آبی حیات کا مشاہدہ",
-      "link": "https://www.express.pk/story/2842778/karachi-rare-sperm-whale-spotted-in-sindhs-waters-for-the-first-time-marking-the-first-ever-sighting-of-the-giant-marine-mammal-in-the-region-2842778",
-      "description": "سمندری مہم کے دوران کراچی سے تقریبا 40 ناٹیکل میل جنوب مغرب میں اسپرم وہیل کودیکھا، بورڈ ممبر ڈبلیو ڈبلیو ایف پاکستان",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Fri, 06 Nov 26 15:43:14 +0500",
-      "photo": ""
-    },
-    {
-      "title": "علمِ جفر و رمل: ایران میں اقتدار کے اعلیٰ ایوانوں تک پہنچنے والے پُراسرار علوم کی کہانیاں",
-      "link": "https://www.bbc.com/urdu/articles/c64g1vkk453eo?at_medium=RSS&at_campaign=rss",
-      "description": "خامنہ ای کی علمِ جفر و رمل میں دلچسپی سے محمود احمدی نژاد کی حکومت پر ’جن نکالنے والوں سے روابط‘ اور اسرائیل پر طلسم و جادو کے استعمال کے الزام تک، علومِ غریبہ کس طرح اسلامی جمہوریہ ایران کے اقتدار کے اعلیٰ ایوانوں تک پہنچے؟",
-      "source": "BBC Urdu",
-      "cat": "Strange",
-      "date": "Thu, 05 Nov 2026 11:58:01 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b58d/live/2ad80ce0-cc78-11f1-bc2e-018d645d8d21.jpg"
     }
   ],
   "sources": [
@@ -352,7 +336,7 @@
     },
     {
       "source": "BBC World",
-      "added": 26,
+      "added": 28,
       "ok": true
     },
     {
@@ -373,7 +357,7 @@
     },
     {
       "source": "Pakistan Economy",
-      "added": 35,
+      "added": 34,
       "ok": true
     },
     {
