@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T17:21:43.379755+00:00",
-  "count": 33,
+  "generated_at": "2026-11-07T21:23:31.011867+00:00",
+  "count": 25,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,70 +12,46 @@
     "Strange": 2
   },
   "shortages": {
+    "National": 1,
+    "Economy": 2,
+    "Sports": 5,
     "Strange": 2
   },
   "items": [
     {
-      "title": "پاک-چین خلائی تحقیق؛ پہلا پاکستانی خلاباز شینژو 24 کے ذریعے چینی خلائی اسٹیشن پہنچے گا",
-      "link": "https://www.express.pk/story/2842917/pak-china-space-research-first-pakistani-astronaut-join-shenzhou-24-mission-to-chinas-space-station-2842917",
-      "description": "چین کے خلائی پروگرام کی تاریخ میں یہ چینی اور پاکستانی خلا بازوں کی پہلی مشترکہ پرواز ہوگی، چائنا مینڈ اسپیس ایجنسی",
+      "title": "لاہور میں 5 سال بعد پہلی بار اکتوبر میں اے کیو آئی 300 سے زیادہ نہیں ہوا، مریم اورنگزیب",
+      "link": "https://www.express.pk/story/2842960/for-the-first-time-in-5-years-the-aqi-in-lahore-did-not-exceed-300-in-october-says-marriyum-aurangzeb-2842960",
+      "description": "ناسا کا فائر ڈیٹیکشن سسٹم حرارتی تبدیلیوں کی نشاندہی کرتا ہے، سینئر صوبائی وزیر",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sat, 07 Nov 26 10:55:33 +0000",
+      "date": "Sat, 07 Nov 26 15:23:22 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی کے منصوبوں میں تاخیر کرنے والے لاہور ملتان سے سبق حاصل کریں، گورنر سندھ",
-      "link": "https://www.express.pk/story/2842912/governor-sindh-nehal-hashmi-lahore-press-club-meet-the-press-2842912",
-      "description": "کراچی کو اس کا حق نہیں ملا جنہوں نے حق ادا کرنا تھا وہ ناکام رہے، لاہور میٹ دی پریس میں گفتگو",
+      "title": "بچے برے نہیں",
+      "link": "https://www.express.pk/story/2842935/children-are-not-bad-2842935",
+      "description": "کراچی میں حالیہ سائبر کرائم واقعات نے اسی بدلتی ہوئی حقیقت کی طرف توجہ دلائی ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sat, 07 Nov 26 10:17:25 +0000",
+      "date": "Sat, 07 Nov 26 17:49:23 +0500",
       "photo": ""
     },
     {
-      "title": "اسلام آباد؛ مولانا فضل الرحمان سے منسلک مدارس کو نوٹس، قانونی کارروائی کا انتباہ جاری",
-      "link": "https://www.express.pk/story/2842911/islamabad-notices-issued-to-seminaries-affiliated-with-molana-fazlur-rehman-warning-of-legal-action-2842911",
-      "description": "سی ڈی اے نے مدارس کی عمارتوں کو تعمیراتی قوانین کی خلاف ورزیوں پر نوٹس اور قانونی کارروائی کا انتباہ جاری کردی ہے",
+      "title": "کراچی: ایک عظیم شہر کا انتظامی زوال",
+      "link": "https://www.express.pk/story/2842932/karachi-the-administrative-decline-of-a-great-city-2842932",
+      "description": "محض افتتاحی تختیاں نصب کرنے اور ترقی کے خوش نما دعوے کرنے سے شہروں کی تقدیر نہیں بدلتی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sat, 07 Nov 26 10:13:29 +0000",
+      "date": "Sat, 07 Nov 26 17:39:01 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی ایئرپورٹ کے قریب ڈسپنسری میں عمرہ زائرین کو ویکسین لگانے کا سلسلہ روک دیا گیا",
-      "link": "https://www.express.pk/story/2842909/vaccination-of-umrah-pilgrims-has-been-suspended-at-a-dispensary-near-karachi-airport-2842909",
-      "description": "کراچی ائیرپورٹ پر قائم ویکسین کاؤنٹر بھی گزشتہ ماہ بند کر دیا گیا تھا، ذرائع",
+      "title": "وفاقی وزیر چوہدری سالک کا ایک بار پھر پنجاب میں کرپشن کا الزام، سب سے بڑا مسئلہ قرار دے دیا",
+      "link": "https://www.express.pk/story/2842930/federal-minister-chaudhry-salik-once-again-alleges-corruption-in-punjab-terming-it-the-biggest-problem-2842930",
+      "description": "صل عوامی مسئلے سے توجہ ہٹانے کی دانستہ کوشش اور کرپشن کے معاملے کو ذاتی تنازع قرار دیا جارہا ہے، چوہدری سالک",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sat, 07 Nov 26 09:54:28 +0000",
-      "photo": ""
-    },
-    {
-      "title": "سندھ حکومت کا صنعتوں میں بجلی کے نظام کی سالانہ جانچ پڑتال کا فیصلہ",
-      "link": "https://www.express.pk/story/2842908/sindh-govt-decide-to-inspection-industries-electric-system-2842908",
-      "description": "ایسوسی ایشن کا نوٹسز واپس لینے کا مطالبہ، سرکاری مداخلت کسی بھی صورت قابل قبول نہیں ہے، فباٹی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 09:49:11 +0000",
-      "photo": ""
-    },
-    {
-      "title": "گوجرانوالہ ضمنی انتخاب؛ وفاقی وزیراطلاعات عطااللہ تارڑ کو ضابطے کی خلاف ورزی پر نوٹس",
-      "link": "https://www.express.pk/story/2842894/gujranwala-bye-election-federal-information-minister-violating-the-code-of-conduct-notice-issued-2842894",
-      "description": "وفاقی وزیر کی عدم پیشی کی صورت میں دستیاب ریکارڈ پر کارروائی کا فیصلہ کیا جائے گا، ترجمان صوبائی الیکشن کمیشن پنجاب",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 08:19:02 +0000",
-      "photo": ""
-    },
-    {
-      "title": "9 مئی مقدمات میں قید پی ٹی آئی کی خاتون رہنما صنم جاوید نے شوہر سے خلع کیلیے عدالت سے رجوع کرلیا",
-      "link": "https://www.express.pk/story/2842887/sanam-javed-petition-for-khula-2842887",
-      "description": "پی ٹی آئی رہنما صنم جاوید نے لاہور کی فیملی کورٹ میں درخواست دائر کی، 25 نومبر کیلیے شوہر کو نوٹس جاری",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 12:13:38 +0500",
+      "date": "Sat, 07 Nov 26 12:27:05 +0000",
       "photo": ""
     },
     {
@@ -106,6 +82,24 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
     },
     {
+      "title": "اسلام آباد کی پہلی جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی؟",
+      "link": "https://www.bbc.com/urdu/watch/cv4g1511w85wo?at_medium=RSS&at_campaign=rss",
+      "description": "اسلام آباد کی پہلی جیل کا پہلا حصہ 17سال کے بعد مکمل ہو پایا۔ یہ جیل پاکستان کی دوسری جیلوں سے کس طرح مختلف ہوگی اور اس نئی جیل میں کن قیدیوں کو رکھا جائے گا؟",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Thu, 05 Nov 2026 14:04:52 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/47d7/live/183ca570-d91e-11f1-ad94-e17fee4cd332.jpg"
+    },
+    {
+      "title": "مشرق وسطیٰ کا بحران اور پاکستانی بندرگاہوں کا ’ریکارڈ منافع‘",
+      "link": "https://www.bbc.com/urdu/watch/c6n4enn737dpo?at_medium=RSS&at_campaign=rss",
+      "description": "مشرق وسطیٰ میں جنگ کے باعث آبنائے ہرمز بند ہوئی تو بحری جہازوں کا رخ پاکستانی بندرگاہوں کی طرف ہو گیا۔ اس بحران نے پاکستان کی شپنگ انڈسٹری کو دہائیوں بعد معاشی ترقی کا موقع دیا ہے۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Tue, 03 Nov 2026 15:59:45 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4194/live/3d337370-d79f-11f1-b441-2b33b063138f.png"
+    },
+    {
       "title": "’اسلام آباد اور ریاض کے فیصلوں کی قیمت ترک نوجوانوں کو نہیں چکانی چاہیے‘: مکہ معاہدے کی ناقد ترک اپوزیشن رہنما گُلیستان کلیچ کون ہیں؟",
       "link": "https://www.bbc.com/urdu/articles/c6je5q203072o?at_medium=RSS&at_campaign=rss",
       "description": "گُلیستان کلیچ کوچ ییغیت نے یہ سوال بھی اٹھایا کہ آیا اس نئے دفاعی فریم ورک کا رخ خطے کے دیگر ممالک، خصوصاً ایران، کے خلاف تو نہیں ہے۔ ان کے مطابق حکومت کو معاہدے کے سیاسی اور عسکری مضمرات کے بارے میں زیادہ واضح انداز میں عوام اور پارلیمان کو اعتماد میں لینا چاہیے۔",
@@ -133,39 +127,39 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg"
     },
     {
-      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVM0TmJ6a3JUNjJva0g3SDUxT19SVmdVM3dPOGljSThiOHpsanl1dzJ1SGQxOWtJSXd5bVJpeGNNdG9jWmdOTlBqWDRaZjBzYkNDQ3g2WmYyRlBwZzJlTGg0VV9Bak5NM3ZDamNUaGlRMzFxV0Fvemt1MTNDUkVDYy1JMkdCNVZhczAweGZXZmNBZXk1UVRJ?oc=5",
-      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Sat, 07 Nov 2026 07:54:02 GMT",
-      "photo": ""
-    },
-    {
-      "title": "IBA Karachi Hosts Sixth International CBERCON 2026 Conference on Sustainable Economic Future - Energy Update",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWZwQTlhZVkyb28yS01Lb2ZqUXBOX3Y0WkFHdW1vR1ctc2NOVExUcVFhUjJTWUk0SmNNVzVNUVU3eHZHTGpjU1ZIeXFuMWNHcFNTT0xETTY1ZnFnOU1yVDBKVEhWYXFtQnctZXQ3XzVPblhJMFB3ZkdBVFlRQV91U2Y0eHBIZHZBSGlBaFFObDBjUDFHdEpaejZOSjFtQXZ2Z0ZERzR1OV9VZHhVYjQ4emdhSjdxeUswdi13bTVMT1RVOG8?oc=5",
-      "description": "IBA Karachi Hosts Sixth International CBERCON 2026 Conference on Sustainable Economic Future Energy Update",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Sat, 07 Nov 2026 08:10:59 GMT",
-      "photo": ""
-    },
-    {
-      "title": "ایران میں پولیس اسٹیشن پر حملے کے الزام میں بلوچ علیحدگی پسند کو پھانسی دے دی گئی",
-      "link": "https://www.express.pk/story/2842906/iran-execute-baluch-seperatist-on-attack-police-station-2842906",
-      "description": "محمد عارف شاہ بخش کو صوبہ سیستان بلوچستان کے شہر خاش میں واقع قلعہ بید پولیس اسٹیشن پر حملے پر سزا سنائی گئی تھی",
+      "title": "پنجاب کے شہر لودھراں سے لاپتہ ہونیوالی 2 نوعمر لڑکیاں کراچی سے بازیاب",
+      "link": "https://www.express.pk/story/2842957/2-teenage-girls-missing-from-lodhran-punjab-recovered-in-karachi-2842957",
+      "description": "ڈی پی او لودھراں ڈیفنس پولیس سے رابطے میں ہیں اور جلد دونوں لڑکیوں کو پنجاب پولیس کے حوالے کر دیا جائیگا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 07 Nov 26 14:30:26 +0500",
+      "date": "Sat, 07 Nov 26 20:02:06 +0500",
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا؛ ضلع ٹانگ سے اغوا دو پولیو رضاکار بازیاب",
-      "link": "https://www.express.pk/story/2842896/kp-dist-tank-2-kidnapped-polio-workers-rescue-2842896",
-      "description": "بازیابی کا عمل امن جرگہ اور ضلعی انتظامیہ کی مشترکہ کوششوں سے ممکن ہوا، اے ڈی ایس ٹانک",
+      "title": "پشاور؛ شادی میں ہوائی فائرنگ پر دو دولھے حوالات پہنچا دیے گئے",
+      "link": "https://www.express.pk/story/2842954/peshawar-two-grooms-arrested-for-aerial-firing-at-a-wedding-2842954",
+      "description": "پولیس نے تھانہ داودزئی، بڈھ بیر، ریگی، پشتخرہ اور مچنی گیٹ میں کارروائی کی اور دولھوں سمیت 9 افراد کو گرفتار کرلیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 07 Nov 26 13:40:33 +0500",
+      "date": "Sat, 07 Nov 26 19:18:59 +0500",
+      "photo": ""
+    },
+    {
+      "title": "خیبرپختونخوا؛ اسکردو میں میاں بیوی کو بچوں سمیت قتل کرنے والے ملزمان کرم سے گرفتار",
+      "link": "https://www.express.pk/story/2842937/suspects-involved-in-the-murder-of-a-couple-and-their-children-in-skardu-arrested-in-kurram-2842937",
+      "description": "کرم پولیس نے ملزمان کو گرفتار کرکے کارروائی مکمل کرنے کے بعد مزید قانونی کارروائی کے لیے اسکردو پولیس کے حوالے کردیا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 07 Nov 26 12:54:01 +0000",
+      "photo": ""
+    },
+    {
+      "title": "خیبرپختونخوا میں فائرنگ، ڈرون، کواڈ کاپٹر حملوں کے واقعات میں 1 پولیس اہلکار شہید، 3 زخمی",
+      "link": "https://www.express.pk/story/2842929/1-policeman-martyred-3-injured-in-shooting-drone-quadcopter-attacks-in-khyber-pakhtunkhwa-2842929",
+      "description": "ٹانک میں مکان پر ڈرون حملے سے کمرے کو شدید نقصان پہنچا جبکہ دو بکریاں ہلاک ہوگئیں، شہید اہلکار کا کمسن بیٹا شدید زخمی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 07 Nov 26 12:15:03 +0000",
       "photo": ""
     },
     {
@@ -178,138 +172,75 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Islamabad Police issue traffic advisory ahead of Pakistan-Sri Lanka test series - Pakistan Connect",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0RJcWtOUXVReVp6WE9WQU9fcU5nRlRXb280aE5SQ1V3V18xTExkeVNIUkFscEtQX245V3NZZUcxenZERmNnb25LcGR1eHFXM3dsb0tucFJCRFkwOWUxVHo3TWg5Uk9BVmtlczM3NVFvcVR2NnZhWHh1Yl9PMVotUjMwRDh4c29rNndYaFVBM2RDUQ?oc=5",
-      "description": "Islamabad Police issue traffic advisory ahead of Pakistan-Sri Lanka test series Pakistan Connect",
-      "source": "Sports Pakistan",
-      "cat": "Crime",
-      "date": "Sat, 07 Nov 2026 13:16:44 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Focus - Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDVBd0RUS3V5WUd5S3R5NTFNUHY4ZzN3aUlFOHJQaEdKci1FLW9mRktUVDE5NG5TR2JDSklhSzVIN0xYYkd1TmQ0RWlvQmJaV1hhc0pVN0JuVVFaZ25MODBpc01Vdmc4NnIzOHV0WHc5QjExRTItMHAzSk5QQzQ3UWZiTkJaOER2OG5PYlpsTXU2X3Z1elJodzJEeDBwcktvemtUVXpuajB3dmg4Z0tEaEtFaE95ZmpMeG53?oc=5",
-      "description": "Focus - Pollution, shortages, crime: Daily life in Pakistan's megacity Karachi France 24",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Fri, 06 Nov 2026 10:32:02 GMT",
-      "photo": ""
-    },
-    {
-      "title": "سری لنکا کے خلاف 5 وکٹیں لینے کی امید ہے، پاکستان میں بڑی پرفارمنس دینا چاہتا ہوں: محمد عباس",
-      "link": "https://www.express.pk/story/2842914/i-hope-to-take-5-wickets-against-sri-lanka-i-want-to-deliver-a-big-performance-in-pakistan-mohammad-abbas-2842914",
-      "description": "پاکستان اور سری لنکا کے درمیان پہلا ٹیسٹ 9 نومبر جبکہ دوسرا 17 نومبر کو کھیلا جائے گا",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 26 15:40:06 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پاکستان ہاکی کی بحالی کے لیے بڑا اقدام، 450 اسکولوں میں ہاکی کا سامان تقسیم",
-      "link": "https://www.express.pk/story/2842910/major-initiative-to-revive-pakistan-hockey-hockey-equipment-distributed-to-450-schools-2842910",
-      "description": "پاکستان ہاکی کو گراس روٹ لیول سے دوبارہ زندہ کرنے کا مشن شروع ہو گیا ہے",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 26 15:10:02 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پاکستان نے کوریا کو ہرا کر 23ویں ایشین ٹیم اسکواش چیمپئن شپ کا ٹائٹل جیت لیا",
-      "link": "https://www.express.pk/story/2842903/pakistan-defeated-korea-to-win-the-title-of-the-23rd-asian-team-squash-championship-2842903",
-      "description": "پاکستانی کھلاڑی نور زمان نے کورین کھلاڑی جیونگمن ریو کو 3-0 سے ہرایا",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 26 14:15:14 +0500",
-      "photo": ""
-    },
-    {
-      "title": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar - sabahnews.net",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnhVdnNBaC1PU0Rsc3Z4bUVRaGM4REhVeEdPU2MyWFFLR0dIZkYtZnV5UllTZnBGc2ljX0xxTkxZQ05lVDdPeEVidDVGT3JHTVFJbkFnUlE4MUVhaE9LTFgtZDJnQms0LUJUQjNKOUxlUmJ3ekFIT2ZUSlJoSk5sVEsxc3RTdTlRb0czQ3VSdTBrN2d3QVFoSFhpUElPdTkxRWc2TTJyYjV6SFZLckVHaFltYUpHbTV2eF9IR3dwVERWdWFIOE5mRkdHd2kxUC1rTVhRTXJNYw?oc=5",
-      "description": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar sabahnews.net",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 2026 13:24:57 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan rebuilds hockey grassroots - The Express Tribune",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1o5YTFOeEZkd2pJd0tDQ3RMVUM5Q3FkbnBRN1ZOMmZBaUxNc1Z6d1puS3M5dmRYS1U0enptZHpOSXlsZkx3Zm5qaXl6dUhKN0dQZGZEMk1yQV82cERDWkxXT3RmMXFMcDBRemdsdzdueXU0cDZWMVg1VWNZc0hsVGwzaEPSAZQBQVVfeXFMUEt0akNaR0JKcmNJdnU5bDZHbm1lMGZaaGNpZW9yTl9YRUcwbVNHcXBmZzgwd2tIWGVQSUJPdGd4MTJuZ0xRcjUySUpWSVVVTXZaWjBEUFJ0UmM2V2l2Tnp4dlN1UUVRVWVwMUxabTVXSVloMjgzd2VmY2Jra21fNUNGMkpRZ196S185NlQ1aURJOWxpeg?oc=5",
-      "description": "Pakistan rebuilds hockey grassroots The Express Tribune",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 2026 16:05:46 GMT",
-      "photo": ""
-    },
-    {
-      "title": "برازیل کے فٹبال کلب نے اسٹار فٹبالر نیمار کے والد کو سی ای او مقرر کر دیا",
-      "link": "https://www.express.pk/story/2842928/a-brazilian-football-club-has-appointed-star-footballer-neymars-father-as-ceo-2842928",
-      "description": "نیمار سینئر اپنے بیٹے کے کیریئر کے انتظامات دیکھتے ہیں اور این آر اسپورٹس ایجنسی کے بانی ہیں",
+      "title": "شہر قائد میں نامعلوم سمت سے چلنے والی گولیوں کا سلسلہ بدستور جاری، 3 خواتین زخمی",
+      "link": "https://www.express.pk/story/2842961/in-the-city-of-the-quaid-karachi-the-spate-of-gunfire-from-unknown-directions-continues-3-women-injured-2842961",
+      "description": "زخمی خواتین کو طبی امداد کے لیے اسپتال لے جایا گیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 07 Nov 26 17:13:05 +0500",
+      "date": "Sat, 07 Nov 26 20:32:34 +0500",
       "photo": ""
     },
     {
-      "title": "برطانیہ کے ویزے کا جھانسہ دے کر 52 لاکھ وصول کرنے کے الزام میں خاتون گرفتار",
-      "link": "https://www.express.pk/story/2842927/uk-visa-promising-woman-arrested-for-allegedly-receiving-rs52-million-2842927",
-      "description": "ملزمہ نے شادی کے ذریعے برطانیہ کا ویزا دلوانے کا وعدہ کیا اور جعلی نکاح رجسٹریشن سرٹیفکیٹ بھی دیا",
+      "title": "دیوالی امن، رواداری اور باہمی احترام کا پیغام دیتی ہے، شہباز شریف",
+      "link": "https://www.express.pk/story/2842959/diwali-conveys-a-message-of-peace-tolerance-and-mutual-respect-says-shehbaz-sharif-2842959",
+      "description": "یہ تہوار معاشرے میں امن، خیرسگالی، خوشحالی اور امید کا پیغام عام کرنے کا ذریعہ بنے گا، وزیر اعظم",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 07 Nov 26 17:06:01 +0500",
+      "date": "Sat, 07 Nov 26 15:14:20 +0000",
       "photo": ""
     },
     {
-      "title": "امیتابھ بچن کے بنگلے سمیت اہم مقامات کو بم سے اڑانے کی ایک اور دھمکی",
-      "link": "https://www.express.pk/story/2842922/another-threat-to-blow-up-key-locations-including-amitabh-bachchan-bungalow-with-bombs-2842922",
-      "description": "امیتابھ بچن کے گھر کو دھمکی ملنے کا یہ پہلا واقعہ نہیں",
+      "title": "حوثی حملوں کا خدشہ؛ مدینہ میں تعلیمی ادارے بند؛ صرف آن لائن کلاسیں ہوں گی",
+      "link": "https://www.express.pk/story/2842955/online-classes-in-madina-extended-due-to-threat-houthi-attack-2842955",
+      "description": "والدین اور طلبہ آن لائن کلاسز کے اوقات اور متعلقہ تعلیمی اداروں کی ہدایات پر عمل کریں۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 07 Nov 26 16:18:59 +0500",
+      "date": "Sat, 07 Nov 26 19:19:01 +0500",
       "photo": ""
     },
     {
-      "title": "سلمان خان کی متنازع فلم کب ریلیز ہوگی؟ اداکار نے تاریخ بتادی",
-      "link": "https://www.express.pk/story/2842921/when-will-salman-khan-controversial-film-be-released-the-actor-revealed-the-date-2842921",
-      "description": "فلم کی کہانی 2020 میں لداخ کی وادیِ گلوان میں بھارتی اور چینی افواج کے درمیان ہونے والے فوجی تصادم سے متاثر ہے",
+      "title": "معاشی ترقی کے مواقع",
+      "link": "https://www.express.pk/story/2842952/opportunities-for-economic-development-2842952",
+      "description": "روز گار کے حوالے سے دیکھا جائے تو بیروز گاری کی شرح میں اضافہ ہوا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 07 Nov 26 16:16:56 +0500",
+      "date": "Sat, 07 Nov 26 18:38:46 +0500",
       "photo": ""
     },
     {
-      "title": "اوپن اے آئی میں جاسوسی کا معاملہ، سعودی انجینئر نے الزامات مسترد کر دیے",
-      "link": "https://www.express.pk/story/2842925/saudi-engineer-2842925",
-      "description": "عدالت میں ملزم نے اپنے خلاف خفیہ گفتگو ریکارڈ کرنے کا الزام قبول کرنے سے انکار کیا",
+      "title": "حوثیوں کا سعودی عرب میں یکے بعد دیگرے چھ فوجی حملوں کا دعویٰ",
+      "link": "https://www.express.pk/story/2842956/houthi-attack-six-time-on-saudi-arabia-2842956",
+      "description": "سعودی عرب کے اندر اور یمن میں موجود فوجی تنصیبات اور دیگر اہم اہداف کو نشانہ بنایا گیا۔",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 16:53:19 +0500",
+      "date": "Sat, 07 Nov 26 14:40:11 +0000",
       "photo": ""
     },
     {
-      "title": "سارو گنگولی کی فلم ’دوسرا‘ کے حقوق کا تنازع نئے مرحلے میں داخل",
-      "link": "https://www.express.pk/story/2842920/the-dispute-over-the-rights-of-sourav-ganguly-film-doosra-has-entered-a-new-phase-2842920",
-      "description": "دہلی ہائی کورٹ نے فلم سازوں کو فلم میں ڈسکلیمر شامل کرنے اور 2 کروڑ روپے کی بینک گارنٹی جمع کرانے کی ہدایت کی ہے",
+      "title": "امریکا نے ایران کی مدد پر کرپٹو سمیت کینیڈا کی 8 ڈیجیٹل کمپنیوں پر پابندی عائد کردی",
+      "link": "https://www.express.pk/story/2842953/us-ban-canadian-digital-currency-companies-to-support-iran-one-crypto-exchange-2842953",
+      "description": "کرپٹو کرنسی ایکسچینج نے 2021 سے 2026 کے دوران 16 ارب ڈالر کے مشتبہ اور غیر قانونی مالیاتی لین دین میں سہولت فراہم کی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 16:13:48 +0500",
+      "date": "Sat, 07 Nov 26 18:43:39 +0500",
       "photo": ""
     },
     {
-      "title": "پاکستان کا سری لنکا کے خلاف سیریز کیلیے ٹیسٹ اسکواڈ کا اعلان، بابراعظم کپتان مقرر",
-      "link": "https://www.express.pk/story/2842913/pakistan-announces-test-squad-for-series-against-sri-lanka-2842913",
-      "description": "طیب عارف، علی شبیر اور ثاقب خان پہلی مرتبہ پاکستان کی ٹیسٹ ٹیم میں شامل ہوئے ہیں",
+      "title": "شام کی حوثیوں کیخلاف سعودی عرب کی مدد کیلیے اپنے فوجی بھیجنے کی تردید",
+      "link": "https://www.express.pk/story/2842948/syria-denay-to-sent-troops-in-ksa-to-fight-against-houthi-2842948",
+      "description": "سعودی عرب کے ساتھ فوجی تعاون کا دائرہ فی الحال تربیت، عسکری صلاحیتوں میں اضافے اور فوجی تجربات کے تبادلے تک محدود ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 15:30:39 +0500",
+      "date": "Sat, 07 Nov 26 13:27:21 +0000",
       "photo": ""
     },
     {
-      "title": "توحید ہردوئے کی ناقابلِ شکست ڈبل سنچری، بنگلادیش نے ویسٹ انڈیز کو ہرا دیا",
-      "link": "https://www.express.pk/story/2842905/towhid-hridoys-unbeaten-double-century-bangladesh-defeats-west-indies-2842905",
-      "description": "توحید ہردوئے 359 گیندوں پر 242 رنز بناکر ناٹ آؤٹ رہے، ان کی اننگز میں 22 چوکے اور 11 چھکے شامل تھے",
+      "title": "ممنوعہ راستے سے آبنائے ہرمز عبور کرنے والا آئل ٹینکر بارودی سرنگ سے ٹکرا گیا؛ ایران",
+      "link": "https://www.express.pk/story/2842943/oil-tanker-hit-ied-caught-fire-says-iran-2842943",
+      "description": "جہاز کو پہلے ہی خبردار کیا گیا تھا کہ مذکورہ سمندری راستہ ممنوعہ اور غیر محفوظ ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 14:25:36 +0500",
+      "date": "Sat, 07 Nov 26 18:12:48 +0500",
       "photo": ""
     }
   ],
@@ -317,7 +248,8 @@
     {
       "source": "Geo Urdu",
       "added": 0,
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Express Urdu",
@@ -327,7 +259,8 @@
     {
       "source": "Dunya Urdu",
       "added": 0,
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "BBC Urdu",
@@ -336,7 +269,7 @@
     },
     {
       "source": "BBC World",
-      "added": 21,
+      "added": 24,
       "ok": true
     },
     {
@@ -347,23 +280,27 @@
     },
     {
       "source": "CNN",
-      "added": 35,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Sports Pakistan",
-      "added": 35,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Pakistan Economy",
-      "added": 34,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Pakistan Crime",
-      "added": 24,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ]
 }
