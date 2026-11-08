@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T12:41:41.071755+00:00",
-  "count": 34,
+  "generated_at": "2026-11-08T19:18:00.578463+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,10 +11,53 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 1
-  },
+  "shortages": {},
   "items": [
+    {
+      "title": "ضمنی انتخاب؛ پنجاب اسمبلی کی نشست پر مسلم لیگ(ن) کامیاب، قومی اسمبلی کی نشست پر برتری",
+      "link": "https://www.express.pk/story/2843082/punjab-bye-election-pmln-win-2843082",
+      "description": "پنجاب اسمبلی کے حلقہ پی پی-203 میں مسلم لیگ (ن) کے محمد اسد حنیف نے 42 ہزار 114 ووٹ حاصل کیے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 08 Nov 26 13:22:58 +0000",
+      "photo": ""
+    },
+    {
+      "title": "پنجاب میں فصلوں کی باقیات جلانے کے خلاف کارروائیاں تیز، 679 واقعات رپورٹ",
+      "link": "https://www.express.pk/story/2843080/crackdown-intensified-against-crop-residue-burning-in-punjab-679-incidents-reported-2843080",
+      "description": "پنجاب کے 650 مقامات پر آگ بھجادی گئی، محکمہ تحفظ ماحولیات پنجاب",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 08 Nov 26 17:11:51 +0500",
+      "photo": ""
+    },
+    {
+      "title": "اسٹیبشلمنٹ نے کراچی پر ایسے لوگوں کو مسلط کردیا جو لوٹ مار کے سوا کچھ نہیں جانتے، حافظ نعیم",
+      "link": "https://www.express.pk/story/2843077/the-establishment-has-imposed-people-on-karachi-who-know-nothing-but-looting-says-hafiz-naeem-2843077",
+      "description": "پیپلز پارٹی نے کراچی کے مینڈیٹ پر قبضہ کرکے صرف جماعت اسلامی کا نہیں بلکہ کراچی کے ساڑھے تین کروڑ عوام کا حق مارا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 08 Nov 26 11:28:55 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ساف چیمپئن شپ: پاکستان نے مالدیپ کو 0-3 سے شکست دے کر پہلی کامیابی حاصل کرلی",
+      "link": "https://www.express.pk/story/2843075/saff-championship-pakistan-secures-its-first-win-by-defeating-maldives-3-0-2843075",
+      "description": "میکائل عبداللّٰہ نے پنالٹی کک پر گول بنایا، اس کے بعد نجیب اللّٰہ نے دو گول اسکور کیے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 08 Nov 26 16:22:10 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی؛ تین ہٹی میں پتنگ کی قاتل ڈور نے 5 سالہ بچی کی جان لے لی",
+      "link": "https://www.express.pk/story/2843070/karachi-kite-string-claims-5-year-old-girls-life-in-teen-hatti-2843070",
+      "description": "بچی اپنے نانا کی گود میں بیٹھی تھی اور والد موٹرسائیکل چلا رہے تھے اس دوران اچانک پتنگ کی ڈور بچی کے گلے میں لپٹ گئی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sun, 08 Nov 26 15:48:22 +0500",
+      "photo": ""
+    },
     {
       "title": "ایشین اسکواش چیمپیئن شپ میں گولڈ میڈل جیتنے پر قومی مینز ٹیم کو مبارکباد",
       "link": "https://www.express.pk/story/2843047/congratulations-to-pakistans-mens-team-on-winning-gold-at-the-asian-squash-championship-2843047",
@@ -25,58 +68,13 @@
       "photo": ""
     },
     {
-      "title": "وزیراعلیٰ پنجاب کی اپنے دورے کے دوران سیکیورٹی کے نام پر دکانیں بند نہ کرانے کی ہدایت",
-      "link": "https://www.express.pk/story/2843036/punjab-cm-directs-not-to-close-shops-in-the-name-of-security-during-his-visit-2843036",
-      "description": "کسی رہائشی گلی کو بند یا سیل نہ کیا جائے، سیکیورٹی کے نام پر شہریوں کی آمدورفت پر پابندی عائد نہ لگائی جائے، مراسلہ",
-      "source": "Express Urdu",
+      "title": "انڈیا کے خلاف سنچری بنانے والے حمزہ ظہور کا میچ سے قبل خود کو لکھا گیا پیغام وائرل",
+      "link": "https://www.bbc.com/urdu/articles/crd6d1z69wn8o?at_medium=RSS&at_campaign=rss",
+      "description": "انڈیا کے خلاف میچ سے قبل حمزہ ظہور نے خود کو ایک نوٹ لکھا تھا۔ وہ جب بیٹنگ کرنے پہنچے تو پاکستانی ٹیم 61 رنز پر پانچ وکٹیں گنوا چکی تھی۔",
+      "source": "BBC Urdu",
       "cat": "National",
-      "date": "Sun, 08 Nov 26 05:16:29 +0000",
-      "photo": ""
-    },
-    {
-      "title": "اسلام آباد ایئرپورٹ پر لاؤنج میں گھسنے والا بندر دوران علاج دم توڑ گیا",
-      "link": "https://www.express.pk/story/2843033/monkey-that-entered-islamabad-airport-lounge-dies-during-treatment-2843033",
-      "description": "بندر کو دودھ میں بے ہوشی کی دوا دیکر پر قابو کرنے کی کوشش کی گئی تاہم مدہوشی کی حالت میں بندر بلڈنگ سے گر کر زخمی ہوا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 08 Nov 26 05:08:32 +0000",
-      "photo": ""
-    },
-    {
-      "title": "لاہور: 1947 سے بند تاریخی گوردوارہ سکھ برادری کیلئے کھول دیا گیا",
-      "link": "https://www.express.pk/story/2843028/sikh-gurdwara-restore-in-lahore-2843028",
-      "description": "گوردوارہ چھٹی پاتشاہی سری گورو ہرگوبند صاحب سے منسوب ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 08 Nov 26 09:49:18 +0500",
-      "photo": ""
-    },
-    {
-      "title": "وزیراعظم پاکستان کی آذربائیجان کو یومِ فتح کی چھٹی سالگرہ پر مبارکباد",
-      "link": "https://www.express.pk/story/2843023/prime-minister-of-pakistan-congratulates-azerbaijan-on-the-6th-anniversary-of-victory-day-2843023",
-      "description": "8 نومبر آذربائیجان کی تاریخ کا ایک اہم سنگِ میل ہے، وزیراعظم شہباز شریف",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 08 Nov 26 03:50:27 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ریاست کیخلاف ہتھیار اٹھانے والوں کے ساتھ مذاکرات نہیں ہوں گے، گورنر خیبرپختونخوا",
-      "link": "https://www.express.pk/story/2843008/defeat-or-retreat-is-not-an-option-there-will-be-no-negotiations-with-those-who-take-up-arms-against-the-state-says-governor-kp-2843008",
-      "description": "افغان حکام کی جانب سے پشاور پر قبضے جیسے بیانات اور ڈرون کی آمد پر ماضی میں خاموشی افسوسناک تھی، فیصل کریم کنڈی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 08 Nov 26 02:27:03 +0000",
-      "photo": ""
-    },
-    {
-      "title": "’ ہندو برادری قومی زندگی کا لازمی حصہ ہے‘، دیوالی کے موقع پر صدر اور وزیر اعظم کاخصوصی پیغام",
-      "link": "https://www.express.pk/story/2843006/the-hindu-community-is-an-integral-part-of-national-life-special-message-from-the-president-and-prime-minister-on-the-occasion-of-diwali-2843006",
-      "description": "آصف زرداری، شہباز شریف نے دیوالی کے موقع پر پاکستان میں بسنے والی ہندو برادری کیلئے نیک تمناؤں کا اظہار کیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 08 Nov 26 02:27:00 +0000",
-      "photo": ""
+      "date": "Sun, 08 Nov 2026 14:30:37 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e62/live/3121e330-db7f-11f1-ab1c-6b6075dcdfe1.jpg"
     },
     {
       "title": "پاکستان میں اموات کی بڑی وجہ بننے والا فالج: وہ ساڑھے چار گھنٹے جو جان بچا سکتے ہیں",
@@ -106,12 +104,12 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
     },
     {
-      "title": "خیبرپختونخوا میں ایل پی جی کی قیمتوں میں اضافہ، فی کلو 700 روپے تک فروخت",
-      "link": "https://www.express.pk/story/2843005/kpk-lpg-prices-increase-2843005",
-      "description": "ایل پی جی ایسوسی ایشن کا حکومت سے ٹھیکہ داری سسٹم ختم کرنے کا مطالبہ",
+      "title": "خیبرپختونخوا؛ جامعات کو خسارے کا سامنا، وفاق سے 18 ارب گرانٹ کا مطالبہ",
+      "link": "https://www.express.pk/story/2843065/kp-universities-face-financial-deficit-demand-rs18-billion-grant-from-the-federal-government-2843065",
+      "description": "گزشتہ 10 سال میں جامعات کو گرانٹس کی مد میں 18 ارب روپے کی کمی کا سامنا رہا ہے، ایچ ای سی کو خط",
       "source": "Express Urdu",
       "cat": "Economy",
-      "date": "Sun, 08 Nov 26 07:20:27 +0500",
+      "date": "Sun, 08 Nov 26 14:24:13 +0500",
       "photo": ""
     },
     {
@@ -151,6 +149,42 @@
       "photo": ""
     },
     {
+      "title": "کراچی: پولیس مقابلوں میں ملزمان کی ہلاکت، حراستی اموات تصور ہونگی، پولیس سرجن کا حکم نامہ جاری",
+      "link": "https://www.express.pk/story/2843078/karachi-deaths-of-suspects-in-police-encounters-will-be-treated-as-custodial-deaths-police-surgeon-issues-directive-2843078",
+      "description": "ایسی ہلاکت میں لاشوں کا معائنہ ڈیڈ آن ارائیول کے تحت ہوگا، میڈیکو لیگل سرٹیفکیٹ جاری کرنا بھی لازمی قرار",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sun, 08 Nov 26 11:43:00 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی؛ ڈی ایچ اے میں بکتر بند گاڑیوں کی پریڈ کا معاملہ، کمپنی منیجر سمیت دو ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2843072/karachi-dha-armored-vehicles-parade-two-suspects-including-company-manager-arrested-2843072",
+      "description": "سوشل میڈیا میں ویڈیو کے باعث شہریوں میں سنسنی، خوف و ہراس اور عدم تحفظ کا تاثر پیدا ہوا، پولیس",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sun, 08 Nov 26 15:58:48 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پشاور؛ موبائل کےغیرضروری استعمال سے منع کرنے پر رنجش، بھانجی نے 7 سالہ بچی کو قتل کر دیا",
+      "link": "https://www.express.pk/story/2843067/peshawar-niece-kills-7-year-old-girl-after-being-told-to-stop-excessive-mobile-phone-use-2843067",
+      "description": "تفتیشی ٹیموں نے جدید سائنسی خطوط، ہیومن انٹیلیجنس اور مختلف پہلوؤں سے جامع تفتیش کا آغاز کیا، پولیس",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sun, 08 Nov 26 14:58:47 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی؛ اسٹیل ٹاؤن میں نامعلوم ملزمان کی فائرنگ سے پولیس افسر شہید",
+      "link": "https://www.express.pk/story/2843059/karachi-steel-town-firing-police-officer-martyred-2843059",
+      "description": "انسپکٹر جاوید ابڑو کے بھائی کو بھی ماضی میں قتل کیا جاچکا ہے",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sun, 08 Nov 26 13:05:40 +0500",
+      "photo": ""
+    },
+    {
       "title": "کراچی: اٹلس ہونڈا کے کاپی رائٹ کی خلاف ورزی، جعلی اشیاء بنانے والے 3 ملزمان گرفتار",
       "link": "https://www.express.pk/story/2843048/fia-karachi-arrests-three-atlas-honda-copyright-violations-2843048",
       "description": "جعلی اشیاء اور ان کی تیاری میں استعمال ہونے والی مشینری ضبط کرلی گئی",
@@ -160,48 +194,12 @@
       "photo": ""
     },
     {
-      "title": "کراچی سے چھینے گئے موبائل فون خرید کر کوئٹہ منتقل کرنے والا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2843040/suspect-arrested-for-purchasing-mobile-phones-snatched-in-karachi-and-transporting-them-to-quetta-2843040",
-      "description": "ملزم زبیرموبائل فونز کو بس کے ذریعے کوئٹہ منتقل کرتا تھا، کوئٹہ میں موجود مفرور ملزم دلبر عرف جانی موبائل خریدتا تھا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 08 Nov 26 05:25:37 +0000",
-      "photo": ""
-    },
-    {
-      "title": "لاہور: بیوی کو دوسری منزل سے نیچے گرانے کے الزام میں شوہر گرفتار",
-      "link": "https://www.express.pk/story/2843027/lahore-husband-arrested-wife-pushed-from-rooftop-2843027",
-      "description": "نیچے گرنے کے باعث خاتون کی ریڑھ کی ہڈی اور بائیں پاؤں کی ہڈی ٹوٹ گئی، اسپتال منتقل",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 08 Nov 26 09:49:12 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پشاور؛ نادرا اسسٹنٹ ڈائریکٹر قتل کیس کی تحقیقات میں اہم پیشرفت",
-      "link": "https://www.express.pk/story/2843013/peshawar-major-breakthrough-in-investigation-into-nadra-assistant-directors-murder-case-2843013",
-      "description": "اسسٹنٹ ڈائریکٹر نادرا بلٹ پروف گاڑی میں حیات آباد تک آئے، تحقیقاتی ٹیم",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 08 Nov 26 02:38:35 +0000",
-      "photo": ""
-    },
-    {
-      "title": "لاہور: موٹروے ایم ٹو پر تبلیغی اجتماع کے شرکاء کی بس کو حادثہ، 5 افراد زخمی",
-      "link": "https://www.express.pk/story/2843010/tableeghi-jamaat-bus-accident-lahore-2843010",
-      "description": "بس لاہور کے علاقے رائیونڈ سے پشاور جا رہی تھی، موٹروے پولیس",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 08 Nov 26 07:29:09 +0500",
-      "photo": ""
-    },
-    {
-      "title": "انڈر19ایشیا کپ؛ پاکستان ٹیم کی 209 رنز ہدف کے تعاقب میں بھارت کے خلاف بیٹنگ جاری",
-      "link": "https://www.express.pk/story/2843001/u19-asia-cup-india-batting-against-pakistan-2843001",
-      "description": "بھارت کی جانب سے ارجن راجپوت نے سنچری اسکور کی، باقی کوئی کھلاڑی خاطر خواہ کارکردگی نہ دکھا سکا",
+      "title": "کھیل سے عدم شناسائی؛ جہانگیر خان نے پاکستان اسکواش فیڈریشن کو آڑے ہاتھوں لے لیا",
+      "link": "https://www.express.pk/story/2843068/unfamiliarity-with-the-sport-jahangir-khan-lashes-out-at-the-pakistan-squash-federation-2843068",
+      "description": "جہانگیر خان کا کہنا ہے کہ پاکستان اسکواش فیڈریشن کے حکام ماضی کے چیمپینز کو ٹھیک سے پہچانتے بھی نہیں ہیں",
       "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Sun, 08 Nov 26 06:54:45 +0500",
+      "date": "Sun, 08 Nov 26 15:00:45 +0500",
       "photo": ""
     },
     {
@@ -214,21 +212,12 @@
       "photo": ""
     },
     {
-      "title": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar - sabahnews.net",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnhVdnNBaC1PU0Rsc3Z4bUVRaGM4REhVeEdPU2MyWFFLR0dIZkYtZnV5UllTZnBGc2ljX0xxTkxZQ05lVDdPeEVidDVGT3JHTVFJbkFnUlE4MUVhaE9LTFgtZDJnQms0LUJUQjNKOUxlUmJ3ekFIT2ZUSlJoSk5sVEsxc3RTdTlRb0czQ3VSdTBrN2d3QVFoSFhpUElPdTkxRWc2TTJyYjV6SFZLckVHaFltYUpHbTV2eF9IR3dwVERWdWFIOE5mRkdHd2kxUC1rTVhRTXJNYw?oc=5",
-      "description": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar sabahnews.net",
+      "title": "Pakistan's Hamza Zahoor Makes Bold \"No Pressure\" Claim After Win vs India In U19 Asia Cup 2026 - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmpNN3A3OVFUSTJkczNXNG5WMzdUU1BrSXUxcnVlak1sNGk3WE5fVEl4ZlVQVnFfcXltZlFZZVJObnJ2VG1vWEg5TzY1N1NnUENxbFZXYUdJZU5JZXZYWC1IbE0xekJlb0pnRllGQlFBcERPV01hUk92d2EtY2RhdWkzOEdzMF9feHp2Y1RKQUZEdXlxLXJUZ1lmaTJXcm91aXVWSzkyTlp3Ml9ZYnBrLU1fVlM4eVhxNkFfSDBuUHZudy1wODZkQl9ScjQ?oc=5",
+      "description": "Pakistan's Hamza Zahoor Makes Bold \"No Pressure\" Claim After Win vs India In U19 Asia Cup 2026 NDTV Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Sat, 07 Nov 2026 13:24:57 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Players in action during tent pegging, one of Pakistan’s most popular traditional sports, at the three-day Pakistan Tourism, Sports and Family Festival, organized by the Islamabad Chamber of Commerce and Industry (ICCI) and the Pakistan Tourism Developm - | Associated Press Of Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeVVxNVhFTFJMMjl1aU96R3l4TU9ZTnZSQmhpa1MzVGUwUGZrWW9ia0tSVXVTcGxtOVZ2VHdyQWdmZUx6SXhHNHBGVlY2dUl6dnZ1WXpsRGNvNndjVi1EeE44SW12N2pOcy1hd2JES3Atc3NLQTVaRHF2YUNIeTF2emt6eWpKQTltS2pTLXlWYllVY3dtV290Rm9kTEJwV3pFQ1ItSzdZOVU1OF9mQ2NvWVptRzl2NlEyLWRQVEhxc1A5Nk95RlhhWTJ2dzNHNHlxamJ6c0QxMkUxTVlvNjJUaWlUUGtPM1gwWlRCclNzWC01NzJwSXZqVGtqM3UyazhJMFd6d0NWcmVvYmVCakw5Tnd1Q05DaHdKWVYwZFR4eEhoei1vMDBRQmNlQVNEU0NIUmh5UmZQYVJ3eC1qMzdUb0phWTR4bVlfVWxtVg?oc=5",
-      "description": "Players in action during tent pegging, one of Pakistan’s most popular traditional sports, at the three-day Pakistan Tourism, Sports and Family Festival, organized by the Islamabad Chamber of Commerce and Industry (ICCI) and the Pakistan Tourism Developm | Associated Press Of Pakistan",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 07 Nov 2026 15:02:48 GMT",
+      "date": "Sun, 08 Nov 2026 14:29:18 GMT",
       "photo": ""
     },
     {
@@ -241,39 +230,75 @@
       "photo": ""
     },
     {
-      "title": "آبنائے ہرمز میں 3 آئل ٹینکرز بارودی سرنگوں سے ٹکراگئے؛ خوفناک آگ بھڑک اُٹھی",
-      "link": "https://www.express.pk/story/2843052/3-oil-tankers-caught-fire-in-strait-of-hurmuz-2843052",
-      "description": "متاثرہ جہاز آبنائے ہرمز میں غیر قانونی بحری راستے سے گزرنے کی کوشش کر رہے تھے",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Sun, 08 Nov 26 07:10:58 +0000",
+      "title": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUs5YzNCYi1fcVRCUU5sNFFHc1lkNTV4bFJmWV8zckkybFA1LWZuNTdpYlhxWWctU1VVTkIwQXJSczg2VnZDeW5IeHhBc2NNVDhmZVBwNVd1RDJqVThRQUJDWFhHSWhpeXlidk9oNk52U0lkVGtacUFIWnZKWW9oS3F6VmN0bGlTWTdVQWllMzduV1hKVndPRVJ3Umxia1dEX09TS0RoOUpTOE1xOU0tZVlobFEzMDY1RTJBSjZNWWduT3M?oc=5",
+      "description": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan The Nation (Pakistan )",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 12:10:55 GMT",
       "photo": ""
     },
     {
-      "title": "دوران ڈکیتی فائرنگ کرکے نوجوان کو قتل کرنے والے دو ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2843049/two-suspects-arrested-for-killing-a-young-man-by-opening-fire-during-a-robbery-2843049",
-      "description": "پولیس نے مقتول کے دوست کی نشاندہی پر دونوں ملزمان کو گرفتار کیا",
+      "title": "اڈیالہ جیل میں عمران خان، بشریٰ بی بی کا طبی معائنہ",
+      "link": "https://www.express.pk/story/2843084/imran-khan-and-bushra-bibi-medical-examination-conducted-in-adiala-jail-2843084",
+      "description": "ڈاکٹر عارف خان کی سربراہی میں پمز اسپتال کی ٹیم عمران خان اور بشریٰ بی بی کا مکمل طبی معائنہ کیا، اڈیالہ جیل ذرائع",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 08 Nov 26 11:44:40 +0500",
+      "date": "Sun, 08 Nov 26 13:45:06 +0000",
       "photo": ""
     },
     {
-      "title": "این اے 77 ضمنی انتخاب، سرعام جعلی ووٹ ڈالنے کی ویڈیو سامنے آگئی",
-      "link": "https://www.express.pk/story/2843045/na77-election-uzma-bukhari-shares-rigging-video-2843045",
-      "description": "مرکزی مسلم لیگ کے لوگ سرعام مہریں لگاتے ہوئے پکڑے گئے ہیں، عظمیٰ بخاری",
+      "title": "عوامی اعتماد پر پورا اترنے کے لیے خدمت، ترقی، خوشحالی کا سفر مزید تیز کیا جائے گا، وزیراعظم",
+      "link": "https://www.express.pk/story/2843083/prim-minister-says-the-journey-of-service-development-and-prosperity-will-be-further-accelerated-to-live-up-to-public-trust-2843083",
+      "description": "عوام نے ترقی، خوشحالی کے ایجنڈے پر اعتماد کااظہار کیا، کامیابی قیادت، کارکنوں اورعوام کی جدوجہد کا نتیجہ ہے شہباز شریف",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 08 Nov 26 05:52:37 +0000",
+      "date": "Sun, 08 Nov 26 13:35:46 +0000",
       "photo": ""
     },
     {
-      "title": "راولپنڈی: گھر میں فائرنگ کرکے معروف خاتون صحافی اور اینکر پرسن کو قتل کردیا گیا",
-      "link": "https://www.express.pk/story/2843042/rawalpindi-a-well-known-female-journalist-and-anchorperson-has-been-shot-dead-at-her-home-2843042",
-      "description": "خاتون اینکر پرسن نیوز چینل (92 نیوز) میں کام کرتی تھی، مقتولہ اینکر پرسن نے رات کو نجی ٹی وی پر آخری پروگرام کیا",
+      "title": "امیتابھ بچن کی طبیعت ناساز، مشہور شو ’کون بنے گا کروڑ پتی 18‘ کی شوٹنگ روک دی گئی",
+      "link": "https://www.express.pk/story/2843081/amitabh-bachchan-is-unwell-shooting-for-the-popular-show-kaun-banega-crorepati-18-has-been-halted-2843081",
+      "description": "چینل خصوصی نشریات کے طور پر پرانی اقساط دوبارہ نشر کر رہا ہے جن میں مختلف مشہور شخصیات نے شرکت کی تھی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 08 Nov 26 05:31:32 +0000",
+      "date": "Sun, 08 Nov 26 17:44:33 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کینیڈا: فٹبال میچ کے دوران بال بوائے کو کہنی مارنے پر کھلاڑی کو ریڈ کارڈ",
+      "link": "https://www.express.pk/story/2843079/footballer-sent-off-for-elbowing-ball-boy-2843079",
+      "description": "کم عمر بال بوائے نے کھلاڑی کو ریڈ کارڈ ملنے کی خوشی میں جشن منایا",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Sun, 08 Nov 26 16:58:55 +0500",
+      "photo": ""
+    },
+    {
+      "title": "عمان میں کارگو جہاز میں آگ لگ گئی، متحدہ عرب امارات نے 22 افراد کو بچالیا",
+      "link": "https://www.express.pk/story/2843058/uae-says-it-rescued-22-people-after-cargo-ship-caught-fire-in-sea-of-oman-2843058",
+      "description": "ایران کے بقول آج دن بھر میں 3 آئل ٹینکرز غیرقانونی طور پر آبنانے ہرمز عبور کرنے کی کوشش میں بارودی سرنگوں سے ٹکرا گئے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sun, 08 Nov 26 08:04:16 +0000",
+      "photo": ""
+    },
+    {
+      "title": "امریکا مزید زوال سے بچنا چاہتا ہے تو بالادستی اور جارحانہ پالیسیوں سے باز رہے؛ ایران",
+      "link": "https://www.express.pk/story/2843054/iran-armed-forces-warn-us-against-hegemonic-policies-2843054",
+      "description": "امریکا کی حالیہ سیاسی اور انتخابی پیش رفت دراصل ایران کے خلاف محاذ آرائی میں واشنگٹن کی ناکامیوں کی عکاسی کرتی ہے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sun, 08 Nov 26 12:28:56 +0500",
+      "photo": ""
+    },
+    {
+      "title": "اسرائیل نے فلسطینیوں سے اظہارِ یکجہتی کے لیے آنے والے 14 غیر ملکی کارکن ملک بدر کردیے",
+      "link": "https://www.express.pk/story/2843053/israel-deport-14-activist-from-westbank-helping-palestinian-formers-2843053",
+      "description": "مجموعی طور پر 17 افراد کو حراست میں لیا گیا جن میں 12 غیر ملکی رضاکار، دو غیر ملکی صحافی اور تین فلسطینی شامل تھے۔",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sun, 08 Nov 26 07:28:43 +0000",
       "photo": ""
     },
     {
@@ -286,31 +311,13 @@
       "photo": ""
     },
     {
-      "title": "نیتن یاہو نے اسرائیل کی ممکنہ نئی حکومت کو یہودی تشخص کیلئے خطرہ قرار دے دیا",
-      "link": "https://www.express.pk/story/2843014/netanyahu-has-termed-israels-potential-new-government-a-threat-to-security-2843014",
-      "description": "اپوزیشن جماعتیں عرب اور اسلام پسند جماعتوں کی حمایت سے نئی حکومت قائم کرنے کی کوشش کر رہی ہیں، نیتن یاہو",
+      "title": "مریخ کی 4 ارب برس قدیم چٹان زمین پر دریافت",
+      "link": "https://www.express.pk/story/2843085/meteorite-found-in-the-sahara-2843085",
+      "description": "اس نایاب شہابی پتھر کو ٹیغزا 001 کا نام دیا گیا ہے",
       "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Sun, 08 Nov 26 07:51:15 +0500",
+      "cat": "Strange",
+      "date": "Sun, 08 Nov 26 18:51:08 +0500",
       "photo": ""
-    },
-    {
-      "title": "’عمارت پر میزائل کے ٹکڑے گرے اور شیشے بھی ٹوٹے‘: ریاض میں آرامکو ٹاور پر حملے کے دوران کیا ہوا؟",
-      "link": "https://www.bbc.com/urdu/articles/cxp8g02581p7o?at_medium=RSS&at_campaign=rss",
-      "description": "سعودی وزارتِ توانائی نے بھی واقعے کی تصدیق کرتے ہوئے کہا ہے کہ ’عمارت پر میزائلوں کے ٹکڑے گرنے سے اسے معمولی نقصان پہنچا، تاہم کوئی شخص ہلاک یا زخمی نہیں ہوا۔‘",
-      "source": "BBC Urdu",
-      "cat": "Middle East",
-      "date": "Sun, 08 Nov 2026 12:15:08 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8c1/live/1ff20930-db6d-11f1-9379-091c174aa659.jpg"
-    },
-    {
-      "title": "آبنائے ہرمز میں ہونے والے دھماکوں اور آگ لگنے کے واقعات میں تین تیل بردار جہازوں کو نقصان پہنچا: پاسدارانِ انقلاب کا دعویٰ",
-      "link": "https://www.bbc.co.uk/urdu/live/cvj6jj726r3kt?at_medium=RSS&at_campaign=rss",
-      "description": "ایران کے پاسدارانِ انقلاب کے مطابق اتوار کو آبنائے ہرمز میں ہونے والے دھماکوں اور آتشزدگی کے واقعات میں تین تیل بردار جہاز (آئل ٹینکرز) کو نقصان پہنچا ہے۔ پاسدارانے انقلاب کے بیان میں کہا گیا ہے کہ یہ جہاز ’قوانین کی خلاف ورزی‘ کر رہے تھے اور ایک ’غیر مجاز‘ راستے سے گزر رہے تھے۔ ایران کا کہنا ہے کہ جنوبی راستہ، جو عمان کے ساحل کے قریب واقع ہے اور جہاں امریکہ گزرنے والے بحری جہازوں کو تحفظ فراہم کرتا ہے، غیر قانونی ہے۔",
-      "source": "BBC Urdu",
-      "cat": "Middle East",
-      "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c96/live/020c3a30-db6d-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -345,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 25,
+      "added": 27,
       "ok": true
     },
     {
@@ -356,7 +363,7 @@
     },
     {
       "source": "CNN",
-      "added": 34,
+      "added": 35,
       "ok": true
     },
     {
@@ -366,12 +373,12 @@
     },
     {
       "source": "Pakistan Economy",
-      "added": 34,
+      "added": 32,
       "ok": true
     },
     {
       "source": "Pakistan Crime",
-      "added": 19,
+      "added": 17,
       "ok": true
     }
   ]
