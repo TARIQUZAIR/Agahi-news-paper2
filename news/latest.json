@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T21:23:31.011867+00:00",
-  "count": 25,
+  "generated_at": "2026-11-08T04:10:36.747202+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,12 +12,45 @@
     "Strange": 2
   },
   "shortages": {
-    "National": 1,
-    "Economy": 2,
-    "Sports": 5,
     "Strange": 2
   },
   "items": [
+    {
+      "title": "پنجاب کے 2 صوبائی حلقوں میں ضمنی انتخابات کے لیے پولنگ آج ہو گی",
+      "link": "https://www.express.pk/story/2842975/polling-for-by-elections-in-two-provincial-constituencies-of-punjab-will-take-place-today-2842975",
+      "description": "دونوں حلقوں میں ضمنی انتخابات کے لیے انتخابی عمل صبح 8 بجے شروع ہوگا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 21:31:36 +0000",
+      "photo": ""
+    },
+    {
+      "title": "اسموگ کے خاتمے کے لیے لاہور میں 13 کلومیٹر سائیکل ریلی، خواتین اور بچوں کی بھی شرکت",
+      "link": "https://www.express.pk/story/2842974/13-kilometer-cycle-rally-held-in-lahore-to-combat-smog-women-and-children-also-participated-2842974",
+      "description": "سائیکلنگ کو فروغ دے کر نہ صرف فضائی آلودگی پر قابو پانے میں مدد مل سکتی ہے، سی ٹی او لاہور",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 21:07:29 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، بینظیر پارک کے قریب پیٹرول کے کیبن میں لگی آگ پر قابو پا لیا گیا",
+      "link": "https://www.express.pk/story/2842966/a-fire-that-broke-out-in-a-petrol-kiosk-near-benazir-park-in-karachi-has-been-brought-under-control-2842966",
+      "description": "ریسکیو ٹیم نے موقع پر پہنچ کر پیٹرول کے کیبن میں لگی آگ بجھانے کی کارروائی شروع کی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 23:52:52 +0500",
+      "photo": ""
+    },
+    {
+      "title": "خیبرپختونخوا، پی ٹی آئی دور کا ایک اور اسکینڈل، 8.92 ارب کے 71 ترقیاتی منصوبوں کے ٹینڈرز منسوخ",
+      "link": "https://www.express.pk/story/2842964/khyber-pakhtunkhwa-another-scandal-of-the-pti-era-tenders-for-71-development-projects-worth-892-billion-canceled-2842964",
+      "description": "آفریدی دور میں خیبر کے منصوبوں کے ٹینڈرز میں 5 سے 10 فیصد ایڈوانس کک بیکس وصولی کا انکشاف",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 07 Nov 26 18:19:58 +0000",
+      "photo": ""
+    },
     {
       "title": "لاہور میں 5 سال بعد پہلی بار اکتوبر میں اے کیو آئی 300 سے زیادہ نہیں ہوا، مریم اورنگزیب",
       "link": "https://www.express.pk/story/2842960/for-the-first-time-in-5-years-the-aqi-in-lahore-did-not-exceed-300-in-october-says-marriyum-aurangzeb-2842960",
@@ -25,33 +58,6 @@
       "source": "Express Urdu",
       "cat": "National",
       "date": "Sat, 07 Nov 26 15:23:22 +0000",
-      "photo": ""
-    },
-    {
-      "title": "بچے برے نہیں",
-      "link": "https://www.express.pk/story/2842935/children-are-not-bad-2842935",
-      "description": "کراچی میں حالیہ سائبر کرائم واقعات نے اسی بدلتی ہوئی حقیقت کی طرف توجہ دلائی ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 17:49:23 +0500",
-      "photo": ""
-    },
-    {
-      "title": "کراچی: ایک عظیم شہر کا انتظامی زوال",
-      "link": "https://www.express.pk/story/2842932/karachi-the-administrative-decline-of-a-great-city-2842932",
-      "description": "محض افتتاحی تختیاں نصب کرنے اور ترقی کے خوش نما دعوے کرنے سے شہروں کی تقدیر نہیں بدلتی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 17:39:01 +0500",
-      "photo": ""
-    },
-    {
-      "title": "وفاقی وزیر چوہدری سالک کا ایک بار پھر پنجاب میں کرپشن کا الزام، سب سے بڑا مسئلہ قرار دے دیا",
-      "link": "https://www.express.pk/story/2842930/federal-minister-chaudhry-salik-once-again-alleges-corruption-in-punjab-terming-it-the-biggest-problem-2842930",
-      "description": "صل عوامی مسئلے سے توجہ ہٹانے کی دانستہ کوشش اور کرپشن کے معاملے کو ذاتی تنازع قرار دیا جارہا ہے، چوہدری سالک",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 07 Nov 26 12:27:05 +0000",
       "photo": ""
     },
     {
@@ -127,6 +133,42 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg"
     },
     {
+      "title": "The Praise Economy: Pakistan's Cheapest Bribe - The Friday Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWVVJT28zUl9kVWR3ZHlQNU51UXM3ZGJqTEFvbU5BQ2owZ2pzWjdzWnk4eXdsVnVHOVB3eDVwdDNtd0pKdzNsdmNVSGRtbTV4WHVWaVV5bG5vMFUySXNOaUxzOXBXVG8xbXI2QlJRNk5GWm9WbkxqOUFMZVAxQy1CNzhmZmkxV00xSjlj?oc=5",
+      "description": "The Praise Economy: Pakistan's Cheapest Bribe The Friday Times",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 07 Nov 2026 09:52:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "A revolving door to economic ruin - The News Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zOXVKMlk1bU96U25GMmp5MUxnUHBZQUJMZlZwTW5pV21Ka182ZGFMMndpVWloUmJOTDBUa2pJeDdtV3NQR3ZyQnJ0Y0lYdWFVelJnOHpqVVk4YmZsaWVEbzZGZ3VVa2lZUHFXRklCMVpONG9qSlNqYjhn?oc=5",
+      "description": "A revolving door to economic ruin The News Pakistan",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 07 Nov 2026 19:00:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، سرجانی ٹاؤن میں پولیس مقابلہ، زخمی سمیت 2 ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2842972/police-encounter-in-karachis-surjani-town-2-suspects-arrested-including-one-who-was-wounded-2842972",
+      "description": "زخمی ملزم کو طبی امداد کے لیے اسپتال منتقل کر دیا گیا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sun, 08 Nov 26 01:47:49 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ضیاء الحسن لنجار کا دیوالی پر ہندو برادری کو مبارکباد، مندروں پر اضافی پولیس نفری تعینات کرنے کا حکم",
+      "link": "https://www.express.pk/story/2842971/zia-ul-hassan-lanjar-extends-diwali-greetings-to-the-hindu-community-orders-deployment-of-additional-police-personnel-at-temples-2842971",
+      "description": "دیوالی روشنی، خوشیوں، امن اور امید کا تہوار ہے۔ وزیر داخلہ سندھ",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 07 Nov 26 20:41:40 +0000",
+      "photo": ""
+    },
+    {
       "title": "پنجاب کے شہر لودھراں سے لاپتہ ہونیوالی 2 نوعمر لڑکیاں کراچی سے بازیاب",
       "link": "https://www.express.pk/story/2842957/2-teenage-girls-missing-from-lodhran-punjab-recovered-in-karachi-2842957",
       "description": "ڈی پی او لودھراں ڈیفنس پولیس سے رابطے میں ہیں اور جلد دونوں لڑکیوں کو پنجاب پولیس کے حوالے کر دیا جائیگا",
@@ -145,24 +187,6 @@
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا؛ اسکردو میں میاں بیوی کو بچوں سمیت قتل کرنے والے ملزمان کرم سے گرفتار",
-      "link": "https://www.express.pk/story/2842937/suspects-involved-in-the-murder-of-a-couple-and-their-children-in-skardu-arrested-in-kurram-2842937",
-      "description": "کرم پولیس نے ملزمان کو گرفتار کرکے کارروائی مکمل کرنے کے بعد مزید قانونی کارروائی کے لیے اسکردو پولیس کے حوالے کردیا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sat, 07 Nov 26 12:54:01 +0000",
-      "photo": ""
-    },
-    {
-      "title": "خیبرپختونخوا میں فائرنگ، ڈرون، کواڈ کاپٹر حملوں کے واقعات میں 1 پولیس اہلکار شہید، 3 زخمی",
-      "link": "https://www.express.pk/story/2842929/1-policeman-martyred-3-injured-in-shooting-drone-quadcopter-attacks-in-khyber-pakhtunkhwa-2842929",
-      "description": "ٹانک میں مکان پر ڈرون حملے سے کمرے کو شدید نقصان پہنچا جبکہ دو بکریاں ہلاک ہوگئیں، شہید اہلکار کا کمسن بیٹا شدید زخمی",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sat, 07 Nov 26 12:15:03 +0000",
-      "photo": ""
-    },
-    {
       "title": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں",
       "link": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
       "description": "بلوچستان کے ضلع لسبیلہ کے علاقے اوتھل میں 20 کروڑ 20 لاکھ روپے کی بینک ڈکیتی کے مقدمے میں پولیس نے تین ملزمان کو گرفتار کرنے کا دعویٰ کیا ہے۔ پولیس کے مطابق ملزمان نے سکیورٹی فورسز کی وردیاں آن لائن منگوائیں، بینک میں داخل ہو کر رقم لوٹی اور بعد ازاں شواہد مٹانے کے لیے گاڑی کو نذر آتش کر دیا۔",
@@ -172,39 +196,102 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "شہر قائد میں نامعلوم سمت سے چلنے والی گولیوں کا سلسلہ بدستور جاری، 3 خواتین زخمی",
-      "link": "https://www.express.pk/story/2842961/in-the-city-of-the-quaid-karachi-the-spate-of-gunfire-from-unknown-directions-continues-3-women-injured-2842961",
-      "description": "زخمی خواتین کو طبی امداد کے لیے اسپتال لے جایا گیا",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Sat, 07 Nov 26 20:32:34 +0500",
+      "title": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan - The Nation (Pakistan )",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUs5YzNCYi1fcVRCUU5sNFFHc1lkNTV4bFJmWV8zckkybFA1LWZuNTdpYlhxWWctU1VVTkIwQXJSczg2VnZDeW5IeHhBc2NNVDhmZVBwNVd1RDJqVThRQUJDWFhHSWhpeXlidk9oNk52U0lkVGtacUFIWnZKWW9oS3F6VmN0bGlTWTdVQWllMzduV1hKVndPRVJ3Umxia1dEX09TS0RoOUpTOE1xOU0tZVlobFEzMDY1RTJBSjZNWWduT3M?oc=5",
+      "description": "Tourism, sports among key pillars of Pakistan’s $1 trillion economy vision by 2035: Ahsan The Nation (Pakistan )",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 12:10:55 GMT",
       "photo": ""
     },
     {
-      "title": "دیوالی امن، رواداری اور باہمی احترام کا پیغام دیتی ہے، شہباز شریف",
-      "link": "https://www.express.pk/story/2842959/diwali-conveys-a-message-of-peace-tolerance-and-mutual-respect-says-shehbaz-sharif-2842959",
-      "description": "یہ تہوار معاشرے میں امن، خیرسگالی، خوشحالی اور امید کا پیغام عام کرنے کا ذریعہ بنے گا، وزیر اعظم",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Sat, 07 Nov 26 15:14:20 +0000",
+      "title": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar - sabahnews.net",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnhVdnNBaC1PU0Rsc3Z4bUVRaGM4REhVeEdPU2MyWFFLR0dIZkYtZnV5UllTZnBGc2ljX0xxTkxZQ05lVDdPeEVidDVGT3JHTVFJbkFnUlE4MUVhaE9LTFgtZDJnQms0LUJUQjNKOUxlUmJ3ekFIT2ZUSlJoSk5sVEsxc3RTdTlRb0czQ3VSdTBrN2d3QVFoSFhpUElPdTkxRWc2TTJyYjV6SFZLckVHaFltYUpHbTV2eF9IR3dwVERWdWFIOE5mRkdHd2kxUC1rTVhRTXJNYw?oc=5",
+      "description": "Sports and cultural events are a true depiction of Pakistan and should be held regularly: Attaullah Tarar sabahnews.net",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 13:24:57 GMT",
       "photo": ""
     },
     {
-      "title": "حوثی حملوں کا خدشہ؛ مدینہ میں تعلیمی ادارے بند؛ صرف آن لائن کلاسیں ہوں گی",
-      "link": "https://www.express.pk/story/2842955/online-classes-in-madina-extended-due-to-threat-houthi-attack-2842955",
-      "description": "والدین اور طلبہ آن لائن کلاسز کے اوقات اور متعلقہ تعلیمی اداروں کی ہدایات پر عمل کریں۔",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Sat, 07 Nov 26 19:19:01 +0500",
+      "title": "Advisor and National Coordinator to the Prime Minister on Tourism Sardar Yasir Ilyas Khan views a tent pegging match, one of Pakistan’s most popular traditional sports, at the three-day Pakistan Tourism, Sports and Family Festival at F-9 Park, The festival is o - | Associated Press Of Pakistan",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPZ3hkaXVFN3BIa2xpV0dKeEh5M3ZONHdHLVgybjQ1MjNPSUZyWFdkcE1DTnk5eEI0RnduWmxZQ3ROQTAybmdCbGlCbS1uWU5BOVZQT1Q1NjctNGNod19EdE9DUWx6dDByamIwR1VXVGxRWklzcExlRnJHTkpmZV9fdW5zVkE3VzYwVTYzYWdXQmNFSWtVR2sxTUFaOEpxVWdXbTJtenBoRFk5ZVJGZTNkMmtGMUNHSjVLZ0hmU2xqWDRHOVp0QnBlRTY3ZHYzeENhLWUtdUQxTEx0Y0p0c3J1QWxvYUtLTEpCRTRjTE1hcnJxaTk5TWVJaG5oOTE0cVl6TFRlaTB6UG8zbXBiX3M0eUkzU3pra1JxVEs3TGRMVFpqT3lHaEY5NlJQdVJQWTFSTFktLV8yejQ3dmZudzZvRDVjVDN2aEtYUjNtRA?oc=5",
+      "description": "Advisor and National Coordinator to the Prime Minister on Tourism Sardar Yasir Ilyas Khan views a tent pegging match, one of Pakistan’s most popular traditional sports, at the three-day Pakistan Tourism, Sports and Family Festival at F-9 Park, The festival is o | Associated Press Of Pakistan",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sun, 08 Nov 2026 00:02:31 GMT",
       "photo": ""
     },
     {
-      "title": "معاشی ترقی کے مواقع",
-      "link": "https://www.express.pk/story/2842952/opportunities-for-economic-development-2842952",
-      "description": "روز گار کے حوالے سے دیکھا جائے تو بیروز گاری کی شرح میں اضافہ ہوا",
+      "title": "Pakistan rebuilds hockey grassroots - The Express Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1o5YTFOeEZkd2pJd0tDQ3RMVUM5Q3FkbnBRN1ZOMmZBaUxNc1Z6d1puS3M5dmRYS1U0enptZHpOSXlsZkx3Zm5qaXl6dUhKN0dQZGZEMk1yQV82cERDWkxXT3RmMXFMcDBRemdsdzdueXU0cDZWMVg1VWNZc0hsVGwzaEPSAZQBQVVfeXFMUEt0akNaR0JKcmNJdnU5bDZHbm1lMGZaaGNpZW9yTl9YRUcwbVNHcXBmZzgwd2tIWGVQSUJPdGd4MTJuZ0xRcjUySUpWSVVVTXZaWjBEUFJ0UmM2V2l2Tnp4dlN1UUVRVWVwMUxabTVXSVloMjgzd2VmY2Jra21fNUNGMkpRZ196S185NlQ1aURJOWxpeg?oc=5",
+      "description": "Pakistan rebuilds hockey grassroots The Express Tribune",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 07 Nov 2026 16:05:46 GMT",
+      "photo": ""
+    },
+    {
+      "title": "India U19 vs Pakistan U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFdqb3ZTMWVxQkN2UzdDMzBwWnFuQUVoeDN4dC02UEdMUlBBTFBEYlh2dzcyUnJ2d3ItT0ZadlhQUm55WHd3eUNfczJIOHZ4dFoxRjlsSTRGaXdNRURWcEVncHp2TW1mVXdFSFYzdF83Z2otMzIxQUxvWnNpN2xUY2lPamg3Zl92Z0RDMzB5RUk5VTU5SnNfelJGQWk0RmktcDJyVU0xQTgwLUMyZTdTUUxLa1dldGFWRHM5bXUyanpubUwwbTBXQ1lwSdIB0wFBVV95cUxOZXhXeVExUnZDNDB0T1JuaUE1U3daMHVsamVqMUpzZVJYSF9LcmF2REtrMEhWRWZicXEyRjExamJ2Vmd5bE9KNmVyTUdOMi1ZMzNFMDlBMng5Tk96M2JLcG5GMkZRb3NMa1c5N0REZy1uRV9kLXdkMmYtaTl1ajdSTk5SOW5TTTJFc2E2T19GUGxuRTdrNDdhWktCallfa045T3JuN1REdmk1Qk9rOXEtQkkwdFY3UHktLS16WXBLWHpOakI5RC00X2gzelltdy1nWVRv?oc=5",
+      "description": "India U19 vs Pakistan U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match NDTV Profit",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sun, 08 Nov 2026 02:00:01 GMT",
+      "photo": ""
+    },
+    {
+      "title": "سی ویو پر ڈائیننگ یوتھ رن ریس، 1500 سے زائد نوجوانوں کی شرکت",
+      "link": "https://www.express.pk/story/2842976/youth-run-race-at-sea-view-over-1500-young-people-participate-2842976",
+      "description": "ریس کے انعقاد کا مقصد نوجوانوں کو صحت مند سرگرمیوں کی طرف راغب کرنا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 07 Nov 26 18:38:46 +0500",
+      "date": "Sun, 08 Nov 26 02:50:52 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ٹرمپ نے سیاسی انتقام لینے اور دھمکیاں دینے پر ڈیموکریٹس کے خلاف تحقیقات کا حکم دے دیا",
+      "link": "https://www.express.pk/story/2842973/trump-has-ordered-an-investigation-into-the-democrats-for-seeking-political-revenge-and-issuing-threats-2842973",
+      "description": "ڈیموکریٹک رہنماؤں نے بے گناہ افراد کو دھمکی آمیز خطوط بھیجے ہیں، امریکی صدر کا الزام",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Sat, 07 Nov 26 20:54:46 +0000",
+      "photo": ""
+    },
+    {
+      "title": "قصور میں خاتون کے اندوہناک قتل کا معمہ حل، بھائی اور شوہر ہی قاتل نکلے",
+      "link": "https://www.express.pk/story/2842970/mystery-of-womans-tragic-murder-in-kasur-solved-brother-and-husband-turn-out-to-be-the-killers-2842970",
+      "description": "مقتولہ مہک بی بی کی لاش 21 اکتوبر کو بہادر پورہ روہی نالے سے ملی تھی",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Sat, 07 Nov 26 19:54:59 +0000",
+      "photo": ""
+    },
+    {
+      "title": "چکرا گوٹھ کے قریب نامعلوم گاڑی کی ٹکر سے راہگیر جاں بحق",
+      "link": "https://www.express.pk/story/2842969/pedestrian-killed-after-being-struck-by-an-unidentified-vehicle-near-chakra-goth-2842969",
+      "description": "جاں بحق شخص کی لاش اسپتال منتقل کردی گئی ہے",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Sun, 08 Nov 26 00:49:15 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ترک صدر اور ٹرمپ کے درمیان ٹیلیفونک رابطہ، ایران امریکا کشیدگی اور یوکرین جنگ پر گفتگو",
+      "link": "https://www.express.pk/story/2842968/turkish-president-and-trump-hold-a-telephone-conversation-discuss-iran-us-tensions-and-the-war-in-ukraine-2842968",
+      "description": "ترکیہ جنگ کے خاتمے کے لیے جاری اقدامات میں اپنا کردار ادا کرتا رہے گا، رجب طیب اردوان",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sat, 07 Nov 26 19:40:34 +0000",
+      "photo": ""
+    },
+    {
+      "title": "نیتن یاہو کو بڑا سیاسی دھچکا، اسرائیلی صدر نے حکومت سازی کی دعوت آئزن کوٹ کو دے دی",
+      "link": "https://www.express.pk/story/2842965/netanyahu-suffers-major-political-setback-as-israeli-president-invites-eisenkot-to-form-government-2842965",
+      "description": "نیتن یاہو مخالف رہنما کو نئی حکومت تشکیل دینے کے لیے 28 روز کی مہلت حاصل ہوگی",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sat, 07 Nov 26 18:38:20 +0000",
       "photo": ""
     },
     {
@@ -224,32 +311,13 @@
       "cat": "Middle East",
       "date": "Sat, 07 Nov 26 18:43:39 +0500",
       "photo": ""
-    },
-    {
-      "title": "شام کی حوثیوں کیخلاف سعودی عرب کی مدد کیلیے اپنے فوجی بھیجنے کی تردید",
-      "link": "https://www.express.pk/story/2842948/syria-denay-to-sent-troops-in-ksa-to-fight-against-houthi-2842948",
-      "description": "سعودی عرب کے ساتھ فوجی تعاون کا دائرہ فی الحال تربیت، عسکری صلاحیتوں میں اضافے اور فوجی تجربات کے تبادلے تک محدود ہے",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 13:27:21 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ممنوعہ راستے سے آبنائے ہرمز عبور کرنے والا آئل ٹینکر بارودی سرنگ سے ٹکرا گیا؛ ایران",
-      "link": "https://www.express.pk/story/2842943/oil-tanker-hit-ied-caught-fire-says-iran-2842943",
-      "description": "جہاز کو پہلے ہی خبردار کیا گیا تھا کہ مذکورہ سمندری راستہ ممنوعہ اور غیر محفوظ ہے",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Sat, 07 Nov 26 18:12:48 +0500",
-      "photo": ""
     }
   ],
   "sources": [
     {
       "source": "Geo Urdu",
       "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true
     },
     {
       "source": "Express Urdu",
@@ -259,8 +327,7 @@
     {
       "source": "Dunya Urdu",
       "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "ok": true
     },
     {
       "source": "BBC Urdu",
@@ -269,7 +336,7 @@
     },
     {
       "source": "BBC World",
-      "added": 24,
+      "added": 25,
       "ok": true
     },
     {
@@ -280,27 +347,23 @@
     },
     {
       "source": "CNN",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "added": 33,
+      "ok": true
     },
     {
       "source": "Sports Pakistan",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "added": 35,
+      "ok": true
     },
     {
       "source": "Pakistan Economy",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "added": 34,
+      "ok": true
     },
     {
       "source": "Pakistan Crime",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "added": 19,
+      "ok": true
     }
   ]
 }
