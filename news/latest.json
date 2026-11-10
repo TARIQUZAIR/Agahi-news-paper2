@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T14:14:43.757930+00:00",
-  "count": 35,
+  "generated_at": "2026-11-10T21:10:39.428656+00:00",
+  "count": 34,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,60 +11,62 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
+    {
+      "title": "پنجاب حکومت نے وفاقی وزیر چوہدری سالک سے سیکیورٹی واپس لے لی",
+      "link": "https://www.express.pk/story/2843507/punjab-government-has-withdrawn-security-from-federal-minister-chaudhry-salik-2843507",
+      "description": "یلیٹ فورس کے اہلکاروں کو واپس رپورٹ کرنے کے احکامات جاری کر دیے گئے ہیں",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 10 Nov 26 14:10:19 +0000",
+      "photo": ""
+    },
+    {
+      "title": "وائس چانسلر داؤد یونیورسٹی کی مدت ملازمت میں توسیع، آئی بی اے سکھر کے وی سی کی ملازمت بڑھنے کا امکان",
+      "link": "https://www.express.pk/story/2843480/dawood-engineering-vc-tenure-extended-iba-sukkur-vcs-tenure-likely-to-increase-2843480",
+      "description": "وزیر اعلی سندھ نے سمری منظور کرنے کے بجائے سکھر آئی بی اے یونیورسٹی کے وائس چانسلر سے منگل کی صبح مختصر ملاقات کی ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 10 Nov 26 16:30:58 +0500",
+      "photo": ""
+    },
+    {
+      "title": "وزیراعلیٰ سندھ نے 750 اسکولوں کا انتظام نجی شعبے کے حوالے کرنے کی منظوری دیدی",
+      "link": "https://www.express.pk/story/2843477/sindh-cm-approves-handing-over-management-of-750-schools-to-private-sector-2843477",
+      "description": "کیٹی بندر کو بحری معاشی مرکز کے طور پر ترقی دینے، دھابیجی خصوصی معاشی زون میں سرمایہ کاری کو راغب کرنے کی بھی منظوری",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 10 Nov 26 10:23:58 +0000",
+      "photo": ""
+    },
+    {
+      "title": "وزیراعظم اتحادیوں کو اعتماد میں لیں، اپوزیشن سے جھگڑے نہ چھیڑیں، بلاول",
+      "link": "https://www.express.pk/story/2843475/pm-should-take-allies-into-confidence-not-pick-fights-with-opposition-says-bilawal-2843475",
+      "description": "وفاق کہتا تھا صوبائی حکومت نااہل ہے، بلوچستان میں وفاق نے 3 سال میں 30 ہزار گھر بنائے ہم نے 10 لاکھ بنا دیے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 10 Nov 26 14:48:29 +0500",
+      "photo": ""
+    },
+    {
+      "title": "اسد محمود کا تحریری جواب غیر تسلی بخش قرار، نیب نے طلبی کا دوسرا نوٹس جاری کردیا",
+      "link": "https://www.express.pk/story/2843474/nab-second-call-up-notice-moalana-son-and-former-federal-minister-asad-mahmood-2843474",
+      "description": "پاکستان پوسٹ ڈیپارٹمنٹ میں غیر قانونی بھرتیوں پر اسد محمود کو 13 نومبر کی صبح 11 بجے ذاتی حیثیت میں پیش ہونے کی ہدایت",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 10 Nov 26 14:47:35 +0500",
+      "photo": ""
+    },
     {
       "title": "عمران خان کے لیے حکومت کے پاس نہ کوئی ڈیل ہے اور نہ ڈھیل، طارق فضل چوہدری",
       "link": "https://www.express.pk/story/2843469/no-deal-no-relief-for-imran-khan-federal-minister-2843469",
       "description": "خیبرپختونخوا میں ممکنہ اہداف حاصل نہیں کرلیتے وہاں ایمرجنسی کا نفاذ رہے گا حکومت کے پاس ناکامی کا آپشن نہیں، گفتگو",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 10 Nov 26 08:48:20 +0000",
-      "photo": ""
-    },
-    {
-      "title": "کراچی پیسہ کماکر دیتا ہے، بدلے میں وفاق سے کیا ملتا ہے؟ مرتضیٰ وہاب",
-      "link": "https://www.express.pk/story/2843451/mayor-karachi-murtaza-wahab-2843451",
-      "description": "کراچی چلتا ہے تو ملک چلتا ہے اس میں کوئی دو رائے نہیں، میئر کراچی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 26 06:44:42 +0000",
-      "photo": ""
-    },
-    {
-      "title": "کراچی؛ میڈیکل یونیورسٹی جانے والی طالبات کے ساتھ واردات، فوٹیج سامنے آگئی",
-      "link": "https://www.express.pk/story/2843444/karachi-footage-emerges-of-incident-involving-female-students-en-route-to-medical-university-2843444",
-      "description": "طالبات بس میں انتطار میں کھڑی تھی کہ موٹر سائیکل سوار 2 ڈاکو موقع پر پہنچ گئے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 26 06:28:57 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ترکیہ میں کوپ 31 فورم کا انعقاد، پاکستان کا عالمی سپلائی چینز کو کاربن سے پاک بنانے کے عزم کا اعادہ",
-      "link": "https://www.express.pk/story/2843441/pakistan-reaffirms-commitment-to-green-supply-chains-at-cop31-2843441",
-      "description": "مال برداری میں ریل کا حصہ 20 فیصد کرنے کا ہدف، شاہراہوں پر ہر 50 کلومیٹر پر الیکٹرک اسٹیشنز بنائیں گے، وفاقی وزیر",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 26 11:22:35 +0500",
-      "photo": ""
-    },
-    {
-      "title": "لاہور میں اسموگ کے باعث دوسرے ٹیسٹ کے وینیو میں تبدیلی کا امکان",
-      "link": "https://www.express.pk/story/2843436/second-test-venue-likely-to-change-due-to-smog-in-lahore-2843436",
-      "description": "لاہور میں گزشتہ چند روز سے اسموگ میں اضافہ دیکھنے میں آیا ہے جس کے بعد پی سی بی حکام متبادل پلان کا سوچ رہے ہیں",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 26 11:06:55 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پاکستانی کرپٹو صارفین کے تحفظ کیلئے بڑا قدم، ورچوئل اثاثہ جات الائنس کے قیام کا اعلان",
-      "link": "https://www.express.pk/story/2843430/major-step-to-protect-pakistani-crypto-users-virtual-assets-alliance-announced-2843430",
-      "description": "ویپ کو کوئی ریگولیٹری اختیار یا حکومتی توثیق حاصل نہیں، وائس چیئرمین",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 26 05:48:42 +0000",
+      "date": "Tue, 10 Nov 26 13:48:20 +0500",
       "photo": ""
     },
     {
@@ -77,6 +79,15 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c8d/live/e708da70-dd08-11f1-97df-bd0937690c4d.jpg"
     },
     {
+      "title": "پاکستانی بحریہ کے پہلے مقامی سربراہ جنھیں ایوب خان سے ’تلخ ملاقات‘ کے بعد مستعفی ہونا پڑا",
+      "link": "https://www.bbc.com/urdu/articles/c680z82225lvo?at_medium=RSS&at_campaign=rss",
+      "description": "ایڈمرل چودھری کو اس لیے استعفی دینا پڑا کیونکہ انھوں نے ’جنرل ایوب خان کی جانب سے بحریہ کی توسیع میں رکاوٹیں ڈالنے کی کوششوں کی مخالفت کی تھی۔‘",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Mon, 09 Nov 2026 07:22:56 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29ad/live/73b267a0-dba3-11f1-9580-17f5674d0b29.jpg"
+    },
+    {
       "title": "پاکستان میں اموات کی بڑی وجہ بننے والا فالج: وہ ساڑھے چار گھنٹے جو جان بچا سکتے ہیں",
       "link": "https://www.bbc.com/urdu/articles/c68xzw1gd920o?at_medium=RSS&at_campaign=rss",
       "description": "’فالج کے مریض کے لیے وقت بہت اہم ہوتا ہے۔ ابتدائی ساڑھے چار گھنٹے کے اندر اگر مریض کو یہ انجیکشن دیا جائے تو خون کے لوتھڑے تحلیل ہو سکتے ہیں، دماغ تک خون کی رسد بحال ہو سکتی ہے اور مستقل معذوری کے خطرے کو نمایاں طور پر کم کیا جا سکتا ہے۔‘",
@@ -86,22 +97,22 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebc9/live/5a547750-daca-11f1-bda8-29fb69dbc026.jpg"
     },
     {
-      "title": "فاز: پاکستان کے پہلے مقامی فضائی میزائل کا تجربہ کیوں اہم سمجھا جا رہا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/c6n8dm9vy3k2o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان نے فاز نامی اپنے پہلے مقامی طور پر تیار کردہ فضا سے فضا میں مار کرنے والے میزائل کا تجربہ کیا ہے۔ فاز میزائل کی تکنیکی صلاحیتیں کیا ہیں اور کیا یہ پاکستانی فضائیہ کو کوئی نئی صلاحیت فراہم کر سکتا ہے؟ انڈیا کے ساتھ فضائی ہتھیاروں کی دوڑ میں اس کی کیا اہمیت ہے؟",
+      "title": "مارشل لا دور میں میرے ڈائیلاگ سے لوگوں کی بھڑاس نکلی: مصطفیٰ قریشی",
+      "link": "https://www.bbc.com/urdu/watch/cwr7y7dll32ko?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستانی فلم ’مولا جٹ‘ میں نوری نت کے کردار سے وابستہ جملہ ’نواں آیا ایں، سوہنیا‘ آج بھی مصطفیٰ قریشی کی پہچان ہے۔",
       "source": "BBC Urdu",
       "cat": "National",
-      "date": "Thu, 05 Nov 2026 06:23:59 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d5f/live/0e5e2920-d8dd-11f1-aa01-7b3ecf1680c0.png"
+      "date": "Tue, 10 Nov 2026 14:30:27 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1c/live/179d7bf0-dd13-11f1-9019-999bcb7fa2d2.jpg"
     },
     {
-      "title": "راولا کوٹ میں کشیدگی کے دوران تین ہلاکتیں، اب کیا صورتحال ہے؟",
-      "link": "https://www.bbc.com/urdu/watch/cx2400le5gj1o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے زیر انتظام کشمیر کے علاقے راولا کوٹ میں حالات ایک مرتبہ پھر کشیدہ ہو گئے ہیں۔ جمعرات سے کالعدم تنظیم جوائنٹ ایکشن کمیٹی کے کارکنوں اور قانون نافذ کرنے والے اداروں کے اہل",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Fri, 06 Nov 2026 14:38:29 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
+      "title": "زیارت کراس پر 1.2 ارب روپے مالیت کی ہیروئن برآمد",
+      "link": "https://www.express.pk/story/2843493/heroin-worth-rs-12-billion-seized-at-ziarat-cross-2843493",
+      "description": "کوئٹہ میں 51.6 ملین کی اسمگل شدہ اشیا ضبط، سوست ڈرائی پورٹ پر سگریٹ فلٹرز کی تیاری میں استعمال 319 ملین کا خام مال ضبط",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Tue, 10 Nov 26 12:58:45 +0000",
+      "photo": ""
     },
     {
       "title": "پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟",
@@ -113,13 +124,22 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fc3/live/d0d79a10-db60-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
-      "title": "تین ارب ڈالر کا سعودی قرض ’رول اوور‘: دوست ممالک کے ڈیپازٹس پاکستانی معیشت کا اہم جزو کیوں بن گئے؟",
-      "link": "https://www.bbc.com/urdu/articles/cky93zz5r90lo?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے زرمبادلہ ذخائر میں ایک بڑا حصہ ان ڈیپازٹس کا ہے جو دوست ملکوں کی جانب سے پاکستان کو دیے گئے ہیں۔ ان میں سعودی عرب کی جانب سے دیے گئے آٹھ ارب ڈالر بھی شامل ہیں۔",
+      "title": "’15 ہزار والا سلینڈر 24 ہزار کا ہو گیا‘: ایل پی جی کا سرکاری نرخ 295 روپے فی کلو، مگر صارف دگنی قیمت کیوں ادا کر رہے ہیں؟",
+      "link": "https://www.bbc.com/urdu/articles/c51kdd09dgnyo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں ایل پی جی کی سرکاری قیمت تقریباً 295 روپے فی کلو ہونے کے باوجود کئی علاقوں میں صارفین 550 سے 700 روپے فی کلو تک ادا کر رہے ہیں۔ حکومت اس صورتحال کی وجہ سرحدی بندش، ذخیرہ اندوزی، درآمدی نظام کی خامیوں اور محدود مسابقت کو قرار دیتی ہے جبکہ نئی ایل پی جی پالیسی کے تحت چار سرکاری کمپنیوں کو گیس درآمد کرنے کی اجازت دی گئی ہے۔",
       "source": "BBC Urdu",
       "cat": "Economy",
-      "date": "Thu, 05 Nov 2026 13:05:40 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99b8/live/99dc22f0-d909-11f1-b72c-d16cdc75f35f.jpg"
+      "date": "Sat, 07 Nov 2026 03:02:48 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a4a/live/a45ebf80-d9ef-11f1-bb10-cdca6001fbcf.jpg"
+    },
+    {
+      "title": "Overseas Pakistanis: Now The Real Lifeline of Pakistan’s Economy - Chitral News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnVtaHpaQzBfblRyYy1pYk9sdlhMcnBvWHFDaFdRdk9DMERtSjR1cy1aLWhKZGk4MzFhcmp5TFdYMl85R2w2Vno1ZDlyMmNaUGw3R2VVQ204Z2otX2JZRmpsMmVIYW55TndTd0tZSFBRNW5PeFVZaUlNTXh5b0ZESzhvcjF0eEN2N0dJX2JvS0Q?oc=5",
+      "description": "Overseas Pakistanis: Now The Real Lifeline of Pakistan’s Economy Chitral News",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Tue, 10 Nov 2026 15:40:39 GMT",
+      "photo": ""
     },
     {
       "title": "Kleptocrats keep Pakistan’s economy weak because real progress may cost them power and wealth - Investify",
@@ -131,66 +151,57 @@
       "photo": ""
     },
     {
-      "title": "Ishaq Dar chairs meeting to review Pakistan’s economic diplomacy and efforts to support export promotion - sabahnews.net",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzVRZnF1SkUyZkU4cnluMW5NXzI3amoyVkFwMmlDMEdKRTVDTTlGWTcwaFppYWhDWGd5M2dYVlQzcFg3OHVBWXF1Um1VWmdieGszTFRtdTEwdHkzZUp2cExpX2RTbnlrRHRzZU5SRHNRczFEVWFOdnJfR3VLNHU1MjZubG5ZUFZWZnN3Y1hZRUx5aGV5ZXZWWDliUXh5VXBCOWFKSkhxT2VSYTVIc29ndnVFazRoQWxsREp2MzlicmJuUHBwU2l0SHZMR0N4a3FuLWVFUXBB?oc=5",
-      "description": "Ishaq Dar chairs meeting to review Pakistan’s economic diplomacy and efforts to support export promotion sabahnews.net",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Tue, 10 Nov 2026 13:14:34 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan, China explore new avenues for economic cooperation - The News Pakistan",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVVVUmtVTHlyTHY1NDgzZWtXT3JPaW4tQ3hreGNhWF9LekRIX0dLZnVxcXdGdFROM2loQlFnRVZnMzR0blhiQ0V4SEpKUmFlbHRKTjhxMkFlcjNyRHVpN2NvbWIteXlCQ01hME9fdlNRZGdyWGlaLXNEMlBLd1VJNnZ0aUc3WFZGLVRHdzhEdDVlMGY4c0YwNmFTa18?oc=5",
-      "description": "Pakistan, China explore new avenues for economic cooperation The News Pakistan",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Sun, 08 Nov 2026 19:00:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "اسلام آباد؛ ویکسین خریداری میں اربوں کی مبینہ کرپشن کیس میں اہم پیشرفت",
-      "link": "https://www.express.pk/story/2843464/islamabad-vaccine-purchasing-billions-corruption-allegation-development-2843464",
-      "description": "ملزمان پر ویکسین کے 5 سالہ ٹھیکے میں سنگین مالی بے ضابطگیوں اور من پسند کمپنی کو فائدہ پہنچانے کا الزام ہے",
+      "title": "بلوچستان ہائیکورٹ: ٹریفک پولیس اہلکار کو کچلنے کے مقدمے میں مجید اچکزئی کی بریت کالعدم، 10 سال قید",
+      "link": "https://www.express.pk/story/2843482/bhc-majeed-achakzais-acquittal-in-the-case-of-running-over-a-traffic-police-official-set-aside-sentenced-to-10-years-in-prison-2843482",
+      "description": "بریت کے خلاف سرکاری اپیل منظور, سابق رکن صوبائی اسمبلی کو گرفتار کر کے جیل بھیجنے کا حکم",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 26 13:03:28 +0500",
+      "date": "Tue, 10 Nov 26 12:07:18 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی میں پی آئی اے انجنیئر کے جاں بحق ہونے کا کیس حل",
-      "link": "https://www.express.pk/story/2843463/pia-engineers-death-case-solved-in-karachi-2843463",
-      "description": "پولیس کے مطابق شہری جاوید ابڑو نے لوٹ مار کے بعد فرار ہونے والے ڈکیت پر گولیاں چلائیں جو پی آئی اے انجینئر کو لگی",
+      "title": "کراچی میں کم عمر بچی کو ہراساں کرنے والے ملزم کو معافی کے باوجود 14 سال قید اور بھاری جرمانے کی سزا",
+      "link": "https://www.express.pk/story/2843479/accused-who-harassed-a-young-girl-in-liaquatabad-sentenced-to-14-years-in-prison-and-fined-1-million-rupees-2843479",
+      "description": "متاثرہ لڑکی کی جانب سے دوران ٹرائل ملزم کو معاف کیا گیا، جنسی استحصال سے ناقابل راضی جرم میں معافی نہیں دی جاسکتی، فیصلہ",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 26 12:43:52 +0500",
+      "date": "Tue, 10 Nov 26 16:24:12 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی: کم عمر بچی سے جنسی ہراسانی کا جرم ثابت ہونے پر ملزم کو 14 برس قید اور 10 لاکھ جرمانے کی سزا",
-      "link": "https://www.express.pk/story/2843457/karachi-accused-sentenced-to-14-years-in-prison-and-a-fine-of-1-million-rupees-after-being-found-guilty-of-sexually-harassing-a-young-girl-2843457",
-      "description": "متاثرہ نابالغ بچی کی رضامندی کی قانون میں کوئی حیثیت نہیں، ایڈیشنل ڈسٹرکٹ اینڈ سیشن عدالت وسطی",
+      "title": "اسلام آباد میں وفاقی تعلیمی اداروں میں چوری کی وارداتیں بڑھ گئیں",
+      "link": "https://www.express.pk/story/2843478/incidents-of-theft-have-increased-in-federal-educational-institutions-in-islamabad-2843478",
+      "description": "اسلام آباد ماڈل کالج فار بوائز گولڑہ (10-6) میں کمپیوٹر لیب کا قیمتی سامان چوری ہونے کا انکشاف",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 26 07:05:35 +0000",
+      "date": "Tue, 10 Nov 26 15:31:20 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی؛ غیر قانونی کال سینٹر کیس میں مفرور ملزم کی حفاظتی ضمانت منظور",
-      "link": "https://www.express.pk/story/2843427/karachi-protective-bail-granted-to-absconding-suspect-in-illegal-call-centre-case-2843427",
-      "description": "این سی سی آئی اے نے 273 ملزمان کو شاہراع فیصل سے گرفتار کیا تھا",
-      "source": "Express Urdu",
+      "title": "’جعلی دانشوروں کو بڑی تکلیف ہوئی‘: فیصل آباد میں سیلز گرل پر تشدد کے بعد مریم نواز کا ’تھپڑ کے بدلے تھپڑ‘ کی سزا کا دفاع",
+      "link": "https://www.bbc.com/urdu/articles/cmy0e09wew9no?at_medium=RSS&at_campaign=rss",
+      "description": "پنجاب کی وزیرِ اعلیٰ مریم نواز کی جانب سے شیئر کی گئی ایک ویڈیو، جس میں فیصل آباد میں تشدد کا نشانہ بننے والی دکان کی ملازمہ کو زیرِ حراست ملزم پر تھپڑ مارتے دکھایا گیا، سوشل میڈیا پر بحث کا موضوع بن گئی ہے۔ مریم نواز نے اس اقدام کو کمزور اور مظلوم افراد کے تحفظ سے جوڑا، جبکہ ناقدین نے سوال اٹھایا کہ آیا پولیس حراست میں کسی ملزم کی عوامی تذلیل قانون کی حکمرانی کے اصولوں کے مطابق ہے یا نہیں۔",
+      "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 26 05:43:27 +0000",
-      "photo": ""
+      "date": "Tue, 10 Nov 2026 09:56:58 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/844a/live/bda12310-dced-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
-      "title": "جے یو آئی (ف) کے اسلام آباد میں اجتماعات سے متعلق کیس میں 2 رہنماؤں کا جسمانی ریمانڈ منظور",
-      "link": "https://www.express.pk/story/2843423/physical-remand-of-2-jui-f-leaders-approved-in-connection-with-gatherings-in-islamabad-2843423",
-      "description": "تفتیشی افسران نے کہا کہ ملزمان نے پولیس کیساتھ لڑائی جھگڑا کیا،",
-      "source": "Express Urdu",
+      "title": "بلوچستان میں 20 کروڑ کی بینک ڈکیتی: یونیورسٹی طلبہ کا منصوبہ جس میں سکیورٹی فورسز جیسی وردیاں استعمال ہوئیں",
+      "link": "https://www.bbc.com/urdu/articles/cmlydd08j74eo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کے صوبہ بلوچستان میں ضلع لسبیلہ کے ایک بینک میں 20 کروڑ روپے سے زیادہ رقم کی ڈکیتی کے الزام میں گرفتار بینک کے ایک سابق ملازم کا کہنا ہے کہ انھوں نے دیگر ملزمان کے ساتھ مل کر ایک ماہ تک اس کی منصوبہ بندی کی تھی۔",
+      "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 26 05:29:21 +0000",
+      "date": "Tue, 10 Nov 2026 09:06:45 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b7e/live/8434d700-da6a-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "پاکستان اور سری لنکا کے درمیان دوسرا ٹیسٹ لاہور سے راولپنڈی منتقل",
+      "link": "https://www.express.pk/story/2843500/lahore-test-transfer-to-pindi-2843500",
+      "description": "دوسرا ٹیسٹ 17 سے 21 نومبر تک کھیلا جائے گا",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Tue, 10 Nov 26 18:12:33 +0500",
       "photo": ""
     },
     {
@@ -203,21 +214,12 @@
       "photo": ""
     },
     {
-      "title": "Pakistan 390-6 at lunch on Day 2 as Saud Shakeel nears a century in 1st cricket test - Houston Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0Y3RjJqeXpLcU9lVlR0SHZZdnd3bVRYVTVaWGppbDB6dEp6c1E2M01XVFE2Y19OeTh6ZFNPOWs3aUNnLUFOd2RxcVJBN2stS2xwdk5aOHVib3NzSEptSmZTTjVURWs5WlZFVUFVTmlOZTN3LVZYd04wNUN3WUdDR2pKdzZrLTUxY0ZpVXRlUE43Wk5PSjhoc1h6cDA0dVR5VE1fX3FuQ01FVnFBNHc?oc=5",
-      "description": "Pakistan 390-6 at lunch on Day 2 as Saud Shakeel nears a century in 1st cricket test Houston Chronicle",
+      "title": "Pakistan 390-6 at lunch on Day 2 as Saud Shakeel nears a century in 1st cricket test - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYkhFaG11d19DT1pQLWdBTm8xVktHeHIwNmwzWW1aWnZHbGx2MEdRU2RXSDNTS09CVmRKZFljeUo1YjVWRzNrbkp1WXZBME93RS1tNjA5cDRJVmxtY01PSHhzay1oTlEyc1htb0s0Z0Z6YzBMdWpEdXREdUZPaEJZbFdlMTgyQVFFSkIxMnd3NVlXRERoZWxGdWpDd1AwZHNlV01RNEVkaw?oc=5",
+      "description": "Pakistan 390-6 at lunch on Day 2 as Saud Shakeel nears a century in 1st cricket test San Francisco Chronicle",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Tue, 10 Nov 2026 08:15:13 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFVuN0h0MnB6Q0pXWUhweDctbGh1THM5TnZISV92bThvZHFMZ3RDaDhVNHIyS2pIYnpqOVlpRnNHQ1RrTnUweW1JbG1zZW9OR0h0VjhINWRucDM5SjJJVFZCamJmaUZOa1ZLbmlZYnhsRnQwSk5vVzBtb3ZKaHFkU3RaUnpON2VsN29qY1RoT01JTTNtMFNBcUstMDU3anZ5R1BDTEZuQ0Zjc0xtYTdkZ2ZKSWxUOVA5UG50b3FrazFraGVHemxxTEhrZ9IB0wFBVV95cUxQNjlSbENoOG1fNDViU0Vqb1pmWVhoZVQwUmNMSVlvZ0wzRGVDSEU0bEZYUjMzSzE3NG9TN094Y1Joc3B6ZjBkcHo2TkhWcjBudWNGTHNiRVlCSy1NVHVScGRjY1YtbThsQlBBNzVRU05hTXdyWGE4Z2JQaV94UDJ0WFhNeFU2MDJQMUY4MW1YNWp6MVlEbmdCTXFDMkhpUGtfdk5ZNmhKNHNYZHRWRVBHMDlSNV9vU0M5NmJaY2JtUzliSzB0MzZsT2N1R0ZkYUJVaWQw?oc=5",
-      "description": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match NDTV Profit",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Tue, 10 Nov 2026 02:00:01 GMT",
+      "date": "Tue, 10 Nov 2026 08:33:38 GMT",
       "photo": ""
     },
     {
@@ -230,93 +232,84 @@
       "photo": ""
     },
     {
-      "title": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlJtd0JOaTY4aU1KOUNrdVVhQlNFS0oyWThlQmhiNGdMYUo5RDFRVjZKZ3JYY0VhUHRwYXNsQWpfRHdpNWhYemRaUDR6aXh2QlpHdC05VmJEcHN6NFM5dVlOQ3FfQ21ObmxTWWlsVl9GaFlJRXhUam5VeUdCXzNiSg?oc=5",
-      "description": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India Yahoo Sports",
+      "title": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFVuN0h0MnB6Q0pXWUhweDctbGh1THM5TnZISV92bThvZHFMZ3RDaDhVNHIyS2pIYnpqOVlpRnNHQ1RrTnUweW1JbG1zZW9OR0h0VjhINWRucDM5SjJJVFZCamJmaUZOa1ZLbmlZYnhsRnQwSk5vVzBtb3ZKaHFkU3RaUnpON2VsN29qY1RoT01JTTNtMFNBcUstMDU3anZ5R1BDTEZuQ0Zjc0xtYTdkZ2ZKSWxUOVA5UG50b3FrazFraGVHemxxTEhrZ9IB0wFBVV95cUxQNjlSbENoOG1fNDViU0Vqb1pmWVhoZVQwUmNMSVlvZ0wzRGVDSEU0bEZYUjMzSzE3NG9TN094Y1Joc3B6ZjBkcHo2TkhWcjBudWNGTHNiRVlCSy1NVHVScGRjY1YtbThsQlBBNzVRU05hTXdyWGE4Z2JQaV94UDJ0WFhNeFU2MDJQMUY4MW1YNWp6MVlEbmdCTXFDMkhpUGtfdk5ZNmhKNHNYZHRWRVBHMDlSNV9vU0M5NmJaY2JtUzliSzB0MzZsT2N1R0ZkYUJVaWQw?oc=5",
+      "description": "Pakistan U19 vs Nepal U19 Live Streaming: When And Where To Watch U19 Asia Cup 2026 Match NDTV Profit",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Mon, 09 Nov 2026 05:34:00 GMT",
+      "date": "Tue, 10 Nov 2026 02:00:01 GMT",
       "photo": ""
     },
     {
-      "title": "گرین لینڈ کی برفانی چادر کے ماضی سے متعلق اہم سائنسی انکشاف",
-      "link": "https://www.express.pk/story/2843468/scientists-discover-greenlands-ice-sheet-2843468",
-      "description": "یہ تحقیق ان موسمی حالات کی ایک نادر جھلک پیش کرتی ہے جن کے دوران گرین لینڈ کی برفانی چادر کا بڑا حصہ پگھل گیا تھا",
+      "title": "نیا میثاق جمہوریت؟",
+      "link": "https://www.express.pk/story/2843515/naya-misaq-e-jamhooriyat-2843515",
+      "description": "عمران خان نے حکومت میں آتے ہی ن لیگ ، پی پی پی اور مولانا کو اپنے خلاف کرلیا تھا مگر اب صورت حال مختلف ہے، سیاسی حالات بھی پہلے جیسے نہیں ہیں۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 13:34:18 +0500",
+      "date": "Tue, 10 Nov 26 20:42:06 +0500",
       "photo": ""
     },
     {
-      "title": "جمادی الثانی کا چاند نظر نہیں آیا، رویت ہلال کمیٹی کا اعلان",
-      "link": "https://www.express.pk/story/2843467/jamadusani-moon-not-sighted-ruet-hilal-committee-announce-2843467",
-      "description": "ملک بھر میں اجلاس منعقد ہوئے، محکمہ موسمیات، سپارکو، وزارت سائنس اینڈ ٹیکنالوجی کے نمائندے بھی شریک ہوئے، ہلال کمیٹی",
+      "title": "امیر کی آسائش سستی، غریب کی روٹی مہنگی",
+      "link": "https://www.express.pk/story/2843514/ameer-ki-aasaesh-sasti-ghareeb-ki-roti-mehngi-2843514",
+      "description": "ریاست کا کام صرف سرمایہ کاروں کو اعتماد فراہم کرنا نہیں بلکہ شہریوں کو زندگی کا تحفظ بھی دینا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 08:33:18 +0000",
+      "date": "Tue, 10 Nov 26 20:42:06 +0500",
       "photo": ""
     },
     {
-      "title": "امریکا کا سکھ رہنما کے قتل کی سازش پر بھارتی حکومت کو عدالتی نوٹس، سمن جاری",
-      "link": "https://www.express.pk/story/2843466/us-court-notice-summon-issued-to-indian-govt-over-plot-to-assassinate-sikh-leader-2843466",
-      "description": "سفارتی مراسلے کے ذریعے بھارتی سفارت خانے کو سمن اور عدالتی نوٹس 9 اکتوبر 2026 کو ارسال کیے گئے، امریکی محکمہ خارجہ",
+      "title": "انتخابی اصلاحات",
+      "link": "https://www.express.pk/story/2843513/intikhabi-islahat-2843513",
+      "description": "ایک بار پھر انتخابی اصلاحات کا شوروغوغا ہے۔ اس دفعہ پیپلز پارٹی نے انتخابی اصلاحات کے لیے تحریک انصاف سے رابطہ کیا ہے۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 08:20:58 +0000",
+      "date": "Tue, 10 Nov 26 20:42:06 +0500",
       "photo": ""
     },
     {
-      "title": "تاخیر سے انکم ٹیکس گوشوارے جمع کرانے والوں کو ریلیف دینے کا فیصلہ",
-      "link": "https://www.express.pk/story/2843465/decision-taken-to-provide-relief-to-those-filing-income-tax-returns-late-2843465",
-      "description": "انکم ٹیکس رولز 2002 میں مزید ترامیم کر دیں، تاخیر سے ٹیکس دینے والے سرچارج سے مستثنیٰ اور اے ٹی ایل میں ہوں گے",
+      "title": "تم کو بھی لے ڈوبیں گے",
+      "link": "https://www.express.pk/story/2843512/tum-ko-bhi-le-doobenge-2843512",
+      "description": "حیف درچشم زدن دیدن ہار آخرشد روئے گل سیر نہ دیدم وبہار آخر شد",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 08:12:45 +0000",
+      "date": "Tue, 10 Nov 26 20:42:05 +0500",
       "photo": ""
     },
     {
-      "title": "ترسیلات زر کی مد میں اکتوبر میں 8.5 فیصد اضافہ ریکارڈ، سعودی عرب سرفہرست",
-      "link": "https://www.express.pk/story/2843470/remittances-recorded-an-increase-of-85-october-saudi-arabia-emerging-as-the-leading-source-2843470",
-      "description": "سعودی عرب سے ترسیلات زر میں 25 فیصد، متحدہ عرب امارات سے 16 فیصد اور برطانیہ سے 15 فیصد اضافہ ہوا، وزارت خزانہ",
+      "title": "غزہ کا انسانی المیہ، عالمی ضمیر کا امتحان",
+      "link": "https://www.express.pk/story/2843510/gaza-ka-insani-almiya-aalmi-zameer-ka-imtihan-2843510",
+      "description": "اقوام متحدہ کے فراہم کردہ اعداد و شمار کے مطابق غزہ کی تقریباً اسی فیصد عمارتیں تباہ یا متاثر ہو چکی ہیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 08:54:55 +0000",
+      "date": "Tue, 10 Nov 26 20:42:04 +0500",
       "photo": ""
     },
     {
-      "title": "خواتین کے حقوق کی خلاف ورزی، افغانستان کیخلاف کرکٹ بائیکاٹ میں ایک اور ملک شامل",
-      "link": "https://www.express.pk/story/2843445/cricket-scotland-announces-reduced-relations-with-afghanistan-2843445",
-      "description": "کرکٹ اسکاٹ لینڈ کے بورڈ نے افغانستان کرکٹ بورڈ کے ساتھ روابط کا جائزہ لینے کے بعد نئی پالیسی متعارف کرائی ہے",
+      "title": "امریکا کے قطر میں مذاکرات کے دعوے مکمل جھوٹ ہیں، محسن رضائی",
+      "link": "https://www.express.pk/story/2843508/mohsen-rezaei-says-us-claims-of-qatar-talks-pure-lie-2843508",
+      "description": "امریکی اقتصادی دباؤ کم کرنے اور تیل کی قیمت کم کرنے کے لیے یہ سراسر جھوٹ پھیلا رہے ہیں، سیکریٹری سپریم سیکیورٹی کونسل",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 11:34:30 +0500",
+      "date": "Tue, 10 Nov 26 14:40:08 +0000",
       "photo": ""
     },
     {
-      "title": "صوابی؛ گاڑی پر فائرنگ سے پیش امام اور خاتون سمیت 4 افراد قتل",
-      "link": "https://www.express.pk/story/2843439/swabi-imam-and-three-others-including-a-woman-killed-in-firing-on-vehicle-2843439",
-      "description": "جاں بحق ہونے والوں میں پیش امام، خاتون اور مدعی کے دو گنرز بھی شامل ہیں",
+      "title": "ایک کے بعد ایک سرپرائز آئے گا، ایرانی کمانڈر کا نئی میزائل سٹی کے افتتاح پر دشمن کو دھمکی",
+      "link": "https://www.express.pk/story/2843506/surprises-to-come-one-after-another-top-commander-warns-enemies-as-iran-unveils-new-missile-city-2843506",
+      "description": "ایران نے اپنے دشمنوں کے خلاف لڑتے ہوئے مثالی کامیابی حاصل کرلی ہے، میجر جنرل علی عبداللہی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 06:10:24 +0000",
+      "date": "Tue, 10 Nov 26 14:04:08 +0000",
       "photo": ""
     },
     {
-      "title": "آبنائے ہرمز میں بحری بارودی سرنگوں سے ٹکرا کر دو آئل ٹینکروں میں آگ لگ گئی",
-      "link": "https://www.express.pk/story/2843431/two-oil-tankers-catch-fire-after-hitting-naval-mines-in-strait-of-hormuz-iran-says-2843431",
-      "description": "دونوں ٹینکرز آبنائے ہرمز میں اس راستے سے گزر رہے تھے جسے ایران نے غیر مجاز قرار دیا ہے",
+      "title": "ایران پر اقتصادی پابندیوں، ناکہ بندی کے ہوتے ہوئے بڑی کارروائیوں کی ضرورت نہیں، مارکو روبیو",
+      "link": "https://www.express.pk/story/2843503/marco-rubio-no-need-for-major-combat-operations-against-iran-given-us-economic-campaign-2843503",
+      "description": "امریکی سیکریٹری اسٹیٹ نے کہا کہ ایران کے خلاف امریکی پابندیاں اور بحری ناکہ بندی کے مؤثر نتائج ہیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 10:49:34 +0500",
-      "photo": ""
-    },
-    {
-      "title": "شادی نہ ہونے پر پیسے واپس! ڈیٹنگ ایپ کی انوکھی پیشکش نے سب کو حیران کر دیا",
-      "link": "https://www.express.pk/story/2843459/money-back-if-you-dont-get-married-a-dating-apps-unique-offer-has-left-everyone-surprised-2843459",
-      "description": "دلچسپ بات یہ ہے کہ عام ڈیٹنگ ایپس کے برعکس اس میں صارف کو ایک وقت میں صرف ایک شخص سے رابطے کی سہولت دی جاتی ہے",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Tue, 10 Nov 26 12:11:14 +0500",
+      "date": "Tue, 10 Nov 26 13:21:50 +0000",
       "photo": ""
     },
     {
@@ -352,7 +345,7 @@
     },
     {
       "source": "BBC World",
-      "added": 32,
+      "added": 35,
       "ok": true
     },
     {
@@ -363,12 +356,12 @@
     },
     {
       "source": "CNN",
-      "added": 35,
+      "added": 34,
       "ok": true
     },
     {
       "source": "Sports Pakistan",
-      "added": 24,
+      "added": 27,
       "ok": true
     },
     {
@@ -378,7 +371,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 29,
+      "added": 28,
       "ok": true
     }
   ]
