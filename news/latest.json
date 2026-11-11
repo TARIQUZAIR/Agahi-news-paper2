@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T04:29:41.682739+00:00",
-  "count": 35,
+  "generated_at": "2026-11-11T13:28:50.092648+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,70 +11,63 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 2
+  },
   "items": [
     {
-      "title": "لاہور نے آج بھی آلودہ ترین بڑے شہروں میں دنیا کو پیچھے چھوڑ دیا",
-      "link": "https://www.express.pk/story/2843536/lahore-has-once-again-surpassed-the-rest-of-the-world-among-the-most-polluted-major-cities-2843536",
-      "description": "لاہور کے علاوہ پنجاب کے دیگر شہروں میں بھی فضائی آلودگی کی صورتحال تشویشناک ہے",
+      "title": "دیوالی کی آتش بازی: بھارت سے سرحد پار آلودہ ہوا لاہور پہنچ گئی",
+      "link": "https://www.express.pk/story/2843669/diwali-fireworks-polluted-air-from-across-the-border-in-india-reaches-lahore-2843669",
+      "description": "لاہور سمیت پنجاب کے کئی شہروں میں فضائی آلودگی کی سطح میں نمایاں اضافہ ہوگیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 10 Nov 26 21:52:44 +0000",
+      "date": "Wed, 11 Nov 26 13:14:17 +0500",
       "photo": ""
     },
     {
-      "title": "سندھ طاس معاہدے پر سماعت، انڈس واٹر کمشنر ویانا پہنچ گئے",
-      "link": "https://www.express.pk/story/2843532/hearing-on-the-indus-waters-treaty-indus-waters-commissioner-arrives-in-vienna-2843532",
-      "description": "مصالحتی عدالت میں جیت چکے،اب نیوٹرل ایکسپرٹ کے پاس سماعت:معین وٹو",
+      "title": "جمعیت علمائے اسلام (ف) اسلام آباد کے امیر اویس عزیز کا 15 دن کا جسمانی ریمانڈ منظور",
+      "link": "https://www.express.pk/story/2843665/15-day-physical-remand-of-jamiat-ulema-e-islam-f-islamabad-chief-awais-aziz-granted-2843665",
+      "description": "انسداددہشت گردی عدالت کے جج ابوالحسنات محمد ذوالقرنین نے کیس پر سماعت کی، مولانا اویس عزیز کے وکیل کامران مرتضیٰ عدالت میں پیش ہوئے۔",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 10 Nov 26 20:15:20 +0000",
+      "date": "Wed, 11 Nov 26 07:36:06 +0000",
       "photo": ""
     },
     {
-      "title": "پنجاب حکومت نے وفاقی وزیر چوہدری سالک سے سیکیورٹی واپس لے لی",
-      "link": "https://www.express.pk/story/2843507/punjab-government-has-withdrawn-security-from-federal-minister-chaudhry-salik-2843507",
-      "description": "یلیٹ فورس کے اہلکاروں کو واپس رپورٹ کرنے کے احکامات جاری کر دیے گئے ہیں",
+      "title": "کراچی: ٹریفک حادثات میں 4 سالہ بچی سمیت 2 افراد جاں بحق",
+      "link": "https://www.express.pk/story/2843660/karachi-accidents-2843660",
+      "description": "سائٹ ایریا میں کرنٹ لگنے سے ایک شخص چل بسا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 10 Nov 26 19:10:19 +0500",
+      "date": "Wed, 11 Nov 26 11:50:33 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور کی زہریلی فضا: کیا ہم موسم کو الزام دیتے رہیں گے؟",
-      "link": "https://www.express.pk/story/2843501/lahore-toxic-air-will-we-keep-blaming-the-weather-2843501",
-      "description": "اگر حکومت، کسان، صنعت کار، محققین اور شہری مل کر کام کریں تو اسموگ کے اس سالانہ چکر سے نکلا جا سکتا ہے",
+      "title": "ٹیکنالوجی دنیا بھر میں ریاستوں اور معاشروں کی تشکیلِ نو کر رہی ہے، شزا فاطمہ",
+      "link": "https://www.express.pk/story/2843640/it-minister-shiza-fatima-khawaja-2843640",
+      "description": "معرکہ حق میں پاکستان کی عسکری کامیابی کے ساتھ سائبر صلاحیتوں کا بھی اظہار ہوا، وزیر آئی ٹی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 10 Nov 26 18:18:18 +0500",
+      "date": "Wed, 11 Nov 26 05:00:43 +0000",
       "photo": ""
     },
     {
-      "title": "ٹرمپ خاندان کے کرپٹو کاروبار کی تحقیقات کا امکان: پاکستان اور ورلڈ لبرٹی فنانشل کے درمیان کیا روابط ہیں؟",
+      "title": "عمران خان کی آنکھ میں بار بار انجیکشن کیوں لگایا جا رہا ہے اور سینٹرل ریٹینل وین آکلوژن نامی بیماری کیا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/cwp9dr14ej5lo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان تحریک انصاف کا کہنا ہے کہ کسی سابق وزیرِ اعظم کے طبی علاج کو محض ایک رسمی کارروائی تک محدود کیا جا سکتا ہے اور نہ ہی اسے سیاسی سودے بازی کا ذریعہ بنایا جانا چاہیے۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 2026 11:18:55 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/911e/live/ebc52060-ddc0-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
+      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
       "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
       "source": "BBC Urdu",
       "cat": "National",
       "date": "Wed, 11 Nov 2026 03:59:25 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72fa/live/efead750-dce6-11f1-a8e1-e3454837ffc6.jpg"
-    },
-    {
-      "title": "عمران خان کا رات گئے پمز ہسپتال میں طبی معائنہ، ڈیڑھ گھنٹے بعد اڈیالہ جیل واپسی",
-      "link": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
-      "description": "اڈیالہ جیل میں قید عمران خان کو منگل اور بدھ کی درمیانی شب اسلام آباد کے پمز ہسپتال منتقل کیا گیا جہاں خصوصی میڈیکل ٹیم نے ان کا طبی معائنہ کیا اور ضروری ٹیسٹ کیے۔ جیل حکام کے مطابق تقریباً ڈیڑھ گھنٹے بعد انھیں واپس اڈیالہ جیل منتقل کر دیا گیا جبکہ ان کی صحت سے متعلق رپورٹ آج جاری کیے جانے کا امکان ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ae/live/8d10adc0-dd87-11f1-8946-433dc38d6a72.jpg"
-    },
-    {
-      "title": "راولپنڈی ٹیسٹ میں پاکستان کی پوزیشن مضبوط، نوجوان بولر ثاقب خان کی تعریفیں لیکن رفتار پر بحث",
-      "link": "https://www.bbc.com/urdu/articles/cqj9k917gjjlo?at_medium=RSS&at_campaign=rss",
-      "description": "شہباز روئے نامی صارف نے ایکس پر لکھا کہ ’مجھے ثاقب کی اب تک کی بولنگ کا انداز تو پسند آ رہا ہے، لیکن اس میں رفتار (pace) کیوں نہیں ہے؟ وہ مسلسل 127-129 کی رفتار سے بولنگ کر رہے ہیں—یہ ایک ایسا تجربہ ہے جو ہم پہلے ہی خرم، محمد علی، کاشف وغیرہ کے ساتھ کر چکے ہیں، اور ان میں سے کوئی بھی اتنا کامیاب نہیں رہا کہ آسٹریلیا، انگلینڈ، جنوبی افریقہ یا انڈیا جیسی مضبوط بیٹنگ لائن اپس کو چیلنج کر سکے۔‘",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 2026 13:54:49 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c8d/live/e708da70-dd08-11f1-97df-bd0937690c4d.jpg"
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
     },
     {
       "title": "پاکستانی بحریہ کے پہلے مقامی سربراہ جنھیں ایوب خان سے ’تلخ ملاقات‘ کے بعد مستعفی ہونا پڑا",
@@ -104,6 +97,33 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1c/live/179d7bf0-dd13-11f1-9019-999bcb7fa2d2.jpg"
     },
     {
+      "title": "راولا کوٹ میں کشیدگی کے دوران تین ہلاکتیں، اب کیا صورتحال ہے؟",
+      "link": "https://www.bbc.com/urdu/watch/cx2400le5gj1o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کے زیر انتظام کشمیر کے علاقے راولا کوٹ میں حالات ایک مرتبہ پھر کشیدہ ہو گئے ہیں۔ جمعرات سے کالعدم تنظیم جوائنٹ ایکشن کمیٹی کے کارکنوں اور قانون نافذ کرنے والے اداروں کے اہل",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Fri, 06 Nov 2026 14:38:29 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
+    },
+    {
+      "title": "ایران امریکا تنازع کے اثرات؛ خلیجی ممالک کو پاکستانی برآمدات میں بڑی کمی",
+      "link": "https://www.express.pk/story/2843646/impact-of-iran-us-conflict-major-decline-in-pakistani-exports-to-gulf-countries-2843646",
+      "description": "مارچ سے جون 2026 کے دوران برآمدات 32.3 فیصد کم ہو گئیں",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Wed, 11 Nov 26 05:45:04 +0000",
+      "photo": ""
+    },
+    {
+      "title": "سندھ حکومت کا آبادگاروں کو 17 ارب روپے سبسڈی دینے کا فیصلہ، تاریخ کا اعلان",
+      "link": "https://www.express.pk/story/2843630/sindh-government-decides-to-provide-rs-17-billion-subsidy-to-farmers-date-announced-2843630",
+      "description": "بلاول بھٹو زرداری 20 نومبر کو وزیراعلیٰ ہاؤس میں سندھ ویٹ گروورز سپورٹ پروگرام کے تحت سبسڈی رقم کی فراہمی کا افتتاح کریں گے",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Wed, 11 Nov 26 04:21:51 +0000",
+      "photo": ""
+    },
+    {
       "title": "پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟",
       "link": "https://www.bbc.com/urdu/articles/c679p28dyr7lo?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان میں نئی آٹو پالیسی کے اعلان نے اس شعبے میں ہلچل مچا دی ہے۔ یہ اعلان ایک ایسے وقت میں کیا گیا ہے کہ جب ملک میں چینی برانڈز کی الیکٹرک گاڑیوں کے یکے بعد دیگرے ماڈل متعارف کرائے جا رہے ہیں۔ تو پھر اس پالیسی سے کون سی کمپنیاں سب سے زیادہ فائدہ اٹھا سکتی ہیں اور سب سے زیادہ نقصان کن کمپنیوں کو ہو سکتا ہے؟",
@@ -113,58 +133,49 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fc3/live/d0d79a10-db60-11f1-adda-c54f54e3ce6a.jpg"
     },
     {
-      "title": "’15 ہزار والا سلینڈر 24 ہزار کا ہو گیا‘: ایل پی جی کا سرکاری نرخ 295 روپے فی کلو، مگر صارف دگنی قیمت کیوں ادا کر رہے ہیں؟",
-      "link": "https://www.bbc.com/urdu/articles/c51kdd09dgnyo?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان میں ایل پی جی کی سرکاری قیمت تقریباً 295 روپے فی کلو ہونے کے باوجود کئی علاقوں میں صارفین 550 سے 700 روپے فی کلو تک ادا کر رہے ہیں۔ حکومت اس صورتحال کی وجہ سرحدی بندش، ذخیرہ اندوزی، درآمدی نظام کی خامیوں اور محدود مسابقت کو قرار دیتی ہے جبکہ نئی ایل پی جی پالیسی کے تحت چار سرکاری کمپنیوں کو گیس درآمد کرنے کی اجازت دی گئی ہے۔",
+      "title": "Pakistan eyes export growth, wider SME financing to boost economy - Investify",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2hEMWRlcG0yQVk5MmdWVFJfTTdwSG5lY043bXI5ZFBQeTk5TVVhZHlqRXNKaHdzRUFlMXNjVVVnWHdDd09RQ1FfdGpVQ1pHZU11eXM3ck5xVE0zbU5ad3VjVzItM2xJNFpvWE9mSzJyUTJCYldjTHZzREljVmhDS3FicDZteTU4Nm9qZzBCc0w2UFRxY3VmbFdKdzAzQ3BKbktMSEdqN1FPanc?oc=5",
+      "description": "Pakistan eyes export growth, wider SME financing to boost economy Investify",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Wed, 11 Nov 2026 12:54:02 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan eyes export growth, wider SME financing to boost economy - Mettis Global",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLTE4bnFrdzl5TVFxdVBCcDFUOW5oQXltWWdKY1I5SUZVR2NLbXRJVXJ4QXV5TVRFTFN4UUxkYnRJYUFHZHExYm1xREdpWENzOGFDSDNpSXJmWFlNWk5lQ0Y0U29EZURvNnFLaUViQ0l2UERTbE9nd2VldUVuWVp5anNXRkUzc3o3S3hFaW5kanJjRXl5Mk1nM3JIM0k?oc=5",
+      "description": "Pakistan eyes export growth, wider SME financing to boost economy Mettis Global",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Wed, 11 Nov 2026 12:31:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "اینکر پرسن ربیعہ احسن قتل کیس، ملزم کا پولی گرافک ٹیسٹ مکمل",
+      "link": "https://www.express.pk/story/2843671/anchorperson-rabia-ahsan-murder-case-accused-polygraph-test-completed-2843671",
+      "description": "ملزم احسن کا لاہور فرانزک لیب میں ایک گھنٹے سے زائد دورانیے پر مشتمل پولی فرافک ٹیسٹ ہوا، پولیس ذرائع",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Wed, 11 Nov 26 13:18:41 +0500",
+      "photo": ""
+    },
+    {
+      "title": "مشتعل جتھہ تیار کرکے پرتشدد کارروائی کی منصوبہ بندی کا الزام ، پی ٹی آئی کی خاتون رہنما لاہور سے گرفتار",
+      "link": "https://www.express.pk/story/2843655/fatima-haider-arrested-in-lahore-accused-of-organizing-an-agitated-mob-and-planning-violent-acts-2843655",
+      "description": "پولیس نے کہا کہ پی ٹی آئی کی خاتون رہنماء کی مشتعل جتھے تیار کرنے کی مبینہ آڈیو بھی سامنے آئی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Wed, 11 Nov 26 06:18:20 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کوہاٹ: پولیس پر ہوئے حملے میں کم از کم آٹھ اہلکار زخمی، حکام کو ’چند‘ ہلاکتوں کا خدشہ",
+      "link": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں صوبہ خیبر پختونخوا کے حکام کا دعویٰ ہے کہ کوہاٹ شہر میں دربوکچ کے علاقے میں شدت پسندوں کی جانب سے پولیس پر کیے گئے ایک حملے میں کم از کم آٹھ اہلکار زخمی ہوئے ہیں۔ حکام نے چند ہلاکتوں کا خدشہ بھی ظاہر کیا ہے تاہم اس حوالے سے مزید کوئی تفصیل فراہم نہیں کی گئی ہے۔",
       "source": "BBC Urdu",
-      "cat": "Economy",
-      "date": "Sat, 07 Nov 2026 03:02:48 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a4a/live/a45ebf80-d9ef-11f1-bb10-cdca6001fbcf.jpg"
-    },
-    {
-      "title": "Overseas Pakistanis: Now The Real Lifeline of Pakistan’s Economy - Chitral News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnVtaHpaQzBfblRyYy1pYk9sdlhMcnBvWHFDaFdRdk9DMERtSjR1cy1aLWhKZGk4MzFhcmp5TFdYMl85R2w2Vno1ZDlyMmNaUGw3R2VVQ204Z2otX2JZRmpsMmVIYW55TndTd0tZSFBRNW5PeFVZaUlNTXh5b0ZESzhvcjF0eEN2N0dJX2JvS0Q?oc=5",
-      "description": "Overseas Pakistanis: Now The Real Lifeline of Pakistan’s Economy Chitral News",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Tue, 10 Nov 2026 15:40:39 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan’s Tariff Regime: Comparative Perspective - Oxford Economics",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk1WWU1lOUZ0T19MeWhKWWNkbU5ad0Z3Q1h2OS0yZzc4QktPcE1NcS15OFdSeUNWUTBPNmlhN3RlOTFWa1kwcjE1b3k2WGxwTXRNQ2QySmVTRHJ0eVctMHJCeENUc0VySFZ4Z3JIQjFVeWh6YzhjM1NwZGFoQTQ1SVQ1QzJIS19LSW8ySXVObm9pZkE?oc=5",
-      "description": "Pakistan’s Tariff Regime: Comparative Perspective Oxford Economics",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 11 Nov 2026 04:02:13 GMT",
-      "photo": ""
-    },
-    {
-      "title": "DPM Dar for closer coordination to advance national economic priorities - The Nation (Pakistan )",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb3o1NndlQnE1WUVIN0hrYXJlOFk3TVRadHNmT1NvdVVoOUhSQUhoQTA0V3BEcEFlV05CaGxmc0dPNU01OGUtNmRuYWg3aWJxemV1UktKN01aakdhcFZhOGN4RGJfeEdTdDBjbWJDbDlrdUFFQ3hwb3d4SG13dS1aNEo3WEVqMnF5aDhNSXpOcjJCTS1ISmZnTGVpRTB3SHJLOURiLQ?oc=5",
-      "description": "DPM Dar for closer coordination to advance national economic priorities The Nation (Pakistan )",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Tue, 10 Nov 2026 14:37:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کراچی، شہر میں پولیس مقابلے، ایک ملزم ہلاک، 6 زخمیوں سمیت 7 ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2843534/karachi-police-encounters-in-the-city-one-suspect-killed-while-four-others-arrested-in-injured-condition-2843534",
-      "description": "ہلاک او زخمی ملزمان کو اسپتال منتقل کر دیا گیا",
-      "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Wed, 11 Nov 26 02:00:31 +0500",
-      "photo": ""
-    },
-    {
-      "title": "ملک کی متعدد موٹرویز پر بارش، موٹروے پولیس کا مسافروں کو احتیاط کا مشورہ",
-      "link": "https://www.express.pk/story/2843519/rain-on-several-of-the-countrys-motorways-motorway-police-advise-travelers-to-exercise-caution-2843519",
-      "description": "ایم ون موٹروے پر اسلام آباد سے پشاور تک بارش کا سلسلہ جاری ہے",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Tue, 10 Nov 26 16:25:33 +0000",
-      "photo": ""
+      "date": "",
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0864/live/bd76cdf0-ddcd-11f1-9053-236ccb99630c.jpg"
     },
     {
       "title": "ربیعہ احسن کے شوہر کا پولی گرافک ٹیسٹ کروانے کا فیصلہ، جسمانی ریمانڈ میں چار روزہ توسیع",
@@ -176,39 +187,48 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png"
     },
     {
-      "title": "’جعلی دانشوروں کو بڑی تکلیف ہوئی‘: فیصل آباد میں سیلز گرل پر تشدد کے بعد مریم نواز کا ’تھپڑ کے بدلے تھپڑ‘ کی سزا کا دفاع",
-      "link": "https://www.bbc.com/urdu/articles/cmy0e09wew9no?at_medium=RSS&at_campaign=rss",
-      "description": "پنجاب کی وزیرِ اعلیٰ مریم نواز کی جانب سے شیئر کی گئی ایک ویڈیو، جس میں فیصل آباد میں تشدد کا نشانہ بننے والی دکان کی ملازمہ کو زیرِ حراست ملزم پر تھپڑ مارتے دکھایا گیا، سوشل میڈیا پر بحث کا موضوع بن گئی ہے۔ مریم نواز نے اس اقدام کو کمزور اور مظلوم افراد کے تحفظ سے جوڑا، جبکہ ناقدین نے سوال اٹھایا کہ آیا پولیس حراست میں کسی ملزم کی عوامی تذلیل قانون کی حکمرانی کے اصولوں کے مطابق ہے یا نہیں۔",
-      "source": "BBC Urdu",
-      "cat": "Crime",
-      "date": "Tue, 10 Nov 2026 09:56:58 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/844a/live/bda12310-dced-11f1-9ef0-4b5930e2f80e.jpg"
-    },
-    {
-      "title": "Islamabad IGP Reviews Safe City Surveillance and Crime Prevention Measures - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUIzcTZYcmt4Ql9OdXhrRFJFbnpJWVVVLVVkRy1DOUhNbUxMTmhTVDRZLVFpb19fWGd5dVg1Y01iLW1MdWJjcHpRLW8yYUFrcGpPTEEtWUhFOUZ3QjN1NTNzREVDWGgzRlRzTDBqVUxqR1VFXy1qQjNzWTVNU1hCOHlocGdQWDdEbVJxN0czeDBsZjJDR1VfcjVn?oc=5",
-      "description": "Islamabad IGP Reviews Safe City Surveillance and Crime Prevention Measures UrduPoint",
+      "title": "Pakistani TV anchor Rabia Ahsan shot dead at her Rawalpindi residence, husband reportedly confesses to murder - NewsGram",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmNFTWtOQTJ4RTFPNjZEeTZ5cnRCVmt1RXVjQk9LRTdnT29JX3dBVk9RMFEtV01QcDJnaklZemtkMTBlQlNCME40VnZaY1p4aUxJN3hMTGQzcmUzUzdXdlZxb0UwMVhqQnFpcUc1bE1uNkZYVHF6VDVzWHhJN0NCOU1nN243VXB0Vm5zRENReGvSAZ4BQVVfeXFMT0o4cDU0dTJEdzFBeUhFcmxoYTkwam9ZT3VpRkxGcl9HRUN1X21iTGV6RFBkcU43Qk8ybzlIcmYzSzZSMGtwMzRwTktVbndGclRwVm4xWFI2enBjWG1vSkZ3TmdaRXpFZVRIWHFzUUZrN05LbUkxSE9UZVdNb0JpQ2kxcGNXalgycUlQVzVCWERKM2FLaHNNTENrRnNQN1E?oc=5",
+      "description": "Pakistani TV anchor Rabia Ahsan shot dead at her Rawalpindi residence, husband reportedly confesses to murder NewsGram",
       "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Tue, 10 Nov 2026 17:40:12 GMT",
+      "date": "Mon, 09 Nov 2026 15:30:00 GMT",
       "photo": ""
     },
     {
-      "title": "Smog levels in Lahore force Pakistan to shift 2nd test against Sri Lanka to Rawalpindi - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEN5QlRWUV9aMUVnRllZSktxTUFTWHZsakNSN0VXR2VQTkdRVU1FQ1B3d0lpak5ETzJhM2wxbEsyYXZZQUkwbS1KUksyTmRickxrOFM5UFpOY0JhYWtkeDQ2WDdsMEZDR2lKZmp0UXNzZm01OEhNTGZnSXk2U1lBWVprRXB6eEY5NlE?oc=5",
-      "description": "Smog levels in Lahore force Pakistan to shift 2nd test against Sri Lanka to Rawalpindi Yahoo Sports",
+      "title": "Pakistan v Sri Lanka First Test Day 1 - Kayo Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0NybHJfUThCV21BLUpTV2RRMzhqNUtLTUtza2FBbXFIb1lxSE9PZlc1aU9DX2ZMM0dOeENsRE1HRUpJTkl2bkdvWkplLURnSnRUQ0dmQTVzOUhscDJzU3hXWFNXNTU2TFl3ak90VEdLUGJTWU1YcHZiVmlmMkJZSjJXa1hVWmhvYi1UVF9Gd1JVbUx0RlFucENOUjVUc20wc01WMXBVaGJUdkRNejJuR2c5R3A?oc=5",
+      "description": "Pakistan v Sri Lanka First Test Day 1 Kayo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Tue, 10 Nov 2026 18:34:56 GMT",
+      "date": "Wed, 11 Nov 2026 09:43:50 GMT",
       "photo": ""
     },
     {
-      "title": "Impressive Pakistan debutants leave Sri Lanka trailing by 320 runs in 1st cricket test - Times Union",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUVJczdKMHFPRGQtNDdCRWxhVlptcDBJcGVtMXR3LVpCQkJmV25FSEc3V1dVVmlBVlROQ21kaFNVYTJWenotd3FUZ0xCaTlwTHVsT2Fma2Qxckd0c3VVMEN2aVZPUVpqYzdQYUFvMUpNLVEwVmhkVGRKZDdtOGt5MktPSUF4aTdqTkExdDg4dlZjN3hEZExzN3FKZWxvWEV2QUtDX093?oc=5",
-      "description": "Impressive Pakistan debutants leave Sri Lanka trailing by 320 runs in 1st cricket test Times Union",
+      "title": "Ex-captain de Silva leads Sri Lanka to 221-4 on Day 3 of the 1st test against Pakistan - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUtEaHlBMGlEZWthR0Q1SHhJakMxMFpzUXh0bkpWRmxvbEJZeG4waGRucDBSMWRoWlhiNXFVQXRuRkRrUWZOYVdXbzFLclFIc2txVmZ5cnpLSmZJeHc5c2kxUW0xc2JuWThmNUZGZnNnQXJQYTNqRW9EeGtkS1kwZg?oc=5",
+      "description": "Ex-captain de Silva leads Sri Lanka to 221-4 on Day 3 of the 1st test against Pakistan Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Tue, 10 Nov 2026 13:28:15 GMT",
+      "date": "Wed, 11 Nov 2026 07:30:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Sri Lanka Cricket - The Herald Journal",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjdPWUpuZkozdEZhY3N3YzlfUFZRQU55cE9tQzNNbWNBRzMwcmc0N1RIMjZHdEtUX0IzYktzQjhoQ3B3dHBRTTBYUUxoRkFkZ0Vfa3ZvYmR4MHg1Ym55Tlhhc1pNUXRrUHFuX2ZCbzdzaFhhd2xGMFlfUFYweGpKeFc4STVWUmMtaHUzY0dsR2pCampnZ0VNX1lXRTdlVXFuMGVSNWw1Y0xlQ2NEQ0RuOQ?oc=5",
+      "description": "Pakistan Sri Lanka Cricket The Herald Journal",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Wed, 11 Nov 2026 09:15:19 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Sri Lanka Cricket - WV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcFNiZUFXX0hkUGlKNTAwd3FlUTdoajM0TGlZR0VMRDJ4MV9ZaUpHeXczUGNjOXFETnZvUzlXRWNVaHBldndJZkpZU3Nob3ZPeHNsLW5TUDB5VERKUGNqOGl2RHR1SW9HUnhpckNHNUtJMjF2R1d5c19oMVNTbE5TUzJTY0wtdmtic1JwMkVYTnRPaWRiNklyM2xJanJ3V1FqZnZ4eU5HTnJsUUtU?oc=5",
+      "description": "Pakistan Sri Lanka Cricket WV News",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Wed, 11 Nov 2026 08:28:26 GMT",
       "photo": ""
     },
     {
@@ -221,112 +241,76 @@
       "photo": ""
     },
     {
-      "title": "Pakistan Tourism and Sports Festival Concludes in Islamabad with Large Crowds - Khyber News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ3JyTEVFYjlBQm10bXY1NFhneFB4bmw3LVJ6anZ5cDVyUElMM1JTSUpVT1Q2OTZ5bHdNdVpwSGlqXzA0N2g3Mi1UUU05ZkFISXFlUWhuaFBFa2UzNkU3aXNNaUs5WkFpUE9oQUlWbTlRT0VxQ1IyUmJCYldXM2hfUFVSUTNFbHUxUTdNWDFXQXRUemhUWFpGOGNRb2xsblVMc3c?oc=5",
-      "description": "Pakistan Tourism and Sports Festival Concludes in Islamabad with Large Crowds Khyber News",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Mon, 09 Nov 2026 08:31:56 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlJtd0JOaTY4aU1KOUNrdVVhQlNFS0oyWThlQmhiNGdMYUo5RDFRVjZKZ3JYY0VhUHRwYXNsQWpfRHdpNWhYemRaUDR6aXh2QlpHdC05VmJEcHN6NFM5dVlOQ3FfQ21ObmxTWWlsVl9GaFlJRXhUam5VeUdCXzNiSg?oc=5",
-      "description": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Mon, 09 Nov 2026 05:34:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کرک میں چیک پوسٹ پر بھاری ہتھیاروں سے حملہ پولیس نے ناکام بنا دیا",
-      "link": "https://www.express.pk/story/2843538/police-thwart-attack-with-heavy-weapons-on-a-check-post-in-karak-2843538",
-      "description": "حملے میں چیک پوسٹ کا مین گیٹ تباہ اور عمارت کو شدید نقصان پہنچا",
+      "title": "فیفا صدر بننے کی دوڑ میں نیا امیدوار، کامیابی پر سالانہ صرف 1 ڈالر تنخواہ لینے کا اعلان",
+      "link": "https://www.express.pk/story/2843666/a-new-candidate-enters-the-race-for-fifa-president-pledging-to-take-an-annual-salary-of-just-1-if-successful-2843666",
+      "description": "ان کا کہنا تھا کہ کسی بھی انتخاب میں مقابلہ ہونا ضروری ہے اور انفینٹینو کو بھی چیلنج کیا جانا چاہیے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 22:59:35 +0000",
+      "date": "Wed, 11 Nov 26 12:51:47 +0500",
       "photo": ""
     },
     {
-      "title": "بانی پی ٹی آئی کا پمز اسپتال میں طبی معائنہ، علاج کے بعد اڈیالہ جیل منتقل",
-      "link": "https://www.express.pk/story/2843531/pti-founder-undergoes-medical-examination-and-treatment-at-pims-hospital-then-transferred-back-to-adiala-jail-2843531",
-      "description": "جیل سے اسپتال منتقلی اور واپسی کے دوران سخت سیکیورٹی انتظامات کیے گئے تھے، ذرائع",
+      "title": "پمز انکوائری رپورٹ پر وفاقی وزیر صحت اور ڈاکٹر شازیہ سومرو کے درمیان نوک جھونک",
+      "link": "https://www.express.pk/story/2843663/heated-exchange-between-health-minister-and-dr-shazia-soomro-over-pims-inquiry-report-2843663",
+      "description": "وزیر صحت آکر کہانیاں سناتے ہیں، تاہم اب تک کوئی عملی کارروائی نہیں ہوئی، رکن اسمبلی کی قائمہ کمیٹی اجلاس میں گفتگو",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 20:06:20 +0000",
+      "date": "Wed, 11 Nov 26 06:59:14 +0000",
       "photo": ""
     },
     {
-      "title": "صوبائی اختیارات کے حامل محکموں پر 5 ہزار ارب سے زائد خرچ",
-      "link": "https://www.express.pk/story/2843530/more-than-5000-billion-spent-on-departments-with-provincial-powers-2843530",
-      "description": "سینیٹ کی ڈیولوشن کمیٹی نے 17 وزارتیں ختم کر دیں، مزید فنڈز جاری نہ کرنے کی ہدایت",
+      "title": "گھر کا جما ہوا دہی کھٹا اور پانی والا کیوں ہو جاتا ہے؟ وجہ اور حل جانیے",
+      "link": "https://www.express.pk/story/2843659/why-does-homemade-yogurt-turn-sour-and-watery-learn-the-reason-and-the-solution-2843659",
+      "description": "دہی جمنے کے دوران برتن کو بار بار ہلانے سے بھی اس کی ساخت متاثر ہوتی ہے اور پانی الگ ہونے لگتا ہے۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 19:29:55 +0000",
+      "date": "Wed, 11 Nov 26 11:41:37 +0500",
       "photo": ""
     },
     {
-      "title": "تربیلا توسیع منصوبہ، سرکاری دستاویزات میں کنسلٹنٹس کے انتخاب اور ڈیزائن میں خامیوں کا انکشاف",
-      "link": "https://www.express.pk/story/2843529/tarbela-expansion-project-official-documents-reveal-flaws-in-the-selection-of-consultants-and-in-the-design-2843529",
-      "description": "سی ڈی ڈبلیو پی اجلاس میں احسن اقبال کی طرف سے خامیوں کی نشاندہی کی گئی",
+      "title": "ناسا نے چاند پر رہنے اور کام کرنے کے لیے امیدواروں کی تلاش شروع کر دی، تنخواہ جانیے",
+      "link": "https://www.express.pk/story/2843658/nasa-starts-looking-for-candidates-to-live-and-work-on-the-moon-know-the-salary-2843658",
+      "description": "منتخب امیدواروں کو دو سال کی خصوصی تربیت دی جائے گی۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 10 Nov 26 19:22:23 +0000",
+      "date": "Wed, 11 Nov 26 11:28:20 +0500",
       "photo": ""
     },
     {
-      "title": "سعودی تاریخی ورثے پر پاکستانی سفیر کی پینٹنگز کی نمائش، شہزادہ سلطان اور راحیل شریف کی شرکت",
-      "link": "https://www.express.pk/story/2843533/exhibition-of-pakistani-ambassadors-paintings-on-saudi-historical-heritage-prince-sultan-and-raheel-sharif-attend-2843533",
-      "description": "ڈپلومیٹک کوارٹر میں منعقدہ نمائش میں پاکستانی سفیر کے تیار کردہ فن پارے پیش کیے گئے",
+      "title": "ترکیہ میں کوپ کانفرنس: وزیراعظم کی ایرانی صدر سے ملاقات، خطے کی سیکیورٹی پر بات چیت",
+      "link": "https://www.express.pk/story/2843664/cop-conference-in-turkey-prime-minister-meets-with-iranian-president-regional-security-discussed-2843664",
+      "description": "ملاقات میں پاکستان اور ایران کے درمیان دوطرفہ تعلقات اور باہمی تعاون کے فروغ پر تبادلہ خیال ہوا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 20:35:21 +0000",
+      "date": "Wed, 11 Nov 26 07:07:02 +0000",
       "photo": ""
     },
     {
-      "title": "لیاری گینگ وار کے ارشد پپو کا بھتیجا گرفتار، 2022 میں پولیس انسپکٹر کے قتل کا بھی ملزم نکلا",
-      "link": "https://www.express.pk/story/2843527/arshad-pappus-nephewfrom-the-lyari-gang-warhas-been-arrested-he-also-turns-out-to-be-a-suspect-in-the-2022-murder-of-a-police-inspector-2843527",
-      "description": "اذان پڑوسی ملک ایران فرار ہوگیا تھا",
+      "title": "سابق جرمن فٹبالر اوزل یوکرین کی متنازع ’کل لسٹ‘ میں شامل",
+      "link": "https://www.express.pk/story/2843650/german-world-cup-winner-mesut-ozil-placed-on-ukrainian-kill-list-2843650",
+      "description": "اوزل نے استنبول میں ایک نمائشی فٹبال میچ کے دوران عالمی فٹبال اداروں کو تنقید کا نشانہ بنایا تھا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 18:59:47 +0000",
+      "date": "Wed, 11 Nov 26 11:12:45 +0500",
       "photo": ""
     },
     {
-      "title": "پولیس انسپکٹر جاوید ابڑو کے قتل کا مقدمہ درج، انسداد دہشت گردی کی دفعات شامل",
-      "link": "https://www.express.pk/story/2843526/case-registered-for-the-murder-of-police-inspector-javed-abro-anti-terrorism-provisions-included-2843526",
-      "description": "مقدمہ مقتول انسپکٹر جاوید ابڑو کے بھانجے ہیڈ کانسٹیبل صدام حسین کی مدعیت میں درج کیا گیا",
+      "title": "افزودہ یورینیم کا ایک ذرہ بھی ایران سے باہر نہیں جانے دیں گے، محسن رضائی",
+      "link": "https://www.express.pk/story/2843648/iran-rules-out-transfer-of-its-enriched-uranium-rezaei-says-2843648",
+      "description": "رضائی کا یہ بیان ایران کے جوہری پروگرام اور افزودہ یورینیم کے ذخیرے سے متعلق جاری کشیدگی کے تناظر میں سامنے آیا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 23:47:39 +0500",
+      "date": "Wed, 11 Nov 26 10:53:19 +0500",
       "photo": ""
     },
     {
-      "title": "ایران، دنیا کی سب سے بڑی آف شور گیس فیلڈ میں آگ بھڑک اٹھی",
-      "link": "https://www.express.pk/story/2843522/fire-breaks-out-at-the-worlds-largest-offshore-gas-field-in-iran-2843522",
-      "description": "گیس ذخیرے میں تقریباً 1800 ٹریلین مکعب فٹ قابلِ استعمال گیس موجود ہے",
+      "title": "معروف بھارتی کرکٹر کی رکن پارلیمنٹ پریا سروج کے ساتھ شادی کی تاریخ سامنے آگئی",
+      "link": "https://www.express.pk/story/2843633/indian-cricketer-rinku-singh-set-to-marry-on-december-4-2843633",
+      "description": "رپورٹس کے مطابق شادی کی تقریب لکھنؤ کے رامادا ہوٹل اینڈ کنونشن سینٹر میں منعقد ہوگی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Tue, 10 Nov 26 17:26:23 +0000",
+      "date": "Wed, 11 Nov 26 09:43:39 +0500",
       "photo": ""
-    },
-    {
-      "title": "جنوبی پنجاب میں نایاب گدھوں کی واپسی، روجھان میں 9 پرندے دیکھے گئے",
-      "link": "https://www.express.pk/story/2843535/return-of-rare-vultures-to-southern-punjab-9-birds-spotted-in-rojhan-2843535",
-      "description": "علاقے میں بیک وقت گدھوں کے تقریباً 9 پرندے دیکھے گئے ہیں",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Wed, 11 Nov 26 02:28:26 +0500",
-      "photo": ""
-    },
-    {
-      "title": "California police investigate after 27 fall ill at half-marathon running event",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "description": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "source": "BBC World",
-      "cat": "Strange",
-      "date": "Tue, 10 Nov 2026 13:22:12 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3d/live/b01d8530-dcfc-11f1-933b-ff2499ee76f6.jpg"
     }
   ],
   "sources": [
@@ -352,7 +336,7 @@
     },
     {
       "source": "BBC World",
-      "added": 35,
+      "added": 23,
       "ok": true
     },
     {
@@ -368,7 +352,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 29,
+      "added": 33,
       "ok": true
     },
     {
@@ -378,7 +362,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 29,
+      "added": 28,
       "ok": true
     }
   ]
