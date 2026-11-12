@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T21:42:42.047445+00:00",
-  "count": 33,
+  "generated_at": "2026-11-12T05:35:09.321115+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,10 +11,71 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 2
-  },
+  "shortages": {},
   "items": [
+    {
+      "title": "انڈر19 ایشیا کپ سیمی فائنل: بنگلادیش کا پاکستان کیخلاف ٹاس جیت کر بیٹنگ کا فیصلہ",
+      "link": "https://www.express.pk/story/2843768/u19-asia-cup-semi-final-bangladesh-wins-toss-against-pakistan-decides-to-bat-2843768",
+      "description": "دوسرے سیمی فائنل میں افغانستان ٹیم بھارت کے خلاف ٹاس جیت کر پہلے بیٹنگ کر رہی ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 05:20:08 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پاکستان منرلز انویسٹمنٹ فورم 2026 کا آغاز، اسلام آباد عالمی توجہ کا مرکز بن گیا",
+      "link": "https://www.express.pk/story/2843762/pakistan-minerals-investment-forum-2026-kicks-off-putting-islamabad-in-global-spotlight-2843762",
+      "description": "فورم میں عالمی سرمایہ کاروں کو پاکستان کے وسیع معدنی ذخائر اور سرمایہ کاری کے مواقع سے آگاہ کیا جائے گا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 26 23:55:38 +0000",
+      "photo": ""
+    },
+    {
+      "title": "نئی تاریخ رقم، پاکستانی خلا باز چین کے خلائی اسٹیشن پر قدم رکھنے والے پہلے غیر ملکی ہوں گے",
+      "link": "https://www.express.pk/story/2843752/a-new-chapter-in-history-pakistani-astronauts-will-be-the-first-foreigners-to-set-foot-on-chinas-space-station-2843752",
+      "description": "یہ چین کے خلائی پروگرام کی تاریخ میں اپنی نوعیت کا پہلا مشن ہوگا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 01:48:54 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی میں نیٹی جیٹی پل سے ٹریلر نیچے جاگرا، ڈرائیور شدید زخمی",
+      "link": "https://www.express.pk/story/2843750/trailer-falls-off-neti-jetty-bridge-in-karachi-driver-seriously-injured-2843750",
+      "description": "زخمی ڈرائیور کی شناخت 25 سالہ گل رضوان کے نام سے ہوئی ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 01:29:23 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، فائرنگ کے مختلف واقعات میں دو افراد زخمی",
+      "link": "https://www.express.pk/story/2843748/two-people-injured-in-separate-incidents-of-firing-in-karachi-2843748",
+      "description": "زخمیوں کو طبی امداد کے لیے اسپتال منتقل کر دیا گیا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 01:14:21 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کوہاٹ میں 10 شہداء کی نماز جنازہ ادا، گورنر خیبرپختونخوا سمیت اعلیٰ حکام کی شرکت",
+      "link": "https://www.express.pk/story/2843740/funeral-prayers-for-10-martyrs-offered-in-kohat-governor-of-khyber-pakhtunkhwa-and-high-ranking-officials-in-attendance-2843740",
+      "description": "آئی جی خیبرپختونخوا، ایڈیشنل آئی جی سی ٹی ڈی اور عسکری حکام بھی شریک ہوئے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 26 17:12:14 +0000",
+      "photo": ""
+    },
+    {
+      "title": "لاہور، داتا دربار انڈر پاس میں ریت سے بھرا ڈمپر الٹ گیا",
+      "link": "https://www.express.pk/story/2843737/lahore-a-sand-laden-dumper-truck-overturned-in-the-data-darbar-underpass-2843737",
+      "description": "حادثے کے باعث داتا دربار انڈر پاس کو ٹریفک کے لیے بند کر دیا گیا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 26 21:45:20 +0500",
+      "photo": ""
+    },
     {
       "title": "ایل پی جی اور غریب کا چولہا",
       "link": "https://www.express.pk/story/2843733/lpg-aur-ghareeb-ka-chulha-2843733",
@@ -43,69 +104,6 @@
       "photo": ""
     },
     {
-      "title": "کراچی میں مختلف ٹریفک حادثات میں کمسن بچی سمیت 3 افراد جاں بحق",
-      "link": "https://www.express.pk/story/2843722/3-people-including-a-young-girl-killed-in-separate-traffic-accidents-in-karachi-2843722",
-      "description": "کورنگی بلال چورنگی کے قریب چار سالہ بچی شدید زخمی ہوئی اور اسپتال منتقلی کے دوران انتقال کرگئی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 26 19:44:54 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پی پی کی خاتون مرکزی رہنما فریال تالپور کے لاہور میں ڈیرے، اہم پارٹی اجلاس",
-      "link": "https://www.express.pk/story/2843721/faryal-talpur-chair-ppp-party-meeting-in-lahore-2843721",
-      "description": "اجلاس میں پیپلز پارٹی کے سینئر رہنماؤں اور پنجاب کے تنظیمی عہدیداران کی شرکت، سیاسی و تنظیمی امور پر تبادلہ خیال",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 26 14:33:08 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ریلوے مسافروں کیلئے بڑی خوشخبری، لاہور فیصل آباد سیکشن پر ٹرینیں بحال",
-      "link": "https://www.express.pk/story/2843720/good-news-for-railway-passengers-lahore-faisalabad-section-trains-services-restored-on-the-lahore-faisalabad-section-2843720",
-      "description": "پاکستان ریلوے نے 15 نومبر سے لاہور فیصل آباد سیکشن پر ٹرین آپریشن بحال کرنے کا نوٹیفکیشن جاری کر دیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 26 14:23:56 +0000",
-      "photo": ""
-    },
-    {
-      "title": "جب تک پیپلزپارٹی ہے سندھ قائم و دائم رہے گا، ریفرنڈم کے بعد فیصلہ اسمبلیاں کریں گی، وزیراعلیٰ",
-      "link": "https://www.express.pk/story/2843708/murad-ali-shah-talks-in-thatta-sindh-division-2843708",
-      "description": "جب تک پیپلزپارٹی ہے سندھ کی طرف کوئی میلی آنکھ سے نہیں دیکھ سکتا، ریفرنڈم اُس چیز پر ہوتا ہے جس میں ابہام ہو، گفتگو",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 26 12:47:32 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ساؤتھ ایشین گیمز : سلیکشن کیلیے چار روزہ ٹرائلز کا اعلان، قومی ایتھلیٹس مشکل میں پڑ گئے",
-      "link": "https://www.express.pk/story/2843701/south-asian-games-four-day-trials-announced-for-selection-national-athletes-face-difficulties-2843701",
-      "description": "پاکستان ایتھلیٹکس فیڈریشن ٹرائلز کو غیر قانونی قرار دیتے ہوئے تمام ملحقہ یونٹس کو موقف کی پابندی کرنے کی ہدایت کر دی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 26 17:18:06 +0500",
-      "photo": ""
-    },
-    {
-      "title": "عمران خان کی آنکھ میں بار بار انجیکشن کیوں لگایا جا رہا ہے اور سینٹرل ریٹینل وین آکلوژن نامی بیماری کیا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cwp9dr14ej5lo?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان تحریک انصاف کا کہنا ہے کہ کسی سابق وزیرِ اعظم کے طبی علاج کو محض ایک رسمی کارروائی تک محدود کیا جا سکتا ہے اور نہ ہی اسے سیاسی سودے بازی کا ذریعہ بنایا جانا چاہیے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 2026 11:18:55 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/911e/live/ebc52060-ddc0-11f1-a50f-85eebf9e50e5.jpg"
-    },
-    {
-      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
-      "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 2026 03:59:25 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
-    },
-    {
       "title": "پاکستان میں نئی آٹو پالیسی: کن گاڑیوں کی قیمتوں میں لاکھوں روپے کی کمی ہو سکتی ہے؟",
       "link": "https://www.bbc.com/urdu/articles/c679p28dyr7lo?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان میں نئی آٹو پالیسی کے اعلان نے اس شعبے میں ہلچل مچا دی ہے۔ یہ اعلان ایک ایسے وقت میں کیا گیا ہے کہ جب ملک میں چینی برانڈز کی الیکٹرک گاڑیوں کے یکے بعد دیگرے ماڈل متعارف کرائے جا رہے ہیں۔ تو پھر اس پالیسی سے کون سی کمپنیاں سب سے زیادہ فائدہ اٹھا سکتی ہیں اور سب سے زیادہ نقصان کن کمپنیوں کو ہو سکتا ہے؟",
@@ -113,6 +111,24 @@
       "cat": "Economy",
       "date": "Sun, 08 Nov 2026 11:10:11 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fc3/live/d0d79a10-db60-11f1-adda-c54f54e3ce6a.jpg"
+    },
+    {
+      "title": "Can Critical Minerals Reshape Pakistan’s Economic Trajectory? - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmtyUzBtTGJSV3hNdTFXRHU0S1BtcmxTTC1CQ0tBNXIxUmZWRmRrNWVzaENlUWc5VzBTOXlrOVlSbG5TVk5pcUFEa3FFSlREcUpPdUZsYkN3U0dhOVJhMHpKVGtZN0k2UHRsaHFMUDJtZVY0c3FrX3h4N1B0TlE0WndVVGVrbW9TZTRRRFBwT2tTanl5Nndz?oc=5",
+      "description": "Can Critical Minerals Reshape Pakistan’s Economic Trajectory? The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Wed, 11 Nov 2026 14:11:36 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan spends only 10 percent of annual development budget in four months of this fiscal year — data - Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXVoYjNpQmV5cmxjTU9Xck83Tk9LLUk2Tnc1T1J1bHJPLXNDQzBtZ3lvRk1KeFNjQ2xydnFtT1p0WmpOOU10QnY0aUJSVGRfQzBqTXo4ZW5pQ3g1V2JpWGdGUmVPMkhLYWpGd0JOX1NXcVBqc29XRS1WMnFPVmZ4MXNxOHl5ZDdFeEFrMkVFM0dNQThDX3UwNkhpR25udEEwSHBvMGt5UE0tSGtkWmFramljZFgzdDVUSTE4eVNDanV1bnh4eDBOQXdrZXBia2hCdW12Q2kxVWk?oc=5",
+      "description": "Pakistan spends only 10 percent of annual development budget in four months of this fiscal year — data Arab News PK",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Thu, 12 Nov 2026 05:09:02 GMT",
+      "photo": ""
     },
     {
       "title": "Pakistan eyes export growth, wider SME financing to boost economy - Investify",
@@ -133,31 +149,31 @@
       "photo": ""
     },
     {
-      "title": "Pakistan’s cobra economy: when the cure becomes the disease - Business Recorder",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wNU1aU3BGcDZ3MnJZV2RjckFxRzIycTlFVGVMYzMxZ1czZUNzOGxFRGxtWDVKUHBrMGhIZGZTUk9IWlBlMmhxY1ZidUJjN21ISV94NW5n0gFWQVVfeXFMTzA1TVpTcEZwNncycllXZGNyQXFHMjJxOUVUZUxjMzFnVzNlQ3M4bEVEbG1YNUpQcGswaEhkZlNST0haUGUyaHFjVmJ1QmM3bUhJX3g1bmc?oc=5",
-      "description": "Pakistan’s cobra economy: when the cure becomes the disease Business Recorder",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 11 Nov 2026 15:43:25 GMT",
+      "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 5 زخمیوں سمیت 6 ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2843751/karachi-police-encounters-in-various-parts-of-the-city-6-suspects-arrested-including-5-who-sustained-injuries-2843751",
+      "description": "گرفتار ملزمان کے قبضے سے اسلحہ، پانچ موبائل فونز، نقد رقم، موٹرسائیکلیں اور دیگر سامان برآمد",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Thu, 12 Nov 26 01:39:30 +0500",
       "photo": ""
     },
     {
-      "title": "Can Critical Minerals Reshape Pakistan’s Economic Trajectory? - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmtyUzBtTGJSV3hNdTFXRHU0S1BtcmxTTC1CQ0tBNXIxUmZWRmRrNWVzaENlUWc5VzBTOXlrOVlSbG5TVk5pcUFEa3FFSlREcUpPdUZsYkN3U0dhOVJhMHpKVGtZN0k2UHRsaHFMUDJtZVY0c3FrX3h4N1B0TlE0WndVVGVrbW9TZTRRRFBwT2tTanl5Nndz?oc=5",
-      "description": "Can Critical Minerals Reshape Pakistan’s Economic Trajectory? The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 11 Nov 2026 14:11:36 GMT",
-      "photo": ""
-    },
-    {
-      "title": "کوہاٹ: سونے کی غیرقانونی مائننگ کے خلاف آپریشن کے دوران پولیس پر حملہ، ڈی ایس پی سمیت کم از کم 10 اہلکار ہلاک، متعدد زخمی",
+      "title": "کوہاٹ پولیس پر حملے میں 10 اہلکار ہلاک: ’حیدر زمان سپاہی کے طور پر بھرتی ہو کر ڈی ایس پی کے عہدے تک پہنچے تھے‘",
       "link": "https://www.bbc.com/urdu/articles/c94gnvprmkxeo?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان میں صوبہ خیبر پختونخوا کی کوہاٹ پولیس اور سرکاری ہسپتال کے سربراہ نے تصدیق کی ہے کہ دربوکچ کے علاقے میں شدت پسندوں کی جانب سے پولیس ٹیم پر کیے گئے ایک حملے میں ڈی ایس پی سمیت 10 پولیس اہلکار ہلاک جبکہ متعدد زخمی ہوئے ہیں۔",
+      "description": "پاکستان میں صوبہ خیبر پختونخوا کے شہر کوہاٹ کی پولیس اور سرکاری ہسپتال کے سربراہ نے تصدیق کی ہے کہ دربوکچ کے علاقے میں شدت پسندوں کی جانب سے پولیس ٹیم پر کیے گئے ایک حملے میں ڈی ایس پی سمیت 10 پولیس اہلکار ہلاک جبکہ متعدد زخمی ہوئے ہیں۔",
       "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Wed, 11 Nov 2026 16:41:59 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/caaa/live/9cbe2ce0-ddee-11f1-ba1a-f14c9b2af876.jpg"
+      "date": "Thu, 12 Nov 2026 03:44:28 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4b4/live/6bc88df0-de58-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "title": "Karachi Crime Surge | Street Crime Continues to Challenge Law and Order | News Insight With Amir Zia - Aaj English TV",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWpLT0hwckYxSnZfMndUY052d3ZwV1NkM2Y5SWRXRm9pakxSekUxQUJZYkczaWNweVNEODVlcnVaeHRjOV8za2RtWVdNQ1pKSF9INmF6NjB1aUhlRUdxR2xDallMclFXMkFOVEdjNXBvRkllMUR3TGtEQi1tY2d1TzNNT01PTFVkUE1XUnNUTXp0U2k4a0ZpTDlMeU5GbWo1dVVEZVVLVDFVcjZXR2pFSG53cXBqckVMUGZiZ0FYbWhiMURVNXYxWU1IYmhseHM?oc=5",
+      "description": "Karachi Crime Surge | Street Crime Continues to Challenge Law and Order | News Insight With Amir Zia Aaj English TV",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Wed, 11 Nov 2026 19:50:09 GMT",
+      "photo": ""
     },
     {
       "title": "Punjab Police Congratulate Newly Elected Crime Reporters Association Lahore Leaders - UrduPoint",
@@ -178,21 +194,12 @@
       "photo": ""
     },
     {
-      "title": "Sindh Police Pink Book helps Karachi residents check domestic workers’ records - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORElCNmd1T3ZzNG1yT0VjTEFOY2pBbnZPUXp0WTFNZTdlcHZOLURqN04wb2xDZTU1anpEMXVfUjRkSDF2U3VTajlnVi1XYmlLRnRvTlBSdnZBbUw1TFB2cndDVi1DTENLalQwd1FqR2JEOGRGNW1STTBCYVE5MVYxeDV1X1RKODRtRGtxLXpoWXcwMXVoVVJ4TV9tcGU?oc=5",
-      "description": "Sindh Police Pink Book helps Karachi residents check domestic workers’ records UrduPoint",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Wed, 11 Nov 2026 15:20:25 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Islamabad IGP Reviews Safe City Surveillance and Crime Prevention Measures - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUIzcTZYcmt4Ql9OdXhrRFJFbnpJWVVVLVVkRy1DOUhNbUxMTmhTVDRZLVFpb19fWGd5dVg1Y01iLW1MdWJjcHpRLW8yYUFrcGpPTEEtWUhFOUZ3QjN1NTNzREVDWGgzRlRzTDBqVUxqR1VFXy1qQjNzWTVNU1hCOHlocGdQWDdEbVJxN0czeDBsZjJDR1VfcjVn?oc=5",
-      "description": "Islamabad IGP Reviews Safe City Surveillance and Crime Prevention Measures UrduPoint",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Tue, 10 Nov 2026 17:40:12 GMT",
+      "title": "راولپنڈی ٹیسٹ: ثاقب خان نے چوتھے دن کے آغاز میں ہی پاکستان کو بڑی کامیابیاں دلوا دیں",
+      "link": "https://www.express.pk/story/2843763/rawalpindi-test-saqib-khan-secures-major-breakthroughs-for-pakistan-at-start-of-fourth-day-2843763",
+      "description": "دھننجیا ڈی سلوا نے 167 رنز کی شاندار اننگز کھیل کر پاکستان ٹیم کو مشکلات سے دوچار کیا اور میچ پر گرفت کمزور کردی",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Thu, 12 Nov 26 04:57:14 +0500",
       "photo": ""
     },
     {
@@ -205,6 +212,15 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/412b/live/6a57e860-ddd3-11f1-9053-236ccb99630c.jpg"
     },
     {
+      "title": "Smog levels in Lahore force Pakistan to shift 2nd test against Sri Lanka to Rawalpindi - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEN5QlRWUV9aMUVnRllZSktxTUFTWHZsakNSN0VXR2VQTkdRVU1FQ1B3d0lpak5ETzJhM2wxbEsyYXZZQUkwbS1KUksyTmRickxrOFM5UFpOY0JhYWtkeDQ2WDdsMEZDR2lKZmp0UXNzZm01OEhNTGZnSXk2U1lBWVprRXB6eEY5NlE?oc=5",
+      "description": "Smog levels in Lahore force Pakistan to shift 2nd test against Sri Lanka to Rawalpindi Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Tue, 10 Nov 2026 18:34:56 GMT",
+      "photo": ""
+    },
+    {
       "title": "Pakistan v Sri Lanka First Test Day 1 - Kayo Sports",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0NybHJfUThCV21BLUpTV2RRMzhqNUtLTUtza2FBbXFIb1lxSE9PZlc1aU9DX2ZMM0dOeENsRE1HRUpJTkl2bkdvWkplLURnSnRUQ0dmQTVzOUhscDJzU3hXWFNXNTU2TFl3ak90VEdLUGJTWU1YcHZiVmlmMkJZSjJXa1hVWmhvYi1UVF9Gd1JVbUx0RlFucENOUjVUc20wc01WMXBVaGJUdkRNejJuR2c5R3A?oc=5",
       "description": "Pakistan v Sri Lanka First Test Day 1 Kayo Sports",
@@ -214,94 +230,76 @@
       "photo": ""
     },
     {
-      "title": "Pakistan Sri Lanka Cricket - WV News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlE1RWoycWtBNUNFN204VFNNbmFwdHBJM0xOdVhJLWdyMHpkRV8tTDF1dm1fY1hhMGZOaUY0UW54WW5EVnJDX184OXNubzVqSVdwYXpEY2VlVkFrSVRTaC0tT3d6MHFhTGZSV0EtUmUzQ0tnZHF3Y0JSR2hSWEdKUk1ReGlIVDlvYWF1eHJDREwzUDdPYkRuWXY4UWcwa1h0YnFOWVZwVnM2bUhq?oc=5",
-      "description": "Pakistan Sri Lanka Cricket WV News",
+      "title": "Pakistan vs Sri Lanka, 1st Test Day 3 Highlights: Centurions Dhananjaya De Silva, Kusal Mendis Flay Inexperienced Pakistan - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYzhkdlROVUxGSDQwLVdEOWFIdGx6a1p6LVFHZmdRUmtNUEdGZEItYlNkVXR2Y3U4MElXT1lrQjVhRTBmQWVGcTRydXdTTG5ianNZOGNoalNhYklnTFkyek9TSUpXQWxuUjNkQUVlY2NIQUtkUXoxOU5OWGd2MFFLWC0zeXdmQU1Qckp5YmtmYW1xQk1mZHBQZWpxTTk?oc=5",
+      "description": "Pakistan vs Sri Lanka, 1st Test Day 3 Highlights: Centurions Dhananjaya De Silva, Kusal Mendis Flay Inexperienced Pakistan NDTV Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Wed, 11 Nov 2026 08:50:30 GMT",
+      "date": "Wed, 11 Nov 2026 05:29:17 GMT",
       "photo": ""
     },
     {
-      "title": "Why Pakistan were forced to shift Sri Lanka Test from Lahore to Rawalpindi - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGlSaHc1eEt6UzR3am5DTDVZRDVvajM4NW9UalBRLWpSWlhRdkw3SzU4NEQxdk9sRFc2Mnp0eWxncE5TeUNwTlhnVTJJOXNxSnl6cUR3dEdfVTc3ckplUnhoU1VObUlya0FyQnFQcFB4QUV5am1wUVBwRXJYZ2hCeTVIUmJFQQ?oc=5",
-      "description": "Why Pakistan were forced to shift Sri Lanka Test from Lahore to Rawalpindi Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Wed, 11 Nov 2026 12:44:52 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan Sri Lanka Cricket - The Herald Journal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWC1EYnJOUUlKR09fc2J3Y2E3Ri1nVlRDanVxWjdBSDBlYlgzejRqUWJ2cXZJc19BRkZ3YzBOZEc0UHZ2TzlPTnB6ZjF2REpTMHhqMlNKY1FtemFCV3lFTVJ2QVc3UExxNG5velZ1dFZIQkl4X1dFQXlLOW9YNm1hX2dVX3Jtbi1lZUxIb1dSaFhoZ0d6WkM0WnJNNThWWl9PS3JRVjhYZkNiMWh0WnhYVw?oc=5",
-      "description": "Pakistan Sri Lanka Cricket The Herald Journal",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Wed, 11 Nov 2026 08:50:54 GMT",
-      "photo": ""
-    },
-    {
-      "title": "تعفن زدہ سیاست (حصہ اول)",
-      "link": "https://www.express.pk/story/2843734/taaffun-zada-siyasat-hissa-awwal-2843734",
-      "description": "قرآنِ مجید اور احادیثِ مبارکہ میں اس قسم کی موقع پرستی، منافقت، اصول فروشی اور اقتدار کی اندھی ہوس کی شدید ترین مذمت کی گئی ہے",
+      "title": "دہشتگردی کیلیے مساجد استعمال کرنیوالوں کا اسلام سے تعلق نہیں، پختونخوا کے عوام کی شدید مذمت",
+      "link": "https://www.express.pk/story/2843765/those-who-use-mosques-for-terrorism-have-no-connection-to-islam-the-people-of-pakhtunkhwa-strongly-condemn-such-acts-2843765",
+      "description": "دہشت گرد مساجد کو پناہ گاہ اور ڈھال بنا کر اپنے مذموم عزائم کو مذہبی رنگ دینے کی کوشش کرتے ہیں، عوام",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 11 Nov 26 20:53:15 +0500",
+      "date": "Thu, 12 Nov 26 05:01:19 +0500",
       "photo": ""
     },
     {
-      "title": "سینیٹری ورکرز کی بڑھتی ہوئی اموات",
-      "link": "https://www.express.pk/story/2843732/sanitary-workers-ki-barhti-hui-amwaat-2843732",
-      "description": "سینیٹری ورکر ونیش کی عمر ابھی 17 سال تھی، اس کے ذہن میں زندگی گزارنے کے بہت خواب تھے۔",
+      "title": "یوکرین جنگ ختم ہونے کے قریب؟ روسی مذاکرات کار نے امن معاہدے کو قریب قرار دے دیا",
+      "link": "https://www.express.pk/story/2843759/russia-says-ukraine-peace-deal-is-closer-after-abu-dhabi-talks-2843759",
+      "description": "امریکی ثالثوں کے مطابق دونوں ممالک کے درمیان اعتماد کا فقدان برقرار ہے اور اہم امور پر اختلافات موجود ہیں",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 11 Nov 26 20:53:15 +0500",
+      "date": "Thu, 12 Nov 26 04:44:20 +0500",
       "photo": ""
     },
     {
-      "title": "بلدیاتی انتخابات پر سیاست",
-      "link": "https://www.express.pk/story/2843731/baldiati-intikhabat-par-siyasat-2843731",
-      "description": "ملک میں بیروزگاری، مہنگائی اور سیاسی ماحول کشیدہ ہے اور کے پی میں پی ٹی آئی کی دو تہائی اکثریتی حکومت حال ہی میں ختم ہوئی ہے",
+      "title": "ڈی آئی خان؛ دہشتگردوں نے بارود بھری گاڑی تھانے سے ٹکرادی، قریبی مسجد شہید",
+      "link": "https://www.express.pk/story/2843758/di-khan-terrorists-rammed-an-explosives-laden-vehicle-into-a-police-station-a-nearby-mosque-was-destroyed-2843758",
+      "description": "پولیس کی جوابی فائرنگ سے حملہ آور فرار، علاقے میں سرچ آپریشن شروع کردیا گیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 11 Nov 26 20:53:14 +0500",
+      "date": "Wed, 11 Nov 26 23:16:25 +0000",
       "photo": ""
     },
     {
-      "title": "غربت،پسماندگی اور معاشی ناہمواریاں",
-      "link": "https://www.express.pk/story/2843729/ghurbat-pasmandagi-aur-muashi-nahamwarian-2843729",
-      "description": "اس معاشی بدحالی کا براہ راست اثر ملک کے عوام بالخصوص کمزور طبقات پر مزید معاشی استحصال کی صورت میں پڑتا ہے",
+      "title": "شمالی وزیرستان میں گرینڈ آپریشن؛ 12 سال بعد تجاوزات کے خلاف کارروائیاں",
+      "link": "https://www.express.pk/story/2843756/grand-operation-in-north-waziristan-anti-encroachment-drives-launched-after-12-years-2843756",
+      "description": "سرکاری اراضی واگزار کرانے اور عوامی راستوں کی بحالی کے لیے عملی اقدامات کا آغاز ہوگیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 11 Nov 26 20:53:13 +0500",
+      "date": "Wed, 11 Nov 26 23:16:18 +0000",
       "photo": ""
     },
     {
-      "title": "متحدہ عرب امارات کی قومی جینومکس پالیسی، نومولود بچوں کی جینیاتی جانچ بھی ہوگی",
-      "link": "https://www.express.pk/story/2843702/united-arab-emirates-national-genomics-policy-genetic-screening-for-newborns-to-be-included-2843702",
-      "description": "متحدہ عرب امارات کے جینوم پروگرام میں اب تک 10 لاکھ افراد شامل ہوچکے ہیں",
+      "title": "حوثیوں کے مسجد الحرام کے قریب 2 بیلسٹک میزائل حملے، سعودی دفاعی نظام نے فضا میں تباہ کردیے",
+      "link": "https://www.express.pk/story/2843755/saudi-arabia-says-two-ballistic-missiles-intercepted-over-makkah-region-2843755",
+      "description": "ایک میزائیل کا ملبہ وادی المغمس میں گرا جو مسجد الحرام سے تقریباً 21 کلومیٹر مشرق میں واقع ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Wed, 11 Nov 26 17:21:49 +0500",
+      "date": "Wed, 11 Nov 26 22:58:33 +0000",
       "photo": ""
     },
     {
-      "title": "ایران جنگ نے خلیجی ممالک کی معیشتوں کو ہلا کر رکھ دیا؛ اربوں ڈالرز کا نقصان",
-      "link": "https://www.express.pk/story/2843697/iran-war-gulf-economies-790-billion-losses-2030-2843697",
-      "description": "خلیجی ممالک 2030 تک ان کی مجموعی معاشی پیداوار میں 790 ارب ڈالر کی کمی کا خدشہ بھی ہے",
+      "title": "شدید دھند کے باعث موٹروے ایم 4 اور ایم 5 کے مختلف حصے بند، ہیوی ٹریفک کا داخلہ روک دیا گیا",
+      "link": "https://www.express.pk/story/2843735/motorway-m4-closed-to-heavy-traffic-due-to-fog-2843735",
+      "description": "دھند کے موسم میں محفوظ سفر کے لیے صبح 10 بجے سے شام 6 بجے تک کا وقت موزوں ہے، ترجمان موٹر وے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Wed, 11 Nov 26 12:07:02 +0000",
+      "date": "Wed, 11 Nov 26 16:38:39 +0000",
       "photo": ""
     },
     {
-      "title": "ایران سے مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ فوجی اڈے پر منتقل",
+      "title": "سعودی عرب کا دو بیلسٹک میزائل اور دو ڈرون مار گرانے کا دعویٰ، عدن میں اتحادی افواج کے ٹھکانوں پر حملے",
       "link": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
-      "description": "امریکی میڈیا رپورٹس کے مطابق ایران سے منسلک مبینہ دھمکیوں کے بعد امریکی وزیرِ خزانہ سکاٹ بیسنٹ کو واشنگٹن ڈی سی میں واقع ان کے گھر سے ایک فوجی اڈے پر منتقل کر دیا گیا ہے۔",
+      "description": "یمن کے حوثی گروپ، انصار اللہ، کی جانب سے سعودی عرب پر میزائل اور ڈرون حملوں کا سلسلہ جاری ہے، جبکہ جنوبی یمن کے شہر عدن میں بھی میزائل حملوں کی اطلاعات موصول ہوئی ہیں۔ اُدھر منامہ میں ہونے والے جی سی سی وزرائے داخلہ اجلاس میں سعودی وزیر داخلہ شہزادہ عبدالعزیز بن سعود نے خطے کو درپیش سکیورٹی چیلنجز سے نمٹنے کے لیے مشترکہ اور پیشگی اقدامات کی ضرورت پر زور دیا۔",
       "source": "BBC Urdu",
       "cat": "Middle East",
       "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5298/live/ee483a70-de10-11f1-bb16-0faa4383125d.jpg"
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c89a/live/f0eb50b0-de41-11f1-b441-2b33b063138f.png"
     },
     {
       "title": "گلوان جھڑپوں سے متاثر سلمان خان کی ’ماتربھومی‘ کا ٹریلر کیوں موضوعِ بحث ہے؟",
@@ -311,6 +309,24 @@
       "cat": "Middle East",
       "date": "Wed, 11 Nov 2026 12:39:22 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b24/live/8a279c20-ddca-11f1-9053-236ccb99630c.png"
+    },
+    {
+      "title": "پاکستان کے معدنی ذخائر میں غیر ملکی سرمایہ کاری کے بڑھتے مواقع، عالمی دلچسپی نمایاں",
+      "link": "https://www.express.pk/story/2843757/growing-opportunities-for-foreign-investment-in-pakistans-mineral-reserves-global-interest-is-evident-2843757",
+      "description": "غیر ملکی سرمایہ کاری اور عالمی مائننگ کمپنیوں کے لیے نئے مواقع پیدا کرنے کے حوالے سے پاکستان منرلز انویسٹمنٹ فورم 2026 اہم ذریعہ ہے",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Wed, 11 Nov 26 23:16:19 +0000",
+      "photo": ""
+    },
+    {
+      "title": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
+      "link": "https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss",
+      "description": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance.",
+      "source": "BBC World",
+      "cat": "Strange",
+      "date": "Wed, 11 Nov 2026 10:27:37 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b0/live/c6aaf260-ddbf-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
   "sources": [
@@ -336,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 25,
+      "added": 30,
       "ok": true
     },
     {
@@ -347,7 +363,7 @@
     },
     {
       "source": "CNN",
-      "added": 35,
+      "added": 34,
       "ok": true
     },
     {
@@ -362,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 30,
+      "added": 31,
       "ok": true
     }
   ]
