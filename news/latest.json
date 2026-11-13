@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T21:42:26.622696+00:00",
-  "count": 35,
+  "generated_at": "2026-11-13T04:52:04.786444+00:00",
+  "count": 34,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,15 +11,35 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
+    {
+      "title": "پاکستان اور برطانیہ میں تجارت بڑھانے کے وسیع مواقع ہیں، ہائی کمشنر",
+      "link": "https://www.express.pk/story/2843950/there-are-vast-opportunities-to-increase-trade-between-pakistan-and-britain-says-high-commissioner-2843950",
+      "description": "پاکستان اور برطانیہ کے درمیان سالانہ تجارت کا حجم 6 ارب پاؤنڈ تک پہنچ چکا ہے، ٹیپو عثمان",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 18:49:11 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ملک کے 53 فیصد سرکاری اسکولوں میں سہولیات کا فقدان",
+      "link": "https://www.express.pk/story/2843947/53-of-government-schools-in-the-country-lack-facilities-2843947",
+      "description": "بلوچستان،سندھ کے اسکولوں کی صورتحال انتہائی ابتر، پنجاب میں قدرے بہتری",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 16:41:28 +0000",
+      "photo": ""
+    },
     {
       "title": "لاہور میں شیر کے حملے سے نوجوان کی ہلاکت، اندرنی کہانی سامنے آ گئی",
       "link": "https://www.express.pk/story/2843946/young-man-killed-in-lion-attack-in-lahore-the-inside-story-has-emerged-2843946",
       "description": "فارم ہاؤس کے سی سی ٹی وی کیمرے اور ڈی وی آر غائب تھے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 21:31:38 +0500",
+      "date": "Thu, 12 Nov 26 16:31:38 +0000",
       "photo": ""
     },
     {
@@ -59,6 +79,24 @@
       "photo": ""
     },
     {
+      "title": "ہمارے دسترخوان کا خاموش مہمان: پاکستان میں شوگر کا بڑھتا ہوا طوفان",
+      "link": "https://www.express.pk/story/2843924/the-silent-guest-at-our-dining-table-the-rising-storm-of-diabetes-in-pakistan-2843924",
+      "description": "پاکستان میں شاید ہی کوئی ایسا خاندان ہو جو اس بیماری سے ناواقف ہو",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 12 Nov 26 18:24:31 +0500",
+      "photo": ""
+    },
+    {
+      "title": "وائٹ ہاؤس میں ٹرمپ اور کانگریس میں ڈیموکریٹس: کیا پاکستان کیپیٹل ہل میں ’نئے دوست‘ بنا سکتا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/c6808rlknrl3o?at_medium=RSS&at_campaign=rss",
+      "description": "امریکہ میں وسط مدتی انتخابات کے بعد صدر ٹرمپ کی رپبلکن پارٹی کانگریس کا کنٹرول کھو چکی ہے اور اب یقیناً لوگوں کے ذہن میں یہ سوال ہوگا کہ اس کے اثرات پاکستان پر کیا مرتب ہوں گے۔ ابھی تک تو صدر ٹرمپ پاکستانی وزیر اعظم شہباز شریف کو 'عظیم' رہنماؤں میں شمار کرتے رہے ہیں اور عاصم منیر ان کے ’پسندیدہ فیلڈ مارشل‘ رہے ہیں لیکن یہ صورتحال تبدیل بھی ہو سکتی ہے۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Fri, 13 Nov 2026 03:15:19 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b242/live/1244be00-dec3-11f1-86d5-71a9f29d1c99.jpg"
+    },
+    {
       "title": "عمران خان کی بہنوں عظمیٰ خان اور نورین نیازی کو کوٹ لکھپت جیل سے رہا کر دیا گیا",
       "link": "https://www.bbc.com/urdu/articles/c674pvxg80e4o?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان کے سابق وزیر اعظم عمران خان کی بہنوں کے وکیل رانا مدثر نے کہا ہے کہ لاہور کی کوٹ لکھپت جیل میں نظربند نورین نیازی اور عظمی خان کو رہا کر دیا گیا ہے۔",
@@ -66,42 +104,6 @@
       "cat": "National",
       "date": "Thu, 12 Nov 2026 10:37:15 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11b7/live/e49a5e40-de83-11f1-b88b-3f1671ea859d.jpg"
-    },
-    {
-      "title": "’سرجن خدا نہیں ہوتا‘: کراچی سے برطانیہ پہنچنے والے ڈاکٹر آصف حسن کی کہانی جنھوں نے چار ہزار آپریشن کیے",
-      "link": "https://www.bbc.com/urdu/articles/cklye922z0ejo?at_medium=RSS&at_campaign=rss",
-      "description": "پرائیڈ آف برٹن ایوارڈز میں ڈاکٹر آصف حسن کو ہارٹ سرجری کے شعبے میں اُن کی گراں قدر خدمات کی وجہ سے لائف ٹائم ایچیومنٹ ایوارڈ سے نوازا گیا ہے۔ جب اِن ایوارڈز کی تقریب کی فوٹیج سوشل میڈیا پر وائرل ہوئی تو شاید ہی کوئی ایسی آنکھ ہو گی جو اشکبار نہیں ہوئی ہو۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Thu, 12 Nov 2026 03:01:12 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96f3/live/5e9fc4a0-de43-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "عمران خان کی آنکھ میں بار بار انجیکشن کیوں لگایا جا رہا ہے اور سینٹرل ریٹینل وین آکلوژن نامی بیماری کیا ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cwp9dr14ej5lo?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان تحریک انصاف کا کہنا ہے کہ کسی سابق وزیرِ اعظم کے طبی علاج کو محض ایک رسمی کارروائی تک محدود کیا جا سکتا ہے اور نہ ہی اسے سیاسی سودے بازی کا ذریعہ بنایا جانا چاہیے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 2026 11:18:55 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/911e/live/ebc52060-ddc0-11f1-a50f-85eebf9e50e5.jpg"
-    },
-    {
-      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
-      "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 2026 03:59:25 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
-    },
-    {
-      "title": "پاکستانی بحریہ کے پہلے مقامی سربراہ جنھیں ایوب خان سے ’تلخ ملاقات‘ کے بعد مستعفی ہونا پڑا",
-      "link": "https://www.bbc.com/urdu/articles/c680z82225lvo?at_medium=RSS&at_campaign=rss",
-      "description": "ایڈمرل چودھری کو اس لیے استعفی دینا پڑا کیونکہ انھوں نے ’جنرل ایوب خان کی جانب سے بحریہ کی توسیع میں رکاوٹیں ڈالنے کی کوششوں کی مخالفت کی تھی۔‘",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Mon, 09 Nov 2026 07:22:56 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29ad/live/73b267a0-dba3-11f1-9580-17f5674d0b29.jpg"
     },
     {
       "title": "Malaysia calls for stronger economic cooperation with Pakistan - Investify",
@@ -122,21 +124,21 @@
       "photo": ""
     },
     {
+      "title": "Pakistan aims to increase its exports to US$100 billion under the National Economic Transformation Plan 2035: Ahsan Iqbal - sabahnews.net",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdVFkSU1aa0hZd1dyVHBtcXBxNWJYRUZVZ1BkMXNHd3BYR2MyZjdLNmFCN2taZk1uY1d2NEs4Q3dYVE1RalBNdER0UGMwZjh6U1VOOFhTNnd2M1gxcC1MQkdmVVRxVTZqMUlrNFpkaUhOdzdmcGtKVmVVd3lHdTJJdGhfOTNXbFEzWXcwUnVsY0ptc0JRRC00NEZwVWJMZm95a2hQU1NSSE5pY2pDbTBSMWhDVGdkLVJKVGgtVzk2akNXSHJWdVEwZlBmdDBMd1RDOWRpdVhuczVZMWVuOWt2X255Q20wMVhVejI0?oc=5",
+      "description": "Pakistan aims to increase its exports to US$100 billion under the National Economic Transformation Plan 2035: Ahsan Iqbal sabahnews.net",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Thu, 12 Nov 2026 16:05:27 GMT",
+      "photo": ""
+    },
+    {
       "title": "Minerals sector to transform Pakistan’s economy: Aurangzeb - Minute Mirror",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOG1xemU4RTk0VWt3RUFBano3N1BPR3lsQ0tFVVoxYUVRSzFuYjFFZnJlTDFfMFJGS1ExOHdBM1NyNFFCek1JdUtFSkZ2bkFRdEtYQ1FpdG1vNEJfeERhdTdQOFc3YU81UFNud0lWR3dEc2hCSmRLMUxISzBfc202YWlGV05tNVJQTnE0N25lOXdUd0o5NlUw?oc=5",
       "description": "Minerals sector to transform Pakistan’s economy: Aurangzeb Minute Mirror",
       "source": "Pakistan Economy",
       "cat": "Economy",
       "date": "Thu, 12 Nov 2026 12:01:54 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan spends only 10 percent of annual development budget in four months of this fiscal year — data - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXVoYjNpQmV5cmxjTU9Xck83Tk9LLUk2Tnc1T1J1bHJPLXNDQzBtZ3lvRk1KeFNjQ2xydnFtT1p0WmpOOU10QnY0aUJSVGRfQzBqTXo4ZW5pQ3g1V2JpWGdGUmVPMkhLYWpGd0JOX1NXcVBqc29XRS1WMnFPVmZ4MXNxOHl5ZDdFeEFrMkVFM0dNQThDX3UwNkhpR25udEEwSHBvMGt5UE0tSGtkWmFramljZFgzdDVUSTE4eVNDanV1bnh4eDBOQXdrZXBia2hCdW12Q2kxVWk?oc=5",
-      "description": "Pakistan spends only 10 percent of annual development budget in four months of this fiscal year — data Arab News PK",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 05:09:02 GMT",
       "photo": ""
     },
     {
@@ -149,6 +151,15 @@
       "photo": ""
     },
     {
+      "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں اور دو خواتین سمیت 3 ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2843952/karachi-police-encounters-in-various-areas-3-suspects-arrested-including-3-injured-individuals-and-two-women-2843952",
+      "description": "گرفتار ملزمان کے ہمراہ 3 سالہ بچہ بھی موجود ہے",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 13 Nov 26 01:48:15 +0500",
+      "photo": ""
+    },
+    {
       "title": "اپر کوہستان اسکینڈل بڑی پیشرفت، نیشنل بینک داسو کے سابق کیشئر کی پلی بارگین کی درخواست",
       "link": "https://www.express.pk/story/2843929/kp-corruption-scandal-development-national-bank-dasu-ex-cashier-plea-bargain-application-2843929",
       "description": "احتساب عدالت پشاور کے جج محمد حامد مغل نے ملزم کی درخواست پر فیصلہ جاری کیا اور ملزم کی رہائی کا حکم دے دیا",
@@ -158,25 +169,7 @@
       "photo": ""
     },
     {
-      "title": "اٹک؛ بچوں کی لڑائی کے بعد تنازع، فائرنگ کے تبادلے میں 3 افراد جاں بحق",
-      "link": "https://www.express.pk/story/2843906/attock-dispute-erupts-following-a-fight-between-children-three-people-killed-in-exchange-of-fire-2843906",
-      "description": "آئی جی پنجاب عبدالکریم نے تہرے قتل کے واقعے کا نوٹس لیتے ہوئے ملزمان کی فوری گرفتاری کا حکم دے دیا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Thu, 12 Nov 26 16:59:22 +0500",
-      "photo": ""
-    },
-    {
-      "title": "متحدہ عرب امارات: فجیرہ میں ٹریفک حادثے میں 14 افراد ہلاک، زخمی ہونے والوں میں پاکستانی بھی شامل",
-      "link": "https://www.bbc.co.uk/urdu/live/crq5vd2npv92t?at_medium=RSS&at_campaign=rss",
-      "description": "اماراتی وزارت داخلہ کے مطابق اس حادثے کی زد میں پانچ ٹرکوں سمیت 23 گاڑیاں آئیں اور یہ حادثہ اس وقت پیش آیا جب رات 12 بجے سے قبل ’ٹریفک سست رفتار‘ سے آگے بڑھ رہا تھا۔ دوسری جانب پولیس کا کہنا ہے کہ اس واقعے کے بعد 30 افراد کو ہسپتال منتقل کیا گیا ہے، جبکہ ہلاک ہونے والے افراد کی شناخت معلوم کرنے کے لیے ڈی این اے ٹیسٹ کیے جا رہے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "Crime",
-      "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a5/live/5cc72610-dedd-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "’15 دن پہلے شیراز کی شادی میں شرکت کی اور آج اُس کے جنازے میں اکھٹے ہیں‘",
+      "title": "’15 دن پہلے شیراز کی شادی میں شرکت کی اور آج اُس کے جنازے میں اکٹھے ہیں‘",
       "link": "https://www.bbc.com/urdu/articles/c94gnvprmkxeo?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان میں صوبہ خیبر پختونخوا کے شہر کوہاٹ کی پولیس اور سرکاری ہسپتال کے سربراہ نے تصدیق کی ہے کہ دربوکچ کے علاقے میں شدت پسندوں کی جانب سے پولیس ٹیم پر کیے گئے ایک حملے میں ڈی ایس پی سمیت 10 پولیس اہلکار ہلاک جبکہ متعدد زخمی ہوئے ہیں۔",
       "source": "BBC Urdu",
@@ -194,22 +187,13 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d9/live/8b666830-de8f-11f1-9afe-1f03bfe02283.jpg"
     },
     {
-      "title": "جیمز اینڈرسن نے بابر اعظم کو پسندیدہ پاکستانی کرکٹر قرار دے دیا",
-      "link": "https://www.express.pk/story/2843905/james-anderson-has-named-babar-azam-as-his-favorite-pakistani-cricketer-2843905",
-      "description": "اینڈرسن نے ایک ویڈیو پروگرام م میں مختلف ممالک کے اپنے پسندیدہ کھلاڑیوں کے نام بتائے",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Thu, 12 Nov 26 16:55:27 +0500",
+      "title": "Police to send team to Pakistan over 130 Malaysians detained in scam raid - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTNZT3p6U1R5UXNFZl9aZ3ZaRmNRTzRBU3ZtQ1NiT05UeXlnZllJalNjNjZ0YzdjT3pkOHdFR3ZLSGhuWDlvM3E5ME5ub3FnTk9STnBTQ0F4OF81MDRkSWNBaTBrUDAyQVdyMHZ2Ym92QUhIN0dpWmozZ25FVUVxN0xkQ09ZT3J3OXJFMUZlaldYbVN1aFpXSkRscFhuUXNsQjB2a1llRzJ0LU5NcVZZM3JyNU85MndBb1VR0gG7AUFVX3lxTFBFM1lPenpTVHlRc0VmX1pndlpGY1FPNEFTdm1DU2JPTlR5eWdmWUlqU2M2NnRjN2NPemQ4d0VHdktIaG5YOW8zcTkwTm5vcWdOT1JOcFNDQXg4XzUwNGRJY0FpMGtQMDJBV3IwdnZib3ZBSEg3R2laajNnbkVVRXE3TGRDT1lPcnc5ckUxRmVqV1htU3VoWldKRGxwWG5Rc2xCMHZrWWVHMnQtTk1xVlkzcnI1Tzkyd0FvVVE?oc=5",
+      "description": "Police to send team to Pakistan over 130 Malaysians detained in scam raid NST Online",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Thu, 12 Nov 2026 14:51:09 GMT",
       "photo": ""
-    },
-    {
-      "title": "ثاقب خان کی پہلے ٹیسٹ میں سات وکٹیں: ’جب ٹیم میں میرا نام آیا تو امی ابو رونے لگے‘",
-      "link": "https://www.bbc.com/urdu/articles/cmzxvlq5770xo?at_medium=RSS&at_campaign=rss",
-      "description": "31 سالہ صاقب خان کو راولپنڈی میں کھیلے گئے پہلے ٹیسٹ کے لیے قومی ٹیم میں شامل کیا گیا تھا اور انھوں نے ڈیبیو میچ ہی میں اپنی صلاحیتوں کا بھرپور اظہار کیا۔ وہ ان چار کھلاڑیوں میں شامل تھے جنھیں پاکستان نے سری لنکا کے خلاف اس میچ میں پہلی مرتبہ ٹیسٹ کیپ دی تھی۔",
-      "source": "BBC Urdu",
-      "cat": "Sports",
-      "date": "Thu, 12 Nov 2026 11:12:51 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9c7/live/3fbfc1e0-de69-11f1-9115-cfe6d179af3a.jpg"
     },
     {
       "title": "Pakistan's Saqib Khan wreaks havoc against Sri Lanka on Day 4, enters record books with seven-wicket haul - Yahoo Sports",
@@ -230,12 +214,57 @@
       "photo": ""
     },
     {
-      "title": "Pakistan Sri Lanka Cricket - The Herald Journal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnJSdjgtUHdlMGw3V25UMDRzU1BqRkR2NWJsTVhpVW1CNFRaMkU2M1BpVC15aVdTdl8yTUpBb2Q5cE5IN3hsTjFpNVdkakZJYk5YS0Vqd0xVa2Z1eExfcUdvYk1SS2dYbW5vT0xnUHZ5ekk0MkdtUzVDSm14R20wN29QLWtVblFrbW9WZEVWaUxLYUhtbENOMGVHbkh0OXNYZmotTndLQlEyUm5hbWJ4Vg?oc=5",
-      "description": "Pakistan Sri Lanka Cricket The Herald Journal",
+      "title": "Rizwan, Imam-ul-Haq cleared for domestic cricket as Pakistan probe nears end - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMHFXd1p2ZThmV2hxWW9DTFBrUTBYdzBpM0lZanBPcG5ldmxqNk4xd3pxZVJ5enBMWHoyT3Z3bjRfbVpOYk1xajVRUGRoREsxeGppT0lvRHJfdk5veFVuNWJiWHhRZjZ2dlRkYzhLRHQzZDF4MTB1Ui0zWkVjZHB4eno0am1wSTk4cnZ0a0RxbUY2WUNUV25rZHBiX3pwMTRSYkM0Y1RrLWo0SmFyYUdTTmNpOXIycnFySGtDWXB3d1pnOHlUelc2bHBkSWhKenFQN003OEhnMHZ4WFB4cURGSy1hdHZVUUHSAewBQVVfeXFMT2VMc3RkZExMOExVQkk0LUtUZ0lDZFVoeWFnNVZNT0xLRVpFeWNOcVhnYVZLVDZXMXRfc01qYWNnNEUxWDVoa0ljZVpxZm9KQ3JsRjR5ck1IdmhtUHl1bXhaSW11M2MzSU5QRXZGQThtTENOT0RHcnFJb3QybWtYYWo2UWdpLUZWWTVhV0daS1FUSFlxWWRsc2hoT1VUX01LbDdyOG1fSnlIS3VBR2hIblQ3cUpGYUhuYi1TQmNvSWRCVlQtSDc4UmNBbXF1eFdHUm0yNmk1QmxIem92ak1uSHRRakM0bms1UXVQZGI?oc=5",
+      "description": "Rizwan, Imam-ul-Haq cleared for domestic cricket as Pakistan probe nears end India Today",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 12 Nov 2026 09:33:57 GMT",
+      "date": "Thu, 12 Nov 2026 12:44:48 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Women vs Bangladesh Women - Women's Twenty20 Internationals, ICC ENT | Match Centre - Fox Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVpQSVp2Qk10UnBaOWZWVGZoc0NzRGEwQXpqU1BQa3ZPOUpTSURaa0h2TUMxUGN0aHdVZVhKU2trd2ZBbGoyUlYycERFenBCYmZRazYweGFVeGFVWW1uVnFwNmFrVDV3Q1BaVlVjN3lpMTR3YnZHaEVjNHhkanpneHA4Yw?oc=5",
+      "description": "Pakistan Women vs Bangladesh Women - Women's Twenty20 Internationals, ICC ENT | Match Centre Fox Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Thu, 12 Nov 2026 12:56:13 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Sri Lanka Cricket - WV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTZBN2VtZHN3dzNEOTlqdXplS01jUTF6LUVqOTVFYzlTb281eE14bG93WHFTSGlnaDJTb0ltSHhkM0xqdTF1UkVWUVF1endNWVh5eGlSb0pVSXY0NG5qZ2swOUJKNnlYRktYaThxdTRtbGlLa2tGZTBDa080eHlPSVliNzZtMjB4cnVKRG1PZ2dWdFo5cEp4bFNRa08xc1ZTa29aUDVDTHZUcC1Y?oc=5",
+      "description": "Pakistan Sri Lanka Cricket WV News",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Thu, 12 Nov 2026 09:31:10 GMT",
+      "photo": ""
+    },
+    {
+      "title": "بھکر میں 9 سالہ بچی کے ساتھ نازیبا حرکات کرنے والا ملزم گرفتار",
+      "link": "https://www.express.pk/story/2843954/accused-arrested-in-bhakkar-for-committing-indecent-acts-with-a-9-year-old-girl-2843954",
+      "description": "پولیس کے مطابق ملزم کی شناخت مجاہد کے نام سے ہوئی ہے",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Fri, 13 Nov 26 02:36:24 +0500",
+      "photo": ""
+    },
+    {
+      "title": "دنیا بھر میں مائیکروسافٹ کی سروسز متاثر، صارفین کو شدید مشکلات کا سامنا",
+      "link": "https://www.express.pk/story/2843951/microsoft-services-affected-worldwide-users-facing-severe-difficulties-2843951",
+      "description": "امریکا میں صرف آؤٹ لک کے حوالے سے ایک لاکھ 31 ہزار سے زائد شکایات سامنے آئیں",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Fri, 13 Nov 26 01:05:43 +0500",
+      "photo": ""
+    },
+    {
+      "title": "بانی پی ٹی آئی عمران خان کا معاملات بات چیت سے آگے بڑھانے پر اتفاق",
+      "link": "https://www.express.pk/story/2843948/pti-founder-imran-khan-agrees-to-move-matters-forward-through-talks-2843948",
+      "description": "بیرسٹر گوہر کی مفاہمتی پالیسی کی تائید،علیمہ کی رہائی کیلیے کوشش کرنے کی ہدایت",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Thu, 12 Nov 26 16:58:34 +0000",
       "photo": ""
     },
     {
@@ -248,30 +277,12 @@
       "photo": ""
     },
     {
-      "title": "بندۂ مومن کے لیے آداب خور و نوش",
-      "link": "https://www.express.pk/story/2843944/banda-e-momin-ke-liye-aadaab-e-khor-o-nosh-2843944",
-      "description": "آپؐ نے پیٹ بھر کر کھانے سے سختی سے منع فرمایا اور یہ سنہری اصول عطا کیا کہ انسان کے لیے چند لقمے ہی کافی ہیں جو اس کی کمر کو سیدھا رکھیں",
+      "title": "جب چاہوں ایران کے خلاف جنگ جیت سکتا ہوں، ٹرمپ",
+      "link": "https://www.express.pk/story/2843949/i-can-win-a-war-against-iran-whenever-i-want-says-trump-2843949",
+      "description": "ایرانی معیشت تباہ ہوچکی ہے اور مہنگائی 301 فیصد تک پہنچ گئی ہے، امریکی صدر",
       "source": "Express Urdu",
-      "cat": "World",
-      "date": "Thu, 12 Nov 26 21:15:48 +0500",
-      "photo": ""
-    },
-    {
-      "title": "صبر و شُکر: مشکل حالات میں مومن کا رویّہ",
-      "link": "https://www.express.pk/story/2843943/sabr-o-shukar-mushkil-halaat-mein-momin-ka-rawaiya-2843943",
-      "description": "’’اور ہم ضرور تمھیں کچھ خوف، بھوک اور مالوں، جانوں اور پھلوں کی کمی سے آزمائیں گے، اور صبر کرنے والوں کو خوش خبری سنا دو۔‘‘",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Thu, 12 Nov 26 21:12:13 +0500",
-      "photo": ""
-    },
-    {
-      "title": "تعفن زدہ سیاست (دوسرا اور آخری حصہ)",
-      "link": "https://www.express.pk/story/2843942/taaffun-zada-siyasat-doosra-aur-aakhri-hissa-2843942",
-      "description": "سیاست اختلافات کو مکالمے سے حل کرنے کا نام ہے۔ خاص کر ایسے حالات میں جب ملک کے دو صوبوں میں حالات خراب ہیں۔",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Thu, 12 Nov 26 21:09:56 +0500",
+      "cat": "Middle East",
+      "date": "Thu, 12 Nov 26 17:31:53 +0000",
       "photo": ""
     },
     {
@@ -293,31 +304,13 @@
       "photo": ""
     },
     {
-      "title": "گلگت بلتستان؛ یاسین میں مسافر گاڑی کا خوفناک حادثہ، 10 افراد جاں بحق",
-      "link": "https://www.express.pk/story/2843909/gb-yasin-passenger-van-accident-10-people-killed-2843909",
-      "description": "مقامی رضاکاروں نے دریا سے 10 لاشیں نکال کر اسپتال منتقل کردیا، جاں بحق افراد میں 3 خواتین بھی شامل ہیں، ریسکیو ذرائع",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Thu, 12 Nov 26 12:15:02 +0000",
-      "photo": ""
-    },
-    {
-      "title": "امریکی وسط مدتی انتخابات کے تنائج کیا ایران جنگ پر عوامی فیصلہ ہیں؟",
-      "link": "https://www.bbc.com/urdu/watch/cmz655ej7yl3o?at_medium=RSS&at_campaign=rss",
-      "description": "کیا اِمریکہ کے وسط مدتی انتخابات کے نتائج ایران جنگ سے متعلق صدر ڈونلڈ ٹرمپ کی پالیسی پر عوام کےکیا اِمریکہ کے وسط مدتی انتخابات کے نتائج ایران جنگ سے متعلق صدر ڈونلڈ ٹرمپ کی پالیسی پر عوام کے عدم اعتماد کو ظاہر کرتے ہیں؟",
+      "title": "آبنائے ہرمز کی ناکہ بندی روس اور ایران کے تعلقات کو کیسے متاثر کر رہی ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/cm9q8vv5jqqpo?at_medium=RSS&at_campaign=rss",
+      "description": "امریکی دباؤ اور آبنائے ہرمز میں تجارتی رکاوٹوں نے روس اور ایران کے تعلقات کو مزید مضبوط بنا دیا ہے۔ ایران کو معاشی اور تجارتی مشکلات کا سامنا ہونے کے باعث وہ توانائی، تجارت، ٹرانسپورٹ اور سفارتی حمایت کے لیے پہلے سے زیادہ روس پر انحصار کر رہا ہے۔ دوسری جانب روس کو بڑھتی ہوئی تیل کی قیمتوں، ایران کی کمزور ہوتی مسابقت اور خطے میں اپنے سیاسی و اقتصادی اثر و رسوخ میں اضافے کا فائدہ حاصل ہو رہا ہے۔",
       "source": "BBC Urdu",
       "cat": "Middle East",
-      "date": "Sat, 07 Nov 2026 10:54:04 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/23fd/live/5a0478d0-da99-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "امریکا؛ کروڑ کمانے والی بھارتی خاتون کا گزارا نہیں ہوتا؛ حیران کن اخراجات بتادیے",
-      "link": "https://www.express.pk/story/2843903/indian-woman-us-one-crore-income-monthly-expenses-2843903",
-      "description": "ماہانہ ہزاروں ڈالرز کی کمائی کو ’’قلیل‘‘ آمدنی قرار دیدتے ہوئے کہا کہ صرف ایک ہزار ڈالر ہی بمشکل بچ پاتے ہیں",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Thu, 12 Nov 26 16:47:00 +0500",
-      "photo": ""
+      "date": "Fri, 13 Nov 2026 04:23:13 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d06/live/62803a70-df04-11f1-9f71-7d0084202c8a.jpg"
     },
     {
       "title": "دانت صاف کرتے ہوئے ٹوتھ برش پیٹ میں کیسے جا پہنچا اور ڈاکٹروں نے اسے بغیر سرجری کیسے نکالا؟",
@@ -352,7 +345,7 @@
     },
     {
       "source": "BBC World",
-      "added": 29,
+      "added": 33,
       "ok": true
     },
     {
@@ -378,7 +371,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 31,
+      "added": 33,
       "ok": true
     }
   ]
