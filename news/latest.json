@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T04:52:04.786444+00:00",
-  "count": 34,
+  "generated_at": "2026-11-13T13:51:25.019417+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,79 +12,88 @@
     "Strange": 2
   },
   "shortages": {
-    "Strange": 1
+    "Strange": 2
   },
   "items": [
     {
-      "title": "پاکستان اور برطانیہ میں تجارت بڑھانے کے وسیع مواقع ہیں، ہائی کمشنر",
-      "link": "https://www.express.pk/story/2843950/there-are-vast-opportunities-to-increase-trade-between-pakistan-and-britain-says-high-commissioner-2843950",
-      "description": "پاکستان اور برطانیہ کے درمیان سالانہ تجارت کا حجم 6 ارب پاؤنڈ تک پہنچ چکا ہے، ٹیپو عثمان",
+      "title": "ضلع خیبر میں 5 بچوں کی پُراسرار بیماری سے ہلاکت کی وجہ سامنے آگئی",
+      "link": "https://www.express.pk/story/2844071/the-cause-of-deaths-among-children-due-to-a-mysterious-illness-in-khyber-district-has-been-revealed-2844071",
+      "description": "معدے کے نمونوں میں انتہائی زہریلے کیڑے مار کیمیکل کاربوفیوران (Carbofuran) کی موجودگی کی تصدیق",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 18:49:11 +0000",
+      "date": "Fri, 13 Nov 26 13:08:12 +0500",
       "photo": ""
     },
     {
-      "title": "ملک کے 53 فیصد سرکاری اسکولوں میں سہولیات کا فقدان",
-      "link": "https://www.express.pk/story/2843947/53-of-government-schools-in-the-country-lack-facilities-2843947",
-      "description": "بلوچستان،سندھ کے اسکولوں کی صورتحال انتہائی ابتر، پنجاب میں قدرے بہتری",
+      "title": "پنجاب ہولی قرآن پرنٹنگ اینڈ ریکارڈنگ ترمیمی بل 2026 پنجاب قائمہ کمیٹی اوقاف سے منظور",
+      "link": "https://www.express.pk/story/2844068/punjab-holy-quran-printing-and-recording-amendment-bill-2026-approved-by-the-punjab-standing-committee-on-auqaf-2844068",
+      "description": "قرآن پاک کی طباعت، اشاعت اور ریکارڈنگ کو غلطیوں سے پاک بنانے کے لیے قانون میں ترامیم کی منظوری دی، رانا محمد ارشد",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 16:41:28 +0000",
+      "date": "Fri, 13 Nov 26 07:54:32 +0000",
       "photo": ""
     },
     {
-      "title": "لاہور میں شیر کے حملے سے نوجوان کی ہلاکت، اندرنی کہانی سامنے آ گئی",
-      "link": "https://www.express.pk/story/2843946/young-man-killed-in-lion-attack-in-lahore-the-inside-story-has-emerged-2843946",
-      "description": "فارم ہاؤس کے سی سی ٹی وی کیمرے اور ڈی وی آر غائب تھے",
+      "title": "دھابیجی پمپنگ اسٹیشن پر مرمتی کام کیوجہ کراچی کے بڑے حصے میں پانی کی فراہمی بند",
+      "link": "https://www.express.pk/story/2844066/water-supply-suspended-in-large-parts-of-karachi-due-to-repair-work-at-dhabeji-pumping-station-2844066",
+      "description": "دھابیجی پمپنگ اسٹیشن کے 21 پمپس میں سے 9 پمپس بند، 13 کروڑ گیلن پانی کی فراہمی متاثرہوگی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 16:31:38 +0000",
+      "date": "Fri, 13 Nov 26 12:32:52 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی، شہر میں فائرنگ کے مختلف واقعات میں 2 افراد زخمی",
-      "link": "https://www.express.pk/story/2843938/karachi-two-people-injured-in-separate-firing-incidents-in-the-city-2843938",
-      "description": "زخمیوں کو طبی امداد کے لیے اسپتال منتقل کر دیا گیا",
+      "title": "ریکوڈک منصوبے کی کامیابی پاکستان میں معدنی سرمایہ کاری کے لیے مثال قائم کریگی، وزیراعظم",
+      "link": "https://www.express.pk/story/2844065/the-success-of-the-reko-diq-project-will-set-a-precedent-for-mineral-investment-in-pakistan-says-the-prime-minister-2844065",
+      "description": "شہباز شریف کی بیرک مائننگ کارپوریشن کے چیئرمین جان تھورنٹن کی سربراہی میں وفد سے ملاقات",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 21:03:03 +0500",
+      "date": "Fri, 13 Nov 26 07:24:56 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان کی عالمی سفارت کاری",
-      "link": "https://www.express.pk/story/2843934/pakistan-ki-alami-safarti-kari-2843934",
-      "description": "انطالیہ میں وزیراعظم کی مختلف عالمی رہنماؤں سے ملاقاتیں پاکستان کی سفارتی ترجیحات کے حوالے سے اہم ہیں",
+      "title": "پاکستانی فوجیوں کی قربانیاں برطانوی تاریخ کا اہم حصہ ہیں، میجر جنرل کارل ہیرس",
+      "link": "https://www.express.pk/story/2844059/pakistani-soldiers-sacrifices-are-an-important-part-of-british-history-says-major-general-carl-harris-2844059",
+      "description": "مڈ فورسز کووننٹ پر دستخط کی تقریب سے خطاب کرتے ہوئے میجر جنرل کارل ہیرس کی گفتگو",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 20:52:34 +0500",
+      "date": "Fri, 13 Nov 26 11:47:55 +0500",
       "photo": ""
     },
     {
-      "title": "صوبے کا فیصلہ کرنا صرف عوام کا حق ہے، فریال تالپور",
-      "link": "https://www.express.pk/story/2843932/only-the-people-have-the-right-to-decide-the-province-faryal-talpur-2843932",
-      "description": "ہمارے ساتھ کوئی مسودہ ابھی تک شیئر نہیں کیا گیا، عوام فیصلہ کریں تو صوبہ بننا چاہیے، لاہور میں گفتگو",
+      "title": "پنجاب؛ ریسٹورنٹس میں ڈیجیٹل ادائیگی پر صارفین کے لیے انعامی اسکیم شروع کرنے کا فیصلہ",
+      "link": "https://www.express.pk/story/2844053/punjab-decides-to-launch-reward-scheme-for-digital-payments-at-restaurants-2844053",
+      "description": "انعامی اسکیم کا مقصد عوام کو نقد ادائیگی کے بجائے ڈیجیٹل طریقہ اختیار کرنے کی ترغیب دینا ہے، پنجاب ریونیو اتھارٹی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 15:01:33 +0000",
+      "date": "Fri, 13 Nov 26 06:15:55 +0000",
       "photo": ""
     },
     {
-      "title": "مستونگ میں بارودی گاڑی سے حملے کی کوشش ناکام، 2 شہری شہید اور 17 زخمی، 3 دہشت گرد ہلاک",
-      "link": "https://www.express.pk/story/2843926/attack-in-mastung-2-citizen-killed-2843926",
-      "description": "دہشت گردی کی بڑی کوشش ناکام بنانے پر فورسز کو خراجِ تحسین کرتے ہیں، وزیر داخلہ بلوچستان",
+      "title": "آلودہ ٹرین شہر، دہلی نے لاہور کو بھی پیچھے چھوڑ دیا",
+      "link": "https://www.express.pk/story/2844039/delhi-overtakes-lahore-as-worlds-most-polluted-city-as-air-quality-drops-2844039",
+      "description": "بعض سڑکوں کے درمیان پانی کے چھڑکاؤ کے خصوصی نظام بھی نصب کیے گئے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 13:25:24 +0000",
+      "date": "Fri, 13 Nov 26 10:17:26 +0500",
       "photo": ""
     },
     {
-      "title": "ہمارے دسترخوان کا خاموش مہمان: پاکستان میں شوگر کا بڑھتا ہوا طوفان",
-      "link": "https://www.express.pk/story/2843924/the-silent-guest-at-our-dining-table-the-rising-storm-of-diabetes-in-pakistan-2843924",
-      "description": "پاکستان میں شاید ہی کوئی ایسا خاندان ہو جو اس بیماری سے ناواقف ہو",
+      "title": "اسلام آباد میں بلدیاتی انتخابات کا شیڈول معطل",
+      "link": "https://www.express.pk/story/2844036/local-government-elections-schedule-suspended-in-islamabad-2844036",
+      "description": "اسلام آباد ہائیکورٹ نے حکم امتناع جاری کرتے ہوئے الیکشن کمیشن و دیگر کو نوٹس جاری کر دیے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 12 Nov 26 18:24:31 +0500",
+      "date": "Fri, 13 Nov 26 04:59:01 +0000",
+      "photo": ""
+    },
+    {
+      "title": "اسلام آباد کو ملک کا پہلا مکمل کیش لیس شہر بنانے کے لیے ڈیڈ لائن مقرر",
+      "link": "https://www.express.pk/story/2844031/deadline-set-to-make-islamabad-pakistans-first-fully-cashless-city-2844031",
+      "description": "‎‎کیش لیس اسلام آباد منصوبے کی کامیابی کے لیے تمام اسٹیک ہولڈرز کی مشاورت اور تجاویز اہم ہیں، طلال چوہدری",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Fri, 13 Nov 26 04:39:48 +0000",
       "photo": ""
     },
     {
@@ -97,75 +106,75 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b242/live/1244be00-dec3-11f1-86d5-71a9f29d1c99.jpg"
     },
     {
-      "title": "عمران خان کی بہنوں عظمیٰ خان اور نورین نیازی کو کوٹ لکھپت جیل سے رہا کر دیا گیا",
-      "link": "https://www.bbc.com/urdu/articles/c674pvxg80e4o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے سابق وزیر اعظم عمران خان کی بہنوں کے وکیل رانا مدثر نے کہا ہے کہ لاہور کی کوٹ لکھپت جیل میں نظربند نورین نیازی اور عظمی خان کو رہا کر دیا گیا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Thu, 12 Nov 2026 10:37:15 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11b7/live/e49a5e40-de83-11f1-b88b-3f1671ea859d.jpg"
-    },
-    {
-      "title": "Malaysia calls for stronger economic cooperation with Pakistan - Investify",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDlqOUJkWFRXUUJNdlowNEpDejI2aFVGUWJJSmEtQVFwaHBwZklSbmlZNFViZkRHcWFoWTRRQXV1MWVyTVh4SXNJN0JaTDd5cmxDY1huMVkzWFZrMHpvMnhzQTl5UDdDc1NUNzJpVXI1SERqS1pyMlhtWGtpX0VERlk5UE8tZGhNWlZSVXUwRWZQSDFqbGU0UFE5ZkNPUW1HOUw4Qzg1NTM?oc=5",
-      "description": "Malaysia calls for stronger economic cooperation with Pakistan Investify",
-      "source": "Pakistan Economy",
+      "title": "ایف بی آر کے کراچی میں تعینات افسران کی اہلیت کا امتحان، نتائج میں پیشہ ورانہ کمزوریاں سامنے آگئیں",
+      "link": "https://www.express.pk/story/2844072/fbr-officers-posted-in-karachi-reveals-professional-shortcomings-in-the-results-2844072",
+      "description": "رپورٹ کے مطابق سیلز ٹیکس کے امتحان میں کوئی بھی افسر قابلِ قبول قرار دی گئی 60 فیصد نمبروں کی حد تک نہیں پہنچ سکا",
+      "source": "Express Urdu",
       "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 15:48:25 GMT",
+      "date": "Fri, 13 Nov 26 08:26:49 +0000",
       "photo": ""
     },
     {
-      "title": "Pakistan’s Mineral Wealth: A Divine Blessing And An Economic Opportunity - The Friday Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZUdGNU8yM0ZnUnBBRUhkbko1amw4RHZpb3hCelAyeUoxSEZhTzNGVHdZYnh5NjMwWEh4VXpBNVg4ZUx1X1lrdlhfWUEwSEhCaVZqd1FJVW40cjVxcU8tX3BNS2dWQmJWQjA3djB3cHJ3dWt3ZEl3T1FQRktFNjJBWXFjTTBkcXV5WUdQbV9hM0xSSnB3bmNibEFCdVVzUTc3Qm80NUMyWTk?oc=5",
-      "description": "Pakistan’s Mineral Wealth: A Divine Blessing And An Economic Opportunity The Friday Times",
-      "source": "Pakistan Economy",
+      "title": "جاپان کا پاکستان میں انسداد پولیو پروگرام کیلئے 4.3 ملین ڈالر گرانٹ کا اعلان",
+      "link": "https://www.express.pk/story/2844033/japan-announced-43-million-grant-to-pakistan-for-polio-programme-2844033",
+      "description": "جاپانی گرانٹ آئندہ سال کی انسداد پولیو مہم کے لئے ویکسین خریداری پر خرچ ہوگی",
+      "source": "Express Urdu",
       "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 09:19:03 GMT",
+      "date": "Fri, 13 Nov 26 04:51:52 +0000",
       "photo": ""
     },
     {
-      "title": "Pakistan aims to increase its exports to US$100 billion under the National Economic Transformation Plan 2035: Ahsan Iqbal - sabahnews.net",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdVFkSU1aa0hZd1dyVHBtcXBxNWJYRUZVZ1BkMXNHd3BYR2MyZjdLNmFCN2taZk1uY1d2NEs4Q3dYVE1RalBNdER0UGMwZjh6U1VOOFhTNnd2M1gxcC1MQkdmVVRxVTZqMUlrNFpkaUhOdzdmcGtKVmVVd3lHdTJJdGhfOTNXbFEzWXcwUnVsY0ptc0JRRC00NEZwVWJMZm95a2hQU1NSSE5pY2pDbTBSMWhDVGdkLVJKVGgtVzk2akNXSHJWdVEwZlBmdDBMd1RDOWRpdVhuczVZMWVuOWt2X255Q20wMVhVejI0?oc=5",
-      "description": "Pakistan aims to increase its exports to US$100 billion under the National Economic Transformation Plan 2035: Ahsan Iqbal sabahnews.net",
+      "title": "Mining Sector to Become Game-Changer for Pakistan’s Economy: Aurangzeb - Energy Update",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWZlRU5tWFpCd2pLSE40TjBPczN5T2RUV2lRMzBPVkhXOWpQWjczRVBNTG5BRDdqNnRtT1FHSXQtbXpTMGc3XzJjbFVDdl9lNkt3Z19RLU5EZVVPc1o1SG1lWjRzMnNpYzZVQ3gwNkZBSndMcGswVktaNTBKV210WHlnQ1BaYVhuTTJkbElxUHVLWXNJYjJtbGxIOGFRQVBHc1l3?oc=5",
+      "description": "Mining Sector to Become Game-Changer for Pakistan’s Economy: Aurangzeb Energy Update",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 16:05:27 GMT",
+      "date": "Fri, 13 Nov 2026 07:25:44 GMT",
       "photo": ""
     },
     {
-      "title": "Minerals sector to transform Pakistan’s economy: Aurangzeb - Minute Mirror",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOG1xemU4RTk0VWt3RUFBano3N1BPR3lsQ0tFVVoxYUVRSzFuYjFFZnJlTDFfMFJGS1ExOHdBM1NyNFFCek1JdUtFSkZ2bkFRdEtYQ1FpdG1vNEJfeERhdTdQOFc3YU81UFNud0lWR3dEc2hCSmRLMUxISzBfc202YWlGV05tNVJQTnE0N25lOXdUd0o5NlUw?oc=5",
-      "description": "Minerals sector to transform Pakistan’s economy: Aurangzeb Minute Mirror",
+      "title": "Pakistan Economy - Pakistan Posted Fiscal Surplus of 0.9% of GDP in 1QFY27; Primary Surplus at 2.1% of GDP vs. 2.8% in 1QFY26 - Smartkarma",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa01DeHd2Y0pLLTZKOE1QWHNfZkFUV0VMc3RQT3U0dmhsY1pOM2VMUXlabmRFdVdVZjRuUk5jYUVrTWJNal9JQVE3VlZCa1RWWWIyYzdsLTh4eXhqYWZYazJyNFRKcm5YcDhYclh6bnNQV2IzS0JKeE5WZ2NzanF0MXFfMGhvalI5TVN4N2JreXJIYjVSOEdUZlpvUUdzV3hlRmRKX0FuQ013X1hZNmFDcmx6QjlWNVVUOV9WU3RhNTZjUHVZQ2FOU2s2dl9adXNRYUNUR2lEcERTczFDektHMVJRWFA2WC1rUmNKakFIVGlXVGx2WE1ERTNlelNxZlVDaVRrcDB4TWV4UVotZnRJWnJrYw?oc=5",
+      "description": "Pakistan Economy - Pakistan Posted Fiscal Surplus of 0.9% of GDP in 1QFY27; Primary Surplus at 2.1% of GDP vs. 2.8% in 1QFY26 Smartkarma",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 12:01:54 GMT",
+      "date": "Fri, 13 Nov 2026 12:02:28 GMT",
       "photo": ""
     },
     {
-      "title": "Frozen Incomes, Floating Prices: Navigating the Economic Storm of Urban Pakistan - Pakistan Matters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3dNRU1ReTltUXNSR1hPMlBURlVWcGhlbzlEYlFyazBrQ1JPLUpxOXZsN1RfOVVCTl9tZ3Z0cXQwcDlCTWxLc0IxU0pRZkpfM3FPU1otdmRwVWxpcnZ5YjJLVk1RTGhKN3dYMklaaXZSVFEtT3ZHTkJfREhqTVg3V2xFZ2RUXzNVTlh4ZTVYR2YxbjdIZ19tTk9zNEF6V0Jaek0yRFBpY051amtFczloemI1R2luLVRqRGhKbw?oc=5",
-      "description": "Frozen Incomes, Floating Prices: Navigating the Economic Storm of Urban Pakistan Pakistan Matters",
+      "title": "CDF Asim Munir Calls for Turning Pakistan’s Mineral Wealth into Economic Power at PMIF26 - Balochistan Pulse",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa3FZeWNWNDlmVDk2T3FVMHBNTGotRW5qTFo0aFVpbElfelZhT0hKWWxwbjZoYzZRRERpR2dJSExMYnJ6YnY2Y3VUcW5XSDg1VXJpNHVMb2xBdWNkQlpkbkZCbzFVZTc0MTVBVnk0c3RIOEFqNVFXd0c2NHdXNzFPa1g4UULSAYQBQVVfeXFMTmtxWXljVjQ5ZlQ5Nk9xVTBwTUxqLUVuakxaNGhVaWxJX3pWYU9ISllscG42aGM2UUREaUdnSUhMTGJyemJ2NmN1VHFuV0g4NVVyaTR1TG9sQXVjZEJaZG5GQm8xVWU3NDE1QVZ5NHN0SDhBajVRV3dHNjR3VzcxT2tYOFFC?oc=5",
+      "description": "CDF Asim Munir Calls for Turning Pakistan’s Mineral Wealth into Economic Power at PMIF26 Balochistan Pulse",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Thu, 12 Nov 2026 13:53:40 GMT",
+      "date": "Fri, 13 Nov 2026 11:13:04 GMT",
       "photo": ""
     },
     {
-      "title": "کراچی، مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں اور دو خواتین سمیت 3 ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2843952/karachi-police-encounters-in-various-areas-3-suspects-arrested-including-3-injured-individuals-and-two-women-2843952",
-      "description": "گرفتار ملزمان کے ہمراہ 3 سالہ بچہ بھی موجود ہے",
+      "title": "کراچی: حوالہ ہنڈی نیٹ ورک کے دو ملزمان گرفتار، سعودی و اماراتی کرنسی برآمد",
+      "link": "https://www.express.pk/story/2844069/aif-aei-a-n-liari-mosi-lin-ngor-mhl-mi-oakaa-aarb-aor-k-graoen-flor-pr-kaem-dftr-pr-chap-mara-2844069",
+      "description": "ایف آئی اے نے لیاری موسیٰ لین، ہنگورہ محلہ میں واقع عرب ٹاور کے گراؤنڈ فلور پر قائم دفتر پر چھاپہ مارا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Fri, 13 Nov 26 01:48:15 +0500",
+      "date": "Fri, 13 Nov 26 13:02:29 +0500",
       "photo": ""
     },
     {
-      "title": "اپر کوہستان اسکینڈل بڑی پیشرفت، نیشنل بینک داسو کے سابق کیشئر کی پلی بارگین کی درخواست",
-      "link": "https://www.express.pk/story/2843929/kp-corruption-scandal-development-national-bank-dasu-ex-cashier-plea-bargain-application-2843929",
-      "description": "احتساب عدالت پشاور کے جج محمد حامد مغل نے ملزم کی درخواست پر فیصلہ جاری کیا اور ملزم کی رہائی کا حکم دے دیا",
+      "title": "کراچی: ابراہیم حیدری میں ڈکیتی کی کوشش ناکام، ایک ملزم شہریوں کے ہتھے چڑھ گیا",
+      "link": "https://www.express.pk/story/2844055/dacoity-attempt-foiled-in-ibrahim-hyderi-2844055",
+      "description": "دو ملزمان موقع پرسے فرارہونے میں کامیاب ہوگئے",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Thu, 12 Nov 26 14:09:08 +0000",
+      "date": "Fri, 13 Nov 26 11:24:12 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی: گزری میں 3 کروڑ 75 لاکھ روپے کی ڈکیتی کی واردات کا ڈراپ سین",
+      "link": "https://www.express.pk/story/2844037/gizri-dacoity-drop-scene-2844037",
+      "description": "واردات کا ڈرامہ رچانے والا اکاؤنٹنٹ ساتھی سمیت گرفتار، رقم بھی برآمد",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 13 Nov 26 10:04:22 +0500",
       "photo": ""
     },
     {
@@ -187,12 +196,21 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72d9/live/8b666830-de8f-11f1-9afe-1f03bfe02283.jpg"
     },
     {
-      "title": "Police to send team to Pakistan over 130 Malaysians detained in scam raid - NST Online",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTNZT3p6U1R5UXNFZl9aZ3ZaRmNRTzRBU3ZtQ1NiT05UeXlnZllJalNjNjZ0YzdjT3pkOHdFR3ZLSGhuWDlvM3E5ME5ub3FnTk9STnBTQ0F4OF81MDRkSWNBaTBrUDAyQVdyMHZ2Ym92QUhIN0dpWmozZ25FVUVxN0xkQ09ZT3J3OXJFMUZlaldYbVN1aFpXSkRscFhuUXNsQjB2a1llRzJ0LU5NcVZZM3JyNU85MndBb1VR0gG7AUFVX3lxTFBFM1lPenpTVHlRc0VmX1pndlpGY1FPNEFTdm1DU2JPTlR5eWdmWUlqU2M2NnRjN2NPemQ4d0VHdktIaG5YOW8zcTkwTm5vcWdOT1JOcFNDQXg4XzUwNGRJY0FpMGtQMDJBV3IwdnZib3ZBSEg3R2laajNnbkVVRXE3TGRDT1lPcnc5ckUxRmVqV1htU3VoWldKRGxwWG5Rc2xCMHZrWWVHMnQtTk1xVlkzcnI1Tzkyd0FvVVE?oc=5",
-      "description": "Police to send team to Pakistan over 130 Malaysians detained in scam raid NST Online",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Thu, 12 Nov 2026 14:51:09 GMT",
+      "title": "Thailand Women vs Pakistan Women - Women's Twenty20 Internationals, ICC ENT | Match Centre - Fox Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLXNOa21jcXptWG1hN1ViNGU2M0pfWWE3X2dOeFVnajkyWVE3VEZjdmtZY0o3M2VkME1feGJ3UldGRk5ub0dfdy16UmtsbGR1SkFzdWlDWXRBaTIxRW5YM0Jqb3dqZXpjRWZwUVVzQVVyZTNUSmZadVM4ZjdpVU5xYmtySQ?oc=5",
+      "description": "Thailand Women vs Pakistan Women - Women's Twenty20 Internationals, ICC ENT | Match Centre Fox Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Fri, 13 Nov 2026 12:32:33 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan Sri Lanka Cricket - WV News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHowS2wyTDh1cjNja2VzakhaNWVtdkZ0VXVCRkZEa3Y0UkJ3clRIdUxIMVRKaHlJU0g0THVWcDFTQUdqMXVFWW5aRUVtcXk3TmlzU1lwWUFzSGYyb1kwY3JIUTgtbzFjV3F2elFhRE0yM3FzMDZ6TW5GNHhkSWVvcHhZTW1rMGdxQVNKNDA2OEl4YU1UOV9qdVJsLTNMRUo0LXo5b2JObW1hRkFs?oc=5",
+      "description": "Pakistan Sri Lanka Cricket WV News",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Fri, 13 Nov 2026 11:21:39 GMT",
       "photo": ""
     },
     {
@@ -214,112 +232,85 @@
       "photo": ""
     },
     {
-      "title": "Rizwan, Imam-ul-Haq cleared for domestic cricket as Pakistan probe nears end - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMHFXd1p2ZThmV2hxWW9DTFBrUTBYdzBpM0lZanBPcG5ldmxqNk4xd3pxZVJ5enBMWHoyT3Z3bjRfbVpOYk1xajVRUGRoREsxeGppT0lvRHJfdk5veFVuNWJiWHhRZjZ2dlRkYzhLRHQzZDF4MTB1Ui0zWkVjZHB4eno0am1wSTk4cnZ0a0RxbUY2WUNUV25rZHBiX3pwMTRSYkM0Y1RrLWo0SmFyYUdTTmNpOXIycnFySGtDWXB3d1pnOHlUelc2bHBkSWhKenFQN003OEhnMHZ4WFB4cURGSy1hdHZVUUHSAewBQVVfeXFMT2VMc3RkZExMOExVQkk0LUtUZ0lDZFVoeWFnNVZNT0xLRVpFeWNOcVhnYVZLVDZXMXRfc01qYWNnNEUxWDVoa0ljZVpxZm9KQ3JsRjR5ck1IdmhtUHl1bXhaSW11M2MzSU5QRXZGQThtTENOT0RHcnFJb3QybWtYYWo2UWdpLUZWWTVhV0daS1FUSFlxWWRsc2hoT1VUX01LbDdyOG1fSnlIS3VBR2hIblQ3cUpGYUhuYi1TQmNvSWRCVlQtSDc4UmNBbXF1eFdHUm0yNmk1QmxIem92ak1uSHRRakM0bms1UXVQZGI?oc=5",
-      "description": "Rizwan, Imam-ul-Haq cleared for domestic cricket as Pakistan probe nears end India Today",
+      "title": "Pakistan Sri Lanka Cricket - The Herald Journal",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnJSdjgtUHdlMGw3V25UMDRzU1BqRkR2NWJsTVhpVW1CNFRaMkU2M1BpVC15aVdTdl8yTUpBb2Q5cE5IN3hsTjFpNVdkakZJYk5YS0Vqd0xVa2Z1eExfcUdvYk1SS2dYbW5vT0xnUHZ5ekk0MkdtUzVDSm14R20wN29QLWtVblFrbW9WZEVWaUxLYUhtbENOMGVHbkh0OXNYZmotTndLQlEyUm5hbWJ4Vg?oc=5",
+      "description": "Pakistan Sri Lanka Cricket The Herald Journal",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 12 Nov 2026 12:44:48 GMT",
+      "date": "Thu, 12 Nov 2026 09:33:57 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan Women vs Bangladesh Women - Women's Twenty20 Internationals, ICC ENT | Match Centre - Fox Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVpQSVp2Qk10UnBaOWZWVGZoc0NzRGEwQXpqU1BQa3ZPOUpTSURaa0h2TUMxUGN0aHdVZVhKU2trd2ZBbGoyUlYycERFenBCYmZRazYweGFVeGFVWW1uVnFwNmFrVDV3Q1BaVlVjN3lpMTR3YnZHaEVjNHhkanpneHA4Yw?oc=5",
-      "description": "Pakistan Women vs Bangladesh Women - Women's Twenty20 Internationals, ICC ENT | Match Centre Fox Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Thu, 12 Nov 2026 12:56:13 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan Sri Lanka Cricket - WV News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTZBN2VtZHN3dzNEOTlqdXplS01jUTF6LUVqOTVFYzlTb281eE14bG93WHFTSGlnaDJTb0ltSHhkM0xqdTF1UkVWUVF1endNWVh5eGlSb0pVSXY0NG5qZ2swOUJKNnlYRktYaThxdTRtbGlLa2tGZTBDa080eHlPSVliNzZtMjB4cnVKRG1PZ2dWdFo5cEp4bFNRa08xc1ZTa29aUDVDTHZUcC1Y?oc=5",
-      "description": "Pakistan Sri Lanka Cricket WV News",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Thu, 12 Nov 2026 09:31:10 GMT",
-      "photo": ""
-    },
-    {
-      "title": "بھکر میں 9 سالہ بچی کے ساتھ نازیبا حرکات کرنے والا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2843954/accused-arrested-in-bhakkar-for-committing-indecent-acts-with-a-9-year-old-girl-2843954",
-      "description": "پولیس کے مطابق ملزم کی شناخت مجاہد کے نام سے ہوئی ہے",
+      "title": "مالی سال 2027 کی پہلی سہ ماہی میں مسلسل مالیاتی سرپلس ریکارڈ",
+      "link": "https://www.express.pk/story/2844070/financial-year-2027-first-quarter-fiscal-surplus-record-2844070",
+      "description": "مسلسل 23 سال پہلی سہ ماہی میں مالیاتی خساروں کے بعد گزشتہ تین سال سے مالیاتی سرپلس کا تسلسل برقرار رہا ہے، وزارت خزانہ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 13 Nov 26 02:36:24 +0500",
+      "date": "Fri, 13 Nov 26 08:02:52 +0000",
       "photo": ""
     },
     {
-      "title": "دنیا بھر میں مائیکروسافٹ کی سروسز متاثر، صارفین کو شدید مشکلات کا سامنا",
-      "link": "https://www.express.pk/story/2843951/microsoft-services-affected-worldwide-users-facing-severe-difficulties-2843951",
-      "description": "امریکا میں صرف آؤٹ لک کے حوالے سے ایک لاکھ 31 ہزار سے زائد شکایات سامنے آئیں",
+      "title": "شرمناک شکست کے بعد بھارتی ہیڈ کوچ گوتم گمبھیر کا بڑا بیان!",
+      "link": "https://www.express.pk/story/2844067/gambhir-concerned-with-indias-frequent-2844067",
+      "description": "نیوزی لینڈ کے خلاف ماؤنٹ مونگانوئی میں کھیلے گئے چوتھے ون ڈے میں بھارتی ٹیم 89 رنز پر ڈھیر ہوگئی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 13 Nov 26 01:05:43 +0500",
+      "date": "Fri, 13 Nov 26 12:53:55 +0500",
       "photo": ""
     },
     {
-      "title": "بانی پی ٹی آئی عمران خان کا معاملات بات چیت سے آگے بڑھانے پر اتفاق",
-      "link": "https://www.express.pk/story/2843948/pti-founder-imran-khan-agrees-to-move-matters-forward-through-talks-2843948",
-      "description": "بیرسٹر گوہر کی مفاہمتی پالیسی کی تائید،علیمہ کی رہائی کیلیے کوشش کرنے کی ہدایت",
+      "title": "گرین الیکٹرو بس میں مسافروں۔ سے بدسلوکی کے واقعات بڑھ گئے",
+      "link": "https://www.express.pk/story/2844064/incidents-of-mistreatment-of-passengers-on-green-electro-buses-have-increased-2844064",
+      "description": "گرین بس کنڈکٹر کی ایک اور خاتو ں سے بد تمیزی کی ویڈیو سامنےآگٸی، وزیر ٹرانسپورٹ بلال اکبر خان نے فوری سخت ایکشن لیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 12 Nov 26 16:58:34 +0000",
+      "date": "Fri, 13 Nov 26 07:19:46 +0000",
       "photo": ""
     },
     {
-      "title": "رشوت کی لعنت سے بچیے۔۔۔ !",
-      "link": "https://www.express.pk/story/2843945/rishwat-ki-laanat-se-bachiye-2843945",
-      "description": "یہ ایک ایسا ناسور ہے جس سے اخلاقی اقدار برباد ہوجاتی ہیں، ایک دوسرے کا احترام دلوں سے نکل جاتا اور نفرت، کدورت، کینہ اور بغض جیسی برائیاں عام ہوجاتی ہیں",
+      "title": "چیئرمین فیڈرل بورڈ اور ایگزیکٹو ڈائریکٹر آئی بی سی سی کا انٹرمیڈیٹ کے ضمنی امتحانی مرکز کا دورہ",
+      "link": "https://www.express.pk/story/2844062/chairman-federal-board-and-executive-director-ibcc-visit-intermediate-supplementary-examination-centre-2844062",
+      "description": "دورے کے دوران امتحانی ہال کا معائنہ کیا گیا اور امتحانات میں شریک طلبہ کے لیے کیے گئے انتظامات کا مشاہدہ کیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 12 Nov 26 21:22:01 +0500",
+      "date": "Fri, 13 Nov 26 11:57:55 +0500",
       "photo": ""
     },
     {
-      "title": "جب چاہوں ایران کے خلاف جنگ جیت سکتا ہوں، ٹرمپ",
-      "link": "https://www.express.pk/story/2843949/i-can-win-a-war-against-iran-whenever-i-want-says-trump-2843949",
-      "description": "ایرانی معیشت تباہ ہوچکی ہے اور مہنگائی 301 فیصد تک پہنچ گئی ہے، امریکی صدر",
+      "title": "پنجاب میں ہیلتھ ایجوکیشن کی ڈیجیٹل نگرانی کے لیے ’’پرائم‘‘ پلیٹ فارم متعارف",
+      "link": "https://www.express.pk/story/2844063/prime-platform-introduced-in-punjab-for-digital-monitoring-of-health-education-2844063",
+      "description": "یو ایچ ایس میں پورٹل کا افتتاح کر دیا، پہلے مرحلے میں 33 اداروں کے 3,300 پوسٹ گریجویٹ ٹرینیز شامل ہوں گے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 12 Nov 26 17:31:53 +0000",
+      "date": "Fri, 13 Nov 26 07:19:44 +0000",
       "photo": ""
     },
     {
-      "title": "کلینیکل موت (دوسرا اور آخری حصہ)",
-      "link": "https://www.express.pk/story/2843937/clinical-maut-doosra-aur-aakhri-hissa-2843937",
-      "description": "1970 میں فزیشن ریمنڈ موڈی نے ایک ہزار سے کچھ اوپر کلینیکل موت سے دوچار ہوئے لوگوںسے رابطہ کر کے ان کے بیانات اکٹھے کیے۔",
+      "title": "جرمنی نے یوکرین کیلئے اضافی 221 ملین ڈالر کی موسم سرما کی امداد جاری کردی",
+      "link": "https://www.express.pk/story/2844054/germany-releases-extra-221m-for-ukraine-winter-aid-2844054",
+      "description": "یہ امداد پارلیمنٹ کی بجٹ کمیٹی کی طرف سے منظور کی گئی",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 12 Nov 26 21:01:25 +0500",
+      "date": "Fri, 13 Nov 26 11:15:56 +0500",
       "photo": ""
     },
     {
-      "title": "ایران سے مذاکرات کی فکر چھوڑ کر ملکی معاملات پر توجہ دیں؛ ٹرمپ کی اپنے نائب کو ہدایت",
-      "link": "https://www.express.pk/story/2843931/trump-rejects-iran-deal-orders-jd-vancephoto-title-donald-trump-rejects-iran-deal-2843931",
-      "description": "امریکا کو اب ایران کے ساتھ کسی معاہدے کی ضرورت نہیں، وہ دن گزر چکے ہیں۔ صدر ٹرمپ",
+      "title": "ایران پر حملہ ہوا تو جواب سرحدوں تک محدود نہیں رہے گا، پاسدارانِ انقلاب کی دھمکی",
+      "link": "https://www.express.pk/story/2844044/iran-has-no-geographical-limits-in-responding-to-aggression-irgc-general-says-2844044",
+      "description": "ایزدی کے بیان سے ظاہر ہوتا ہے کہ تہران کسی بھی نئے حملے کی صورت میں سخت جوابی کارروائی کا عندیہ دے رہا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Thu, 12 Nov 26 14:37:15 +0000",
+      "date": "Fri, 13 Nov 26 10:34:19 +0500",
       "photo": ""
     },
     {
-      "title": "آبنائے ہرمز کی ناکہ بندی روس اور ایران کے تعلقات کو کیسے متاثر کر رہی ہے؟",
-      "link": "https://www.bbc.com/urdu/articles/cm9q8vv5jqqpo?at_medium=RSS&at_campaign=rss",
-      "description": "امریکی دباؤ اور آبنائے ہرمز میں تجارتی رکاوٹوں نے روس اور ایران کے تعلقات کو مزید مضبوط بنا دیا ہے۔ ایران کو معاشی اور تجارتی مشکلات کا سامنا ہونے کے باعث وہ توانائی، تجارت، ٹرانسپورٹ اور سفارتی حمایت کے لیے پہلے سے زیادہ روس پر انحصار کر رہا ہے۔ دوسری جانب روس کو بڑھتی ہوئی تیل کی قیمتوں، ایران کی کمزور ہوتی مسابقت اور خطے میں اپنے سیاسی و اقتصادی اثر و رسوخ میں اضافے کا فائدہ حاصل ہو رہا ہے۔",
-      "source": "BBC Urdu",
+      "title": "سعودی عرب پر میزائل اور ڈرون حملوں میں تیزی، حوثیوں نے اہم تیل تنصیبات کو نشانہ بنانے کا اعلان کردیا",
+      "link": "https://www.express.pk/story/2844043/houthis-claim-attacks-on-saudi-east-west-oil-pipeline-and-yanbu-facility-as-drone-interceptions-rise-2844043",
+      "description": "سعودی عرب کی مشرق سے مغرب تک جانے والی پائپ لائن خلیج فارس کے بجائے بحیرہ احمر کے راستے تیل کی ترسیل کا اہم ذریعہ ہے",
+      "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 13 Nov 2026 04:23:13 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d06/live/62803a70-df04-11f1-9f71-7d0084202c8a.jpg"
-    },
-    {
-      "title": "دانت صاف کرتے ہوئے ٹوتھ برش پیٹ میں کیسے جا پہنچا اور ڈاکٹروں نے اسے بغیر سرجری کیسے نکالا؟",
-      "link": "https://www.bbc.com/urdu/articles/cqdj1wjvxlm7o?at_medium=RSS&at_campaign=rss",
-      "description": "یہ سننے میں بہت عجیب لگ سکتا ہے کہ دانت برش کرتے وقت ٹوتھ برش آپ کے ہاتھ سے پھسل کر سیدھا آپ کے پیٹ میں جا پہنچے، لیکن ایسا واقعی ہوا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "Strange",
-      "date": "Thu, 12 Nov 2026 14:42:06 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b1e/live/27560e30-dea4-11f1-a701-fddedf244c16.jpg"
+      "date": "Fri, 13 Nov 26 10:33:57 +0500",
+      "photo": ""
     }
   ],
   "sources": [
@@ -345,7 +336,7 @@
     },
     {
       "source": "BBC World",
-      "added": 33,
+      "added": 22,
       "ok": true
     },
     {
@@ -361,7 +352,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 34,
+      "added": 30,
       "ok": true
     },
     {
@@ -371,7 +362,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 33,
+      "added": 31,
       "ok": true
     }
   ]
