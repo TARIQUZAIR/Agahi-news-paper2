@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T19:40:53.950543+00:00",
-  "count": 34,
+  "generated_at": "2026-11-15T00:42:07.832272+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,9 +12,36 @@
     "Strange": 2
   },
   "shortages": {
-    "Strange": 1
+    "Strange": 2
   },
   "items": [
+    {
+      "title": "میئر کراچی مرتضیٰ وہاب نے شہر قائد میں جاری ترقیاتی اسکیموں میں ردوبدل پر پابندی عائد کر دی",
+      "link": "https://www.express.pk/story/2844285/karachi-mayor-murtaza-wahab-has-imposed-a-ban-on-making-changes-to-ongoing-development-schemes-in-the-city-2844285",
+      "description": "ترقیاتی کام منظور شدہ شیڈول اور معیار کے مطابق آگے بڑھنے چاہئیں، میئر کراچی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 14 Nov 26 19:05:44 +0000",
+      "photo": ""
+    },
+    {
+      "title": "مصدق ملک نئی دہلی میں ایس سی او اجلاس میں پاکستان کی نمائندگی کریں گے، ترجمان دفتر خارجہ",
+      "link": "https://www.express.pk/story/2844273/musadiq-malik-nominated-to-represented-pakistan-at-sco-moot-in-new-delhi-2844273",
+      "description": "ایس سی او کے تحت نئی دہلی میں 20 سے 22 نومبر 2026 تک تہذیبی مکالمہ شیڈول ہے، ترجمان دفتر خارجہ",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 14 Nov 26 14:42:53 +0000",
+      "photo": ""
+    },
+    {
+      "title": "پاکستان کی معدنی دولت، معاشی انقلاب کا نیا راستہ؟",
+      "link": "https://www.express.pk/story/2844270/pakistans-mineral-wealth-a-new-path-to-economic-revolution-2844270",
+      "description": "پنجاب میں نمک، لوہے، جپسم، چونا پتھر، گرینائٹ اور دیگر معدنی وسائل موجود ہیں",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 14 Nov 26 19:21:12 +0500",
+      "photo": ""
+    },
     {
       "title": "اسلام آباد میں 30 ویں ای سی او کونسل آف منسٹرز کانفرنس، انتظامات مکمل",
       "link": "https://www.express.pk/story/2844266/islamabad-30-eco-council-of-ministers-conference-arrangements-complete-2844266",
@@ -34,48 +61,12 @@
       "photo": ""
     },
     {
-      "title": "گورنر خیبرپختونخوا کا صوبے میں سونے کی کانوں کی تمام لیزیں ختم کرنے کا اعلان",
-      "link": "https://www.express.pk/story/2844239/governor-kp-announces-cancellation-of-all-leases-of-gold-mines-in-province-2844239",
-      "description": "ٹھیکیداروں کو ایک ہفتے میں علاقہ خالی کرنے کی ہدایت کی گئی، بصورت دیگر ان کی مشینری ضبط کی جائے گی، فیصل کریم کنڈی",
+      "title": "جواب",
+      "link": "https://www.express.pk/story/2844251/answer-2844251",
+      "description": "بحیثیت قوم پاکستانی عوام کو بھی باہمی اتحاد اور پُرامن جدوجہد کا آغاز کرنا ہوگا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sat, 14 Nov 26 15:45:22 +0500",
-      "photo": ""
-    },
-    {
-      "title": "اسلام آباد؛ پہلا جدید ڈیجیٹل پارکنگ پلازہ فعال، عوام کو مفت سہولت",
-      "link": "https://www.express.pk/story/2844234/islamabad-frist-advanced-digital-parking-plaza-open-free-facility-for-public-2844234",
-      "description": "مستقبل قریب میں پارکنگ پلازہ کی چھت پر شہریوں کے لیے ریسٹورنٹ کی سہولت بھی متعارف کرائی جائے گی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 14 Nov 26 14:40:42 +0500",
-      "photo": ""
-    },
-    {
-      "title": "انڈر 19 ایشیا کپ: بھارت کیخلاف فائنل میں عثمان خان کی سنچری، عبدالقادر اور فرحان کی نصف سنچریاں",
-      "link": "https://www.express.pk/story/2844230/under-19-asia-cup-usman-khan-scores-a-century-while-abdul-qadir-and-farhan-hit-half-centuries-in-the-final-against-india-2844230",
-      "description": "پاکستان کے عثمان خان نے 111 گیندوں پر 107 رنز بنائے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 14 Nov 26 14:08:30 +0500",
-      "photo": ""
-    },
-    {
-      "title": "انڈر 19 ایشیا کپ: بھارت نے پاکستان کو شکست دے کر ٹائٹل جیت لیا",
-      "link": "https://www.express.pk/story/2844226/india-beat-pak-u19-2844226",
-      "description": "بھارت کی ٹیم نے 338 رنز کا ہدف 9 وکٹوں کے نقصان پر 50 اوورز میں حاصل کیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 14 Nov 26 13:06:01 +0500",
-      "photo": ""
-    },
-    {
-      "title": "صدرمملکت کی وزیراعظم سے ملاقات، ملک کی سیاسی، سیکیورٹی صورتحال پر تبادلہ خیال",
-      "link": "https://www.express.pk/story/2844225/president-prime-minister-meeting-security-situation-discussed-2844225",
-      "description": "صدر مملکت اور وزیراعظم کے درمیان ملاقات لاہور میں ہوئی، جس میں اسپیکر قومی اسمبلی اور دیگر رہنما بھی شریک ہوئے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 14 Nov 26 12:52:23 +0500",
+      "date": "Sat, 14 Nov 26 17:43:30 +0500",
       "photo": ""
     },
     {
@@ -106,21 +97,30 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/911e/live/ebc52060-ddc0-11f1-a50f-85eebf9e50e5.jpg"
     },
     {
+      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
+      "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 2026 03:59:25 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
+    },
+    {
+      "title": "معدنیات اور پاکستان کی ترقی",
+      "link": "https://www.express.pk/story/2844272/minerals-and-pakistans-development-2844272",
+      "description": "گولڈمین سکس کی پیشگوئی ہے کہ پاکستان 2075 تک دنیا کی چھٹی بڑی معیشت بن سکتا ہے",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Sat, 14 Nov 26 19:31:54 +0500",
+      "photo": ""
+    },
+    {
       "title": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVFBCbDZBa01wZFNRN3UzRFVrd29ra0VkX1IxSFpiYXRwdmFRSmRfeXc2Y2tPeFVXUlIzeG5TeDVUdF9ETTNjamJxMkpjU2s?oc=5",
       "description": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 thekabultribune.com",
       "source": "Pakistan Economy",
       "cat": "Economy",
       "date": "Fri, 13 Nov 2026 17:07:56 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Grappling with debt, Pakistan pipe-dreams of becoming world's sixth largest economy before 2050 - The Week",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHBPZ00wbGhQOWhTYkpNdmsxbnBMd1YxTUI5S0dXVDh4cmdYVkQtWlV4d0gtVFY0c1F3OUJ6NmhiNV9RNVN4djlqdU1QbTBjWWZrS01selRFcVBJMHltTW13R2xueUkzV05KRWdBSVRDU1NuMGMyeWNGS3pleHJaQTczREJmTTdsUG1NUkRnOWw2d9IBlwFBVV95cUxNNkJWdDZsYTM5WTRNTXhVbVY2RzdmV2ZBLXdITWFWTFRHWkdFLXlnMURUVTdDQnduVWJWWjMzNlFHdXl5MnYtYkN4ZDg4OGNmcV9wbW9hLU1WYTJPTW9nM2dvS2lWSmgzOXBzdl92eEcyMUlzblhpazd6UnVSMXJWMnppX1k5NXk5cTgza01QOS03dHl4NkNJ?oc=5",
-      "description": "Grappling with debt, Pakistan pipe-dreams of becoming world's sixth largest economy before 2050 The Week",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Sat, 14 Nov 2026 15:12:12 GMT",
       "photo": ""
     },
     {
@@ -133,66 +133,66 @@
       "photo": ""
     },
     {
-      "title": "Pakistan and Kuwait Expand Economic and Energy Cooperation - The Daily CPEC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFV0VTkyM3pHdEpMSlNjaFBtYzhjU0JoTXBYYUVCMFR2WkMxbkV5TmRQX0pncHBLQm1hWk5xRWpnMVBlLTFwTmUzcm1uNFZxVzJUbmxrdkxIVy1feTNjM0tnZVpsX1plMTlEd0RsUzdmM25SQVlvbHdOamZfTGVaSWxOYVc1QW1WVFZFbg?oc=5",
-      "description": "Pakistan and Kuwait Expand Economic and Energy Cooperation The Daily CPEC",
+      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2FrckRHRUhWS0c1UEdXNlNwSjFod0lxMHpiTE9Gc2JBZ21WaENQeFBqZ3Q3RDF0dXZXQ2dWOU1ENGNZTU5aczNaeVIwUVg1RzZXall1TmQxWXltQmJqTUpaSWR1R0tEeDFnN19VX3BGTjdzYkstMDVKbW1rdTlsV2lPeFREd0U3MEczVUFsR1BETi05ZlVn?oc=5",
+      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sat, 14 Nov 2026 11:33:01 GMT",
+      "date": "Sat, 14 Nov 2026 08:24:02 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan PM Shehbaz Sharif revises Goldman Sachs forecast, says economy can be 6th-largest by 2050 - India Today",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYVQ5VXV0V1NlcC16OTQwZzJoNUNMUWhwLXJDR3V6d1dtdEF0eFBCTnhuX005NWxRT0hLcDJSMFhlRTYwYUxMOTJEbXZ6MkZNcjdrMUVuTVVCczNCYUFfdkEyOXZQbncyVnVZeUpYenFxRS1vQ3R5RkRzOVRZQTZBOElsSWs3U3NvdVlyQ296SW12VFZBbk5ZRS10cFhEeXQ3X3ZLczR6dXphMlpjOGdqWjNPWTVaZ0h1M1R6N2hKVkxka2t20gHKAUFVX3lxTE1lM2E2TmdudjdPYm52NGR4bXpxU09YVDBrQmt4MDZQdWlWbnhhZWJMc2hXY1dLVzBDWXhvbDk4dnhQXzQ0N292Q0dPZG41WFVOeW56dlh1SEIzOHdzc1NFdlFVYzlqSDFDNWJTb19HOVVZZXpRN0hsWVlpRkttRllYczR6bTFLbjNBV0FxWHhGWFVKTGw2cnljeGRlZFVFWGxNLU5tM3RJNzhSSVRUbWtYbHIyc2RKSkVsWUYtS1JtMmJjUGs1N3QtQVE?oc=5",
-      "description": "Pakistan PM Shehbaz Sharif revises Goldman Sachs forecast, says economy can be 6th-largest by 2050 India Today",
+      "title": "Grappling with debt, Pakistan pipe-dreams of becoming world's sixth largest economy before 2050 - The Week",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHBPZ00wbGhQOWhTYkpNdmsxbnBMd1YxTUI5S0dXVDh4cmdYVkQtWlV4d0gtVFY0c1F3OUJ6NmhiNV9RNVN4djlqdU1QbTBjWWZrS01selRFcVBJMHltTW13R2xueUkzV05KRWdBSVRDU1NuMGMyeWNGS3pleHJaQTczREJmTTdsUG1NUkRnOWw2d9IBlwFBVV95cUxNNkJWdDZsYTM5WTRNTXhVbVY2RzdmV2ZBLXdITWFWTFRHWkdFLXlnMURUVTdDQnduVWJWWjMzNlFHdXl5MnYtYkN4ZDg4OGNmcV9wbW9hLU1WYTJPTW9nM2dvS2lWSmgzOXBzdl92eEcyMUlzblhpazd6UnVSMXJWMnppX1k5NXk5cTgza01QOS03dHl4NkNJ?oc=5",
+      "description": "Grappling with debt, Pakistan pipe-dreams of becoming world's sixth largest economy before 2050 The Week",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sat, 14 Nov 2026 13:07:06 GMT",
+      "date": "Sat, 14 Nov 2026 15:12:12 GMT",
       "photo": ""
     },
     {
-      "title": "بنوں؛ دہشتگروں کا کنگر پل چوکی پر حملہ پولیس نے ناکام بنادیا، 4 خوارج ہلاک",
-      "link": "https://www.express.pk/story/2844247/banu-police-foiled-terrorist-attack-kinger-bridge-post-4-khwarij-killed-2844247",
-      "description": "آئی جی خیبرپختونخوا نے فتنۃ الخوارج کے بزدلانہ حملے کو ناکام بنانے پر بنوں پولیس کو شاباش دی اور قابل فخر قرار دیا",
+      "title": "کراچی، واٹر پمپ پل پر ٹرک کے بریک فیل، پانچ گاڑیوں سے ٹکرا گیا، ڈرائیور فرار",
+      "link": "https://www.express.pk/story/2844287/karachi-trucks-brakes-fail-on-water-pump-bridge-it-collides-with-five-vehicles-driver-flees-2844287",
+      "description": "مشتعل شہریوں کا کلینر پر تشدد، پولیس کے حوالے، ٹرک کے مالک سے رابطہ کرلیا گیا، پولیس",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 14 Nov 26 12:25:01 +0000",
+      "date": "Sun, 15 Nov 26 00:22:06 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور: گھر میں خاتون کو اکیلے پاکر جنسی زیادتی کرنے والا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2844223/lahore-man-arrested-for-sexually-assaulting-a-victim-found-alone-at-home-2844223",
-      "description": "ملزم کی والدہ گھر پر موجود نہ تھی، ملزم نے خاتون کو زبردستی کمرے میں لے جا کر زیادتی کا نشانہ بنایا",
+      "title": "کراچی، یاسین آباد میں فائرنگ سے حیدرآباد کا شہری جاں بحق، واقعہ مشکوک قرار",
+      "link": "https://www.express.pk/story/2844286/a-citizen-from-hyderabad-was-killed-in-a-shooting-in-yasinabad-karachi-the-incident-has-been-termed-suspicious-2844286",
+      "description": "ابتدائی اطلاعات میں واقعے کو ڈکیتی مزاحمت کا نتیجہ قرار دیا گیا تھا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 14 Nov 26 12:39:10 +0500",
+      "date": "Sun, 15 Nov 26 00:14:17 +0500",
       "photo": ""
     },
     {
-      "title": "ربیعہ احسن کے شوہر کے جسمانی ریمانڈ میں چار روز کی توسیع، عدالت نے تحقیقات میں ہونے والی پیش رفت پر رپورٹ طلب کر لی",
-      "link": "https://www.bbc.com/urdu/articles/cmlyl7zygz9ro?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے صوبہ پنجاب کے شہر راولپنڈی میں اینکر پرسن ربیعہ احسن کی موت کے الزام میں گرفتار ان کے جسمانی ریمانڈ میں مزید چار دن کی توسیع کر دی گئی ہے۔",
-      "source": "BBC Urdu",
+      "title": "کراچی، گڈاپ سٹی تھانے سے ملزم فرار، غفلت برتنے پر 3 پولیس اہلکار کوارٹر گارڈ",
+      "link": "https://www.express.pk/story/2844283/karachi-suspect-escapes-from-gadap-city-police-station-3-police-personnel-confined-to-the-quarter-guard-for-negligence-2844283",
+      "description": "ایس ایس پی ملیر کےمطابق واقعے کی تحقیقات کا حکم دے دیا گیا ہے",
+      "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 14 Nov 2026 16:21:00 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png"
-    },
-    {
-      "title": "Balochistan Police Recover Nine Kidnapping Victims, Arrest 370 Wanted Suspects in Three Weeks - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVlCVWE1dXd2UTBwN2dLeDlhdDBySnktNHBkN2lXR01sQXRhZzczNkJFaVNWMXNTckYyVEpKckV0THJtaFdxQ0t1MTlMV1ZpWG11N1RmU1NDYkpkUXdia2pMYUw5eHRPYlFTcUJ6ZldKUkpUdzhQRWZFWHhXeS1ZUnZVdjVaY0JwN3ZWeHBJTFI2bjVhQzR1YnN6XzQ?oc=5",
-      "description": "Balochistan Police Recover Nine Kidnapping Victims, Arrest 370 Wanted Suspects in Three Weeks UrduPoint",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Sat, 14 Nov 2026 13:05:53 GMT",
+      "date": "Sat, 14 Nov 26 23:31:00 +0500",
       "photo": ""
     },
     {
-      "title": "Punjab IGP Says Serious Crimes Declined for Third Straight Week - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGs3TTdnYmhCNEQ4RzVaX010MGFwel9fMTJrMV9KejJ5dWp5d3kzM0QtQnFjTVRMQjY4TVRHMGVEeE1RTDdGdXFlRDVMWVVQcnZPMklwX1NXUkxzVThEMUpZRFBUcDJwcTk1WDE0bXlkUmNvZGJZdVpzaklIakFBWHE1RmlISVNHbnoxVzVRVm1VOHF6ZUdWeWhmMA?oc=5",
-      "description": "Punjab IGP Says Serious Crimes Declined for Third Straight Week UrduPoint",
-      "source": "Pakistan Crime",
+      "title": "کراچی: میررضا قتل کیس میں سابق ایس ایچ او گلستان جوہر کامران قریشی ملازمت سے برطرف",
+      "link": "https://www.express.pk/story/2844276/karachi-former-sho-gulistan-jauhar-kamran-qureshi-dismissed-from-service-in-mir-raza-murder-case-2844276",
+      "description": "یہ محکمانہ کارروائی انکوائری کمیشن کی جانب سے مرتب کردہ حقائق اور سفارشات کی روشنی میں عمل میں لائی گئی ہے",
+      "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Fri, 13 Nov 2026 16:26:22 GMT",
+      "date": "Sat, 14 Nov 26 19:54:40 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی: گڈاپ سٹی تھانے سے ملزم فرار ہونے پر 3 پولیس اہلکاروں کو کوارٹر گارڈ کردیا گیا",
+      "link": "https://www.express.pk/story/2844262/karachi-three-police-personnel-have-been-confined-to-the-quarter-guard-following-the-escape-of-an-accused-from-the-gadap-city-police-station-2844262",
+      "description": "ایس ایس پی ملیر نے واقعے کی تحقیقات کا حکم دے دیا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 14 Nov 26 18:32:46 +0500",
       "photo": ""
     },
     {
@@ -205,24 +205,6 @@
       "photo": ""
     },
     {
-      "title": "انڈر 19 ایشیا کپ: پاکستانی کرکٹر احمد شہزاد کی بھارتی ٹیم کے نامناسب رویے پر تنقید",
-      "link": "https://www.express.pk/story/2844242/under-19-asia-cup-pakistani-cricketer-ahmed-shehzad-criticizes-the-indian-team-for-inappropriate-behavior-2844242",
-      "description": "احمد شہزاد کا کہنا تھا کہ جیت کا جشن خوشی کا اظہار ہونا چاہیے، اسے جارحیت یا اشتعال انگیزی کا ذریعہ نہیں بنانا چاہیے",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sat, 14 Nov 26 15:51:56 +0500",
-      "photo": ""
-    },
-    {
-      "title": "قومی کھیل کے فروغ کیلیے پی ایچ ایف کی جانب اسکولوں میں ہاکی کا سامان تقسیم",
-      "link": "https://www.express.pk/story/2844232/phf-distributes-hockey-equipment-in-schools-to-promote-national-sport-2844232",
-      "description": "اس سلسلے میں ایک پروقار تقریب کا انعقاد کیا گیا جس میں پاکستان ہاکی فیڈریشن کے صدر محی الدین وانی سمیت دیگر نے شرکت کی",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sat, 14 Nov 26 14:25:32 +0500",
-      "photo": ""
-    },
-    {
       "title": "ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی، ’دسویں نمبر پر آنے والے کھلاڑی نے میچ کا پانسہ پلٹ دیا‘",
       "link": "https://www.bbc.com/urdu/articles/c69q8lvrg3j8o?at_medium=RSS&at_campaign=rss",
       "description": "میچ کی آخری گیند پر انڈیا انڈر 19 کو ایک گیند پر تین رنز درکار تھے، جس پر موہت الووا نے چوکا مار کر انڈیا انڈر 19 کو کامیابی دلوا دی۔",
@@ -230,6 +212,15 @@
       "cat": "Sports",
       "date": "Sat, 14 Nov 2026 13:44:25 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d15/live/2e2cdc60-e030-11f1-9ca9-b3b288fceb81.jpg"
+    },
+    {
+      "title": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFROVlNWRkVpcHc4ZGM5S3lXNEFVZ0E0X3RBYkVjZ012ODJtVTEtX3NGRUJrTDV1UURCQ3VobC0wYlJ3TktWcl9wVGMyQVY1WFl5V29NeVB4VzJZZ1RIOHlVVlZWRnV1djFudzAxNlQyMHdDd1BKSWlhYWdjUzdYQnFB?oc=5",
+      "description": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 14 Nov 2026 20:04:00 GMT",
+      "photo": ""
     },
     {
       "title": "[WATCHLIVE]SPORTS!] Bangladesh vs Pakistan LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - 日本取引所グループ",
@@ -241,85 +232,85 @@
       "photo": ""
     },
     {
-      "title": "کے پی؛ گورنر راج کے خلاف اپیلیں، اختر مینگل، راجا ناصر کی آئینی عدالت میں فریق بننے کی درخواستیں",
-      "link": "https://www.express.pk/story/2844268/kp-governor-rule-appeals-akhter-mengal-and-raja-nasir-applications-federal-constitutional-court-2844268",
-      "description": "سردار اختر مینگل اور سینیٹر راجا ناصر عباس کی جانب سے ایڈووکیٹ لطیف کھوسہ نے آئینی عدالت میں درخواستیں دائر کردیں",
+      "title": "141 overs lost: Babar Azam, Mike Hesson suggest 'pink' solution for Pakistan's winter Test problem - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ma19JcW9CLWl3SnVwRVF6RUVhMUZ1YTJaNzM3cEM5NEJoZ01ObGFrcUFVVlVaTlVxbzMzOWpHanFfZ0xZSUowNUZfZ2oxaTBoSFZhTm9ZWmdGbFJoNFhnWW8taXFGcUluRmFJc2JZTEpnUTdjcU53VnJic2ZwNjg?oc=5",
+      "description": "141 overs lost: Babar Azam, Mike Hesson suggest 'pink' solution for Pakistan's winter Test problem Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 14 Nov 2026 06:46:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "نئے انتظامی یونٹس کے قیام کا فارمولا اب اپنے آخری مرحلے میں داخل ہو چکا ہے، فاروق ستار",
+      "link": "https://www.express.pk/story/2844284/the-formula-for-establishing-new-administrative-units-has-now-entered-its-final-stage-farooq-sattar-2844284",
+      "description": "ایم کیو ایم کے دور میں ہر منتخب نمائندہ عوام کی براہِ راست پہنچ میں ہوتا تھا، مرکزی رہنما",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 14 Nov 26 14:12:33 +0000",
+      "date": "Sat, 14 Nov 26 18:49:43 +0000",
       "photo": ""
     },
     {
-      "title": "ایلون مسک کے اسٹار شپ راکٹ کا بوسٹر دھماکے سے تباہ، سمندر میں جا گرا",
-      "link": "https://www.express.pk/story/2844265/moment-elon-musks-spacex-starship-booster-explodes-2844265",
-      "description": "منصوبے کے مطابق راکٹ کے پہلے مرحلے کے بوسٹر کو مکینیکل بازوؤں کی مدد سے پکڑنا تھا",
+      "title": "ہر دوسرا شخص شوگر میں مبتلا، 33 فی صد افراد کو مرض کا پتہ ہی نہیں، ایکسپریس سیمینار",
+      "link": "https://www.express.pk/story/2844280/every-second-person-suffers-from-diabetes-33-percent-are-unaware-they-have-the-condition-express-seminar-2844280",
+      "description": "یہی مرض اموات کی اصل وجہ، بہانہ فالج اور ہارٹ اٹیک کا باعث بنتا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 14 Nov 26 18:36:24 +0500",
+      "date": "Sat, 14 Nov 26 21:59:05 +0500",
       "photo": ""
     },
     {
-      "title": "زمبابوے کرکٹ ٹیم کے ہیڈ کوچ جسٹن سمنز عہدے سے مستعفی",
-      "link": "https://www.express.pk/story/2844258/zimbabwe-cricket-team-head-coach-justin-simmons-resigns-2844258",
-      "description": "جسٹن سمنز افغانستان کے خلاف جاری دوسرے ٹیسٹ میچ کے اختتام پر ذمہ داریاں چھوڑ دیں گے",
+      "title": "نیتن یاہو کے اقتدار کا سورج غروب ہوگیا؛ اتحاد کے نام پر بیوقوف نہ بنائیں؛ متوقع وزیراعظم",
+      "link": "https://www.express.pk/story/2844279/israel-netanyahu-isac-election-2026-2844279",
+      "description": "نیتن یاہو کی ان سیاسی چالوں سے متاثر نہیں ہوں گے۔ یہ چالیں مجھ پر کام نہیں کرتیں; آئزن کوٹ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 14 Nov 26 18:14:51 +0500",
+      "date": "Sat, 14 Nov 26 15:54:36 +0000",
       "photo": ""
     },
     {
-      "title": "خلا میں نمودار ہونے والے پُراسرار سِگنل کا معمہ حل",
-      "link": "https://www.express.pk/story/2844248/rare-star-system-is-emitting-2844248",
-      "description": "ریڈیو لہروں کی مختصر لہریں ستاروں کے ایک غیر معمولی جوڑے سے خارج ہو رہی ہیں: سائنس دان",
+      "title": "آبنائے ہرمز میں تیل بردار جہازوں کا تحفظ: سمندری حدود میں امریکی ایف 16 طیاروں کا گشت",
+      "link": "https://www.express.pk/story/2844278/us-plan-over-strait-of-hurmuz-2844278",
+      "description": "امریکی تحفظ میں آبنائے ہرمز کے راستے ایک ارب 70 کروڑ بیرل سے زائد خام تیل منتقل کیا جاچکا ہے۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 14 Nov 26 17:27:58 +0500",
+      "date": "Sat, 14 Nov 26 15:37:33 +0000",
       "photo": ""
     },
     {
-      "title": "غزہ میں تباہ کن سیلاب، یورپی یونین کا اسرائیل سے امداد کی بلا رکاوٹ فراہمی کا مطالبہ",
-      "link": "https://www.express.pk/story/2844245/gaza-flood-rain-eu-israel-allow-aid-2844245",
-      "description": "اسرائیل نے ان الزامات کو مسترد کیا ہے کہ غزہ میں ضروری امدادی سامان کی مناسب مقدار داخل نہیں ہونے دے رہا",
+      "title": "ایران کا ٹرمپ پر ڈرون حملے کا منصوبہ؛ اسرائیل نے امریکا کو انٹیلی جنس رپورٹ دیدی",
+      "link": "https://www.express.pk/story/2844274/iran-to-attack-trump-israel-intelligent-report-to-us-2844274",
+      "description": "ایرانی حملے کی اسرائیلی انٹیلی جنس رپورٹ ملنے کے بعد صدر ٹرمپ کی سیکیورٹی سخت اور عوامی مصروفیات منسوخ کردی گئیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 14 Nov 26 16:37:42 +0500",
+      "date": "Sat, 14 Nov 26 14:46:16 +0000",
       "photo": ""
     },
     {
-      "title": "لبنان: 100 برس سے زائد عرصے سے فلافل بیچنے والا خاندان، چوتھی نسل کاروبار سنبھالنے کو تیار",
-      "link": "https://www.express.pk/story/2844238/this-beirut-family-has-sold-falafel-for-100-years-2844238",
-      "description": "غیر ملکی خبر رساں ادارے کے مطابق طبارہ خاندان کا فلافل کا کاروبار لبنان کے قیام سے بھی پہلے شروع ہوا تھا",
+      "title": "سندھ میں مون سون کی کمی کی اصل وجوہات",
+      "link": "https://www.express.pk/story/2844255/the-real-reasons-for-the-monsoon-deficit-in-sindh-2844255",
+      "description": "اس سال مون سون کی کمزوری کے اہم عوامل میں ال نینو (El Niño) بھی شامل تھا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sat, 14 Nov 26 15:07:00 +0500",
+      "date": "Sat, 14 Nov 26 18:01:36 +0500",
       "photo": ""
     },
     {
-      "title": "سیکیورٹی فورسز کی کولپور میں کارروائی، 8 دہشتگرد ہلاک، پاک فوج کا میجر اور حوالدار شہید",
-      "link": "https://www.express.pk/story/2844231/security-forces-kolpur-operation-8-terrorists-killed-pak-army-major-and-hawaldar-martyred-2844231",
-      "description": "ہلاک دہشت گردوں میں ایک خودکش بمباربھی شامل تھا، آپریشن کے دوران اسلحے اورگولہ بارود کا ذخیرہ برآمد ہوا، آئی ایس پی آر",
-      "source": "Express Urdu",
+      "title": "ایران کا ’نیا میزائل سٹی‘: کون سے نئے میزائل دکھائے گئے ہیں اور ’دشمنوں کو حیران‘ کرنے کا دعویٰ کیوں کیا جا رہا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/c6808lv1lxp2o?at_medium=RSS&at_campaign=rss",
+      "description": "ماضی میں جاری ہونے والی میزائل سٹی کی تصاویر کی طرح اس زیرِ زمین تنصیب میں بھی متعدد بیلسٹک اور کروز میزائل اور ان کے لانچ سسٹمز دکھائے گئے ہیں۔ یہ تصاویر ایک ایسے وقت میں جاری کی گئی ہیں جب 40 روزہ جنگ کے دوران امریکہ اور اسرائیل نے ایران کے میزائل انفراسٹرکچر کے کئی حصوں بشمول میزائل اڈے اور میزائلوں کی تیاری و پیداوار کی تنصیبات کو وسیع پیمانے پر نشانہ بنایا تھا۔",
+      "source": "BBC Urdu",
       "cat": "Middle East",
-      "date": "Sat, 14 Nov 26 14:08:47 +0500",
-      "photo": ""
+      "date": "Sat, 14 Nov 2026 15:06:10 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c463/live/d3cbc1f0-df80-11f1-b844-3146c4983677.jpg"
     },
     {
-      "title": "خوفناک بم دھماکے میں اسرائیل لرز اُٹھا؛ صیہونی فوج کی سیکیورٹی بری طرح ناکام",
-      "link": "https://www.express.pk/story/2844227/hand-grenad-attack-in-israel-killed-one-injured-3-2844227",
-      "description": "50 سالہ ایک مرد اور ایک خاتون کی حالت تشویشناک بتائی گئی ہے جبکہ تیسرے زخمی کو معمولی چوٹیں آئیں",
-      "source": "Express Urdu",
+      "title": "ایران بحران پر سفارتی سرگرمیاں تیز: ٹرمپ، پوتن اور شی جن پنگ کی ملاقات طے",
+      "link": "https://www.bbc.co.uk/urdu/live/cwlyml8md7ept?at_medium=RSS&at_campaign=rss",
+      "description": "وائٹ ہاؤس نے اعلان کیا ہے کہ امریکی صدر ڈونلڈ ٹرمپ 19 نومبر کو ایشیا پیسیفک اکنامک کوآپریشن سربراہی اجلاس کے موقع پر روسی صدر ولادیمیر پوتن اور چینی صدر شی جن پنگ کے ساتھ سہ فریقی ملاقات کریں گے۔ چین کے شہر شینزن میں ہونے والا یہ اجلاس دنیا کی تین بڑی ایٹمی طاقتوں کے رہنماؤں کی پہلی مشترکہ ملاقات ہو گی۔",
+      "source": "BBC Urdu",
       "cat": "Middle East",
-      "date": "Sat, 14 Nov 26 13:23:10 +0500",
-      "photo": ""
-    },
-    {
-      "title": "الیکٹرک بس میں لڑکی کو دھکے مارنے کا معاملہ، لڑکی کی بسوں میں عجیب و غریب حرکات سامنے آگئیں",
-      "link": "https://www.express.pk/story/2844244/incident-involving-a-girl-being-shoved-on-an-electric-bus-the-girls-bizarre-behavior-on-buses-has-come-to-light-2844244",
-      "description": "ذرائع کے مطابق لڑکی ذہنی مسائل کا شکار ہے اور دن کا بیشتر حصہ بسوں میں سفر کرتے ہوئے گزارتی ہے",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Sat, 14 Nov 26 11:02:54 +0000",
-      "photo": ""
+      "date": "",
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf6/live/29ccbbc0-e01e-11f1-b441-2b33b063138f.png"
     }
   ],
   "sources": [
@@ -350,9 +341,8 @@
     },
     {
       "source": "Arab News",
-      "added": 0,
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "added": 35,
+      "ok": true
     },
     {
       "source": "CNN",
@@ -371,7 +361,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 26,
+      "added": 25,
       "ok": true
     }
   ]
