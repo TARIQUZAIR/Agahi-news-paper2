@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T10:20:56.582368+00:00",
-  "count": 33,
+  "generated_at": "2026-11-15T18:27:02.405131+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,80 +11,60 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 2
-  },
+  "shortages": {},
   "items": [
     {
-      "title": "خیبر پختونخوا میں ایمرجنسی کے دوران گورنر کے اختیارات بڑھانے کا فیصلہ",
-      "link": "https://www.express.pk/story/2844351/decision-to-expand-governors-powers-during-an-emergency-in-khyber-pakhtunkhwa-2844351",
-      "description": "وزیراعظم نے گورنر کو حاصل اختیارات سے متعلق مجوزہ آرڈیننس صدر مملکت آصف علی زرداری کو بھجوا دیا ہے",
+      "title": "صدر مملکت کی وزیراعظم شہباز شریف، فیلڈ مارشل عاصم منیر کو بااثر شخصایت قرار دینے پر مبارکباد",
+      "link": "https://www.express.pk/story/2844416/president-of-the-state-congratulates-prime-minister-shehbaz-sharif-and-field-marshal-asim-munir-on-being-named-influential-personalities-2844416",
+      "description": "یہ اعزاز دونوں رہنماؤں کی قیادت اور قومی خدمات کا اعتراف ہے اور پاکستان کے لیے فخر کا لمحہ ہے، صدر مملکت آصف زرداری",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 05:00:01 +0000",
+      "date": "Sun, 15 Nov 26 12:53:11 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی میں پانی کی فراہمی معمول پر بحال، دھابیجی اور پپری کے تمام پمپس فعال",
-      "link": "https://www.express.pk/story/2844347/karachi-dhabeji-maintenance-completed-water-supply-restored-2844347",
-      "description": "سالانہ شٹ ڈاؤن کے دوران اہم مرمتی اور ترقیاتی کام مکمل کیے گئے، ترجمان واٹر کارپوریشن",
+      "title": "لاہور: معروف اداکار عابد چارلی کی طبیعت نازساز، تشویشناک حالت میں اسپتال منتقل",
+      "link": "https://www.express.pk/story/2844413/lahore-actor-abid-charlies-health-deteriorates-shifted-to-hospital-in-critical-condition-2844413",
+      "description": "لاہور جنرل اسپتال کے ایم ایس کا کہنا ہے کہ پنجاب حکومت کی پالیسی کے مطابق اداکار کا تمام علاج مفت کیا جارہا ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 04:23:08 +0000",
+      "date": "Sun, 15 Nov 26 17:38:14 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور تا فیصل آباد سیکشن پر مرمتی کام مکمل، ٹرینوں کا روٹ بحال",
-      "link": "https://www.express.pk/story/2844341/train-routes-restored-after-completion-of-repair-work-on-lahore-faisalabad-section-2844341",
-      "description": "لاہور سے سرگودھا کے درمیان چلنے والی میانوالی ایکسپریس اپنے پرانے روٹ سے میانوالی پہنچے گی",
+      "title": "پاکستانی ڈرامے حقیقی زندگی میں نظر آنے لگے، طلاق کی وائرل ویڈیو نے نئی بحث چھیڑ دی",
+      "link": "https://www.express.pk/story/2844409/pakistani-dramas-are-starting-to-appear-in-real-life-viral-divorce-video-sparks-new-debate-2844409",
+      "description": "پاکستانی ڈرامہ ’میرے پاس تم ہو‘ کے کچھ مناظر حقیقی زندگی میں دہرائے گئے ہیں",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 03:24:20 +0000",
+      "date": "Sun, 15 Nov 26 16:56:18 +0500",
       "photo": ""
     },
     {
-      "title": "خیبر پختونخوا؛ گورنر راج کے بعد غیر قانونی سرگرمیوں کیخلاف کارروائیاں تیز",
-      "link": "https://www.express.pk/story/2844333/khyber-pakhtunkhwa-actions-against-illegal-activities-intensified-after-governors-rule-2844333",
-      "description": "صوبے میں قانون کی عملداری یقینی بنانے کے لیے صوبائی حکومت اور انتظامیہ سرگرم عمل ہے",
+      "title": "خیبرپختونخوا اسمبلی کے معطل اراکین، ملازمین کو تنخواہیں جاری",
+      "link": "https://www.express.pk/story/2844400/kp-assembly-suspended-members-and-employees-salaries-release-2844400",
+      "description": "خیبرپختونخوا میں 11 اکتوبر کو گورنر راج، ایمرجنسی کے نفاذ کے بعد صوبائی اسمبلی معطل کردی گئی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 07:28:31 +0500",
+      "date": "Sun, 15 Nov 26 10:12:52 +0000",
       "photo": ""
     },
     {
-      "title": "پنجگور کے رہائشی کا خودکش بمبار بہن کے فتنۃ الہندوستان سے وابستگی پر اعلانِ لاتعلقی",
-      "link": "https://www.express.pk/story/2844325/resident-of-panjgur-disavows-connection-to-his-sistera-suicide-bomberand-her-involvement-in-fitna-tul-hind-2844325",
-      "description": "بلوچستان کے غیور عوام کا فتنۃ الہندوستان کے دہشت گردوں سے لاتعلقی اور بیزاری کا اظہار کرنے کا سلسلہ جاری ہے",
+      "title": "قومی مینز کراٹے چیمپئن شپ پاکستان آرمی نے جیت لی",
+      "link": "https://www.express.pk/story/2844399/pakistan-army-won-the-national-mens-karate-championship-2844399",
+      "description": "پاکستان آرمی نے 8 گولڈ ایک سلور اور 2 برانز میڈلز کے ساتھ پہلی پوزیشن اپنے نام کی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 01:34:45 +0000",
+      "date": "Sun, 15 Nov 26 15:09:25 +0500",
       "photo": ""
     },
     {
-      "title": "ملک بھر کی طرح بلوچستان کے عوام بھی انتظامی بنیادوں پر نئے صوبے کے حامی",
-      "link": "https://www.express.pk/story/2844318/people-of-balochistan-in-favor-of-a-new-province-on-administrative-grounds-2844318",
-      "description": "عوامی رائے سے یہ واضح ہوگیا ہے کہ لوگوں کی اکثریت ملکی مسائل کے حل کے لیے نئے انتظامی یونٹس کے قیام کے حق میں ہے",
+      "title": "اسحاق ڈار کا ای سی او سیکریٹری جنرل سے علاقائی روابط، اقتصادی تعاون کے فروغ پر اتفاق",
+      "link": "https://www.express.pk/story/2844397/ishaq-dar-eco-secretary-general-agree-to-promote-regional-connectivity-and-economic-cooperation-2844397",
+      "description": "اسحاق ڈار نے اسد مجید سے 2027 میں ای سی او سربراہی اجلاس کی میزبانی کے لیے پاکستان کے عزم کا بھی اعادہ کیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 15 Nov 26 01:13:34 +0000",
-      "photo": ""
-    },
-    {
-      "title": "لاہور: گیزر سے گیس اخراج کے باعث گھر میں دھماکا، خاتون زخمی",
-      "link": "https://www.express.pk/story/2844312/blast-at-home-in-lahore-by-gyser-leakage-2844312",
-      "description": "امدادی اہلکاروں نے بروقت کارروائی کرتے ہوئے آگ پر قابو پالیا",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 15 Nov 26 05:18:08 +0500",
-      "photo": ""
-    },
-    {
-      "title": "لاہور: زیر تعمیر عمارت سے گر کر 22 سالہ مزدور جاں بحق",
-      "link": "https://www.express.pk/story/2844311/worker-fall-from-roof-in-lahore-2844311",
-      "description": "مزدور کی شناخت 22 سالہ ماجد حسین ولد جان محمد کے نام سے ہوئی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sun, 15 Nov 26 05:18:03 +0500",
+      "date": "Sun, 15 Nov 26 09:35:30 +0000",
       "photo": ""
     },
     {
@@ -106,6 +86,24 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ec2/live/6546dda0-df8a-11f1-a5d4-0b20a170e974.jpg"
     },
     {
+      "title": "عمران خان کی آنکھ میں بار بار انجیکشن کیوں لگایا جا رہا ہے اور سینٹرل ریٹینل وین آکلوژن نامی بیماری کیا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/cwp9dr14ej5lo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان تحریک انصاف کا کہنا ہے کہ کسی سابق وزیرِ اعظم کے طبی علاج کو محض ایک رسمی کارروائی تک محدود کیا جا سکتا ہے اور نہ ہی اسے سیاسی سودے بازی کا ذریعہ بنایا جانا چاہیے۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 2026 11:18:55 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/911e/live/ebc52060-ddc0-11f1-a50f-85eebf9e50e5.jpg"
+    },
+    {
+      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
+      "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Wed, 11 Nov 2026 03:59:25 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
+    },
+    {
       "title": "Economic cooperation bloc meeting kicks off in Pakistan - Anadolu Ajansı",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3RxdUZUYzN2QmpNOUVmRVMxeXBVOUhGWnR6Uk93SmNXajE0YnhUbzdKMnU5cGpweVFHbG1wSGEzX3FSZ25IMEVtdGtzWnB4TENQUVlKaXN6Nkk1NnV2VElHcnhFeGF4cXlQVloxZTRVVnJVamRUdkJkdXpxM3ctNWtISHA4Q2R3TXZ2dTMxbm9ad0xndzBLU0VPVmlabVk?oc=5",
       "description": "Economic cooperation bloc meeting kicks off in Pakistan Anadolu Ajansı",
@@ -115,12 +113,12 @@
       "photo": ""
     },
     {
-      "title": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 - thekabultribune.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVFBCbDZBa01wZFNRN3UzRFVrd29ra0VkX1IxSFpiYXRwdmFRSmRfeXc2Y2tPeFVXUlIzeG5TeDVUdF9ETTNjamJxMkpjU2s?oc=5",
-      "description": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050 thekabultribune.com",
+      "title": "Pakistan manufacturers call for tax policy shift to widen formal economy - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFpYVjVBemxEMDZURDBuNEVTdkFXSWRvOTNxTEp1NkVNaXNYVkRjWklseUlHdUtpZV9lUWgzMWZ1a2kxVnlvbVZOSERqei1Tb1B1REc3MDRLOWlEV202OUo2bXkzWHU3QWtMdDdzZ1J5MVprT0dDc1NiME9NZ0Z1ZUhmYndvRmJIWjd3TWhkNUJpV3ZZUEx5eHNMbVB3QmpVTHpCcA?oc=5",
+      "description": "Pakistan manufacturers call for tax policy shift to widen formal economy Traders Union",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Fri, 13 Nov 2026 17:07:56 GMT",
+      "date": "Sun, 15 Nov 2026 14:26:21 GMT",
       "photo": ""
     },
     {
@@ -133,12 +131,12 @@
       "photo": ""
     },
     {
-      "title": "Pakistan hosts regional bloc meeting to strengthen economic ties among 10 member states - TRT World",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wSm9lSXp6UU1LR0drbjhydnJRcHZudXcxVkFCTUp1dVVyX1hkTzJhekJjTGZsVUR3R29YUHBNMy02aUtOS2RaSHh2SHd6NTJLZWZrQlJtMEE?oc=5",
-      "description": "Pakistan hosts regional bloc meeting to strengthen economic ties among 10 member states TRT World",
+      "title": "Pakistan Investment | New Investment Opportunities | Economy - Aaj Exclusive With Ali Khizar - Aaj TV",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMUUNnQ2xmS3drT3ZEcUV1M0R0aDFyb0luNDc4dUItRF95NUpRMDQ1cEFTRjBlbmxmZngwTHM5NFFMVmw1R0lSNEZpTVk?oc=5",
+      "description": "Pakistan Investment | New Investment Opportunities | Economy - Aaj Exclusive With Ali Khizar Aaj TV",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sun, 15 Nov 2026 08:11:16 GMT",
+      "date": "Sun, 15 Nov 2026 16:15:08 GMT",
       "photo": ""
     },
     {
@@ -151,49 +149,85 @@
       "photo": ""
     },
     {
-      "title": "کراچی؛ نیٹی جیٹی پل پر نامعلوم مسلح ملزمان کی فائرنگ، ایک شخص زخمی",
-      "link": "https://www.express.pk/story/2844354/karachi-one-injured-in-firing-by-unknown-armed-men-at-native-jetty-bridge-2844354",
-      "description": "فائرنگ کا واقعہ مبینہ طور پر ڈکیتی کی واردات کے دوران مزحمت پر پیش آیا",
+      "title": "ہری پور میں پاک فوج کے حوالدار کو قتل کرنے والا کراچی سے گرفتار",
+      "link": "https://www.express.pk/story/2844402/the-person-who-killed-a-pakistan-army-havaldar-in-haripur-was-arrested-from-karachi-2844402",
+      "description": "ملزم پاک فوج کے حوالدار اظہر خان کو قتل کرکے ہری پور سے فرار ہوا اور کیماڑی آکر روپوش ہوگیا تھا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sun, 15 Nov 26 10:07:47 +0500",
+      "date": "Sun, 15 Nov 26 10:33:14 +0000",
       "photo": ""
     },
     {
-      "title": "ترکیہ سے ڈی پورٹ 8 پاکستانی شہریوں کے خلاف ایف آئی اے نے مقدمہ درج کرلیا",
-      "link": "https://www.express.pk/story/2844352/the-fia-has-registered-a-case-against-8-pakistani-citizens-deported-from-turkey-2844352",
-      "description": "ترکیہ کی پولیس نے گرفتار کرنے کے بعد جیل منتقل کیا اور بعد ازاں ڈی پورٹ کر دیا، ایف آئی اے",
-      "source": "Express Urdu",
+      "title": "Maryam Nawaz Says Crime Rate in Punjab Has Dropped by Nearly 70 Percent - Aaj English TV",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNE42RmFvckxLSnpvYXhoTjRTMWZQNTFuN3B6XzJkUlFJRWMwVXFPTnQ2NkVOUkw4MVJpbmNiRE9ZSGVaMGNWNWhGemQ4NC1WN3AwOW5hUm9ZbVlia2hVazlkbV9vQWtHLWdyVkV6eUhZQ2xucjRoSXFzLUI5U2ZucDBHUnl1N05RRzRUNmJTbU4xZHNTSEtOSGFPUVFYYXhVblVtTVNpOFppa3BNSk1kTERHSzREWHBtdGc?oc=5",
+      "description": "Maryam Nawaz Says Crime Rate in Punjab Has Dropped by Nearly 70 Percent Aaj English TV",
+      "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sun, 15 Nov 26 05:05:56 +0000",
+      "date": "Sun, 15 Nov 2026 12:20:10 GMT",
       "photo": ""
     },
     {
-      "title": "کراچی میں تخریب کاری کی کوشش ناکام، سندھو دیش لبریشن آرمی کے 2 دہشت گرد گرفتار",
-      "link": "https://www.express.pk/story/2844346/two-sindhu-desh-liberation-army-terrorist-arrested-in-karachi-2844346",
-      "description": "گرفتار دہشت گردوں کے قبضے سے تیار آئی ای ڈی اوردستی بم برآمد",
-      "source": "Express Urdu",
+      "title": "Nearly 70 pc decline in overall crime rate in Punjab encouraging, says Maryam Nawaz - Dunya News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZOTJNNzB3ZGkzdkpybHRKUGx1YjVYczJZamlMMjR2ZThQN2JuallkLXUtSmxBOVBOZFBhNG5HVHlJT1BXdC1ubDJEb1d4bUl1R0hrS2x30gFWQVVfeXFMUFk5Mk03MHdkaTN2SnJsdEpQbHViNVhzMllqaUwyNHZlOFA3Ym5qWWQtdS1KbEE5UE5kUGE0bkdUeUlPUFd0LW5sMkRvV3htSXVHSGtLbHc?oc=5",
+      "description": "Nearly 70 pc decline in overall crime rate in Punjab encouraging, says Maryam Nawaz Dunya News",
+      "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sun, 15 Nov 26 04:22:51 +0000",
+      "date": "Sun, 15 Nov 2026 07:43:00 GMT",
       "photo": ""
     },
     {
-      "title": "ایف آئی اے کی ملتان ایئرپورٹ پر بڑی کارروائی، پنجاب پولیس کو سنگین جرائم میں مطلوب 2 ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2844331/fia-arrests-two-punjab-police-wanted-suspects-at-multan-airport-in-major-operation-2844331",
-      "description": "گرفتار ملزمان قتل اور خاتون کے اغواء کے الگ الگ مقدمات میں مطلوب تھے جن کے نام آئی بی ایم ایس اسٹاپ لسٹ میں شامل تھے",
-      "source": "Express Urdu",
+      "title": "CM Maryam reports nearly 70% drop in Punjab crime rate - Daily Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSTQxdmQzMWg0UHhfcWJIOFJ5NjhPVExiaUdtU2xFQ1Q5SFR5OC1MNTNLWDU0VExRMXlmQ19uUDJ6RXZOU2lyd1paNERTYi0zTTNlQkFMaVgzUWkyRmo3ZDRKWlN3SmVHWlc3dEVTZTh5SDI1Q0dUaEM3b2hYd3FkbGM4S3lCQVZHQ2ZvWUNBTFcyQQ?oc=5",
+      "description": "CM Maryam reports nearly 70% drop in Punjab crime rate Daily Times",
+      "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sun, 15 Nov 26 02:18:44 +0000",
+      "date": "Sun, 15 Nov 2026 11:45:34 GMT",
       "photo": ""
     },
     {
-      "title": "لاہور: 13 سالہ کمسن بچی کو مبینہ جنسی درندگی کا نشانہ بنانے والا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2844324/lahore-suspect-arrested-for-allegedly-subjecting-a-13-year-old-girl-to-sexual-assault-2844324",
-      "description": "ملزم نے گھر میں بچی کو اکیلا پاکر مبینہ زیادتی کا نشانہ بنایا",
-      "source": "Express Urdu",
+      "title": "Two Suspects in Rs90 Million Robbery Escape Police Custody in Karachi - UrduPoint",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFFhTldvTWx6VVptOVRPY0YtbmY3MWh1ejJmSjdmOXhPRWFCbnpBY1d4Q0ZhWmJTdF9tVzZERXFyUmtyVnJaSGpmVHZ6bzhsTnF3Q1kyMEU4TjhEOEtZaURNOTV0U0ZnaFVzcnhHbktMOVYzRGp1Ml9ENUFUMTU0LUZEbkwyX29xcUJaRlNJWE9wclJiWXBRc01LaUZ3N2pVM3l1ckFn?oc=5",
+      "description": "Two Suspects in Rs90 Million Robbery Escape Police Custody in Karachi UrduPoint",
+      "source": "Pakistan Crime",
       "cat": "Crime",
-      "date": "Sun, 15 Nov 26 06:27:57 +0500",
+      "date": "Sun, 15 Nov 2026 06:33:18 GMT",
       "photo": ""
+    },
+    {
+      "title": "کراچی میں ہاکی کا بڑا ایونٹ سجنے کو تیار، نیشنل ہاکی چیمپئن شپ کی تاریخ سامنے آگئی",
+      "link": "https://www.express.pk/story/2844395/a-major-hockey-event-is-set-to-take-place-in-karachi-the-dates-for-the-national-hockey-championship-have-been-announced-2844395",
+      "description": "اس میگا ایونٹ میں ملک بھر کی صوبائی ٹیموں کے ساتھ ساتھ مختلف ڈیپارٹمنٹل ٹیمیں ایکشن میں نظر آئیں گی",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Sun, 15 Nov 26 14:11:53 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پاک سری لنکا ٹیسٹ سیریز؛ قومی اسکواڈ کا تیاریوں کے سلسلے میں آپشنل ٹریننگ سیشن",
+      "link": "https://www.express.pk/story/2844390/pak-sri-lanka-test-series-national-squad-holds-optional-training-session-in-preparation-2844390",
+      "description": "پاکستان اور سری لنکا کے درمیان سیریز کا دوسرا ٹیسٹ 17 سے 21 نومبر تک راولپنڈی کرکٹ اسٹیڈیم میں کھیلا جائے گا",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Sun, 15 Nov 26 13:15:54 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ٹی20 ایشیا کپ کرکٹ آف دی بلائنڈ؛ افتتاحی میچ میں پاکستان نے میزبان بنگلا دیش کو شکست دیدی",
+      "link": "https://www.express.pk/story/2844379/t20-asia-cup-for-the-blind-pakistan-beat-hosts-bangladesh-in-opening-match-2844379",
+      "description": "پاکستان نے پہلے بیٹنگ کرتے ہوئے مقررہ 20 اوورز میں 6 وکٹوں کے نقصان پر 244 رنز بنائے",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Sun, 15 Nov 26 11:41:33 +0500",
+      "photo": ""
+    },
+    {
+      "title": "’اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی‘، انڈیا میں دو بڑے ایونٹس کے ساتھ آئی سی سی ٹورنامنٹس کے میزبانوں کا اعلان",
+      "link": "https://www.bbc.com/urdu/articles/crgj37ege78do?at_medium=RSS&at_campaign=rss",
+      "description": "شیری نامی ایکس صارف نے لکھا کہ ’امید ہے پاکستان کو سنہ 2032 سے 2034 کے درمیان کسی آئی سی سی ایونٹ کی میزبانی کا موقع مل جائے گا۔ دنیا کی دوسری بڑی کرکٹ کھیلنے والی قوم مزید بہتری کی مستحق ہے۔‘",
+      "source": "BBC Urdu",
+      "cat": "Sports",
+      "date": "Sun, 15 Nov 2026 16:05:57 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e436/live/c2bfb6f0-e10b-11f1-b3df-4961589d9b68.jpg"
     },
     {
       "title": "ایشیا کپ فائنل: انڈیا انڈر 19 نے پاکستان کو آخری گیند پر شکست دے دی، ’دسویں نمبر پر آنے والے کھلاڑی نے میچ کا پانسہ پلٹ دیا‘",
@@ -205,112 +239,94 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d15/live/2e2cdc60-e030-11f1-9ca9-b3b288fceb81.jpg"
     },
     {
-      "title": "Pakistan played better football, admits Dooley - The Daily Star",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVpxUC1Nazh6VWFmd1M3b0ZUaXMwLUhtN0VMSkx6a2xkQlpMaks4UVVaZUJWQk9ZWm1pYXlHcXNEOHZlRS1PZUxTSktJQ0l6enZxbEZfdnY2emtfVXlGX25PNGNfcGhmUTZhNjZqZjFSendFRzZmMjhvOHdVTmc2ZzBtNGJQU0ZPR1dXVDhsTlJsd0hicG9VcXhOVWZSSjdoUGhBTEVn?oc=5",
-      "description": "Pakistan played better football, admits Dooley The Daily Star",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sun, 15 Nov 2026 08:57:17 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan v Sri Lanka Second Test Day 1 - Kayo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUE1LTXliemVQamRFV1hOZmo4MXUtalFyTzJ6dG5pYXB1RFlLS3hwWFNPSjNucFBxNTZQejdwMmV0NDA1MVVRVmlBS0NfMmw3TVM1UkV6elZ4QjJQQ0luaW9zRWtKMEE4QkU1Nk5QOG9xSnlOcFhpRFRQQjEwbjhhWmNxbWl2ek9DM3d3SjlyRF9Bc0VtX1lhNndoTWRhTFhBSlZEczBaLTUwUQ?oc=5",
-      "description": "Pakistan v Sri Lanka Second Test Day 1 Kayo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sun, 15 Nov 2026 01:45:53 GMT",
-      "photo": ""
-    },
-    {
-      "title": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFROVlNWRkVpcHc4ZGM5S3lXNEFVZ0E0X3RBYkVjZ012ODJtVTEtX3NGRUJrTDV1UURCQ3VobC0wYlJ3TktWcl9wVGMyQVY1WFl5V29NeVB4VzJZZ1RIOHlVVlZWRnV1djFudzAxNlQyMHdDd1BKSWlhYWdjUzdYQnFB?oc=5",
-      "description": "WATCH: Mohit Ulva's last-ball boundary seals India's thrilling U-19 Asia Cup triumph over Pakistan Yahoo Sports",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 14 Nov 2026 20:04:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "[WATCHLIVE]SPORTS!] Bangladesh vs Pakistan LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 - 日本取引所グループ",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQWDZWcFNGYUVKdDAxRUNpX1RONkJ1LVlrUldoWldtQXdkaFJtdTNyWmxkbUNHbDVWejNYVFU4SDl5TThSNnpQTHlWUnVaTzUzRDRsSzctTzVyUl9YaS1lY21MZ2VVTl9ScGlzcTJCYnVaSUt2UGg1QXZBVmQ1WjFkSHp5MUVMTnBsZUFrRzdSZzdlVWw1NlFTUEtGaEVkdFdYN2hVQ1hmRm8xNkdtQmFCWVdON0ZzakVIVEhLVUFDT2hwcVRhSUlZQVFtNGR0eW1BZGhuYmQxanJHT3ZtWm1nVTB1anFRbk15OVp2ckhiOVdhRW12T25tYk45dHVYMjRBTlh4SFVXcnMxUE1jd0hyRm9CSHA2RlY3QXJfNVREeXF5U2VnWEpFS0FPdGFiTWt1QS1YSjI2ZlVPUmZnMEdmbDFmTWtFMHp2a3VJUDViTllWbW50cXJuVHp1dE9ETHhxLUpCbWh3RW5uUkVERTkzcnplSkkwY1RnTUJRWDhTVmdhc3p4NG9VOGhTb25rMUl2Vm14cmpvMDlJQUd5d2d3?oc=5",
-      "description": "[WATCHLIVE]SPORTS!] Bangladesh vs Pakistan LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 November 2026 日本取引所グループ",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Sat, 14 Nov 2026 14:41:21 GMT",
-      "photo": ""
-    },
-    {
-      "title": "سلطان اذلان شاہ ہاکی ٹورنامنٹ کے لیے 18 رکنی ٹیم فائنل، اعلان جلد متوقع",
-      "link": "https://www.express.pk/story/2844348/18-member-squad-finalised-for-sultan-azlan-shah-hockey-tournament-announcement-expected-soon-2844348",
-      "description": "سابق کپتان عماد بٹ سمیت پانچ سینیئرز کھلاڑیوں کی چھٹی کروا دی گئی",
+      "title": "نہرو رپورٹ اور قائد کے نکات نے تقسیم ہند کی بنیاد رکھ دی تھی",
+      "link": "https://www.express.pk/story/2844415/nehru-report-aur-quaid-ke-nuqaat-ne-taqseem-hind-ki-bunyad-rakh-di-thi-2844415",
+      "description": "تیسری گول میز کانفرنس میں مسلم لیگ نے کوشش کی کہ ایسے آئین پر اتفاق ہو جائے جس میں مسلمانوں کی الگ شناخت اور حقوق کے تحفظ کی ضمانت فراہم کی جائے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 15 Nov 26 09:26:43 +0500",
+      "date": "Sun, 15 Nov 26 17:49:01 +0500",
       "photo": ""
     },
     {
-      "title": "بنوں بازار سے اغوا ہونے والے نوجوان جمشید کی 13 روز بعد لاش برآمد",
-      "link": "https://www.express.pk/story/2844345/body-of-jamshed-abducted-from-bannu-bazaar-found-after-13-days-2844345",
-      "description": "نوجوان کی لاش کئی روز تک لاپتہ رہنے کے بعد سڑک کنارے سے برآمد ہوئی",
+      "title": "آئی سی سی نے 2035 تک بڑے عالمی کرکٹ ایونٹس کے شیڈول کی منظوری دے دی",
+      "link": "https://www.express.pk/story/2844414/the-icc-has-approved-the-schedule-for-major-global-cricket-events-up-to-2035-2844414",
+      "description": "2028 ٹی 20 ورلڈ کپ، 2031 ون ڈے ورلڈ کپ اور دیگر ٹورنامنٹس کے کوالیفائنگ فارمیٹس بھی طے کرلیے گئے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 15 Nov 26 04:13:36 +0000",
+      "date": "Sun, 15 Nov 26 17:48:36 +0500",
       "photo": ""
     },
     {
-      "title": "میانوالی: سفاک درندے نے ذہنی معذور لڑکی کو جنسی زیادتی کا نشانہ بنا دیا، زخمی حالت میں چھوڑ کر فرار",
-      "link": "https://www.express.pk/story/2844342/mianwali-case-registered-over-alleged-sexual-assault-of-a-mentally-disabled-girl-2844342",
-      "description": "ملزم لڑکی کو قریبی گھر کے کمرے میں لے گیا اور زیادتی کے بعد اسے زخمی حالت میں چھوڑ کر فرار ہوگیا",
+      "title": "17 سال کی عمر میں ناکام محبت کے بعد شادی کیوں نہیں کی؟ اداکارہ لیلیٰ نے حقیقت بتادی",
+      "link": "https://www.express.pk/story/2844412/actress-laila-love-affair-actor-ahsan-khan-2844412",
+      "description": "اداکارہ لیلیٰ نے ساتھی اداکار احسن خان کو اپنی پہلی محبت قرار دے دیا، شادی نہ کرنے کی وجہ بھی بتادی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 15 Nov 26 03:34:52 +0000",
+      "date": "Sun, 15 Nov 26 17:31:47 +0500",
       "photo": ""
     },
     {
-      "title": "کوہاٹ؛ نجی اسکول مالک کا 12 سالہ بچے پر تشدد، حالت تشویشناک",
-      "link": "https://www.express.pk/story/2844339/kohat-private-school-owner-assaults-12-year-old-child-condition-critical-2844339",
-      "description": "متاثرہ بچے کو علاج کے لیے مقامی کے ڈی اے اسپتال منتقل کردیا گیا",
+      "title": "ترکیہ:مسجد آیا صوفیا کے نیچے 1600 برس قدیم پُراسرار سرنگیں دریافت",
+      "link": "https://www.express.pk/story/2844410/ancient-roman-tunnels-2844410",
+      "description": "ماہرین کے مطابق زیرِ زمین موجود بعض ڈھانچے موجودہ آیا صوفیہ کی تعمیر سے بھی قدیم ہیں",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 15 Nov 26 03:16:26 +0000",
+      "date": "Sun, 15 Nov 26 17:05:20 +0500",
       "photo": ""
     },
     {
-      "title": "ویمنز ایمرجنگ نیشنز ٹرافی میں پاکستان ٹیم کو نیدرلینڈز کے ہاتھوں شکست",
-      "link": "https://www.express.pk/story/2844343/pakistan-women-suffer-defeat-against-netherlands-in-emerging-nations-trophy-2844343",
-      "description": "پاکستان ویمن ٹیم نے پہلے بیٹنگ کرتے ہوئے 7 وکٹوں پر 126 رنز بنائے",
+      "title": "آبنائے ہرمز میں 20 لاکھ بیرل تیل سے بھرا سپر ٹینکر ڈوب گیا، ایران",
+      "link": "https://www.express.pk/story/2844406/super-oil-tanker-sank-strait-of-hurmuz-with-2-million-barrel-oil-2844406",
+      "description": "دو جہاز سمندری بارودی سرنگوں سے ٹکرا گئے اور آگ بھڑک اٹھی۔ ایک میں 20 لاکھ بیرل سے زیادہ خام تیل موجود تھا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 15 Nov 26 08:48:20 +0500",
+      "date": "Sun, 15 Nov 26 10:59:32 +0000",
       "photo": ""
     },
     {
-      "title": "تہران؛ ایران عراق جنگ میں ہلاک ہونے والے نامعلوم فوجیوں کا اجتماعی جنازہ، صدر سمیت ہزاروں افراد شریک",
-      "link": "https://www.express.pk/story/2844335/iran-holds-mass-funeral-for-350-unknown-soldiers-of-iran-iraq-war-2844335",
-      "description": "یہ تقریبات حضرت فاطمہ زہرا کے یومِ شہادت کے موقع پر منعقد ہوئیں",
+      "title": "ڈرامہ ’درِ نجات‘: خوش بخت کے ماضی سے پردہ اٹھنے کو تیار، زریاب اور ابوبکر میں بھی صلح",
+      "link": "https://www.express.pk/story/2844396/darama-dur-e-nijat-episode-31-2844396",
+      "description": "ڈرامے کی تازہ قسط میں زریاب کے اعتراف سے لے کر خوش بخت کی زندگی کے تلخ رازوں تک مختلف پہلو شامل ہیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 15 Nov 26 02:33:12 +0000",
+      "date": "Sun, 15 Nov 26 14:30:58 +0500",
       "photo": ""
     },
     {
-      "title": "ایران کا بحرین میں امریکی فضائی دفاعی ریڈار کو نشانہ بنانے کا دعویٰ",
-      "link": "https://www.express.pk/story/2844314/iran-claims-to-have-targeted-a-us-air-defense-radar-in-bahrain-2844314",
-      "description": "بحرین کی وزارت داخلہ نے اتوار کی صبح ممکنہ خطرات سے متعلق دو ہنگامی انتباہات جاری کیے",
+      "title": "ایرانی وزیر خارجہ عباس عراقچی 17 نومبر کو عمان کا دورہ کریں گے",
+      "link": "https://www.express.pk/story/2844394/iran-abbass-iraqchi-will-go-oman-on-17-november-from-pakistan-2844394",
+      "description": "عراقچی 15 اور 16 نومبر کو اسلام آباد میں اقتصادی تعاون تنظیم کے 30ویں اجلاس میں شرکت کے بعد عمان جائیں گے۔",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 15 Nov 26 00:47:23 +0000",
+      "date": "Sun, 15 Nov 26 09:08:54 +0000",
       "photo": ""
     },
     {
-      "title": "اگر امریکہ نے حملہ کیا تو ’جنگ کا جغرافیہ‘ ایران طے کرے گا: قالیباف کی تنبیہ",
-      "link": "https://www.bbc.co.uk/urdu/live/cwlyml8md7ept?at_medium=RSS&at_campaign=rss",
-      "description": "ایران کی پارلیمنٹ کے سپیکر محمد باقر قالیباف نے اپنے تازہ بیان میں کہا ہے کہ اگر امریکہ نے ایران کے خلاف کوئی نئی فوجی کارروائی کی تو جنگ کا دائرہ اور مقام ایران کی مسلح افواج طے کریں گی۔",
-      "source": "BBC Urdu",
+      "title": "امریکی فوج کی مدد کرنے والے خلیجی ممالک پر جوابی حملوں کا حق رکھتے ہیں؛ ایران",
+      "link": "https://www.express.pk/story/2844391/iran-attack-bahrain-justify-us-2844391",
+      "description": "ایران خطے کے ممالک کے ساتھ سفارتی رابطوں کے ذریعے اس معاملے کو اٹھاتا رہے گا",
+      "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/421d/live/0e3248d0-e0cd-11f1-93e1-3b657b665bcf.jpg"
+      "date": "Sun, 15 Nov 26 08:15:56 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی؛ شادی میں انوکھی واردات، دو خواتین سلامی کا پرس چوری کرکے فرار، ویڈیو سامنے آگئی",
+      "link": "https://www.express.pk/story/2844411/karachi-unique-incident-at-a-wedding-two-women-flee-after-stealing-a-purse-containing-salami-video-surfaces-2844411",
+      "description": "پولیس نے متاثرہ فیملی کی مدعیت میں مقدمہ درج کرالیا اور بتایا کہ خواتین کی شناخت اور گرفتاری کی کوشش جاری ہے",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Sun, 15 Nov 26 17:14:58 +0500",
+      "photo": ""
+    },
+    {
+      "title": "اسپورٹس ڈپلومیسی کے تحت ایران کا پاکستان کیساتھ ہاکی کے فروغ کے لیے اظہارِ دلچسپی",
+      "link": "https://www.express.pk/story/2844393/iran-expresses-interest-in-promoting-hockey-with-pakistan-under-sports-diplomacy-2844393",
+      "description": "پی ایچ ایف ترجمان کے مطابق ایران اپنی مرد اور خواتین کی قومی ہاکی ٹیمیں پاکستان بھیجنے کا خواہشمند ہے",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Sun, 15 Nov 26 13:40:08 +0500",
+      "photo": ""
     }
   ],
   "sources": [
@@ -336,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 21,
+      "added": 26,
       "ok": true
     },
     {
@@ -352,7 +368,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 34,
+      "added": 33,
       "ok": true
     },
     {
@@ -362,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 25,
+      "added": 26,
       "ok": true
     }
   ]
