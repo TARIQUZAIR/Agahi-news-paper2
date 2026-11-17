@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T21:35:42.233276+00:00",
-  "count": 31,
+  "generated_at": "2026-11-17T06:19:25.490110+00:00",
+  "count": 30,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,27 +12,72 @@
     "Strange": 2
   },
   "shortages": {
-    "Crime": 2,
-    "Sports": 2
+    "Sports": 4,
+    "Strange": 1
   },
   "items": [
     {
-      "title": "لاہور ریلوے اسٹیشن کی 1860 سے 1902 تک کی تاریخی جھلکیاں دوبارہ زندہ کرنے کا فیصلہ",
-      "link": "https://www.express.pk/story/2844609/decision-taken-to-revive-historical-glimpses-of-lahore-railway-station-from-1860-to-1902-2844609",
-      "description": "آرکیالوجی ڈیپارٹمنٹ کی مدد سے اس کی اصلی حالت میں لانے کا کام پلیٹ فارم نمبر پانچ سے شروع کر دیا گیا",
+      "title": "کراچی: ہل پارک غیر قانونی تعمیرات کیس میں کے ایم سی ودیگر سے جواب طلب",
+      "link": "https://www.express.pk/story/2844659/hill-park-illegal-construction-case-2844659",
+      "description": "عدالتی فیصلے تک تعمیرات کی اجازت نہیں دی جائے، وکیل جماعت اسلامی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Mon, 16 Nov 26 20:00:40 +0500",
+      "date": "Tue, 17 Nov 26 01:03:10 +0000",
       "photo": ""
     },
     {
-      "title": "بشری بی بی کو جیل میں نہیں ہونا چاہیے، فریال تالپور",
-      "link": "https://www.express.pk/story/2844583/bushra-bibi-should-not-be-in-jail-frayal-talpur-2844583",
-      "description": "مجھے بھی بغیر کسی کیس کے جیل میں رکھا گیا تھا مگر پیپلزپارٹی انتقام کی سیاست کو مسترد کرتی ہے، لاہور میں گفتگو",
+      "title": "پشاور ہائیکورٹ ایمرجنسی، فوج بلانے، تھری ایم پی او کے مقدمات نہیں سن سکتی، وفاقی آئینی عدالت",
+      "link": "https://www.express.pk/story/2844655/peshawar-high-court-cannot-hear-cases-related-to-emergencies-the-deployment-of-the-army-or-the-3-mpo-federal-constitutional-court-2844655",
+      "description": "ایمرجنسی کے نفاذ، فوج بلانے اور تھری ایم پی او کے مقدمات کے علاوہ پشاور ہائیکورٹ آرٹیکل 199 کے دیگر مقدمات سن سکتی ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Mon, 16 Nov 26 11:44:36 +0000",
+      "date": "Tue, 17 Nov 26 00:46:01 +0000",
       "photo": ""
+    },
+    {
+      "title": "ملک بھر میں خشک سالی کی صورتحال، سندھ کے مختلف اضلاع کے لیے ہائی الرٹ جاری",
+      "link": "https://www.express.pk/story/2844644/drought-situation-across-the-country-high-alert-issued-for-various-districts-of-sindh-2844644",
+      "description": "این ای او سی کی جانب سے صورتحال کی مسلسل نگرانی جاری ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 17 Nov 26 00:16:15 +0000",
+      "photo": ""
+    },
+    {
+      "title": "راولپنڈی ٹیسٹ: پاکستانی بولرز نے سری لنکن ٹاپ آرڈر کو تہس نہس کردیا",
+      "link": "https://www.express.pk/story/2844638/rawalpindi-test-pakistan-wins-toss-against-sri-lanka-decides-to-bowl-2844638",
+      "description": "پاکستان اور سری لنکا کی جانب سے ٹیم میں ایک ایک تبدیلی کی گئی ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Tue, 17 Nov 26 04:37:23 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ریلوے سسٹم پرعلی الصبح ایک اورٹرین حادثہ",
+      "link": "https://www.express.pk/story/2844631/another-train-accident-on-the-railway-system-early-this-morning-2844631",
+      "description": "لاہور ریلوے کی امدادی ٹیم جائے وقوعہ پر پہنچ گئی.",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Mon, 16 Nov 26 22:59:39 +0000",
+      "photo": ""
+    },
+    {
+      "title": "بیرونی فنڈز کے منصوبے بروقت مکمل نہ ہونے کا انکشاف",
+      "link": "https://www.express.pk/story/2844619/externally-funded-projects-not-being-completed-on-time-revealed-2844619",
+      "description": "10سال سے پاکستان بیرونی فنڈز پر0.25 فیصد اضافی سود ادا کر رہا ہے، رپورٹ",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Mon, 16 Nov 26 16:09:12 +0000",
+      "photo": ""
+    },
+    {
+      "title": "بیوی کے بجائے شوہر کی نس بندی: سندھ میں خاندانی منصوبہ بندی کا بدلتا رجحان",
+      "link": "https://www.bbc.com/urdu/articles/cqlykvnm8k43o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں مردوں کی نس بندی اب بھی خاندانی منصوبہ بندی کا نسبتاً کم زیرِ بحث آنے والا طریقہ ہے تاہم سندھ میں اس حوالے سے رجحان بڑھ رہا ہے۔ اس کی وجہ کیا ہے؟",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Tue, 17 Nov 2026 04:30:05 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/408c/live/0b832280-e23a-11f1-a9be-a7c943bbd580.jpg"
     },
     {
       "title": "’درِ نجات‘ کا پیغام یہ نہیں کہ بیٹیوں سے سختی کریں اور بیٹوں کو کھلا چھوڑ دیں: فاران طاہر",
@@ -62,48 +107,21 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f53/live/23529b70-deb1-11f1-8fb5-a771a656a227.jpg"
     },
     {
-      "title": "ورلڈ لبرٹی فنانشل: ٹرمپ خاندان کا کرپٹو کاروبار، پاکستان سے روابط اور ڈیموکریٹس کا تحقیقات کا عندیہ",
-      "link": "https://www.bbc.com/urdu/articles/cqgm0mn9mkj2o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کا کہنا ہے کہ اس نے امریکی صدر ٹرمپ کے خاندان سے وابستہ کرپٹو کمپنی ورلڈ لبرٹی فنانشل میں کوئی سرمایہ کاری نہیں کی ہے۔ یہ کمپنی ٹرمپ کے بیٹوں اور مشرقِ وسطیٰ کے لیے امریکہ کے خصوصی ایلچی سٹیو وٹکوف کے بچوں نے قائم کی تھی۔ صدر ٹرمپ نے اس کمپنی سے لاتعلقی کا اظہار کیا ہے تاہم ڈیموکریٹس نے عندیہ دیا ہے کہ وہ کانگریس کے تفتیشی اختیارات استعمال کرتے ہوئے ٹرمپ خاندان کے کرپٹو کاروبار اور اس کے غیر ملکی روابط کا جائزہ لینا چاہتے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 11 Nov 2026 03:59:25 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6794/live/3f291ee0-ddb3-11f1-90cd-85e940e3a009.jpg"
-    },
-    {
-      "title": "مارشل لا دور میں میرے ڈائیلاگ سے لوگوں کی بھڑاس نکلی: مصطفیٰ قریشی",
-      "link": "https://www.bbc.com/urdu/watch/cwr7y7dll32ko?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستانی فلم ’مولا جٹ‘ میں نوری نت کے کردار سے وابستہ جملہ ’نواں آیا ایں، سوہنیا‘ آج بھی مصطفیٰ قریشی کی پہچان ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 2026 14:30:27 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1c/live/179d7bf0-dd13-11f1-9019-999bcb7fa2d2.jpg"
-    },
-    {
-      "title": "راولا کوٹ میں کشیدگی کے دوران تین ہلاکتیں، اب کیا صورتحال ہے؟",
-      "link": "https://www.bbc.com/urdu/watch/cx2400le5gj1o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان کے زیر انتظام کشمیر کے علاقے راولا کوٹ میں حالات ایک مرتبہ پھر کشیدہ ہو گئے ہیں۔ جمعرات سے کالعدم تنظیم جوائنٹ ایکشن کمیٹی کے کارکنوں اور قانون نافذ کرنے والے اداروں کے اہل",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Fri, 06 Nov 2026 14:38:29 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f72/live/638931b0-d9f0-11f1-bb10-cdca6001fbcf.png"
-    },
-    {
-      "title": "Pakistan urges 'trust, confidence' among nations at regional bloc meeting - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTUxvdzc4VzN1cEdYTTZPRTA0OGdDVUhLV3VJUl8yVWRHTm96bnAzMWhwWG9PRVVkWHpEOGZWRlk5WXY1X1otM3g2QkhvQU4xNHFXckVsdE5VRWo1QXFIaTZ5WWlmbndEYUJLdGRfaU5PZU8taTFFOTEtQk12RlJINVFJOElWZTA5UHkwRXhVSktPdkdsX09TUW1Ka1MxTkt2OV9OMG1DTWMyWC05T3RLM3I1S1ZDbVU?oc=5",
-      "description": "Pakistan urges 'trust, confidence' among nations at regional bloc meeting Anadolu Ajansı",
-      "source": "Pakistan Economy",
-      "cat": "National",
-      "date": "Mon, 16 Nov 2026 08:10:58 GMT",
+      "title": "کراچی، مختلف واقعات میں تشدد زدہ لاش برآمد، فائرنگ سے ایک شخص زخمی",
+      "link": "https://www.express.pk/story/2844627/karachi-tortured-bodies-recovered-in-separate-incidents-one-person-injured-in-a-shooting-2844627",
+      "description": "زخمی اور متوفی کی لاش کو جناح اسپتال منتقل کر دیا گیا",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Tue, 17 Nov 26 01:56:56 +0500",
       "photo": ""
     },
     {
-      "title": "SBP projects Pakistan GDP growth at up to 4.5% in FY27 - Mettis Global",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM1lsNjRzRDBqRGNkY2xkXy1hSUZMQzVRS0pQdFd4alRmSE1vSUliUlFDckVXQXQwdlo0TGxvLTg3ZEoyZHJ6bEVQQVZvQkFHQ2VieVZCLUVzQ2U1ZDltVEZLRDZXQ0Qxbm9rRzdTSWRZb2hLeEFQTVZLUlFCVWVwWmxNN2szZjFmSjdaNg?oc=5",
-      "description": "SBP projects Pakistan GDP growth at up to 4.5% in FY27 Mettis Global",
+      "title": "Pakistan takes ECO chairmanship, approves economic roadmap for 2035 - Minute Mirror",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFQ1TlZoNFU2ZHhmekctaDZyb2pCM1NsMVpZc0g4NW50b3BKRV9GNUk4ZUdwMTF3d3YzQ1hYaEhYUHZ0Z25nS1N0UUVDTGhDYWp5NklPSGlOLUhRWm91WXN5ZDVrbjN2eTVHZHozZmt1Y3cwak9aakdUcFllcXpIQlJlbm4yc3h4RTJmb1V1ZjduRWhxR2E5LVRsUHRKREJSN2ctWQ?oc=5",
+      "description": "Pakistan takes ECO chairmanship, approves economic roadmap for 2035 Minute Mirror",
       "source": "Pakistan Economy",
-      "cat": "National",
-      "date": "Mon, 16 Nov 2026 11:49:00 GMT",
+      "cat": "Economy",
+      "date": "Tue, 17 Nov 2026 05:36:15 GMT",
       "photo": ""
     },
     {
@@ -116,6 +134,15 @@
       "photo": ""
     },
     {
+      "title": "Pakistan could become world’s sixth-largest economy before 2050: PM Sharif - Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVNNbkZnOEpxRFd5cFRnTjN2WmNtclRMT2VuOVNvQ2FodFFPbU5jWUtSdFpocDZIa2pIOUVPUThSamVaazF3V0VwcVVJOHFmd3NBTXpEYWRfQ3c0X2x3Ul84QmhFSFQzdkc0Tmt4bUZydEo2QjQyamczMF9XenZCeXhqTGZ4YzZwUGg0MV9hXy1pSzJJbGVYYjZCS1o1NkFVek1wWDd4aDgxSXRsYXUyNWxwdjlzRGc4NTNNQUxjNNIB0gFBVV95cUxPbzFjZHJQQjNjOG51c2czM0dpbUViUjBmMFZlSnI4bVN5MEpWRTJ3RDU5M3lETnZqcmh6WGtTT1VmT0p6czZjUENQRmlGaVJnbTEtWDVoQ1JDMGhhYUZ5SkEwRW5VZ21xUnltZ0hDYUlYVm5nTkx0c2JzQUN5RlRERU4xSFBRWkw5aG9zOUcwS1h5YXZXUVJwcnhwbUhEcjdwREF2emh4eTJENFpIT0FGLW1zUU9zNl9Md3RlaEM3a0hDaE1tbHJOdFJUT2hHUjhEcGc?oc=5",
+      "description": "Pakistan could become world’s sixth-largest economy before 2050: PM Sharif Gulf News",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sun, 15 Nov 2026 08:56:39 GMT",
+      "photo": ""
+    },
+    {
       "title": "Pakistan central bank sees inflation easing into 5%-7% target range in FY2027 - Traders Union",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVpmZVUyYktaUW55UTNLaE5FY1hvT2dBVnFSVUQ4YVIxUkE4WU40RWFkcXpGamRKUEh2TXdqV3NLY1FvbnB0c2lyaXpfelZTN2ZTUU5Lb1BxeEVzME9KVlpWaGV4VzBzdmcwbDdaeHphVEhhTi1FZHpFQjZaZFhCSzBaTjhtRVY0b2ppdDRzckNaMTlkZlpoVnozbVJIaXBpcXM4aGpB?oc=5",
       "description": "Pakistan central bank sees inflation easing into 5%-7% target range in FY2027 Traders Union",
@@ -125,174 +152,138 @@
       "photo": ""
     },
     {
-      "title": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting - Audacy",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFFNNzAydzlXOFlvc1p2WnliVk9vZ29VREtvSmMtTUgwMFBoTDJWOFNHd2J0RnRsVmZNRFR2eFlyTGpkX3RUdzlRdDF4TFJJMnpwMC1BQzJIRHpHaVZqTGtBTXlfQzl5cVkzOENMSGZiWUhGM0hNc2tIbHNfUUhfUnFBU3dvT29xNExxY1F6OFlXTjNtNkdhUmQzMndVcG1jMENubXZSeUM1R1JwMG1kbEt4ZkdOc2lpS0dyVTU1S3FYdHRsaVE?oc=5",
-      "description": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting Audacy",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Mon, 16 Nov 2026 08:43:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan inflation to ease to 5% to 7% target range during 2027 financial year, says central bank By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZUFpZ1RfNWZaU2x5QWs4eFRPUm5xQVZ3UVpUWThsOUhwS3VWMjFNa0NEcTdHTUpISFZpR0JpLVV5YkdLVEZSTUdScDQyMWJWT2UwX0hWWkRtRkNMTWdIQnFaY3hSV0kyRHJnMER6Q29KcWVwd2ExNlZKbkM0UjNXODFRMVRzQkc0ZWxHQzRxZll2TXIwXzRZbjNsQXA4TzhhVkpjX1N5NGRNMkZnVE9QZUdOR0FUM1IxVEFZNzVMZkwtSUk3d3ppVWVrWmdITEo4S0dSZFlyZlIwOEJBMmtB?oc=5",
-      "description": "Pakistan inflation to ease to 5% to 7% target range during 2027 financial year, says central bank By Reuters Investing.com",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Mon, 16 Nov 2026 11:56:11 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan inflation to ease to 5% to 7% target range during 2027 financial year, says central bank - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY09SWTFhSE9SMVc1QjZkaW1vajFKTTVRQ0VlMjNKZFNVaHdpTHRFYU55VTY0MzVDMFpER05taWtBcElXM0dtNVYtSGxxNlEzSU9lQWY1aDZxbU5QMVpGNHpSX25xRlU0RGE2Sld2YUxtOGR0aUlNWi1RZ2EwM2RRSDJpSnpLN1pYZzZkb29WSFQ3VFhtTURj?oc=5",
-      "description": "Pakistan inflation to ease to 5% to 7% target range during 2027 financial year, says central bank Yahoo Finance",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Mon, 16 Nov 2026 11:49:24 GMT",
-      "photo": ""
-    },
-    {
-      "title": "جرمن عدالت میں سندھ کا کسان",
-      "link": "https://www.express.pk/story/2844612/german-adalat-mein-sindh-ka-kisan-2844612",
-      "description": "فطرت کو نچوڑنے اور اس کا استحصال کرنے میں فریقین یکساں ہیں، فرق محض وسائل، حجم اور استطاعت کا ہے۔",
+      "title": "پشاور میں فائرنگ کے نتیجے میں واپڈا کا اہلکار قتل",
+      "link": "https://www.express.pk/story/2844658/wapda-official-killed-in-peshawar-shooting-2844658",
+      "description": "پولیس نے لاش تحویل میں لیکر تفتیش شروع کر دی ہے",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Mon, 16 Nov 26 20:50:36 +0500",
+      "date": "Tue, 17 Nov 26 05:55:45 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی : بے لگام ہیوی ٹریفک نے ٹریفک پولیس کو بھی نا بخشا، ڈرائیور کی پولیس کے ساتھ بدمعاشی",
-      "link": "https://www.express.pk/story/2844608/unrestrained-heavy-traffic-did-not-spare-the-traffic-police-either-the-driver-was-rude-to-the-police-2844608",
-      "description": "ٹرک ڈرائیور نے روکنے کی کوشش کرنے پر پولیس کی گاڑی کو ٹکر مار کر نقصان پہنچایا تاہم پولیس نے تعاقب کر کے پکڑ لیا",
+      "title": "کراچی میں کار سوار نوجوان کے اغوا کا واقعہ، ملیر کینٹ کے قریب سے بازیاب",
+      "link": "https://www.express.pk/story/2844649/karachi-police-recover-abducted-youth-arrest-two-suspects-2844649",
+      "description": "پولیس نے ناکہ بندی کرکے نوجوان کو بازیاب کرایا، 2 ملزمان گرفتار",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Mon, 16 Nov 26 19:46:37 +0500",
+      "date": "Tue, 17 Nov 26 00:32:37 +0000",
       "photo": ""
     },
     {
-      "title": "اسلام آباد میں 13 سالہ گھریلو ملازمہ کے قتل کا مقدمہ، پولیس افسر کی اہلیہ سمیت دو افراد کا جسمانی ریمانڈ منظور",
-      "link": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
-      "description": "اسلام آباد پولیس کے ترجمان نے بتایا کہ مقدمے میں فی الحال کسی شخص کو نامزد نہیں کیا گیا، کیونکہ مدعی مقدمہ، جو مقتولہ کے والد ہیں، نے اپنی درخواست میں کسی فرد کا نام شامل نہیں کیا۔",
-      "source": "BBC Urdu",
+      "title": "لاہور: مدرسے میں تاخیر سے پہنچنے پر 12 سالہ طالبعلم پر تشدد، قاری گرفتار",
+      "link": "https://www.express.pk/story/2844646/teacher-arrested-for-assaulting-12-year-old-student-2844646",
+      "description": "متاثرہ بچے کے والد کی مدعیت میں ملزم کے خلاف مقدمہ درج کر لیا گیا",
+      "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Mon, 16 Nov 2026 09:37:39 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83b4/live/d52c5740-e18c-11f1-952d-674f3722bb9f.jpg"
+      "date": "Tue, 17 Nov 26 05:25:24 +0500",
+      "photo": ""
     },
     {
-      "title": "ٹیسٹ کرکٹ فٹنس، صبر اور مہارت کا امتحان ہے، نئے کھلاڑیوں کا مستقبل روشن ہے؛ سلمان علی آغا",
-      "link": "https://www.express.pk/story/2844581/test-cricket-is-a-test-of-fitness-patience-and-skill-the-future-of-the-new-players-is-bright-salman-ali-agha-2844581",
-      "description": "پاکستان اور سری لنکا کے درمیان دوسرا ٹیسٹ میچ کل سے راولپنڈی میں شروع ہوگا",
+      "title": "رینجرز اور پولیس کی جانب سے گینگسٹرز کے خلاف لیاری میں مشترکہ آپریشن، انتہائی مطلوب ملزم گرفتار",
+      "link": "https://www.express.pk/story/2844639/rangers-and-police-conduct-joint-operation-against-gangsters-in-lyari-2844639",
+      "description": "ملزم کراچی آپریشن کے دوران گرفتاری سے بچنے کیلئے بلوچستان اور بعدازاں بیرونِ مُلک فرار ہو گیا تھا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Tue, 17 Nov 26 04:39:22 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی میں حجام کو تین گولیاں مار کر قتل کردیا گیا، ذاتی رنجش کا شبہ",
+      "link": "https://www.express.pk/story/2844623/28-year-old-youth-shot-dead-in-ibrahim-hyderi-karachi-2844623",
+      "description": "مقتول نے دو سال قبل کورٹ میرج کی تھی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Tue, 17 Nov 26 00:16:58 +0500",
+      "photo": ""
+    },
+    {
+      "title": "شین ڈائٹز پاکستان ویمنز کرکٹ ٹیم کے ہیڈ کوچ مقرر",
+      "link": "https://www.express.pk/story/2844642/shane-dietz-appointed-head-coach-of-pakistan-womens-cricket-team-2844642",
+      "description": "شین ڈائٹز کی کوچنگ میں ویسٹ انڈیز نے 2024 اور 2026 کے ٹی ٹوئنٹی ورلڈ کپ سیمی فائنلز کھیلے",
       "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Mon, 16 Nov 26 16:37:00 +0500",
+      "date": "Tue, 17 Nov 26 04:53:26 +0500",
       "photo": ""
     },
     {
-      "title": "پاکستان کرکٹ کا وہ ’ہتھیار‘ جس کے یارکرز سے بچنے کے لیے سٹیل کیپس پہننے کا مشورہ دیا گیا",
-      "link": "https://www.bbc.com/urdu/sport-59286912?at_medium=RSS&at_campaign=rss",
-      "description": "وسیم اکرم کے بعد وقار یونس کا پاکستان کرکٹ ٹیم کا حصہ بن جانا بڑی اہمیت رکھتا تھا کیونکہ سب جانتے تھے کہ عمران خان کی بولنگ کی رفتار وقت کے ساتھ ساتھ کم ہوتی جا رہی تھی اور ٹیم کو دونوں اینڈ سے شعلے برسانے والی بولنگ کی ضرورت تھی۔",
-      "source": "BBC Urdu",
-      "cat": "Sports",
-      "date": "Tue, 16 Nov 2021 04:07:26 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1583F/production/_121572188_gettyimages-1015575.jpg"
-    },
-    {
-      "title": "’اُمید ہے اگلی دہائی میں پاکستان کی باری آئے گی‘، انڈیا میں دو بڑے ایونٹس کے ساتھ آئی سی سی ٹورنامنٹس کے میزبانوں کا اعلان",
-      "link": "https://www.bbc.com/urdu/articles/crgj37ege78do?at_medium=RSS&at_campaign=rss",
-      "description": "شیری نامی ایکس صارف نے لکھا کہ ’امید ہے پاکستان کو سنہ 2032 سے 2034 کے درمیان کسی آئی سی سی ایونٹ کی میزبانی کا موقع مل جائے گا۔ دنیا کی دوسری بڑی کرکٹ کھیلنے والی قوم مزید بہتری کی مستحق ہے۔‘",
-      "source": "BBC Urdu",
-      "cat": "Sports",
-      "date": "Sun, 15 Nov 2026 16:05:57 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e436/live/c2bfb6f0-e10b-11f1-b3df-4961589d9b68.jpg"
-    },
-    {
-      "title": "جامعات کی حقیقی ترقی کے نئے تصورات",
-      "link": "https://www.express.pk/story/2844618/jamiaat-ki-haqeeqi-taraqqi-ke-naye-tasawwur-2844618",
-      "description": "عمومی طور پر جامعات کے بارے میں یہ ہی کہا جاتا ہے کہ یہ ادارے تعلیم اور تحقیق سمیت ایک متبادل بیانیہ کی تشکیل کے حامل ہوتے ہیں۔",
+      "title": "جعلی پیر بن کر شہریوں سے فراڈ کرنے والے ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2844654/accused-who-defrauded-citizens-by-posing-as-fake-spiritual-healers-pirs-arrested-2844654",
+      "description": "جعلی پیر نے روحانی عمل کے بہانے شہری کو 4 قدم آگے چلنے کا کہا، ملزمان شہری کی توجہ ہٹا کر رقم سمیت موقع سے فرار ہو گئے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 16 Nov 26 21:03:52 +0500",
+      "date": "Tue, 17 Nov 26 00:45:59 +0000",
       "photo": ""
     },
     {
-      "title": "طالبات کیساتھ ہراسانی کی شرح 75 فیصد تک ریکارڈ",
-      "link": "https://www.express.pk/story/2844617/harassment-rate-among-female-students-recorded-at-up-to-75-percent-2844617",
-      "description": "متعدد تعلیمی اداروں نے ہراسمنٹ کے مرتکب عناصر کوملازمت سے برخاست کیا",
+      "title": "سابق پراجیکٹ ڈائریکٹر یلو لائن کیخلاف چالان میں کروڑوں روپے کی ٹرانزیکشن کا الزام",
+      "link": "https://www.express.pk/story/2844653/benami-accounts-challan-filed-against-former-project-director-yellow-line-zameer-abbasi-2844653",
+      "description": "چالان کے مطابق ملزم ضمیر احمد عباسی مختلف سرکاری محکموں میں گریڈ 17 سے 19 کے عہدوں پر تعینات رہا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 16 Nov 26 16:02:01 +0000",
+      "date": "Tue, 17 Nov 26 00:45:57 +0000",
       "photo": ""
     },
     {
-      "title": "اطلاعاتی سامراج کے خلاف جدوجہد کی نامکمل کہانی",
-      "link": "https://www.express.pk/story/2844614/ittilati-samraj-ke-khilaf-jadd-o-jehad-ki-namukammal-kahani-2844614",
-      "description": "تمام ڈیجیٹل پلیٹ فارمز کا سرچشمہ امریکا ہے۔ان پلیٹ فارمز کی چابی چند ہاتھوں میں ہے۔",
+      "title": "معروف اداکارہ عائشہ نور نے اسلام کی خاطر شوبز انڈسٹری چھوڑ دی",
+      "link": "https://www.express.pk/story/2844647/renowned-actress-ayesha-noor-has-left-the-showbiz-industry-for-the-sake-of-islam-2844647",
+      "description": "اب وہ اپنی ٹریول ایجنسی چلا رہی ہیں اور دیگر افراد کو روزگار بھی فراہم کر رہی ہیں۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 16 Nov 26 20:50:37 +0500",
+      "date": "Tue, 17 Nov 26 05:30:25 +0500",
       "photo": ""
     },
     {
-      "title": "ٹونک کا پہلا حکمراں، امیر خاں",
-      "link": "https://www.express.pk/story/2844613/tonk-ka-pehla-hukmaran-ameer-khan-2844613",
-      "description": "امیر خاں ایک جنگ جو، شیر دل سپاہی ہی نہیں تھا،ایک ہوش مند سیاست داں اور حکمرانی کے آداب کا حامل شخص تھا۔",
+      "title": "کورنگی ڈیڑھ نمبر زمان پارک کے قریب سے 4 بچوں کے باپ کی تشدد زدہ لاش ملی",
+      "link": "https://www.express.pk/story/2844641/the-tortured-body-of-a-father-of-four-was-found-near-zaman-park-in-korangi-1-2844641",
+      "description": "مقتول کے سر ، آنکھوں اور جسم کے مختلف حصوں پربہیمانہ تشدد کیا گیا تھا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Mon, 16 Nov 26 20:50:37 +0500",
+      "date": "Tue, 17 Nov 26 04:48:27 +0500",
       "photo": ""
     },
     {
-      "title": "امریکا و اسرائیل کا جنگی جنون",
-      "link": "https://www.express.pk/story/2844615/america-o-israel-ka-jangi-junoon-2844615",
-      "description": "بین الاقوامی امور کے ماہرین اور مغربی سفارتی ذرائع اس صورتحال کو ایک مختلف زاویے سے بھی دیکھتے ہیں۔",
+      "title": "امریکا خود کو عالمی قوانین سے بالاتر سمجھتا ہے، ایران نے واشنگٹن کو آئینہ دکھا دیا",
+      "link": "https://www.express.pk/story/2844650/iran-accuses-us-of-placing-itself-above-international-law-2844650",
+      "description": "بقائی کے بیان میں امریکا کی ایران پالیسی اور عالمی قوانین کی پابندی سے متعلق سخت تنقید کی گئی ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 16 Nov 26 20:50:38 +0500",
+      "date": "Tue, 17 Nov 26 05:36:44 +0500",
       "photo": ""
     },
     {
-      "title": "خطے میں کشیدگی کم کرنے کیلیے پاکستان کا کردار مثبت ہے، پاک ایران تعلقات کی خصوصی اہمیت ہے، عراقچی",
-      "link": "https://www.express.pk/story/2844606/pakistans-role-in-reducing-tensions-in-the-region-is-positive-pak-iran-relations-are-of-special-importance-says-araqchi-2844606",
-      "description": "اسلام آباد میں وزیر داخلہ اور ایرانی وزیر خارجہ کی ملاقات، تنازع کے حل کیلئے سفارتی محاذ پر مخلصانہ کاوشیں جاری رکھنے پر اتفاق",
+      "title": "واشنگٹن میں ڈرٹی بم حملے کا خطرہ؟ ایران پر ٹرمپ انتظامیہ کو نشانہ بنانے کی منصوبہ بندی کا الزام",
+      "link": "https://www.express.pk/story/2844645/us-intelligence-reportedly-points-to-possible-iranian-dirty-bomb-plot-in-washington-2844645",
+      "description": "اقوام متحدہ میں ایران کے مشن کے ترجمان نے امریکی الزامات کو جھوٹا اور من گھڑت قرار دیتے ہوئے مسترد کردیا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 16 Nov 26 14:11:14 +0000",
+      "date": "Tue, 17 Nov 26 05:23:49 +0500",
       "photo": ""
     },
     {
-      "title": "اسحاق ڈار کی عباس عراقچی سے ملاقات، ای سی او کی ترجیحات اور خطے میں امن کیلیے اقدامات پر گفتگو",
-      "link": "https://www.express.pk/story/2844579/ishaq-dar-meets-abbas-araqchi-agrees-to-implement-eco-priorities-2844579",
-      "description": "رہنماوٴں کا پاک ایران تعاون کو مزید مضبوط بنانے کے عزم کا اظہار، اسحاق ڈار کی ترک نائب وزیر خارجہ سے بھی ملاقات",
+      "title": "ایران کا آبنائے ہرمز کے قریب امریکی ڈرون قبضے میں لینے کا دعویٰ",
+      "link": "https://www.express.pk/story/2844643/irans-revolutionary-guard-claims-capture-of-us-drone-near-strait-of-hormuz-2844643",
+      "description": "ایرانی دعوے کے مطابق ڈرون قشم جزیرے کے جنوب میں آبنائے ہرمز کے قریب پرواز کررہا تھا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Mon, 16 Nov 26 11:24:42 +0000",
+      "date": "Tue, 17 Nov 26 05:05:02 +0500",
       "photo": ""
     },
     {
-      "title": "محسن نقوی اورعباس عراقچی کی ملاقات میں علاقائی امن واستحکام کے لیے مشترکہ اقدامات پراتفاق، ایران پاکستان کے ساتھ اپنے تعلقات کو خصوصی اہمیت دیتا ہے: ایرانی وزیر خارجہ",
-      "link": "https://www.bbc.co.uk/urdu/live/cmlyjkzxel2et?at_medium=RSS&at_campaign=rss",
-      "description": "اعلامیے کے مطابق عباس عراقچی نے خطے میں کشیدگی کم کرنے کے لیے پاکستان کے مثبت کردار کو سراہا۔ ایرانی وزیر خارجہ کا کہنا تھا کہ ’ایران پاکستان کے ساتھ اپنے تعلقات کو خصوصی اہمیت دیتا ہے۔‘",
-      "source": "BBC Urdu",
+      "title": "ایران کے ساتھ طویل جنگ نہیں ہونے دیں گے، امریکی نائب صدر جے ڈی وینس",
+      "link": "https://www.express.pk/story/2844640/jd-vance-says-trump-will-not-allow-a-forever-war-with-iran-2844640",
+      "description": "وینس کا یہ بیان ایسے وقت میں سامنے آیا جب ٹرمپ نے مشرقِ وسطیٰ میں امریکا کا تیسرا طیارہ بردار بحری جہاز بھیج دیا ہے",
+      "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a092/live/e3315de0-e1f0-11f1-a094-5fdc692f3e33.jpg"
+      "date": "Mon, 16 Nov 26 23:40:23 +0000",
+      "photo": ""
     },
     {
-      "title": "امریکا میں نایاب زرد مچھلی کی دریافت، ماہرین حیران",
-      "link": "https://www.express.pk/story/2844607/one-in-a-million-bright-yellow-2844607",
-      "description": "امریکی ادارے فش اینڈ وائلڈ لائف سروس کے ماہرین نے معمول کے آبی سروے کے دوران یہ مچھلی پکڑی",
+      "title": "’رونالڈو کی بے عزتی کی گئی، پرتگال کی شکست پر خوش ہوں‘، والدہ کا حیران کن بیان",
+      "link": "https://www.express.pk/story/2844648/cristiano-wasnt-respected-im-happy-portugal-lost-ronaldos-mother-2844648",
+      "description": "پرتگال نے ڈنمارک کے خلاف میچ سے قبل رونالڈو کو خراج تحسین پیش کیا تھا تاہم وہ تقریب میں موجود نہیں تھے",
       "source": "Express Urdu",
       "cat": "Strange",
-      "date": "Mon, 16 Nov 26 19:44:38 +0500",
-      "photo": ""
-    },
-    {
-      "title": "بھارتی رکشہ ڈرائیور نے ہانیہ عامر کی تصویر سجا لی، ویڈیو سوشل میڈیا پر وائرل",
-      "link": "https://www.express.pk/story/2844587/indian-rickshaw-driver-decorates-hania-aamir-photo-video-goes-viral-on-social-media-2844587",
-      "description": "اس منظر نے سوشل میڈیا صارفین کی توجہ حاصل کرلی اور کئی افراد نے اس پر دلچسپ تبصرے کیے",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Mon, 16 Nov 26 16:53:34 +0500",
+      "date": "Tue, 17 Nov 26 05:31:30 +0500",
       "photo": ""
     }
   ],
@@ -300,7 +291,8 @@
     {
       "source": "Geo Urdu",
       "added": 0,
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Express Urdu",
@@ -330,7 +322,7 @@
     },
     {
       "source": "CNN",
-      "added": 34,
+      "added": 35,
       "ok": true
     },
     {
