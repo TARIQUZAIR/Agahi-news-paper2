@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T19:54:26.554738+00:00",
-  "count": 33,
+  "generated_at": "2026-11-19T02:14:07.838744+00:00",
+  "count": 28,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,9 +12,46 @@
     "Strange": 2
   },
   "shortages": {
+    "Economy": 5,
     "Strange": 2
   },
   "items": [
+    {
+      "title": "پاکستان ہائی کمیشن سے لندن میں مقیم پاکستانیوں کے لیے بڑی خبر سامنے آ گئی",
+      "link": "https://www.express.pk/story/2844998/important-news-has-emerged-from-the-pakistan-high-commission-for-pakistanis-living-in-london-2844998",
+      "description": "معطل شدہ خدمات دوبارہ شروع کرنے کے حوالے سے آئندہ اطلاع کے ذریعے آگاہ کیا جائے گا، پاکستانی ہائی کمیشن",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 18 Nov 26 20:27:04 +0000",
+      "photo": ""
+    },
+    {
+      "title": "امریکی تحقیقاتی ادارے نے دنیا میں اسلام کے 2035 تک غلبے کی پیش گوئی کر دی",
+      "link": "https://www.express.pk/story/2844996/an-american-research-organization-has-predicted-that-islam-will-become-the-dominant-religion-globally-by-2035-2844996",
+      "description": "پاکستان انڈونیشیا کو پیچھے چھوڑ کر دنیا کی سب سے بڑی مسلم آبادی والا ملک بن سکتا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 01:09:47 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کپاس کی پیداوار میں محدوداضافہ ریکارڈ، معیار بری طرح متاثر",
+      "link": "https://www.express.pk/story/2844985/limited-increase-in-cotton-production-recorded-quality-severely-affected-2844985",
+      "description": "پنجاب میں اس وقت 203 اورسندھ میں 207 جننگ فیکٹریاں فعال ہیں",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 18 Nov 26 16:00:22 +0000",
+      "photo": ""
+    },
+    {
+      "title": "چلے بھی آؤ",
+      "link": "https://www.express.pk/story/2844977/do-come-along-2844977",
+      "description": "مقبرہ جہانگیر آج بھی لاہور کے حسن میں شمار کیا جاتاہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Wed, 18 Nov 26 19:26:12 +0500",
+      "photo": ""
+    },
     {
       "title": "کراچی میں سیف سٹی منصوبے کا پہلا فیز مکمل",
       "link": "https://www.express.pk/story/2844957/karachi-safe-city-1st-phase-is-completed-2844957",
@@ -31,51 +68,6 @@
       "source": "Express Urdu",
       "cat": "National",
       "date": "Wed, 18 Nov 26 17:54:28 +0500",
-      "photo": ""
-    },
-    {
-      "title": "بلاول بھٹو نے کراچی کے ماضی کو دیکھتے ہوئے خونریزی کے تناظر میں بات کی، وزیراعلیٰ سندھ",
-      "link": "https://www.express.pk/story/2844950/cm-murad-ali-shah-defend-bilawal-blood-sheed-statment-2844950",
-      "description": "نئے صوبے احسن اقبال نہیں بنا سکتے بلکہ سندھ اسمبلی کی دو تہائی اکثریت سے بنیں گے، مراد علی شاہ",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 26 12:16:49 +0000",
-      "photo": ""
-    },
-    {
-      "title": "خیبرپختونخوا؛ اتائیوں کے خلاف کارروائیاں تیز، 4 روز میں 105 میڈیکل سینٹرز سیل",
-      "link": "https://www.express.pk/story/2844948/kp-105-medical-centers-sealed-in-4-days-2844948",
-      "description": "پشاور سمیت دیگر شہروں میں 70 طبی مراکز کو حکم جواز جاری کردیا گیا ہے، ترجمان خیبرپختونخوا ہیلتھ کیئر کمیشن",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 26 16:48:38 +0500",
-      "photo": ""
-    },
-    {
-      "title": "ریفرنڈم غیرآئینی ہے، مرضی کا ماحول بنا کر زور زبردستی سے بات نہیں بنے گی، بلاول بھٹو زرداری",
-      "link": "https://www.express.pk/story/2844946/referendum-is-unconstitutional-trying-to-force-the-issue-by-creating-a-favourable-environment-will-not-work-says-bilawal-bhutto-zardari-2844946",
-      "description": "کہیں اورنہیں پوچھا جاسکتا سندھ میں نیا صوبہ ہوناچاہیے یا نہیں، جی بی اور جنوبی پنجاب کا الگ تناظر ہے، چیئرمین پی پی پی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 26 11:29:34 +0000",
-      "photo": ""
-    },
-    {
-      "title": "پنجاب اسمبلی نے تھیٹرز ایکٹ منظور کرلیا، فحش اور بے ہودہ پرفارمنس پر پابندی ہوگی",
-      "link": "https://www.express.pk/story/2844943/punjab-assembly-passes-theater-act-2844943",
-      "description": "موجودہ تھیٹر کا ماحول معاشرے کی اخلاقیات کے مطابق نہیں ہے، ایکٹ کا مقصد فیملیز کو بھی لانا ہے تاکہ کوئی سبق مل سکے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 26 16:08:20 +0500",
-      "photo": ""
-    },
-    {
-      "title": "عالمی سب میرین کیبل میں خرابی، پاکستان میں انٹرنیٹ سروس جزوی تعطل کا شکار",
-      "link": "https://www.express.pk/story/2844942/fault-in-global-submarine-cable-leads-to-partial-disruption-of-internet-services-in-pakistan-2844942",
-      "description": "پاکستان کے ساحل سے تقریباً 11 کلومیٹر کے فاصلے پر کیبل میں خرابی کی نشاندہی ہوئی ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 26 11:06:15 +0000",
       "photo": ""
     },
     {
@@ -106,48 +98,39 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg"
     },
     {
-      "title": "Pakistan eyes bigger role for Islamic finance in economic growth - Mettis Global",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXVqZkNnLTRQcWdnX3M1YjN3LXdrbWVmXzk2VDA2RUd4dl9rSU4wV1c3Ujl4RlV6RnNVXzRCV2c1WlpzTmRCMG9rQjlVdTQteUlwS3ByUGJYRzUzLXN6QmhMU0ZVU3R2VUpqc05sZ1dNU29QMzUxekFmRU5XQVdkYnB0U3NaVzdtV1UxZmtwOFlBRTdQTWw3d0NXbVI?oc=5",
-      "description": "Pakistan eyes bigger role for Islamic finance in economic growth Mettis Global",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 18 Nov 2026 10:58:00 GMT",
+      "title": "’کراچی کی سڑکوں پر خون بہے گا‘: محسن نقوی کی ریفرنڈم کی تجویز پر بلاول بھٹو نے سخت جواب کیوں دیا؟",
+      "link": "https://www.bbc.com/urdu/articles/c6dj1gv0yp08o?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان میں نئے صوبوں کے قیام سے متعلق بحث ایک بار پھر شدت اختیار کر گئی ہے۔ وفاقی وزیر داخلہ محسن نقوی نے نئے صوبے بنانے کے لیے ریفرنڈم کرانے کی تجویز دی ہے، جبکہ چیئرمین پیپلز پارٹی بلاول بھٹو نے اس کی مخالفت کرتے ہوئے کہا ہے کہ آئین میں نئے صوبوں کے قیام کا واضح طریقۂ کار موجود ہے اور کسی غیر آئینی راستے کی حمایت نہیں کی جا سکتی۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Tue, 17 Nov 2026 15:25:34 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8701/live/0c1b4cc0-e29b-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "مولانا فضل الرحمن کے قریبی ساتھی مفتی ابرار کے ناقابل ضمانت وارنٹ گرفتاری جاری، پولیس کے چھاپے",
+      "link": "https://www.express.pk/story/2844995/non-bailable-arrest-warrants-issued-for-mufti-abrar-a-close-associate-of-maulana-fazl-ur-rehman-police-conduct-raids-2844995",
+      "description": "گرفتاری کے لیے اسلام آباد پولیس نے چھاپے شروع کردیے ہیں",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Wed, 18 Nov 26 19:45:41 +0000",
       "photo": ""
     },
     {
-      "title": "Pakistan eyes bigger role for Islamic finance in economic growth - Investify",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEwyV0JlRDl3WkJGNEdFbUozWGpOcDdJYXJLTUJZOVVWRFpNeU52SzdURGg3NDdSZmF3WEZpTjRQMEJaNE1tRUpEMTNvZUNSWko5Sll2UmxRSUM2LUxpS2JfSUk3TXdpeVZ2N3loMTZVczZoSVRjU3lKSHVEeGJwMVZjRDJvWFlIZTJoNklZNURmb2Q5Mm9kcVN4WXNIbmV6emFVZTBOZ3hnV0k?oc=5",
-      "description": "Pakistan eyes bigger role for Islamic finance in economic growth Investify",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 18 Nov 2026 11:24:08 GMT",
+      "title": "لاہور سیالکوٹ موٹروے پر کار میں آتشزدگی، 2 افراد زخمی",
+      "link": "https://www.express.pk/story/2844987/car-catches-fire-on-lahore-sialkot-motorway-2-people-injured-2844987",
+      "description": "موٹروے پولیس اور ریسکیو ٹیموں نے موقع پر پہنچ کر آگ پر قابو پایا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Wed, 18 Nov 26 21:20:53 +0500",
       "photo": ""
     },
     {
-      "title": "Pakistan Eyes G20 Membership as Investment Minister Calls for Long-Term Economic Reforms - Energy Update",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlQ0LWZuS2gxMFlHa0RLM09ZSzh3TU8tZHFubFU1bExHbXRnSm40d3dsek8zNUlmYzJrVVMzR3A1RDRkOUpWVVUzZ3h3dV9PR25JSGR2bDd5MXNEWHVtM3JIcDVtMzFEclZyS3VPeGF5c0pFUmdiZnhnX2RDZHJUWFExWjVFZmxJeDJsbGtNOVdpWnhsakw2blRSeF9OaXI2US14NjA3azNzUTdxSFRxMWYzSTlVN3dMOXg3M2p3?oc=5",
-      "description": "Pakistan Eyes G20 Membership as Investment Minister Calls for Long-Term Economic Reforms Energy Update",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 18 Nov 2026 07:32:07 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan’s economy projected to grow 3.5 to 4.5 percent - The Peninsula Qatar",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXIxbDA5amdwSm1LbzI3S3pJZkpHS0RTTVZwSHlEX0RxU2I0aFZBNjE1RTQ4cDUteWlBcVZwS01rNmEtOE1MTWlTUVVpejhlaDRZSkRvcVlXYkJCSVQtM0ZsWVlTd3JqVGVSc1ZIX21Pc0cxZU5CM2lWS1pPdF9DYkNEWnd6RV8tcFhsUEpqaDU3TDg0WHI1WmlaZUlZX0FZbXlB?oc=5",
-      "description": "Pakistan’s economy projected to grow 3.5 to 4.5 percent The Peninsula Qatar",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 18 Nov 2026 06:39:38 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan's economy shows resilience despite global shocks: SBP - Mettis Global",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkt1VmMzQzBvaDVXR1Z3MGV6T0Q5VUVrRUxJNnd0ZmplRWJGdHFmOXh5UVBGbTk2UzBIYkEydEVuaUwtTEdNUDJUeElFM2NKV2tySEV6akotS19HQmdfNTRfU19lLXA2TlgwWElZX2drWU81N1ctbGZoM0RsZjQzZ2FMYlBGS09sbG9Jb00yRXlsNFdyLUYw?oc=5",
-      "description": "Pakistan's economy shows resilience despite global shocks: SBP Mettis Global",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Tue, 17 Nov 2026 10:17:00 GMT",
+      "title": "لاہور میں سنگین جرائم کی وارداتوں میں 45 فیصد کمی",
+      "link": "https://www.express.pk/story/2844982/lahore-crime-rate-decline-claim-by-police-2844982",
+      "description": "ڈکیتی کی وارداتوں میں 47 فیصد اور رابری کے واقعات میں 68 فیصد، قتل کے واقعات میں 80 فیصد کمی ہوئی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Wed, 18 Nov 26 19:48:52 +0500",
       "photo": ""
     },
     {
@@ -169,33 +152,6 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c869/live/15b38790-e2f8-11f1-a6f3-43b2e0f645be.png"
     },
     {
-      "title": "اسلام آباد میں گھریلو ملازمہ کے قتل کا مقدمہ: 13 سالہ فاطمہ کے جسم پر تشدد کے 20 سے زائد نشانات، گھر سے سی سی ٹی وی فوٹیج اور ڈنڈے برآمد",
-      "link": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
-      "description": "پوسٹ مارٹم رپورٹ کے مطابق 13 سالہ فاطمہ کے جسم پر تشدد کے کم از کم 20 نشانات پائے گئے ہیں۔ پوسٹ مارٹم کرنے والی میڈیکو لیگل افسر کی رائے کے مطابق فاطمہ کی موت بار بار کیے جانے والے جسمانی تشدد کے نتیجے میں آنے والی شدید چوٹوں سے ہوئی۔",
-      "source": "BBC Urdu",
-      "cat": "Crime",
-      "date": "Tue, 17 Nov 2026 06:40:10 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83b4/live/d52c5740-e18c-11f1-952d-674f3722bb9f.jpg"
-    },
-    {
-      "title": "IEA Condemns Pakistan’s Airstrikes as a Crime Against Humanity - TOLOnews",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82OXIwQXFhV0Z6TGIxUmdaVkVkMGR0QnkxV2lXajBzLU92YU1ZcWlLaFByT3pGYVNhWTkwX2NzWUVWamc1cDY3OWVrUUN2cTFQeTdEcXRB?oc=5",
-      "description": "IEA Condemns Pakistan’s Airstrikes as a Crime Against Humanity TOLOnews",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Mon, 16 Nov 2026 19:58:55 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Youth Arrested in Lahore Over Alleged Online Harassment of 9-Year-Old Girl - UrduPoint",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmk1YXRKa3RiSTA2NjF2djJwblJBZjdpa011aEFXV1FIQWtmUWt4UlREZC1meDh1THN5bWEyd0VrelIxODQydlA4dUI2VEZvYTNNRWZ0SFdMVk1CVkI0Z05rT3loRWNLVzBMMGJhYm1HQ3JWUTNqTDUyeEk0U21oWTBoSnQ0dkN6QlM5SnFJT2N1MEV1YTF4MTBOUzB2S3B0SWVfM19jV0RGZw?oc=5",
-      "description": "Youth Arrested in Lahore Over Alleged Online Harassment of 9-Year-Old Girl UrduPoint",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Wed, 18 Nov 2026 16:54:28 GMT",
-      "photo": ""
-    },
-    {
       "title": "بلاول کا محسن نقوی پر طنز: ’اگر صوبے کو تقسیم ہونا ہے تو کیا صرف چیئرمین پی سی بی کو اس پر بات کرنے کا حق ہے؟‘",
       "link": "https://www.bbc.co.uk/urdu/live/c5gm3y1rvmrxt?at_medium=RSS&at_campaign=rss",
       "description": "پاکستان پیپلز پارٹی کے چیئرمین بلاول بھٹو نے ایک انٹرویو میں وفاقی وزیر داخلہ اور چیئرمین پاکستان کرکٹ بورڈ (پی سی بی) محسن نقوی پر طنز کرتے ہوئے کہا ہے کہ ’کیا صرف چیئرمین پی سی بی کو یہ حق حاصل ہے‘ کہ وہ صوبوں کی تقسیم اور نظام کی تبدیلی جیسے معاملات پر بات کریں۔",
@@ -214,12 +170,12 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/94b0/live/b9391640-e349-11f1-99aa-0f40b013ad11.jpg"
     },
     {
-      "title": "[beIN SPORTS TV ]] 2026 India vs. Pakistan matches live broadcast - Comité Asesor de Vacunas de la AEP",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeUdfVWFBcDYweGktanVST2Q3ajAwYW9VS3oyZW9aLWd2M0VoN1FkWVBIT0NVenM0eEhOQzNLZ29ldUtVMklRak9aTlZvZXJzNHNvRnl4TGN4c2hKTnRRRmF3d2RudDJRNF9RMWduWkF0eHBkQ1htd2pXTHZYTkFkMDZoekNUUkt3U0xRU1ZZZ3l1cWFYY2xycnFtakFwWmcxNjVMOEVJTlg2TXI0WWQwSzh5dkh4U0hIanQwMEFNQ2g4NS1Pdko0U295cm1oanExQjA1N1VCYXIwbFVuRmlPOXlTMlc0NUxjNzFmdFdhRktqaTVDUlhYMEJ6Y1pvalRPWDE2NXRyWFdtUW9k?oc=5",
-      "description": "[beIN SPORTS TV ]] 2026 India vs. Pakistan matches live broadcast Comité Asesor de Vacunas de la AEP",
+      "title": "Pakistan vs Sri Lanka, 2nd Test Day 2 Highlights - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTl3UjVjRDVPV3NjeGwwenlrMnlJYVJVSE1FdDF2WjN5ak1GYVZNLXFjQy1jT1ZkMWJuTWhhYWNJR05SUmVxQnFlU2Q5YlJQMTJ3d0NEaVlleWVPNWVYSHMxX1R4SWJtajllQ3M0VUtQVmQ2QVUtZzdLcUpfMVp0YW1NVG9yQmJxa1gtNlZCbTRfNWx1VXpEdjRjVTY?oc=5",
+      "description": "Pakistan vs Sri Lanka, 2nd Test Day 2 Highlights NDTV Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Tue, 17 Nov 2026 13:54:01 GMT",
+      "date": "Wed, 18 Nov 2026 15:20:00 GMT",
       "photo": ""
     },
     {
@@ -241,48 +197,66 @@
       "photo": ""
     },
     {
-      "title": "ارجنٹائن: فٹبال میچ کے دوران گیند سر پر لگنے سے نوجوان کھلاڑی ہلاک",
-      "link": "https://www.express.pk/story/2844979/tragedy-as-youth-footballer-2844979",
-      "description": "واقعے کے بعد فٹبالر کو بے ہوشی حالت میں اسپتال منتقل کیا گیا جہاں وہ جانبر نہ ہوسکا",
+      "title": "آئی ایم ایف پروگرام میں موجودگی سرمایہ کاروں کیلیے باعث اطمینان",
+      "link": "https://www.express.pk/story/2844994/presence-in-imf-program-brings-satisfaction-to-investors-2844994",
+      "description": "معاشی استحکام کے لیے پالیسیوں میں تسلسل اور مالیاتی نظم و ضبط ناگزیر، ماہرین",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 18 Nov 26 19:34:15 +0500",
+      "date": "Wed, 18 Nov 26 18:21:31 +0000",
       "photo": ""
     },
     {
-      "title": "گنج پن ختم کرنے کے لیے الیکٹرانک کنگھا تیار",
-      "link": "https://www.express.pk/story/2844975/new-electronic-comb-achieves-nearly-2844975",
-      "description": "چوہوں پر کیے گئے تجربات میں کنگھے سے ایک ماہ کے اندر تقریباً 100 فی صد بال دوبارہ اگانے کے نتائج حاصل ہوئے",
+      "title": "قومی بچت کی بعض اسکیموں پر منافع کی شرح میں ردوبدل",
+      "link": "https://www.express.pk/story/2844988/adjustment-in-profit-rates-on-certain-national-savings-schemes-2844988",
+      "description": "اسپیشل سیونگز سرٹیفکیٹ کے پہلے 5 منافعوں کی شرح 11.8 فیصد کر دی گئی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 18 Nov 26 19:19:31 +0500",
+      "date": "Wed, 18 Nov 26 17:21:57 +0000",
       "photo": ""
     },
     {
-      "title": "پی سی بی کا 19 نومبر کو راولپنڈی ٹیسٹ کے لیے فری انٹری کا اعلان",
-      "link": "https://www.express.pk/story/2844969/free-entry-pcb-2844969",
-      "description": "جمعرات کو کرکٹ فینز بغیر ٹکٹ اسٹیڈیم میں داخل ہو سکیں گے",
+      "title": "ملیر کالا بورڈ کے قریب ٹرین کی زد میں آکر ایک شخص جاں بحق",
+      "link": "https://www.express.pk/story/2844986/a-man-died-after-being-struck-by-a-train-near-malir-kala-board-2844986",
+      "description": "جاں بحق ہونے والے شخص کی شناخت 37 سالہ امجد کے نام سے کی گئی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 18 Nov 26 19:11:13 +0500",
+      "date": "Wed, 18 Nov 26 21:04:49 +0500",
       "photo": ""
     },
     {
-      "title": "بھارتی گلوکار کے گانے پر ہانیہ عامر کی موج مستیاں؛ کیپشن نے میلہ لوٹ لیا",
-      "link": "https://www.express.pk/story/2844964/hania-aamir-karan-aujla-ashke-video-viral-2844964",
-      "description": "ہانیہ عامر کی میوزک کنسرٹ سے گلوکار بادشاہ اور کرن اوجلا کیساتھ تصاویر بھی وائرل ہوئی تھیں",
+      "title": "بچوں کے خلاف تشدد کے مقدمات کیلیے ملک میں 13 چائلڈ کورٹس قائم، 45 جووینائل جسٹس کمیٹیاں فعال",
+      "link": "https://www.express.pk/story/2844984/13-child-courts-form-and-operational-in-pakistan-2844984",
+      "description": "2019 سے 2021 کے دوران 661 بچوں کے مقدمات متبادل طریقہ کار کے تحت حل کیے گئے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Wed, 18 Nov 26 18:37:16 +0500",
+      "date": "Wed, 18 Nov 26 14:56:10 +0000",
       "photo": ""
     },
     {
-      "title": "نہ فردِ جرم، نہ مقدمہ؛ غزہ کے ڈاکٹر کو مزید چھ ماہ جیل میں رکھنے کا حکم",
-      "link": "https://www.express.pk/story/2844978/israel-extends-hussam-abu-safiya-detention-six-months-2844978",
-      "description": "ڈاکٹر حسام ابو صفیہ",
+      "title": "شدید دھند کے باعث موٹروے ایم 4 مختلف مقامات سے ٹریفک کے لیے بند",
+      "link": "https://www.express.pk/story/2844997/motorway-m4-closed-to-traffic-from-various-locations-due-to-heavy-fog-2844997",
+      "description": "صبح 10 بجے سے شام 6 بجے کے درمیان سفر زیادہ موزوں ہے، ترجمان موٹر وے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Wed, 18 Nov 26 19:27:08 +0500",
+      "date": "Wed, 18 Nov 26 20:15:45 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ڈبلیو ڈبلیو ای کے لیجنڈ ریسلر 87 برس کی عمر میں انتقال کر گئے",
+      "link": "https://www.express.pk/story/2844983/wwe-hall-of-famer-dubbed-cowboy-dies-2844983",
+      "description": "ریسلر ’کاؤ بوائے‘ بل واٹس 2009 میں ڈبلیو ڈبلیو ای ہال آف فیم میں شامل کیا گیا",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Wed, 18 Nov 26 19:49:01 +0500",
+      "photo": ""
+    },
+    {
+      "title": "نہ فردِ جرم، نہ مقدمہ؛ غزہ اسپتال کے ایم ایس کو مزید 6 ماہ جیل میں رکھنے کا حکم",
+      "link": "https://www.express.pk/story/2844978/israel-extends-hussam-abu-safiya-detention-six-months-2844978",
+      "description": "عدالت نے یہ فیصلہ ڈاکٹر حسام ابو صفیہ کو اسرائیل کی ریاست کے لیے خطرہ قرار دیتے ہوئے سنایا۔",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Wed, 18 Nov 26 14:27:08 +0000",
       "photo": ""
     },
     {
@@ -291,26 +265,8 @@
       "description": "کویتی فوج کے بقول ملک کی فضائی دفاعی تنصیبات نے دشمن ملک کے ڈرونز کو فضا میں ہی ناکارہ بناکر حملوں کو ناکام بنادیا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Wed, 18 Nov 26 14:08:27 +0000",
+      "date": "Wed, 18 Nov 26 19:08:27 +0500",
       "photo": ""
-    },
-    {
-      "title": "سندھ: فورتھ شیڈول میں شامل افراد کی تعداد 149 ہوگئی",
-      "link": "https://www.express.pk/story/2844965/sindh-number-of-individuals-included-in-the-fourth-schedule-has-reached-149-2844965",
-      "description": "مزید 16 افراد کے نام فہرست میں شامل کرنے کی سفارش، 6 افراد تاحال گرفت میں نہ آسکے",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Wed, 18 Nov 26 19:04:32 +0500",
-      "photo": ""
-    },
-    {
-      "title": "جوڑوں کے درد سے پیٹ کی ضدی چربی تک: جنوبی ایشیائی خواتین میں پیری مینوپاز کی وہ علامات جنھیں اکثر نظرانداز کر دیا جاتا ہے",
-      "link": "https://www.bbc.com/urdu/articles/ck1ewz08p88go?at_medium=RSS&at_campaign=rss",
-      "description": "توجہ مرکوز کرنے میں دشواری، گفتگو کے دوران الفاظ بھول جانا یا چیزیں یاد رکھنے میں مشکل پیش آنا پیری مینوپاز کی عام ذہنی علامات میں شامل ہیں۔ تاہم جنوبی ایشیائی خواتین میں ان علامات کو اکثر ذہنی دباؤ، مصروف طرز زندگی یا بڑھتی عمر کا حصہ سمجھ کر نظرانداز کر دیا جاتا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "Middle East",
-      "date": "Wed, 18 Nov 2026 14:36:49 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd3c/live/f3e2b760-e326-11f1-baab-4b3b35d174b7.jpg"
     }
   ],
   "sources": [
@@ -347,8 +303,9 @@
     },
     {
       "source": "CNN",
-      "added": 35,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Sports Pakistan",
@@ -357,8 +314,9 @@
     },
     {
       "source": "Pakistan Economy",
-      "added": 35,
-      "ok": true
+      "added": 0,
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "source": "Pakistan Crime",
