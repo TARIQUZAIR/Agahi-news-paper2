@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T10:52:02.272500+00:00",
-  "count": 34,
+  "generated_at": "2026-11-20T19:34:13.375116+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,99 +11,106 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 1
-  },
+  "shortages": {},
   "items": [
     {
-      "title": "طلبہ یونین کے فوری انتخابات کیلئے سندھ اسمبلی میں جماعت اسلامی کی قرارداد جمع",
-      "link": "https://www.express.pk/story/2845264/jamaat-islami-submit-resulution-in-sindh-assemby-for-students-union-elections-2845264",
-      "description": "حکومت سندھ انتخابات کی تاریخوں کا اعلان کرے اور صوبے بھر میں انتخابی عمل کا آغاز یقینی بنائے، محمد فاروق",
+      "title": "ترک تحقیقی جہاز تیل و گیس کی تلاش کیلیے سندھ و مکران کے سمندر میں سیسمک سروے کریگا",
+      "link": "https://www.express.pk/story/2845311/turkish-research-vessel-to-conduct-survey-for-oil-and-gas-exploration-in-indus-and-makran-seas-2845311",
+      "description": "سروے کے نتائج تیل و گیس کی تلاش اور ڈرلنگ میں معاونت کرینگے، ترک وزیر؛ وزیراعظم کی جانب سے دیے گئے عشائیے میں شرکت",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 04:25:47 +0000",
+      "date": "Fri, 20 Nov 26 10:08:13 +0000",
       "photo": ""
     },
     {
-      "title": "اقوام متحدہ کے ای گورنمنٹ ڈویلپمنٹ انڈیکس 2026 میں پاکستان کی عالمی درجہ بندی میں 17 درجے بہتری",
-      "link": "https://www.express.pk/story/2845263/pakistans-global-ranking-in-the-un-e-government-development-index-2026-improves-by-17-places-2845263",
-      "description": "پاکستان نے گزشتہ چار سال کے دوران اقوام متحدہ کے ای گورنمنٹ ڈویلپمنٹ انڈیکس میں مسلسل بہتری کا سفر جاری رکھا ہے",
+      "title": "ایشیا کپ رائزنگ اسٹار: پاکستان نے یو اے ای کو شکست دیدی",
+      "link": "https://www.express.pk/story/2845306/pak-beat-uae-2845306",
+      "description": "یو اے ای کی ٹیم 246 رنز کے تعاقب میں 184 رنز بنا کر آؤٹ",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 03:44:17 +0000",
+      "date": "Fri, 20 Nov 26 14:20:17 +0500",
       "photo": ""
     },
     {
-      "title": "اسلام آباد ہائیکورٹ میں اسسٹنٹ رجسٹرار محمد اسد خان کو ڈپٹی رجسٹرار کے عہدے پر ترقی دے دی گئی",
-      "link": "https://www.express.pk/story/2845262/assistant-registrar-muhammad-asad-khan-has-been-promoted-to-the-position-of-deputy-registrar-at-the-islamabad-high-court-2845262",
-      "description": "نئی افسران کی ترقیوں کی منظوری دے گئی۔ سلیکشن کمیٹی کی سفارش پر چیف جسٹس سرفراز ڈوگر نے ترقی کی منظوری دے",
+      "title": "جعفر ایکسپریس کی سروس عارضی معطل رکھنے کا فیصلہ",
+      "link": "https://www.express.pk/story/2845303/jaffer-express-service-suspend-for-21-nov-2845303",
+      "description": "تکنیکی وجوہات کی بنیاد پر 21 نومبر کو کوئٹہ سے پشاور جانے والی جعفر ایکسپریس کی سروس بند رہے گی، ریلوے ذرائع",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 08:44:14 +0500",
+      "date": "Fri, 20 Nov 26 13:28:27 +0500",
       "photo": ""
     },
     {
-      "title": "ہمیں مشورہ دینے والے پہلے خود اپنے صوبے میں مزید صوبے بنائیں، سعید غنی",
-      "link": "https://www.express.pk/story/2845260/those-advising-us-should-first-create-more-provinces-in-their-own-province-saeed-ghani-2845260",
-      "description": "مجھے بہت حیرت ہوتی ہے خاص طور پر ان لیڈر پر جن کا تعلق صوبہ سندھ سے نہیں ہے، وزیر محنت کی گفتگو",
+      "title": "اقوام متحدہ میں بھارت کے غیرسفارتی اوربے بنیاد ریمارکس کسی توجہ کے لائق نہیں، دفتر خارجہ",
+      "link": "https://www.express.pk/story/2845300/pakistan-reject-india-remarks-in-india-2845300",
+      "description": "پاکستان نے بھارتی ریمارکس کو مسترد کرتے ہوئے اسے اندرونی معاملات میں مداخلت اور عالمی قوانین کی خلاف ورزی قرار دے دیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 03:17:35 +0000",
+      "date": "Fri, 20 Nov 26 08:15:06 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان نے حیران تو نہیں کیا لیکن ان کی بولنگ اچھی رہی، کوشال مینڈس",
-      "link": "https://www.express.pk/story/2845259/pakistan-didnt-exactly-surprise-us-but-their-bowling-was-good-says-kusal-mendis-2845259",
-      "description": "ہمیں بیٹنگ اور بولنگ دونوں میں کچھ ایریاز کو بہتر کرنے کی ضرورت ہے، کوشال مینڈس",
+      "title": "فارن میڈیکل گریجویٹس پاکستانی ڈاکٹرز کی رجسٹریشن ایگزامینشن کے لیے نیا شیڈول جاری",
+      "link": "https://www.express.pk/story/2845296/new-schedule-released-for-the-registration-examination-for-foreign-educated-pakistani-doctors-2845296",
+      "description": "این آر ای اسٹیپ ٹو رجسٹریشن پورٹل 23 نومبر کو کھل جائے گا، رجسٹریشن دو دسمبر تک ہوگی، امتحان دسمبر اور جنوری میں ہونگے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 08:08:32 +0500",
+      "date": "Fri, 20 Nov 26 12:48:59 +0500",
       "photo": ""
     },
     {
-      "title": "صوبے کی جغرافیائی وحدت پر کوئی سمجھوتہ نہیں ہوگا، سندھ کے تمام میئرز کا مشترکہ اعلان",
-      "link": "https://www.express.pk/story/2845258/sindh-mayors-joint-press-confrence-2845258",
-      "description": "پیپلز پارٹی کے میئرز کی ایم کیو ایم پاکستان کے چیئرمین خالد مقبول صدیقی پر کڑی نکتہ چینی",
+      "title": "ٹیلی کام کمپنیوں کی موبائل سائٹس کا معائنہ، ناقص ترین انتظامات کا انکشاف",
+      "link": "https://www.express.pk/story/2845291/pta-survey-reveals-the-worst-arrangements-in-the-mobile-sites-of-telecom-companies-2845291",
+      "description": "معائنہ کراچی،لاہور،بہاولپور،کوئٹہ،پنڈی،اسلام آباد،چارسدہ،پشاور،میرپور،اسکردو،کھرمنگ،ہری پور،مانسہرہ،گوادر میں کیا گیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 03:02:37 +0000",
+      "date": "Fri, 20 Nov 26 06:48:38 +0000",
       "photo": ""
     },
     {
-      "title": "لاہور ہائیکورٹ کا افغان طلبہ کو میڈیکل کالجز سے نکالنے کیخلاف تمام درخواستیں یکجا کرنے کا حکم",
-      "link": "https://www.express.pk/story/2845255/lhc-adjourns-afghan-medical-students-case-till-november-26-2845255",
-      "description": "عدالت نے درخواستوں پر مزید سماعت 26 نومبر تک ملتوی کردی",
+      "title": "کراچی: گل پلازہ کو مسمار کرنے کیلئے ٹیکنیکل بڈز کھول دی گئیں",
+      "link": "https://www.express.pk/story/2845290/gul-plaza-fire-incident-2845290",
+      "description": "کامیاب بولی دہندہ کا اعلان 24 نومبر کو کیا جائے گا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 02:46:46 +0000",
+      "date": "Fri, 20 Nov 26 11:44:47 +0500",
       "photo": ""
     },
     {
-      "title": "پشاور کے طبی ماہرین کی دو اہم تحقیقیات بین الاقوامی طبی جرائد میں شائع",
-      "link": "https://www.express.pk/story/2845252/peshawar-medical-experts-achieve-two-research-breakthroughs-2845252",
-      "description": "حیات آباد میڈیکل کمپلیکس کے ماہرین کی یہ ریسرچز ملیریا اور جلنے کے بعد ہاتھوں کی سرجری سے متعلق ہیں",
+      "title": "صوبوں کے قیام اور ریفرنڈم کی بات کرنا کوئی غیر آئینی عمل نہیں ہے، علی خورشیدی",
+      "link": "https://www.express.pk/story/2845286/discussing-the-creation-of-provinces-and-referendums-is-not-unconstitutional-ali-khurshidi-2845286",
+      "description": "پیپلز پارٹی اپنے مفادات کے مطابق آئین اور جمہوریت کی تشریح کرتی ہے، رہنما ایم کیو ایم پاکستان",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 07:38:14 +0500",
+      "date": "Fri, 20 Nov 26 11:25:43 +0500",
       "photo": ""
     },
     {
-      "title": "پاکستان کے معدنیات کے شعبے میں سرمایہ کاری کے لیے تیار ہیں، امریکا کا اعادہ",
-      "link": "https://www.express.pk/story/2845250/us-reaffirms-readiness-to-invest-in-pakistans-minerals-sector-2845250",
-      "description": "پاکستانی شہریوں کے لیے روزگار اور تربیت کے نئے مواقع پیدا ہوں گے، ترجمان امریکی سفارت خانہ",
-      "source": "Express Urdu",
+      "title": "’پاکستانی وزیر کو بریانی اور کباب کھلائے جا رہے ہیں‘: مصدق ملک کے انڈیا کے دورے پر کانگریس رہنماؤں کی تنقید",
+      "link": "https://www.bbc.com/urdu/articles/cqx2wr9ed721o?at_medium=RSS&at_campaign=rss",
+      "description": "شنگھائی تعاون تنظیم (ایس سی او) کے سیولائزیشنل ڈائیلاگ فورم میں شرکت کے لیے پاکستان کے وفاقی وزیر مصدق ملک نئی دلی پہنچے تو انڈیا میں سیاسی بحث چھڑ گئی۔ کانگریس نے مودی حکومت کو تنقید کا نشانہ بنایا جبکہ انڈین حکومت نے مؤقف اختیار کیا کہ ایس سی او کے تمام رکن ممالک کو دعوت دینا اس کی ذمہ داری ہے۔",
+      "source": "BBC Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 02:27:06 +0000",
-      "photo": ""
+      "date": "Fri, 20 Nov 2026 14:32:57 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41d0/live/1a835500-e4ee-11f1-8781-bf15c9202663.jpg"
     },
     {
-      "title": "بلوچستان کے بے روزگار نوجوانوں کو وفاقی محکموں میں روزگار دینے کا مشن شروع",
-      "link": "https://www.express.pk/story/2845239/mission-launched-to-provide-jobs-in-federal-departments-to-unemployed-youth-of-balochistan-2845239",
-      "description": "بلوچستان میں بھرتیوں کے عمل کی نگرانی 100 سے زائد وفاقی کمیٹی کے ممبران سمیت متعلقہ حکام کریں گے",
-      "source": "Express Urdu",
+      "title": "رحمان گل: حکومتِ بلوچستان کو مطلوب ’پاکستانی فوج کا حصہ رہنے والے‘ بی ایل اے کے نئے کمانڈر کون ہیں؟",
+      "link": "https://www.bbc.com/urdu/articles/c62klx05pwq1o?at_medium=RSS&at_campaign=rss",
+      "description": "رحمان گل کا تعلق اپنے پیشرو بشیر زیب کی طرح بلوچستان کے افغانستان سے متصل سرحدی ضلع نوشکی سے ہے اور وہ آٹھ برس تک پاکستانی فوج میں بطور کمیشنڈ افسر ملازمت بھی کر چکے ہیں۔",
+      "source": "BBC Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 01:40:55 +0000",
-      "photo": ""
+      "date": "Wed, 18 Nov 2026 05:01:47 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg"
+    },
+    {
+      "title": "’لاہوری زیرہ‘ انڈیا میں کولا کمپنیوں کے لیے چیلنج کیسے بنا؟",
+      "link": "https://www.bbc.com/urdu/articles/cm3wg1969d8no?at_medium=RSS&at_campaign=rss",
+      "description": "زیرے والے مشروبات کا یہ بڑھتا ہوا رجحان انڈیا کی غیر الکحل مشروبات کی صنعت کو نئی شکل دے رہا ہے۔ 2024 میں اس مارکیٹ کا حجم 32 ارب ڈالر تھا اور ماہرین کے مطابق 2033 تک اس کے تقریباً دوگنا ہونے کی توقع ہے۔",
+      "source": "BBC Urdu",
+      "cat": "Economy",
+      "date": "Fri, 20 Nov 2026 12:36:32 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
     },
     {
       "title": "’فون کال آئی تو پہلے بیٹی کے پاؤں چھوئے‘: پنجاب کے ٹرک ڈرائیور جن کی 12 کروڑ روپے کی لاٹری نکل آئی",
@@ -133,21 +140,39 @@
       "photo": ""
     },
     {
-      "title": "L’Oréal Highlights Socio-Economic Contributions, Inclusive Development Efforts in Pakistan - Biz Today",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUpHcUY1ekpLSFoxTFpUX2F3dXJhVXRqc0ZURVZEZDlxNFUteG9xd0NjZ0c3dldhM2VKZDhwNERkX0g1ckhMaC1rUHdHd3I4eEJ1MDYyWFkyRVJzUEp2SS0wbm9Ib1FHbGYweVJucEw1UFlBMzdlbUlTalpVMEw4bWJLV1FWTE1oVUdtck5XbENsOWFJUkpNcnFkc05ZMVlRcU9CNmdWX0JlN3paYjhEMzFCcU1hamwwUm00aUhTanpOVmJP?oc=5",
-      "description": "L’Oréal Highlights Socio-Economic Contributions, Inclusive Development Efforts in Pakistan Biz Today",
+      "title": "Civil-Military Coordination Can Help Advance Pakistan’s Economic Interests, says PM - Khyber News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGo2TzN5TmtydWctVGk4MXlkQWU4SmtTYWtiS3dnY1BPT0VFd0R3azYxa0JRekd4RkZ4NTNrOElxdGFVTjNZQ1lYSkwwRV9fczdNdHRHOG1CQ0cxS1VJZW4wQmRqRVhzQ2VrRWhzWFc3a0Nnd2oxNXQ1SU9vaUl3RFlWdTJjcmVMZzFocUthYTdWdk4wVW1HQTFpMnF0SmRWZDFxVS14QQ?oc=5",
+      "description": "Civil-Military Coordination Can Help Advance Pakistan’s Economic Interests, says PM Khyber News",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Thu, 19 Nov 2026 09:44:27 GMT",
+      "date": "Fri, 20 Nov 2026 05:56:56 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan eyes bigger role for Islamic finance in economic growth - Mettis Global",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXVqZkNnLTRQcWdnX3M1YjN3LXdrbWVmXzk2VDA2RUd4dl9rSU4wV1c3Ujl4RlV6RnNVXzRCV2c1WlpzTmRCMG9rQjlVdTQteUlwS3ByUGJYRzUzLXN6QmhMU0ZVU3R2VUpqc05sZ1dNU29QMzUxekFmRU5XQVdkYnB0U3NaVzdtV1UxZmtwOFlBRTdQTWw3d0NXbVI?oc=5",
-      "description": "Pakistan eyes bigger role for Islamic finance in economic growth Mettis Global",
-      "source": "Pakistan Economy",
-      "cat": "Economy",
-      "date": "Wed, 18 Nov 2026 10:58:00 GMT",
+      "title": "اسلام آباد میں سیکیورٹی ہائی الرٹ، راستوں پر چیکنگ سخت",
+      "link": "https://www.express.pk/story/2845314/islamabad-security-high-alert-strict-checking-intensified-at-entry-and-exit-points-2845314",
+      "description": "شہریوں سے گزارش ہے کہ چیکنگ کے دوران پولیس افسران سے تعاون کریں، ترجمان اسلام آباد پولیس",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 26 11:41:08 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی میں ملزم کی گرفتاری کیلیے پنجاب سے آئی پولیس پارٹی پر فائرنگ سے اے ایس آئی زخمی، ایک جاں بحق",
+      "link": "https://www.express.pk/story/2845307/firing-on-punjab-police-party-in-karachi-asi-inured-1-killed-2845307",
+      "description": "سائٹ سپر ہائی وے میں قائم خادم سولنگی گوٹھ ملتان سے آئی پولیس پارٹی پر فائرنگ ہوئی جس میں حمزہ نامی شخص جاں بحق ہوا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 26 14:36:57 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پشاور میں \"آپریشن اسٹریٹ فائٹ‘‘ کا آغاز، چار پولیس مقابلوں میں تین ڈکیت ہلاک، ایک زخمی",
+      "link": "https://www.express.pk/story/2845288/operation-street-fight-begins-in-peshawar-three-dacoits-killed-one-injured-in-four-police-encounters-2845288",
+      "description": "پولیس مقابلے تھانہ پھندو، تھانہ فقیر آباد، تھانہ پہاڑی پورہ اور تھانہ پشتخرہ کی حدود میں ہوئے",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 26 06:30:45 +0000",
       "photo": ""
     },
     {
@@ -160,15 +185,6 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83b4/live/d52c5740-e18c-11f1-952d-674f3722bb9f.jpg"
     },
     {
-      "title": "Lyari Gang War: Crime, Politics and the Questions That Remain Unanswered - Pakistan Matters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3RldjBIMjJFbUY5cGNadXhGNWhVbUVsTVRtWnJwZmZBaXpZOFN0WXpsZEdSRTB0d1RIc1FJU2w3NkdFZ0N3TmdTQTJENGg2ZzhTUGF5QkVJMlR4WEozRFZyNFVLQUNTOGNjaXFJNUNCUzBFTmVPV282NF9BRXk5aEF4d3U0dkpuZlc1Z1Z5cXpCR0NNVU9iUFFDSnc4V2JiT3AtdXlVU0NPYjNTd19Odm9NQkh1Zw?oc=5",
-      "description": "Lyari Gang War: Crime, Politics and the Questions That Remain Unanswered Pakistan Matters",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Thu, 19 Nov 2026 13:56:45 GMT",
-      "photo": ""
-    },
-    {
       "title": "Pakistan: Journalist Shahid Maitla arrested by cybercrime agency - International Federation of Journalists - IFJ",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmNGd25fd0NOdVFYTnJjR2NERy1IVVNjaWIzVGM3MGtLSFpYWC1raWNyVEUyN3M5QlpnWE56ZC13WGVFWXZ1Uk5xZlhXbmREWmlXTUs1Snp3WC1jV2xXVHprR1BJNE5ZNTJuNzZmNnpTY2FKOEtkUDFuSkxNZzJxR19lU1lRQWNHNkJTX3o0WHlKb0k4X0tYME8xVzViU05iUEREd3RjbEpKTXpPYXY5YjVsWVBNd1k?oc=5",
       "description": "Pakistan: Journalist Shahid Maitla arrested by cybercrime agency International Federation of Journalists - IFJ",
@@ -178,147 +194,138 @@
       "photo": ""
     },
     {
-      "title": "NCCIA uncovers alleged Rs1 trillion online gambling and money laundering network, arrests five - Profit by Pakistan Today",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRGwyR0swWkxnczNWQjIzdVdTZVlTMm9NdXk4V3hicm1ZTzBUY3ZxekRycWI3ZTRuX1dQWVptUkVsUHJmSUkyemR5bTktalFPNFRpUjRxRzJWdHVYRXBiaDBKbDY4WFVhUDdjc0xxbHZlZVQzODhld0RUOGdCVmF1OGVfaDNOdTNoZFJzWHJINkdjVkxjS281dnV3Q0d6OGNxTU5tZzNBRmlsbHE2aEZndXI4R3VjU2xDZTYtb0szMkJfVGQyUkNjMVNmZlR5VmljTWZUVTNUNA?oc=5",
-      "description": "NCCIA uncovers alleged Rs1 trillion online gambling and money laundering network, arrests five Profit by Pakistan Today",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Fri, 20 Nov 2026 02:54:47 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan and Qatar agree to boost security and cyber crime cooperation during Sheikh Khalifa visit - Dunya News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUpta1A1U29wY0FiWjdWRjMzdGlxdmpfSmtKY2Fka3lIdTdaSjEyWnExTW9nX0llNGRKSUF4Q3Z3OWUzSkV1dnU2d3RnNWtDMWhrc01zdnJ0d0RvaVpUV0VvdlFfdGxCNE9LUFlvNWF3MGJzbkR2VFNUaU1KMjdoaGFHOWloWG81ekM4VGZUU0swNEtZSnl1NmswaW5kbG51RlBUbVFUZlRLZ2ZaMko40gFWQVVfeXFMTjR6aVIySVAxS2psUEl4VUtWWjM4SDNVb0hCWmZjM3R6X0RjeGROZzNjcVV4dTh5NzhhSnlqUVRUdmRISUFYcUppMVdTQXh6SG9NaFp1LWc?oc=5",
-      "description": "Pakistan and Qatar agree to boost security and cyber crime cooperation during Sheikh Khalifa visit Dunya News",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Thu, 19 Nov 2026 20:18:44 GMT",
-      "photo": ""
-    },
-    {
-      "title": "راولپنڈی ٹیسٹ: پاکستان نے سری لنکا کو آٹھ وکٹوں سے ہرا کر دو میچوں کی سیریز جیت لی",
-      "link": "https://www.bbc.com/urdu/articles/cvglr9jex106o?at_medium=RSS&at_campaign=rss",
-      "description": "راولپنڈی میں کھیلے گئے دوسرے اور آخری ٹیسٹ کے چوتھے روز پاکستان نے سری لنکا کو 8 وکٹوں سے شکست دے کر دو میچوں کی سیریز 0-1 سے جیت لی۔",
-      "source": "BBC Urdu",
+      "title": "اذلان شاہ کپ: کینیڈا کو پاکستان کےہاتھوں یکطرفہ مقابلے کے بعد 1-5 سے شکست",
+      "link": "https://www.express.pk/story/2845313/pak-beat-canada-2845313",
+      "description": "پاکستانی ٹیم ایونٹ میں اپنا اگلا میچ امریکا کے خلاف کھیلے گی",
+      "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 06:21:05 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9340/live/a1bf8950-e410-11f1-b37c-b3a71d7200af.jpg"
+      "date": "Fri, 20 Nov 26 15:27:31 +0500",
+      "photo": ""
     },
     {
-      "title": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ185Z3JHUnZ2WGdkYjduM0l5WUdwWjdpNE85aWNMN0FRM1FGcEhjZ3VlTE5MdGliOWJKakRjWGFJYS0wZVlENS1yZjFtd3ZMUzY3YUJnclJkcmM4QklERUxHenZhQUtTdHpEbVZ4aUpPSGdUYlJGd3FTTXFyVmpWVzl0dmg0UHlQRk1lZGJFVnhUX1l3dEE0UXprNWliQnBaN1BSQ1dIQWgtRkRGQ1BTTUswN2kxdGo0LVlCTV9iRFhJNkZ1?oc=5",
-      "description": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years The Washington Post",
+      "title": "پاکستان ایشیا کپ بلائنڈ کرکٹ ٹورنامنٹ کا نیا چیمپئن بن گیا",
+      "link": "https://www.express.pk/story/2845289/pakistan-becomes-new-champion-of-asia-cup-blind-cricket-tournament-2845289",
+      "description": "بھارتی بلائنڈ کرکٹ ٹیم تقریب کا بائیکاٹ کرتے ہوئے اسٹیڈیم سے چلی گئی",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Fri, 20 Nov 26 11:30:51 +0500",
+      "photo": ""
+    },
+    {
+      "title": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5",
+      "description": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 06:35:30 GMT",
+      "date": "Fri, 20 Nov 2026 12:14:00 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan Sri Lanka Cricket - WV News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUmhlMTJNbzFlS3p3bVZEZjhuQWRwb25NdmJGdXYtOVFBYXRvSkRwWnRmYXAtaGxlRTVhQklGZDgwZ2xZaUlMZ3FwMDNKZVlDc1dFTTczdEZxSUppd1dMc3NYOF82RlZ5M0drSm5ZcmZlenBGSmJmWU1kampxZWlzSHRHNWMyMXJleUo3TFA5bTUxdmxkby1jdzBXdDVwWkl2VTNRX1RMb2pyNGU1?oc=5",
-      "description": "Pakistan Sri Lanka Cricket WV News",
+      "title": "Updated WTC Points Table After Pakistan Romp To Eight-Wicket Win Over Sri Lanka For First Test Series Win In 2 Years - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0RPSWVtV05rdUJtR0dLSzdFQ2tfVE80NEtSRG5rQTRybDVORVRySXNzeGcxM0trWklSS2EyNEJzNFpRaGltS0NXSDNTOVdHT0l6LVktQWpRTTQ1eEZuT0xjRDgtYjhnUUlpODU2RVlqSnJvSlpFaGQ0b1dtR3hiTkR6SWk1Yi02YVRmZUlMbzFQc3JoR3FKelRlNFl3UzNhUTJPTnI4ajlSWGJnOEk2UWh1WVlnTFBXbW9lbmRWMFVkOEpaaUp1VnVtU3lKSUlVYVFvWmRB?oc=5",
+      "description": "Updated WTC Points Table After Pakistan Romp To Eight-Wicket Win Over Sri Lanka For First Test Series Win In 2 Years NDTV Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 06:31:57 GMT",
+      "date": "Fri, 20 Nov 2026 08:00:33 GMT",
       "photo": ""
     },
     {
-      "title": "'Pakistan used bottle tops, not sandpaper': Shoaib Akhtar asks people to stop 'making fuss' over Khawaja's claims - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUhqb1Z4MF8wS3k2Szc2Zkg5N3JvSEFsM3ZMVjUwYUMwaWh6YkRLazJCYnVrV1lNUjRqTmxCc0JnQjN2MUcySDNVQUdTXzNfM216WGVjcWlWbUJoNTVFdFRpNTluQ0M1SUpTdGJ0Vnd3c0RRY1RoSU4zTGMwbjZIc042c18?oc=5",
-      "description": "'Pakistan used bottle tops, not sandpaper': Shoaib Akhtar asks people to stop 'making fuss' over Khawaja's claims Yahoo Sports",
+      "title": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl2ZHZZYzU0eHBYMkx4UEtwcC1vU3otaEFsbEl3enByRkFhWDI3NlF6cXlHMVVqREUwZ2lPUXRZSFNPTkUxNUdudTh5X0EwS0tycmJOYng0cWRVU09Cck9iQlJZLXhCbzlqR2VCc09DU1NTSlJtSDJTbFJGcDZ2UzZmbktpNGl2OGlQTDc0QlI3ckVmTlRMZ19McjV0RFU4d3Y1VzBPRmc?oc=5",
+      "description": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years San Francisco Chronicle",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 19 Nov 2026 17:37:00 GMT",
+      "date": "Fri, 20 Nov 2026 06:49:06 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan Sri Lanka Cricket - The Herald Journal",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1c2S05fX3MycENpSGhfcWxhOWZNbms2YlBxeFRyR2NITDlNUkp1LTRIM3NtS3JWYTU0TFM0NXZpSHJ1b0ZiZnZsVFdKXzFwTlJZUDR5cXlleDY5dTQybnZiMlhBUlhMSnFyU1pJME5ISjRZUVFYM2ZOWjR4bGNOMk1XMjN0NzBac3AxRzJwRXlrUWdNVndyU0t6Sko4Wmwwa0p0eHczRUlqTVZOcFpwMw?oc=5",
-      "description": "Pakistan Sri Lanka Cricket The Herald Journal",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Wed, 18 Nov 2026 11:02:08 GMT",
-      "photo": ""
-    },
-    {
-      "title": "انگلش شائقین کے متنازع مذہبی نعرے انگلینڈ ٹیم کو مہنگے پڑ گئے، بھاری جرمانہ عائد",
-      "link": "https://www.express.pk/story/2845272/england-fined-for-fans-anti-catholic-chants-in-spain-2845272",
-      "description": "اس طرح کے ناقابل قبول اور توہین آمیز رویے کو برداشت نہیں کیا جائے گا، انگلینڈ فٹبال ایسوسی ایشن",
+      "title": "ڈبلیو ڈبلیو ای کے معروف ریسلر دی راک کا واپسی سے متعلق اہم اعلان!",
+      "link": "https://www.express.pk/story/2845329/the-rock-announces-shock-2845329",
+      "description": "دی راک نے یہ اعلان پیٹ میکافی شو میں گفتگو کے دوران کیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 10:33:50 +0500",
+      "date": "Fri, 20 Nov 26 19:23:36 +0500",
       "photo": ""
     },
     {
-      "title": "پولینڈ میں روسی میزائل کے فضائی حدود میں داخل ہونے کی اطلاعات",
-      "link": "https://www.express.pk/story/2845271/explosion-heard-in-poland-amid-reports-of-russian-missile-entering-its-airspace-2845271",
-      "description": "پولینڈ کے حکام نے علاقے میں پولیس، فوج اور امدادی ٹیمیں روانہ کردیں",
+      "title": "امریکا؛ سکھ رہنما کے قتل کی سازش کرنے والے بھارتی شہری کو 19 سال سے زائد قید کی سزا",
+      "link": "https://www.express.pk/story/2845328/america-indian-man-sentenced-to-more-than-19-years-for-plotting-to-kill-sikh-leader-2845328",
+      "description": "نکھل گپتا کو امریکی عدالت نے اعتراف جرم کے بعد 235 ماہ کی سزا سنائی، مجرم نے سکھ رہنما اور دیگر سے معذرت کی، رپورٹ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 10:29:13 +0500",
+      "date": "Fri, 20 Nov 26 14:07:18 +0000",
       "photo": ""
     },
     {
-      "title": "شمالی وزیرستان؛ خواتین کے بھیس میں فرار ہونے والے متعدد خارجی ہلاک",
-      "link": "https://www.express.pk/story/2845270/several-militants-killed-while-attempting-to-escape-disguised-as-women-in-north-waziristan-2845270",
-      "description": "خوارج کا خواتین کے برقعوں کا استعمال نا صرف اسلامی، اخلاقی اقدار کے منافی ہے، سیکیورٹی ذرائع",
+      "title": "سپر ماڈل روما مائیکل اور شان بیگ کی مایوں کی تقریب، تصاویر اور ویڈیوز وائرل",
+      "link": "https://www.express.pk/story/2845325/supermodel-roma-michael-and-shaun-baig-mayoun-photos-and-videos-go-viral-2845325",
+      "description": "تقریب میں روما مائیکل اور شان بیگ روایتی پیلے اور سبز رنگ کے ملبوسات میں دکھائی دیے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 05:00:51 +0000",
+      "date": "Fri, 20 Nov 26 18:34:09 +0500",
       "photo": ""
     },
     {
-      "title": "بھارتی گینگسٹر گولڈی برار کینیڈا کا نمبر ون مطلوب ملزم قرار، گرفتاری پر بھاری انعام",
-      "link": "https://www.express.pk/story/2845268/indian-gangster-goldy-brar-named-canadas-number-one-most-wanted-suspect-substantial-reward-offered-for-his-arrest-2845268",
-      "description": "حکام کے مطابق ملزم کی تلاش کے لیے بین الاقوامی سطح پر کوششیں جاری ہیں۔",
+      "title": "ڈیزل مہنگا، پیٹرول کی قیمت میں تین روز کیلیے کمی",
+      "link": "https://www.express.pk/story/2845320/petrol-decrase-diesel-price-increase-prices-for-21-to-23rd-novermber-2026-2845320",
+      "description": "اوگرا نے 23 نومبر تک کیلیے نئی قیمتوں کا نوٹی فکیشن جاری کردیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 09:59:40 +0500",
+      "date": "Fri, 20 Nov 26 12:41:10 +0000",
       "photo": ""
     },
     {
-      "title": "ایران کے معاملے میں کیا کرنا ہے، حالات کا جائزہ لے کر فیصلہ کریں گے, ٹرمپ",
-      "link": "https://www.express.pk/story/2845257/we-will-decide-what-to-do-regarding-iran-after-assessing-the-situation-says-trump-2845257",
-      "description": "ایران کے ساتھ معاملات کو آگے بڑھانے کے لیے مناسب وقت کا انتظار کیا جائے گا، ٹرمپ",
+      "title": "اتحادی افواج کا یمنی پورٹ پر حملہ، حوثیوں کا سعودی حدود سے گزرنے والی پروازوں کو انتباہ",
+      "link": "https://www.express.pk/story/2845321/coalition-forces-attack-on-yemni-port-houthis-warn-airlines-off-the-saudi-arabia-2845321",
+      "description": "الحدیدہ پورٹ پر حوثیوں کی صلاحیتوں کو تباہ کردیا گیا ہے، سعودی اتحادی افواج کا دعویٰ",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 20 Nov 26 02:48:04 +0000",
+      "date": "Fri, 20 Nov 26 12:53:29 +0000",
       "photo": ""
     },
     {
-      "title": "چین اور روس کا ایران کو جوہری ہتھیار نہ بنانے کا مشورہ، پاسدارانِ انقلاب کا نئے محاذوں پر حملوں کا عندیہ",
+      "title": "ضابطہ اخلاق کی خلاف ورزی، بنگلا دیشی بلے باز بڑی مشکل میں پھنس گئے",
+      "link": "https://www.express.pk/story/2845299/handed-two-demerit-points-for-dissent-2845299",
+      "description": "بلے باز پر میچ فیس کا 40 فی صد جرمانہ عائد جبکہ ان کے ڈسپلنری ریکارڈ میں دو ڈی میرٹ پوائنٹس بھی شامل کر دیے گئے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Fri, 20 Nov 26 13:06:35 +0500",
+      "photo": ""
+    },
+    {
+      "title": "شوگر، سیمنٹ، ٹیکسٹائل، مشروبات، تمباکو سیکٹر میں انڈر انوائسنگ، قومی خزانے کو کھربوں کا نقصان",
+      "link": "https://www.express.pk/story/2845293/under-invoicing-in-sugar-cement-textile-beverages-tobacco-sectors-causing-trillions-of-rupees-in-losses-to-the-national-exchequer-2845293",
+      "description": "ان صنعتوں میں بہت سے مینوفیکچررز منظم طریقے سے اپنی اصل پیداوار کو کم دکھا رہے ہیں",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Fri, 20 Nov 26 07:07:35 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ایران جو معاہدہ چاہتا ہے وہ امریکہ کے لیے قابلِ قبول نہیں: ٹرمپ",
       "link": "https://www.bbc.co.uk/urdu/live/cx24e1zdpy5qt?at_medium=RSS&at_campaign=rss",
-      "description": "ایرانی رکنِ پارلیمنٹ کے مطابق چین اور روس ایران کو جوہری ہتھیاروں کی جانب پیش رفت سے گریز کا مشورہ دے رہے ہیں، جبکہ پاسدارانِ انقلاب کے ایک سینیئر مشیر نے کہا ہے کہ ایران ضرورت پڑنے پر ’نئے جغرافیے‘ میں بھی اپنی میزائل صلاحیت استعمال کر سکتا ہے۔",
+      "description": "ایران کے ساتھ ممکنہ مذاکرات پر بات کرتے ہوئے امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ تہران معاہدہ تو کرنا چاہتا ہے، لیکن ایسا معاہدہ نہیں جو امریکہ کے لیے قابلِ قبول ہو، جبکہ واشنگٹن ’حقیقی‘ معاہدے کا خواہاں ہے۔ انھوں نے اپنے حالیہ دورۂ ایشیا کو ’امریکی تاریخ کے کامیاب ترین صدارتی دوروں میں سے ایک‘ قرار دیا۔",
       "source": "BBC Urdu",
       "cat": "Middle East",
       "date": "",
-      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eec/live/b8ba2a80-e4c3-11f1-87df-79d8910e0f29.jpg"
+      "photo": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fd/live/2af7b0c0-e50c-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "title": "’بچوں کے لیے کتاب، ہمارے لیے بھگتی‘: سندھ کے سرکاری سکولوں میں پہلی بار ہندو طلبہ کے لیے مذہبی تعلیم کا آغاز",
-      "link": "https://www.bbc.com/urdu/articles/cxp80yl8d380o?at_medium=RSS&at_campaign=rss",
-      "description": "سناتن دھرم کی ان کتابوں میں رامائن، بھگوت گیتا، ہندو دیوی دیوتاؤں، مذہبی تہواروں اور رسومات کا تعارف شامل ہے۔کراچی میں قائم ہندو فلاحی تنظیم پریم ساگر سنستھا نے ہندو مذہبی رہنماؤں کے ساتھ مل کر یہ کتابیں تیار کیں۔ سندھ حکومت کی اجازت سے ان کی اشاعت کے بعد مخیر ہندو افراد نے انھیں عمرکوٹ اور تھرپارکر کے سکولوں میں تقسیم کیا۔",
-      "source": "BBC Urdu",
-      "cat": "Middle East",
-      "date": "Fri, 20 Nov 2026 02:49:37 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2ab/live/aabf97e0-e422-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "جوڑوں کے درد سے پیٹ کی ضدی چربی تک: جنوبی ایشیائی خواتین میں پیری مینوپاز کی وہ علامات جنھیں اکثر نظرانداز کر دیا جاتا ہے",
-      "link": "https://www.bbc.com/urdu/articles/ck1ewz08p88go?at_medium=RSS&at_campaign=rss",
-      "description": "توجہ مرکوز کرنے میں دشواری، گفتگو کے دوران الفاظ بھول جانا یا چیزیں یاد رکھنے میں مشکل پیش آنا پیری مینوپاز کی عام ذہنی علامات میں شامل ہیں۔ تاہم جنوبی ایشیائی خواتین میں ان علامات کو اکثر ذہنی دباؤ، مصروف طرز زندگی یا بڑھتی عمر کا حصہ سمجھ کر نظرانداز کر دیا جاتا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "Middle East",
-      "date": "Wed, 18 Nov 2026 14:36:49 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd3c/live/f3e2b760-e326-11f1-baab-4b3b35d174b7.jpg"
-    },
-    {
-      "title": "صوبوں کے قیام کے حوالے سے عوامی رائے لی جانی چاہیے، ریفرنڈم کرانے میں کوئی حرج نہیں، عطا تارڑ",
-      "link": "https://www.express.pk/story/2845249/public-opinion-should-be-sought-regarding-the-establishment-of-provinces-there-is-no-harm-in-holding-a-referendum-atta-tarar-2845249",
-      "description": "آئین میں ریفرنڈم سے متعلق شق واضح ہے اور قومی اہمیت یا عوامی دلچسپی کے کسی بھی معاملے پر ریفرنڈم کرایا جا سکتا ہے",
+      "title": "جی ٹی اے 6 کی خاطر طلبا کی غیر حاضری روکنے کے لیے اسکول کی دلچسپ ترکیب",
+      "link": "https://www.express.pk/story/2845326/school-holds-2845326",
+      "description": "اسکول انتظامیہ نے اس سے قبل والدین کو خط بھی ارسال کیا تھا",
       "source": "Express Urdu",
       "cat": "Strange",
-      "date": "Fri, 20 Nov 26 02:26:54 +0000",
+      "date": "Fri, 20 Nov 26 18:43:11 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پشاور میں نوجوان کا انوکھا اقدام، ولیمے میں رشتے داروں کے بجائے یتیم بچوں کو مہمان بنالیا",
+      "link": "https://www.express.pk/story/2845316/young-man-in-peshawar-takes-a-unique-initiative-invites-orphaned-children-2845316",
+      "description": "مقامی شادی ہال میں منعقدہ ولیمہ کی تقریب میں خصوصی افراد کو شرکت کی دعوت دی",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Fri, 20 Nov 26 17:04:20 +0500",
       "photo": ""
     }
   ],
@@ -345,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 35,
+      "added": 23,
       "ok": true
     },
     {
@@ -361,7 +368,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 29,
+      "added": 35,
       "ok": true
     },
     {
