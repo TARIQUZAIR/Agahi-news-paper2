@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:54:26.547017+00:00",
-  "count": 34,
+  "generated_at": "2026-11-20T01:59:42.888820+00:00",
+  "count": 33,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -12,16 +12,61 @@
     "Strange": 2
   },
   "shortages": {
-    "Strange": 1
+    "Strange": 2
   },
   "items": [
+    {
+      "title": "بادشاہوں کے بغیر ایک عظیم تہذیب",
+      "link": "https://www.express.pk/story/2845199/badshahon-ke-baghair-aik-azeem-tehzeeb-2845199",
+      "description": "وادیٔ سندھ نے ریاستی نظم و نسق کیسے قائم رکھا؟",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 21:43:45 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پی آئی اے کی پرواز 50 سے زائد مسافروں کو مانچسٹر ایئرپورٹ پر چھوڑ کر اسلام آباد روانہ",
+      "link": "https://www.express.pk/story/2845198/pia-flight-departs-for-islamabad-leaving-over-50-passengers-behind-at-manchester-airport-2845198",
+      "description": "پرواز کی روانگی سے قبل چیک اِن کاؤنٹر وقت سے پہلے ہی بند کردیا گیا، ذرائع",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 16:40:03 +0000",
+      "photo": ""
+    },
+    {
+      "title": "پاکستان کی مالیاتی صورتحال کمزور ہو سکتی ہے، آئی ایم ایف نے خطرے کی گھنٹی بجا دی",
+      "link": "https://www.express.pk/story/2845194/pakistans-financial-situation-may-weaken-imf-sounds-alarm-2845194",
+      "description": "درآمدات میں اضافے اور ترسیلات زرکی سست رفتارسے مالی دباؤ بڑھ سکتا ہے، ڈاکٹر ماہیر بنیشی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 21:19:08 +0500",
+      "photo": ""
+    },
+    {
+      "title": "عزمِ عالی شان منصوبہ",
+      "link": "https://www.express.pk/story/2845185/azm-e-aali-shaan-mansooba-2845185",
+      "description": "1973 المنائی کی جانب سے شعبہ کیمسٹری جامعہ کراچی کو دو جدید لیبارٹریز کا تحفہ، افتتاحی تقریب کا احوال",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 20:31:12 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، شہر میں مختلف حادثات میں دو افراد جاں بحق",
+      "link": "https://www.express.pk/story/2845184/karachi-two-people-killed-in-separate-incidents-in-the-city-2845184",
+      "description": "جاں بحق افراد کی لاشیں اسپتال منتقل کر دی گئیں",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Thu, 19 Nov 26 20:29:34 +0500",
+      "photo": ""
+    },
     {
       "title": "خیبرپختونخوا میں گورنر راج کے بعد دہشت گردی کے واقعات میں 80 فیصد کمی ہوئی، مشیر اطلاعات",
       "link": "https://www.express.pk/story/2845178/terrorism-incidents-in-kp-decreased-by-80-after-governors-rule-2845178",
       "description": "کمیونیکیشن اینڈ ورکس میں 19 ارب کی مبینہ کرپشن کا مقدمہ سہیل آفریدی اور خاندان کے افراد کے خلاف جلد درج کیا جائے گا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Thu, 19 Nov 26 19:32:58 +0500",
+      "date": "Thu, 19 Nov 26 14:32:58 +0000",
       "photo": ""
     },
     {
@@ -31,24 +76,6 @@
       "source": "Express Urdu",
       "cat": "National",
       "date": "Thu, 19 Nov 26 14:01:13 +0000",
-      "photo": ""
-    },
-    {
-      "title": "وزیراعظم کے بعد بلاول بھٹو کی صدر زرداری سے اہم ملاقات، مسائل تحمل سے حل کرنے پر اتفاق",
-      "link": "https://www.express.pk/story/2845161/after-the-prime-minister-bilawal-bhutto-holds-important-meeting-with-president-zardari-2845161",
-      "description": "بلاول بھٹو زرداری صدر مملکت سے اہم ملاقات کے بعد کراچی واپس روانہ ہوگئے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Thu, 19 Nov 26 12:38:41 +0000",
-      "photo": ""
-    },
-    {
-      "title": "بھارت کیلئے پاکستانی فضائی حدود کی بندش میں مزید ایک ماہ کی توسیع",
-      "link": "https://www.express.pk/story/2845139/pakistan-extends-closure-of-its-airspace-to-india-by-another-month-2845139",
-      "description": "پاکستان ائیرپورٹ اتھارٹی نے بھارتی طیاروں کے لیے فضائی حدود بندش توسیع کا نیا نوٹم جاری کردیا ہے",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Thu, 19 Nov 26 09:40:17 +0000",
       "photo": ""
     },
     {
@@ -77,33 +104,6 @@
       "cat": "National",
       "date": "Thu, 19 Nov 2026 10:33:03 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f08f/live/28edb0a0-e3f3-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "’اب لوگ جہیز میں بھی سولر پینل دیتے ہیں‘: پاکستان میں شمسی توانائی کا انقلاب جس نے حکومت کو مشکل میں ڈال دیا",
-      "link": "https://www.bbc.com/urdu/articles/cr5y16pez9j0o?at_medium=RSS&at_campaign=rss",
-      "description": "اپنے گھروں میں شمسی پینل نصب کرنے والے صارفین نے پاکستان میں بجلی کی پیداوار میں شمسی توانائی کا حصہ ایک فیصد سے بڑھا کر 28 فیصد تک پہنچانے میں اہم کردار ادا کیا ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 2026 10:42:04 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg"
-    },
-    {
-      "title": "رحمان گل: حکومتِ بلوچستان کو مطلوب ’پاکستانی فوج کا حصہ رہنے والے‘ بی ایل اے کے نئے کمانڈر کون ہیں؟",
-      "link": "https://www.bbc.com/urdu/articles/c62klx05pwq1o?at_medium=RSS&at_campaign=rss",
-      "description": "رحمان گل کا تعلق اپنے پیشرو بشیر زیب کی طرح بلوچستان کے افغانستان سے متصل سرحدی ضلع نوشکی سے ہے اور وہ آٹھ برس تک پاکستانی فوج میں بطور کمیشنڈ افسر ملازمت بھی کر چکے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 2026 05:01:47 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg"
-    },
-    {
-      "title": "’کراچی کی سڑکوں پر خون بہے گا‘: محسن نقوی کی ریفرنڈم کی تجویز پر بلاول بھٹو نے سخت جواب کیوں دیا؟",
-      "link": "https://www.bbc.com/urdu/articles/c6dj1gv0yp08o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان میں نئے صوبوں کے قیام سے متعلق بحث ایک بار پھر شدت اختیار کر گئی ہے۔ وفاقی وزیر داخلہ محسن نقوی نے نئے صوبے بنانے کے لیے ریفرنڈم کرانے کی تجویز دی ہے، جبکہ چیئرمین پیپلز پارٹی بلاول بھٹو نے اس کی مخالفت کرتے ہوئے کہا ہے کہ آئین میں نئے صوبوں کے قیام کا واضح طریقۂ کار موجود ہے اور کسی غیر آئینی راستے کی حمایت نہیں کی جا سکتی۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 17 Nov 2026 15:25:34 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8701/live/0c1b4cc0-e29b-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "‎ری جینریٹو فارمنگ: ڈھائی ایکڑ کے فارم سے سالانہ 80 لاکھ تک آمدن کیسے حاصل کی جائے؟",
@@ -151,39 +151,21 @@
       "photo": ""
     },
     {
+      "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 3 زخمیوں سمیت 5 ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2845205/karachi-police-encounters-in-various-parts-of-the-city-5-suspects-arrested-including-3-who-sustained-injuries-2845205",
+      "description": "گرفتار ملزمان کے قبضے سے اسلحہ، موبائل فونز اور موٹرسائیکلیں برآمد",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 26 01:10:50 +0500",
+      "photo": ""
+    },
+    {
       "title": "کراچی؛ سی آئی اے کا انسپکٹر شہری کے اغوا میں ملوث نکلا، پولیس",
       "link": "https://www.express.pk/story/2845175/karachi-police-says-cia-inspector-found-involved-in-the-kidnapping-of-a-citizen-2845175",
       "description": "ملزم اے وی ایل سی لیاقت آباد میں ڈی آئی او تعینات تھا تاہم ساتھی سمیت گرفتار کرلیا گیا ہے، ترجمان ضلع ملیر پولیس",
       "source": "Express Urdu",
       "cat": "Crime",
       "date": "Thu, 19 Nov 26 14:11:04 +0000",
-      "photo": ""
-    },
-    {
-      "title": "راولپنڈی میں معمول کی چیکنگ کے دوران تہرے قتل کا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2845157/triple-murder-suspect-arrested-during-routine-checks-in-rawalpindi-2845157",
-      "description": "پشاور روڈ پر قائم مشترکہ چیک پوسٹ پر معمول کے تلاشی کے دوران ہاشم خان ساتھی سمیت گرفتار ہوا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Thu, 19 Nov 26 17:14:14 +0500",
-      "photo": ""
-    },
-    {
-      "title": "امریکی انٹیلیجنس ایجنسیوں اور اہم اداروں کا خفیہ ڈیٹا چوری کر کے فروخت کرنے والا پاکستانی گرفتار",
-      "link": "https://www.express.pk/story/2845151/nccia-arrest-suspect-who-stolen-international-agencies-personal-data-and-sale-2845151",
-      "description": "این سی سی آئی اے کراچی نے انٹیلیجنس ایجنسیوں کی شکایت پر سخت نگرانی کے بعد ملزم کو گرفتار کیا",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Thu, 19 Nov 26 16:14:40 +0500",
-      "photo": ""
-    },
-    {
-      "title": "لاہور؛ خود کو انسپکٹر ظاہر کرکے شہری سے 20 لاکھ بٹورنے والا ملزم گرفتار",
-      "link": "https://www.express.pk/story/2845143/lahore-suspect-arrested-for-posing-as-an-inspector-and-extorting-rs20-million-from-a-citizen-2845143",
-      "description": "شہری سے فراڈ کے ذریعے وصول کی گئی 20 لاکھ روپے کی رقم برآمد کر کے واپس دلوا دی گئی ہے، ترجمان",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Thu, 19 Nov 26 10:20:12 +0000",
       "photo": ""
     },
     {
@@ -196,12 +178,21 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/428c6180-dc1b-11f1-8244-051a160372a2.png"
     },
     {
-      "title": "سری لنکا کو جلد آؤٹ کرکے ہدف حاصل کرنے کی کوشش کریں گے، اذان اویس",
-      "link": "https://www.express.pk/story/2845148/we-will-aim-to-bowl-sri-lanka-out-quickly-and-then-chase-down-the-target-says-azan-awais-2845148",
-      "description": "پاکستانی کرکٹرز اذان اویس اور طیب عارف نے کہا ہے کہ پوری کوشش ہوتی ہے کہ ملک کے لیے اچھی کارکردگی دکھائیں",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Thu, 19 Nov 26 15:35:25 +0500",
+      "title": "اسلام آباد میں گھریلو ملازمہ کے قتل کا مقدمہ: 13 سالہ فاطمہ کے جسم پر تشدد کے 20 سے زائد نشانات، گھر سے سی سی ٹی وی فوٹیج اور ڈنڈے برآمد",
+      "link": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
+      "description": "پوسٹ مارٹم رپورٹ کے مطابق 13 سالہ فاطمہ کے جسم پر تشدد کے کم از کم 20 نشانات پائے گئے ہیں۔ پوسٹ مارٹم کرنے والی میڈیکو لیگل افسر کی رائے کے مطابق فاطمہ کی موت بار بار کیے جانے والے جسمانی تشدد کے نتیجے میں آنے والی شدید چوٹوں سے ہوئی۔",
+      "source": "BBC Urdu",
+      "cat": "Crime",
+      "date": "Tue, 17 Nov 2026 06:40:10 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83b4/live/d52c5740-e18c-11f1-952d-674f3722bb9f.jpg"
+    },
+    {
+      "title": "Lyari Gang War: Crime, Politics and the Questions That Remain Unanswered - Pakistan Matters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa3RldjBIMjJFbUY5cGNadXhGNWhVbUVsTVRtWnJwZmZBaXpZOFN0WXpsZEdSRTB0d1RIc1FJU2w3NkdFZ0N3TmdTQTJENGg2ZzhTUGF5QkVJMlR4WEozRFZyNFVLQUNTOGNjaXFJNUNCUzBFTmVPV282NF9BRXk5aEF4d3U0dkpuZlc1Z1Z5cXpCR0NNVU9iUFFDSnc4V2JiT3AtdXlVU0NPYjNTd19Odm9NQkh1Zw?oc=5",
+      "description": "Lyari Gang War: Crime, Politics and the Questions That Remain Unanswered Pakistan Matters",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Thu, 19 Nov 2026 13:56:45 GMT",
       "photo": ""
     },
     {
@@ -214,21 +205,21 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9340/live/a1bf8950-e410-11f1-b37c-b3a71d7200af.jpg"
     },
     {
-      "title": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVAxdGx4T2lpR2lRaXcxQVltSUlwQWVHaUd5S0gxNW1uMFZkNkV0cUdXTmhZMzhDSUJlRE82OWhsaUVJQzczUjZWVGM4VGxqbUNmem93WXM0a3FSNzg0eENJd0dKYVhfdW1Xd2MtTEU5Ung5cXB2V3FfNGY5TzY5a04xVklIYnRpTHRKZTlHbGY5dzjSAZgBQVVfeXFMTTI0TDY3TlNubEJTczB0Q2FOWVNJUVBMa3NPclBYR3NHX3d5U1JRTmlhZ3hoVDAzTm9jLWxxVzgwZEp2SGNnU2pVak5wcXR5M21xd3pKT3hOcUlxdlhuQzlzZ2YwUDBSejN4d044Q1NHYnJmUnFBZjVsSnNndGJoWjEzYnZBbnEzekMyNzZWZGNsWmZqN1IwTHM?oc=5",
-      "description": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test ABC News - Breaking News, Latest News and Videos",
+      "title": "'Pakistan used bottle tops, not sandpaper': Shoaib Akhtar asks people to stop 'making fuss' over Khawaja's claims - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSUhqb1Z4MF8wS3k2Szc2Zkg5N3JvSEFsM3ZMVjUwYUMwaWh6YkRLazJCYnVrV1lNUjRqTmxCc0JnQjN2MUcySDNVQUdTXzNfM216WGVjcWlWbUJoNTVFdFRpNTluQ0M1SUpTdGJ0Vnd3c0RRY1RoSU4zTGMwbjZIc042c18?oc=5",
+      "description": "'Pakistan used bottle tops, not sandpaper': Shoaib Akhtar asks people to stop 'making fuss' over Khawaja's claims Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 19 Nov 2026 10:15:32 GMT",
+      "date": "Thu, 19 Nov 2026 17:37:00 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan head coach Mike Hesson loses cool over Babar Azam question during presser - Watch - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkNqZHZQVzh5NFo5TEdWcXJnMUJLZGtvbnNzbmxqTkl4NkxfMURQeTVhLUJpZjczMndWZEhtdGxGd2tJTHQxMTlTcFFyX3VaRFRnZl9VZ2lQeU5fUEg3S2dfLUxhMXpWbG9GOTJZS3B5M3p1dkt3NVotUUliNTVVU2xucFJ4Tms?oc=5",
-      "description": "Pakistan head coach Mike Hesson loses cool over Babar Azam question during presser - Watch Yahoo Sports",
+      "title": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVl2cFM2TkNRWmN4TU5zOEZCM211aHpSODFsaXpsOE1DX0lfWmhscTBGMG8xQ3dRbVZLSGtYbjJKX214VVJqajd1d1RRTVFjSlhSY0IycGFMeHRCNVRSSDJSZlZhTlpuZU5WcWEta01SVTBzUnRLRXpuTnh6MWxqTU1GaVh3TjBIaDg0ZlJyeWhyallNUEstVzJYc0VXRHJHOWpYaks4TQ?oc=5",
+      "description": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test San Francisco Chronicle",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Thu, 19 Nov 2026 06:30:00 GMT",
+      "date": "Thu, 19 Nov 2026 07:50:11 GMT",
       "photo": ""
     },
     {
@@ -241,39 +232,66 @@
       "photo": ""
     },
     {
-      "title": "گلوکارہ شازیہ منظور کے گھر پر مسلح افراد کے قبضے کی کوشش",
-      "link": "https://www.express.pk/story/2845177/armed-men-attempt-to-occupy-singer-shazia-manzoors-house-2845177",
-      "description": "نعمان، فیصل اور دیگر افراد نے گھر پر قبضے کی کوشش کی اور انہیں جان سے مارنے کی دھمکیاں بھی دیں، شازیہ مںظور",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Thu, 19 Nov 26 19:23:54 +0500",
+      "title": "Pakistan head coach Mike Hesson loses cool over Babar Azam question during presser - Watch - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkNqZHZQVzh5NFo5TEdWcXJnMUJLZGtvbnNzbmxqTkl4NkxfMURQeTVhLUJpZjczMndWZEhtdGxGd2tJTHQxMTlTcFFyX3VaRFRnZl9VZ2lQeU5fUEg3S2dfLUxhMXpWbG9GOTJZS3B5M3p1dkt3NVotUUliNTVVU2xucFJ4Tms?oc=5",
+      "description": "Pakistan head coach Mike Hesson loses cool over Babar Azam question during presser - Watch Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Thu, 19 Nov 2026 06:30:00 GMT",
       "photo": ""
     },
     {
-      "title": "شمالی وزیرستان: میر علی میں امن لوٹنے پر عوام پاک فوج کے مشکور",
-      "link": "https://www.express.pk/story/2845171/north-waziristan-people-thank-pakistan-army-for-restoring-peace-in-mir-ali-2845171",
-      "description": "حالیہ فوجی آپریشن کے بعد خارجی علاقے سے فرار ہوگئے جبکہ عوام نے مکمل تعاون کی یقین دہانی کرائی ہے",
+      "title": "پیرس ایئرپورٹ پر ڈرون کی اطلاع، تمام پروازیں اچانک روک دی گئیں",
+      "link": "https://www.express.pk/story/2845208/drone-reported-at-paris-airport-all-flights-abruptly-halted-2845208",
+      "description": "کلیئرنس ملنے کے بعد کچھ ہی دیر میں پروازوں کا معمول کا آپریشن بحال کردیا گیا",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 19 Nov 26 18:44:33 +0500",
+      "date": "Thu, 19 Nov 26 20:37:54 +0000",
       "photo": ""
     },
     {
-      "title": "ایشیا کپ رائزنگ اسٹارز: افتتاحی میچ میں بنگلا دیش اے نے ہانگ کانگ کو ہرا دیا",
-      "link": "https://www.express.pk/story/2845169/asia-cup-rising-stars-bangladesh-a-defeat-hong-kong-in-the-opening-match-2845169",
-      "description": "بنگلا دیش اے نے 220 رنز کا ہدف 41ویں اوور میں صرف 2 وکٹوں کے نقصان پر حاصل کرلیا",
+      "title": "مسلم لیگ ن کا نئے صوبوں سے متعلق اتفاق رائے کے لیے رابطہ کار سیاسی کمیٹی بنانے کا فیصلہ",
+      "link": "https://www.express.pk/story/2845207/pml-n-decides-to-form-a-coordinating-political-committee-to-reach-consensus-on-new-provinces-2845207",
+      "description": "رابطہ کار سیاسی کمیٹی تمام پارلیمانی جماعتوں سے رابطہ کرے گی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 19 Nov 26 18:34:04 +0500",
+      "date": "Thu, 19 Nov 26 20:30:10 +0000",
       "photo": ""
     },
     {
-      "title": "عامر خان نے ممبئی میں 38 لاکھ روپے ماہانہ کرائے پر تین لگژری اپارٹمنٹس حاصل کرلیے",
-      "link": "https://www.express.pk/story/2845167/aamir-khan-has-acquired-three-luxury-apartments-in-mumbai-for-a-monthly-rent-of-4-million-rupees-2845167",
-      "description": "عامر خان کی کرائے کی رہائش اختیار کرنے کی وجہ باندرہ میں واقع ’ورگو کوآپریٹو ہاؤسنگ سوسائٹی‘ کی ازسرِنو تعمیر ہے",
+      "title": "سابق وفاقی وزیر لیاقت عباس بھٹی کا قتل، محافظوں سمیت 11 افراد کے خلاف مقدمہ درج",
+      "link": "https://www.express.pk/story/2845206/murder-of-former-federal-minister-liaquat-abbas-bhatti-case-registered-against-11-individuals-including-his-guards-2845206",
+      "description": "مقتول کی نماز جنازہ آج سہ پہر 3 بجے ان کے آبائی گاؤں برجدارا میں ادا کی جائے گی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Thu, 19 Nov 26 18:31:08 +0500",
+      "date": "Thu, 19 Nov 26 20:19:26 +0000",
+      "photo": ""
+    },
+    {
+      "title": "اینتھروپک کی امریکی اسٹاک مارکیٹ میں دھماکے دار انٹری، مالیت 1.76 ٹریلین ڈالر تک پہنچ گئی",
+      "link": "https://www.express.pk/story/2845203/anthropic-makes-a-explosive-entry-into-the-us-stock-market-its-valuation-reaches-176-trillion-2845203",
+      "description": "گوگل کی پیرنٹ کمپنیوں کے حصص کی قیمتوں میں کمی ہوئی",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Fri, 20 Nov 26 00:16:32 +0500",
+      "photo": ""
+    },
+    {
+      "title": "امریکی سینیٹ نے ایران کے خلاف جنگ روکنے سے متعلق قرارداد پھر مسترد کر دی",
+      "link": "https://www.express.pk/story/2845204/the-us-senate-has-once-again-rejected-a-resolution-aimed-at-preventing-war-with-iran-2845204",
+      "description": "قرارداد کے حق میں 48 اور مخالفت میں 51 ووٹ ڈالے گئے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Thu, 19 Nov 26 19:45:43 +0000",
+      "photo": ""
+    },
+    {
+      "title": "صومالیہ نے اماراتی سفیر کو 72 گھنٹوں میں ملک چھوڑنے کا حکم دے دیا",
+      "link": "https://www.express.pk/story/2845180/somalia-orders-uae-ambassador-to-leave-within-72-hours-2845180",
+      "description": "کابینہ نے متحدہ عرب امارات کے اقدامات کو ملک کی خودمختاری، سلامتی اور قومی اتحاد پر کھلا حملہ قرار دیا",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Thu, 19 Nov 26 15:02:54 +0000",
       "photo": ""
     },
     {
@@ -292,33 +310,6 @@
       "source": "Express Urdu",
       "cat": "Middle East",
       "date": "Thu, 19 Nov 26 13:45:34 +0000",
-      "photo": ""
-    },
-    {
-      "title": "فیلڈ مارشل سے قطری وزیرداخلہ کی ملاقات، سیکیورٹی تعاون بڑھانے پر اتفاق",
-      "link": "https://www.express.pk/story/2845168/filed-marshal-qatari-interior-miniter-meeting-security-cooperation-discussed-2845168",
-      "description": "فیلڈ مارشل عاصم منیر نے قطر کے ساتھ دوطرفہ تعلقات کو مزید گہرا کرنے کے پاکستان کے عزم کا اعادہ کیا، آئی ایس پی آر",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Thu, 19 Nov 26 13:33:47 +0000",
-      "photo": ""
-    },
-    {
-      "title": "شاہ رخ خان دنیا کے 100 عظیم فلمی ستاروں میں شامل، فہرست میں واحد بھارتی اداکار",
-      "link": "https://www.express.pk/story/2845164/shah-rukh-khan-among-the-world-100-greatest-film-stars-the-only-indian-actor-on-the-list-2845164",
-      "description": "جریدے نے 61 سالہ اداکار کو ’بالی ووڈ سنیما کا دیو قامت ستارہ‘ قرار دیا",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Thu, 19 Nov 26 18:16:53 +0500",
-      "photo": ""
-    },
-    {
-      "title": "تربیت مکمل ہونے تک شادی نہ کریں! حیات آباد میڈیکل کمپلیکس کا ٹرینی ڈاکٹروں کو انوکھا مشورہ",
-      "link": "https://www.express.pk/story/2845158/do-not-get-married-until-you-complete-your-training-hayatabad-medical-complex-gives-trainee-doctors-unusual-advice-2845158",
-      "description": "ڈیکل ڈائریکٹر حیات آباد میڈیکل کمپلیکس ڈاکٹر خالد خان کے دفتر سے آفس آرڈر جاری کردیا گیا",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Thu, 19 Nov 26 17:19:59 +0500",
       "photo": ""
     }
   ],
@@ -361,7 +352,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 29,
+      "added": 30,
       "ok": true
     },
     {
