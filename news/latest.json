@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T01:57:13.862335+00:00",
-  "count": 35,
+  "generated_at": "2026-11-21T10:36:28.235286+00:00",
+  "count": 34,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,61 +11,90 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
     {
-      "title": "پنجاب میں پنچایت نظام قانونی طور پر بحال کرنے کا ڈرافٹ تیار",
-      "link": "https://www.express.pk/story/2845345/draft-prepared-to-legally-restore-panchayat-system-in-punjab-2845345",
-      "description": "مجوزہ قانون کو پنجاب پنچایت ایکٹ 2026 کا نام دیا گیا ہے",
+      "title": "الزامات کی سیاست چھوڑ کر خطے کے مسائل شواہد کی بنیاد پر حل کیے جائیں، مصدق ملک",
+      "link": "https://www.express.pk/story/2845424/mosaddeq-malik-regional-issues-should-be-resolved-on-the-basis-of-evidence-leaving-aside-the-politics-of-accusations-2845424",
+      "description": "پاکستان امن اور سلامتی کے فروغ کے لیے کی جانے والی ہر سنجیدہ کوشش میں تعاون کرے گا، وفاقی وزیر",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 22:44:22 +0500",
+      "date": "Sat, 21 Nov 26 04:12:10 +0000",
       "photo": ""
     },
     {
-      "title": "الزامات کی سیاست",
-      "link": "https://www.express.pk/story/2845340/ilzamaat-ki-siyasat-2845340",
-      "description": "سندھ کے وزیروں کا تعلق اندرون سندھ سے ہے۔ زیادہ تر وزیر کراچی کے معاملات پر کم ہی بولتے ہیں ،نہ کراچی کی تقریبات میں نظر آتے ہیں",
+      "title": "خیبرپختونخوا؛ 12 اضلاع میں 1916 غیر حاضر اساتذہ کیخلاف سخت کارروائی کا فیصلہ",
+      "link": "https://www.express.pk/story/2845423/kp-decision-taken-to-initiate-strict-action-against-1916-absent-teachers-across-12-districts-2845423",
+      "description": "تمام متعلقہ ڈسٹرکٹ ایجوکیشن افسران کو غیر حاضر اساتذہ سے 3 روز میں تحریری وضاحت طلب کرنے کی ہدایت",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 20:56:49 +0500",
+      "date": "Sat, 21 Nov 26 04:01:49 +0000",
       "photo": ""
     },
     {
-      "title": "تاریخی کردار ادا کرنے کے لیے…",
-      "link": "https://www.express.pk/story/2845338/tareekhi-kirdar-ada-karne-ke-liye-2845338",
-      "description": "پاکستان کا قیام 23 مارچ 1940ء کو قراردادِ لاہور کی بنیاد پر عمل میں آیا تھا اور مسلم اکثریتی صوبوں نے مل کر نیا ملک بنایا تھا",
+      "title": "گورنر خیبرپختونخوا نے ڈی ایچ کیو اسپتال صوابی کے 113 بستروں پر مشتمل نئے بلاک کا افتتاح کردیا",
+      "link": "https://www.express.pk/story/2845417/swabi-dhq-hospital-new-block-inaugurated-2845417",
+      "description": "سابقہ حکومتوں کے عوامی مفاد کے حامل منصوبوں کو بھی پایہ تکمیل تک پہنچایا جائے گا، فیصل کریم کنڈی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 20:41:04 +0500",
+      "date": "Sat, 21 Nov 26 08:17:58 +0500",
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا؛ 12 اضلاع میں محکمہ صحت کے 1623 اہلکاروں کی غیرحاضری کا انکشاف",
-      "link": "https://www.express.pk/story/2845333/kp-12-districts-health-dept-1623-officials-absent-revealed-2845333",
-      "description": "ایریا ڈیولپمنٹ سیکریٹریٹ کی جانب سے ڈیوٹی سےغائب رہنے والے محکمہ صحت کے اہلکاروں کی فہرست جاری کردی گئی ہے",
+      "title": "لاہور: مبینہ طور پر نوڈلز کھانے سے 2 بچیاں جاں بحق، ایک کی حالت تشویشناک",
+      "link": "https://www.express.pk/story/2845412/lahore-2-girls-die-allegedly-after-eating-noodles-one-in-critical-condition-2845412",
+      "description": "والدین نے نوڈلز کھانے کو بچیوں کی طبیعت خراب ہونے کی وجہ قرار دیا، اصل وجہ کی تصدیق طبی تحقیقات سے ہونا باقی ہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 20:09:00 +0500",
+      "date": "Sat, 21 Nov 26 08:02:13 +0500",
       "photo": ""
     },
     {
-      "title": "پنجاب میں پنچایت نظام، وزیراعلیٰ مریم نواز نے مجوزہ ڈرافٹ کی منظوری دے دی",
-      "link": "https://www.express.pk/story/2845332/punjab-punchayat-system-chief-minister-maryam-nawaz-approved-proposed-draft-2845332",
-      "description": "پنچایتی نظام کے تحت 15 دن میں تنازع کے تصفیے کی کوشش کرنا ہوگی، مجوزہ ڈرافٹ",
+      "title": "ریبیز کا شکار 20 سالہ نوجوان دم توڑ گیا، سندھ میں اموات کی تعداد 43 ہوگئی",
+      "link": "https://www.express.pk/story/2845407/a-20-year-old-man-suffering-from-rabies-has-passed-away-the-death-toll-in-sindh-has-reached-43-2845407",
+      "description": "جناح اسپتال میں رواں سال کتے کے کاٹنے کے تقریباً 13 ہزار کیسز رپورٹ ہوئے ہیں",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 14:50:03 +0000",
+      "date": "Sat, 21 Nov 26 02:23:33 +0000",
       "photo": ""
     },
     {
-      "title": "ترک تحقیقی جہاز تیل و گیس کی تلاش کیلیے سندھ و مکران کے سمندر میں سیسمک سروے کریگا",
-      "link": "https://www.express.pk/story/2845311/turkish-research-vessel-to-conduct-survey-for-oil-and-gas-exploration-in-indus-and-makran-seas-2845311",
-      "description": "سروے کے نتائج تیل و گیس کی تلاش اور ڈرلنگ میں معاونت کرینگے، ترک وزیر؛ وزیراعظم کی جانب سے دیے گئے عشائیے میں شرکت",
+      "title": "پشاور میں بائی پاس منصوبے کو 20 سال لگ گئے، وفاقی وزیر مواصلات کا اظہار برہمی",
+      "link": "https://www.express.pk/story/2845403/the-bypass-project-in-peshawar-took-20-years-the-federal-minister-for-communications-expressed-his-anger-2845403",
+      "description": "شاہراہوں پر ٹول لگے گا تو مسافروں کو ریسٹ ایریاز کی سہولیات بھی دینا ہوں گی، عبدالعلیم خان",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Fri, 20 Nov 26 10:08:13 +0000",
+      "date": "Sat, 21 Nov 26 02:08:14 +0000",
       "photo": ""
+    },
+    {
+      "title": "محفوظ ڈیٹا شیئرنگ بہتر منصوبہ بندی اور باخبر پالیسی سازی کے لیے ناگزیر ہے، احسن اقبال",
+      "link": "https://www.express.pk/story/2845399/federal-minister-ahsan-iqbal-2845399",
+      "description": "پاکستان ادارۂ شماریات شواہد پر مبنی فیصلہ سازی کے لیے مکمل معاونت فراہم کرے گا ، وفاقی وزیر",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 06:51:04 +0500",
+      "photo": ""
+    },
+    {
+      "title": "اوروچ رئیس: ترکی کا بحری جہاز جو پاکستانی سمندروں کا ’ایکس رے‘ کرے گا",
+      "link": "https://www.bbc.com/urdu/articles/cmeq4jv0q4l1o?at_medium=RSS&at_campaign=rss",
+      "description": "ترکی کا سیسمک تحقیقاتی بحری جہاز ’اوروچ رئیس‘ پاکستان پہنچ گیا ہے اور ملک کی سمندری حدود میں تیل اور گیس کے ممکنہ ذخائر کی تلاش کے لیے سیسمک سروے کرے گا۔ ماہرین کے مطابق یہ جہاز سمندر کی تہہ کے نیچے موجود مختلف تہوں کا جائزہ لے کر ایسے مقامات کی نشاندہی کرے گا جہاں ہائیڈروکاربن کے ذخائر موجود ہونے کا امکان ہو۔",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 2026 09:43:09 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9948/live/0304bb10-e51d-11f1-9835-bf055edbb9ff.jpg"
+    },
+    {
+      "title": "پاکستان کے پہلے سپر سونک میزائل فتح-3 کا مقابلہ انڈیا کے براہموس سے کیوں کیا جا رہا ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/cqm2jdvg5emvo?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستانی فوج کا کہنا ہے کہ انھوں نے سپرسونک کروز میزائل فتح-3 کا کامیاب تجربہ کیا ہے جسے انڈیا کے براہموس میزائل کے جواب کے طور پر دیکھا جا رہا ہے۔ آخر یہ میزائل کتنا جدید ہے، اس کی صلاحیتیں کیا ہیں اور کیا یہ جنوبی ایشیا کے عسکری توازن کو متاثر کر سکتا ہے؟",
+      "source": "BBC Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 2026 05:06:08 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df2a/live/9eab3d00-e4d7-11f1-ae38-71bf515761f1.png"
     },
     {
       "title": "’پاکستانی وزیر کو بریانی اور کباب کھلائے جا رہے ہیں‘: مصدق ملک کے انڈیا کے دورے پر کانگریس رہنماؤں کی تنقید",
@@ -77,31 +106,13 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41d0/live/1a835500-e4ee-11f1-8781-bf15c9202663.jpg"
     },
     {
-      "title": "رحمان گل: حکومتِ بلوچستان کو مطلوب ’پاکستانی فوج کا حصہ رہنے والے‘ بی ایل اے کے نئے کمانڈر کون ہیں؟",
-      "link": "https://www.bbc.com/urdu/articles/c62klx05pwq1o?at_medium=RSS&at_campaign=rss",
-      "description": "رحمان گل کا تعلق اپنے پیشرو بشیر زیب کی طرح بلوچستان کے افغانستان سے متصل سرحدی ضلع نوشکی سے ہے اور وہ آٹھ برس تک پاکستانی فوج میں بطور کمیشنڈ افسر ملازمت بھی کر چکے ہیں۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Wed, 18 Nov 2026 05:01:47 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg"
-    },
-    {
-      "title": "’کراچی کی سڑکوں پر خون بہے گا‘: محسن نقوی کی ریفرنڈم کی تجویز پر بلاول بھٹو نے سخت جواب کیوں دیا؟",
-      "link": "https://www.bbc.com/urdu/articles/c6dj1gv0yp08o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان میں نئے صوبوں کے قیام سے متعلق بحث ایک بار پھر شدت اختیار کر گئی ہے۔ وفاقی وزیر داخلہ محسن نقوی نے نئے صوبے بنانے کے لیے ریفرنڈم کرانے کی تجویز دی ہے، جبکہ چیئرمین پیپلز پارٹی بلاول بھٹو نے اس کی مخالفت کرتے ہوئے کہا ہے کہ آئین میں نئے صوبوں کے قیام کا واضح طریقۂ کار موجود ہے اور کسی غیر آئینی راستے کی حمایت نہیں کی جا سکتی۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 17 Nov 2026 15:25:34 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8701/live/0c1b4cc0-e29b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "مارشل لا دور میں میرے ڈائیلاگ سے لوگوں کی بھڑاس نکلی: مصطفیٰ قریشی",
-      "link": "https://www.bbc.com/urdu/watch/cwr7y7dll32ko?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستانی فلم ’مولا جٹ‘ میں نوری نت کے کردار سے وابستہ جملہ ’نواں آیا ایں، سوہنیا‘ آج بھی مصطفیٰ قریشی کی پہچان ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 2026 14:30:27 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1c/live/179d7bf0-dd13-11f1-9019-999bcb7fa2d2.jpg"
+      "title": "ایڈجسٹمنٹس کا بوجھ؛ کراچی سمیت ملک بھر کے صارفین کو بجلی کا بڑا جھٹکا لگنے کا خدشہ",
+      "link": "https://www.express.pk/story/2845401/the-burden-of-adjustments-consumers-across-the-country-including-in-karachi-face-the-risk-of-a-major-electricity-price-shock-2845401",
+      "description": "سہ ماہی اور ماہانہ ایڈجسٹمنٹس کی مد میں بجلی کی قیمت میں مجموعی طور پر 4 روپے 22 پیسے فی یونٹ اضافے کا تخمینہ تیار",
+      "source": "Express Urdu",
+      "cat": "Economy",
+      "date": "Sat, 21 Nov 26 02:00:11 +0000",
+      "photo": ""
     },
     {
       "title": "’لاہوری زیرہ‘ انڈیا میں کولا کمپنیوں کے لیے چیلنج کیسے بنا؟",
@@ -113,15 +124,6 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9306/live/f4b27990-e31d-11f1-baab-4b3b35d174b7.jpg"
     },
     {
-      "title": "’فون کال آئی تو پہلے بیٹی کے پاؤں چھوئے‘: پنجاب کے ٹرک ڈرائیور جن کی 12 کروڑ روپے کی لاٹری نکل آئی",
-      "link": "https://www.bbc.com/urdu/articles/cm3vgwrdl59po?at_medium=RSS&at_campaign=rss",
-      "description": "ان کے گھر میں اس وقت جشن کا ماحول ہے اور خاندان بھر میں مٹھائیاں بانٹی جا رہی ہیں۔ اس کی وجہ یہ ہے کہ ماہانہ چند ہزار روپے کمانے والے بلجندر سنگھ کے اوپر بالآخر قسمت کی دیوی مہربانی ہو گئی ہے اور ان کی 12 کروڑ روپے کی لاٹری نکل آئی ہے۔",
-      "source": "BBC Urdu",
-      "cat": "Economy",
-      "date": "Fri, 20 Nov 2026 06:48:42 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b99/live/add4ba90-e437-11f1-8346-933d3547e297.jpg"
-    },
-    {
       "title": "‎ری جینریٹو فارمنگ: ڈھائی ایکڑ کے فارم سے سالانہ 80 لاکھ تک آمدن کیسے حاصل کی جائے؟",
       "link": "https://www.bbc.com/urdu/articles/c8r4g6522ey2o?at_medium=RSS&at_campaign=rss",
       "description": "چار سال قبل اسلام آباد کے مضافات میں واقع جس ڈھائی ایکڑ زمین پر محض ایک ’فارم ہاؤس‘ تھا، اب اس زمین سے 70 سے 80 لاکھ روپے سالانہ کی زرعی آمدن کا تخمینہ لگایا گیا ہے لیکن یہ ممکن کیسے ہوا؟",
@@ -131,93 +133,75 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2468/live/f0124670-e37e-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "title": "Sri Lanka urges Pakistan to boost exports under Free Trade Agreement - Investify",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWVTd29zbHMxcnVvcTlkQTBtc2ZCcGZUT1piZXQ4ZG96TldNZWJCd1ZoSzJoRWduR2lta1JMUTJSN1BPTlVOdGcxR1BXbGJ6LVR6Y29YLWNmRks5UUpYNE5La0h3Z3BPX3dnRllDUlhlM21VbWtGdmpKZXlXREFYazMzZWwtRWVmVWFqZmZxV3I1b3JwTm5fVUs5WGRmeTFhWGExWWNKVTJNQVV6ZkFOaA?oc=5",
-      "description": "Sri Lanka urges Pakistan to boost exports under Free Trade Agreement Investify",
+      "title": "Key Pakistan Market Stats and Economic Indicators - Investify",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjgtNzZ3MFdxT1ZKcGhyYlFLbGxSVWhMRXJFQjhnTllPWXRTcG5vUzE3WlNfUkZNcEYzXzNzWXFETl9lTVFqTGtHRHJ1N3puT2pLV2ZNN1RDeGxVWjlXaXZXZ2Z6YnRuVGQ5MVlOdjhqOG1GM1NPSjgzekxrQm1BRWd4ZENBX0xqUDdPckFoRXlaMUxld184?oc=5",
+      "description": "Key Pakistan Market Stats and Economic Indicators Investify",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Fri, 20 Nov 2026 15:30:37 GMT",
+      "date": "Sat, 21 Nov 2026 06:54:02 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan coalition backs Shehbaz Sharif's economic course as inflation risks persist - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZk5Mdk1QZS16OF9WSHdMN1p0UVF1YzJrNHhfRUpQQi1sRWN3TWlOcVFFLUs4NVhNbUhNWVdVZ1kyVVQ0Mi05NTVuTzEzNUc0dGxaVm4xT3VEX25ET1lQTnhhZ0FqN2hqbGZWS2RFVm41YzBqaUFua0ZPYXFaeHpCSGRvZDljOFdjZlZiSWFzX1ZOSkRMd0l2Nzd3RFktZE83RDQ4b2NB?oc=5",
-      "description": "Pakistan coalition backs Shehbaz Sharif's economic course as inflation risks persist Traders Union",
+      "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth - The Friday Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+      "description": "IMF Urges Pakistan To Pursue Export-Led Economic Growth The Friday Times",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Fri, 20 Nov 2026 18:42:01 GMT",
+      "date": "Sat, 21 Nov 2026 06:00:00 GMT",
       "photo": ""
     },
     {
-      "title": "لاہور میں امریکا پلٹ شہری کا چھریوں کے وار سے قتل",
-      "link": "https://www.express.pk/story/2845330/us-citizen-stabbed-to-death-in-lahore-2845330",
-      "description": "پولیس نے مقدمہ اندراج کے بعد ملزم کے بھائی کو گرفتار کرلیا",
+      "title": "کراچی: پوش علاقوں کے گھروں میں ڈکیتیاں کرنے والا گینگ گرفتار",
+      "link": "https://www.express.pk/story/2845427/karachi-high-profile-house-robbery-gang-busted-2845427",
+      "description": "ملزمان کے قبضے سے کروڑوں روپے مالیت کی ریکوری ہوئی ہے، ایس ایس پی سینٹرل",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Fri, 20 Nov 26 19:45:01 +0500",
+      "date": "Sat, 21 Nov 26 09:31:10 +0500",
       "photo": ""
     },
     {
-      "title": "تھرپار میں باپ بیٹے کا قتل، سابق ٹاؤن چیئرمین نے سندھ ہائیکورٹ سے ضمانت حاصل کرلی",
-      "link": "https://www.express.pk/story/2845323/tharparkar-son-and-father-killing-case-former-town-chairman-gets-bail-from-shc-2845323",
-      "description": "عدالت نے ملزم کی دس روزہ کے لیے حفاظتی ضمانت منظور کرلی، ایک لاکھ روپے مچلکے جمع کرانے کا حکم",
+      "title": "لاہور: اقبال ٹاؤن میں طالب علم پر تشدد کرنے والا نجی اسکول کا استاد گرفتار",
+      "link": "https://www.express.pk/story/2845418/lahore-teacher-arrested-for-assaulting-student-2845418",
+      "description": "پولیس نے ملزم کے خلاف مقدمہ درج کرکے اسے انویسٹی گیشن ونگ کے حوالے کردیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Fri, 20 Nov 26 18:31:53 +0500",
+      "date": "Sat, 21 Nov 26 08:26:09 +0500",
       "photo": ""
     },
     {
-      "title": "کراچی میں ڈاکو ملزمان دودھ کے تاجر سے 45 لاکھ روپے اور اسلحہ چھین کر لے گئے",
-      "link": "https://www.express.pk/story/2845322/karachi-robbers-snatched-45-million-rupees-and-a-weapon-from-a-milk-trader-2845322",
-      "description": "2 موٹر سائیکلوں پر4 مسلح ملزمان نے واردات کی، بیوپاری منظور کالونی سے بھینس کالونی آیا تھا، ایس ایس پی ملیر",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Fri, 20 Nov 26 18:21:42 +0500",
-      "photo": ""
-    },
-    {
-      "title": "اسلام آباد میں سیکیورٹی ہائی الرٹ، راستوں پر چیکنگ سخت",
-      "link": "https://www.express.pk/story/2845314/islamabad-security-high-alert-strict-checking-intensified-at-entry-and-exit-points-2845314",
-      "description": "شہریوں سے گزارش ہے کہ چیکنگ کے دوران پولیس افسران سے تعاون کریں، ترجمان اسلام آباد پولیس",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Fri, 20 Nov 26 11:41:08 +0000",
-      "photo": ""
-    },
-    {
-      "title": "اسلام آباد میں 13 سالہ گھریلو ملازمہ کی مبینہ تشدد سے ہلاکت، ملزمان کے جسمانی ریمانڈ میں تین روز کی توسیع",
-      "link": "https://www.bbc.com/urdu/articles/cm93088y5gd7o?at_medium=RSS&at_campaign=rss",
-      "description": "پوسٹ مارٹم رپورٹ کے مطابق 13 سالہ فاطمہ کے جسم پر تشدد کے کم از کم 20 نشانات پائے گئے ہیں۔ پوسٹ مارٹم کرنے والی میڈیکو لیگل افسر کی رائے کے مطابق فاطمہ کی موت بار بار کیے جانے والے جسمانی تشدد کے نتیجے میں آنے والی شدید چوٹوں سے ہوئی۔",
+      "title": "سابق وزیر مملکت لیاقت عباس بھٹی کو ’نقدی اور زیورات کی خاطر قتل کیا گیا‘: پولیس کا دعویٰ، چار ملزمان گرفتار",
+      "link": "https://www.bbc.com/urdu/articles/c6j4rny9gzzko?at_medium=RSS&at_campaign=rss",
+      "description": "پاکستان کے صوبے پنجاب کے شہر حافظ آباد پولیس نے سابق وزیر مملکت لیاقت بھٹی کے قتل کے مقدمے میں تین افراد کو گرفتار کیا ہے۔",
       "source": "BBC Urdu",
       "cat": "Crime",
-      "date": "Fri, 20 Nov 2026 09:52:18 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83b4/live/d52c5740-e18c-11f1-952d-674f3722bb9f.jpg"
+      "date": "Sat, 21 Nov 2026 03:32:30 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f6c/live/42d9df60-e499-11f1-9cd2-85bef55939bc.png"
     },
     {
-      "title": "آئی ایل ٹی 20 سیزن 5 کا آغاز آج ہوگا، پاکستانی اسٹارز بھی ایکشن میں ہوں گے",
-      "link": "https://www.express.pk/story/2845347/ilt20-season-5-begins-today-pakistani-stars-will-also-be-in-action-2845347",
-      "description": "وسیم اکرم، وقار یونس اور شعیب اختر سمیت کرکٹ کے بڑے نام کمنٹری کے فرائض انجام دیں گے",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Fri, 20 Nov 26 23:22:42 +0500",
+      "title": "Amnesty: Pakistan Airstrike on Kabul Hospital May Be a War Crime - TOLOnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xRUJ2U05CMjVLcEVUQmhfMC1qU20wUXUtdWlhWndFZGhzRnZZOFBfM0JfOEVjZmF1dlNsRmVydmVMM2hsWWhNZVRSVTZXVXZuRlpoRUZR?oc=5",
+      "description": "Amnesty: Pakistan Airstrike on Kabul Hospital May Be a War Crime TOLOnews",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 2026 05:04:22 GMT",
       "photo": ""
     },
     {
-      "title": "اذلان شاہ کپ: کینیڈا کو پاکستان کےہاتھوں یکطرفہ مقابلے کے بعد 1-5 سے شکست",
-      "link": "https://www.express.pk/story/2845313/pak-beat-canada-2845313",
-      "description": "پاکستانی ٹیم ایونٹ میں اپنا اگلا میچ امریکا کے خلاف کھیلے گی",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Fri, 20 Nov 26 15:27:31 +0500",
+      "title": "Pakistan detains journalist Shahid Maitla for cybercrimes for alleging ex-PM was corrupt - Daily Sun",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXBCT2dxcW5GUVpGcE5LazVQQ2hPMHBPZTRRVHJvTU5ONkNDZTRuZGRlYUxNMFZ5eUtKSFV2NHRDMlAzdkNUb2NmTnpTMmhXTFA3X2pFWnRSQXFXUlZMeGlNUmFuUVVCOWZaY2tGVUxtVDFpOTZObFU3V2k3N003UzVGdkhSWkR2dzZ1V1pkR3RCRmZoX2dQUXZtU01BbmFVMVdrV0hHQWM0Tmh5U2tFelJTY055LXlxdEFkSXZ5QmJraUhwSXc?oc=5",
+      "description": "Pakistan detains journalist Shahid Maitla for cybercrimes for alleging ex-PM was corrupt Daily Sun",
+      "source": "Pakistan Crime",
+      "cat": "Crime",
+      "date": "Fri, 20 Nov 2026 10:17:49 GMT",
       "photo": ""
     },
     {
-      "title": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5",
-      "description": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats Yahoo Sports",
+      "title": "'Deserved justice': Why India boycotted presentation ceremony after Pakistan won Asia Cup - Explained - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMnAtYUNBODN0Q3VwYzRvVnJuMTNvMGZsdGZmUEE2X0s3ZThTY2VmOHdnSXJOMGZuNThqc1YtLU1YdzJXNjAyd3cxdGdTRXJTckY1X2cySGhkdFpxdEdvWEM4YmlUNzZxcFEya1pCZUNfQkJRUXRnOXR2N0RFdy1NbzdJc3Q2dTgwbDhWSGlB?oc=5",
+      "description": "'Deserved justice': Why India boycotted presentation ceremony after Pakistan won Asia Cup - Explained Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 12:14:00 GMT",
+      "date": "Sat, 21 Nov 2026 04:00:00 GMT",
       "photo": ""
     },
     {
@@ -239,93 +223,102 @@
       "photo": ""
     },
     {
-      "title": "ملک بھر میں صرف 5 فیصد میڈیکل اسٹورز پر مستند فارماسسٹ موجود ہیں، رپورٹ",
-      "link": "https://www.express.pk/story/2845346/only-5-percent-of-medical-stores-across-the-country-have-qualified-pharmacists-present-report-states-2845346",
-      "description": "ملک بھر میں 95 فیصد ادویات کی خرید وفروخت کرنیوالے میڈیکل اسٹورز غیر متعلقہ افراد چلا رہے ہیں",
+      "title": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUl2ZHZZYzU0eHBYMkx4UEtwcC1vU3otaEFsbEl3enByRkFhWDI3NlF6cXlHMVVqREUwZ2lPUXRZSFNPTkUxNUdudTh5X0EwS0tycmJOYng0cWRVU09Cck9iQlJZLXhCbzlqR2VCc09DU1NTSlJtSDJTbFJGcDZ2UzZmbktpNGl2OGlQTDc0QlI3ckVmTlRMZ19McjV0RFU4d3Y1VzBPRmc?oc=5",
+      "description": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years San Francisco Chronicle",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Fri, 20 Nov 2026 06:49:06 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5",
+      "description": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Fri, 20 Nov 2026 12:14:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "اس تصویر میں ایک جاندار موجود ہے، کیا آپ اسے تلاش کرسکتے ہیں؟",
+      "link": "https://www.express.pk/story/2845438/there-is-a-living-creature-in-this-picture-can-you-find-it-2845438",
+      "description": "اس تصویر میں ایک رینگنے والا جاندار بھی موجود ہے لیکن صرف تیز نظروں والے ہی اسے دیکھ سکتے ہیں",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 22:57:59 +0500",
+      "date": "Sat, 21 Nov 26 10:23:40 +0500",
       "photo": ""
     },
     {
-      "title": "4 لاکھ ٹن چینی برآمد کرنے کی اجازت، آئی ایم ایف کی شرط نظرانداز",
-      "link": "https://www.express.pk/story/2845344/permission-granted-to-export-400000-tons-of-sugar-imf-condition-ignored-2845344",
-      "description": "رواں سیزن کے دوران چینی کی مجموعی برآمدی اجازت 7 لاکھ 8 ہزار میٹرک ٹن ہوگئی ہے",
+      "title": "امام الحق کی یارکشائر میں واپسی، 2027 کے پورے سیزن کے لیے معاہدہ طے",
+      "link": "https://www.express.pk/story/2845437/imam-ul-haq-returns-to-yorkshire-for-2027-season-2845437",
+      "description": "امام الحق آئندہ سیزن میں کاؤنٹی چیمپئن شپ اور ون ڈے کپ دونوں مقابلوں میں ٹیم کو دستیاب ہوں گے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 17:30:15 +0000",
+      "date": "Sat, 21 Nov 26 10:15:28 +0500",
       "photo": ""
     },
     {
-      "title": "عالمی ایجنسیوں کو مطلوب ہیکر ’’ٹیٹو مین‘‘ کی خودکشی کی کوشش، گلے پر چھری پھیرلی",
-      "link": "https://www.express.pk/story/2845343/hacker-tattoo-man-wanted-by-international-agencies-attempts-suicide-by-slitting-his-own-throat-2845343",
-      "description": "حکام کے مطابق ملزم حساس معلومات اور ڈیٹا ڈارک ویب پر فروخت کرتا تھا",
+      "title": "کرکٹ آسٹریلیا کا پیٹ کمنز کی مکمل حمایت کا اعلان، کپتان برقرار رہیں گے",
+      "link": "https://www.express.pk/story/2845433/cummins-given-unanimous-support-of-cricket-australia-2845433",
+      "description": "کمنز نے تصدیق کی ہے کہ وہ 2018 کے واقعات کا دوبارہ جائزہ لینے کے لیے قائم کیے جانے والے آزاد فورم میں شرکت کریں گے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 21:09:03 +0500",
+      "date": "Sat, 21 Nov 26 09:48:55 +0500",
       "photo": ""
     },
     {
-      "title": "بلاول بھٹو کی جارحانہ حکمت عملی",
-      "link": "https://www.express.pk/story/2845341/bilawal-bhutto-ki-agressiv-hikmat-e-amli-2845341",
-      "description": "اب یوں لگتا ہے کہ اس تقریر کے بعد صدر آصف علی زرداری بڑی حکمت کے ساتھ ان تمام اختلافی معاملات کو حل کرنے کی طرف بڑھیں گے",
+      "title": "بڑھتی عمر میں بھی جلد کو جوان اور تروتازہ کیسے رکھیں؟ اہم غذائیں جانیں",
+      "link": "https://www.express.pk/story/2845430/how-to-keep-your-skin-looking-young-and-fresh-as-you-age-discover-key-foods-2845430",
+      "description": "جلد کی سوزش کم کرنے اور کولیجن کی حفاظت میں مدد دے سکتا ہے۔",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Fri, 20 Nov 26 20:58:41 +0500",
+      "date": "Sat, 21 Nov 26 09:42:35 +0500",
       "photo": ""
     },
     {
-      "title": "سعودی عرب نے ریاض کی جانب داغے گئے حوثی ملیشیا کے تین بیلسٹک میزائل تباہ کر دیے",
-      "link": "https://www.express.pk/story/2845349/saudi-arabia-destroyed-three-ballistic-missiles-fired-by-the-houthi-militia-toward-riyadh-2845349",
-      "description": "سعودی محکمہ شہری دفاع نے چند منٹ بعد خطرہ ختم ہونے کا اعلان کر دیا",
+      "title": "میزائلوں کی جنگ سے زیادہ مشکل معاشی جنگ کا سامنا ہے، ایرانی صدرکا بڑا اعتراف",
+      "link": "https://www.express.pk/story/2845435/iran-facing-a-silent-economic-war-tougher-than-missile-warfare-pezeshkian-says-2845435",
+      "description": "معاشی دباؤ ایک ایسی جنگ کی شکل اختیار کر چکا ہے جس کے اثرات ملک اور عوام پر گہرے مرتب ہو رہے ہیں، بیان",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 20 Nov 26 19:15:09 +0000",
+      "date": "Sat, 21 Nov 26 09:58:57 +0500",
       "photo": ""
     },
     {
-      "title": "امریکا کے ساتھ جنگ کا خاتمہ سفارت کاری کے ذریعے ممکن ہے، عباس عراقچی",
-      "link": "https://www.express.pk/story/2845348/ending-the-war-with-the-us-is-possible-through-diplomacy-says-abbas-araghchi-2845348",
-      "description": "ایرانی وزیر خارجہ عباس عراقچی نے کہا ہے کہ امریکا سے اب بھی ثالثوں کے ذریعے پیغامات کا تبادلہ جاری ہے",
+      "title": "اسرائیل میں عرب قانون سازوں کو قتل کی دھمکیاں، سیاسی کشیدگی میں اضافہ",
+      "link": "https://www.express.pk/story/2845431/arab-lawmakers-receive-death-threats-as-racist-incitement-escalates-in-israel-2845431",
+      "description": "عرب شہریوں کی اعلیٰ فالو اَپ کمیٹی نے اس صورتحال پر ہنگامی اجلاس بھی طلب کیا ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 20 Nov 26 18:27:31 +0000",
+      "date": "Sat, 21 Nov 26 09:48:31 +0500",
       "photo": ""
     },
     {
-      "title": "ایران کو کسی صورت جوہری ہتھیار حاصل نہیں کرنے دیں گے، ٹرمپ",
-      "link": "https://www.express.pk/story/2845342/we-will-not-allow-iran-to-acquire-nuclear-weapons-under-any-circumstances-says-trump-2845342",
-      "description": "ٹرمپ نے دعویٰ کیا کہ امریکا کے پاس تقریباً 4 ہزار جوہری ہتھیار ہیں جبکہ روس دوسرے نمبر پر ہے",
+      "title": "ایران جنگ اگلے سال تک گئی تو امریکی جنگی صلاحیت متاثر ہوسکتی ہے، سینٹکام نے ٹرمپ کو خبردار کردیا",
+      "link": "https://www.express.pk/story/2845410/centcom-warns-of-strain-on-us-military-readiness-if-iran-conflict-drags-on-2845410",
+      "description": "رپورٹ کے مطابق صدر ٹرمپ نے ایران کے خلاف دوبارہ حملوں سے متعلق کسی فوری فیصلے کا عندیہ نہیں دیا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 20 Nov 26 16:02:23 +0000",
+      "date": "Sat, 21 Nov 26 07:41:27 +0500",
       "photo": ""
     },
     {
-      "title": "اتحادی افواج کا یمنی پورٹ پر حملہ، حوثیوں کا سعودی حدود سے گزرنے والی پروازوں کو انتباہ",
-      "link": "https://www.express.pk/story/2845321/coalition-forces-attack-on-yemni-port-houthis-warn-airlines-off-the-saudi-arabia-2845321",
-      "description": "الحدیدہ پورٹ پر حوثیوں کی صلاحیتوں کو تباہ کردیا گیا ہے، سعودی اتحادی افواج کا دعویٰ",
+      "title": "ایران مذاکرات چاہتا ہے مگر امریکی شرائط ماننے کو تیار نہیں، واشنگٹن کا دعویٰ",
+      "link": "https://www.express.pk/story/2845409/us-says-iran-wants-talks-but-is-still-unwilling-to-accept-washingtons-terms-2845409",
+      "description": "امریکی محکمہ خارجہ کے مطابق ایران پر عائد معاشی دباؤ مؤثر ثابت ہو رہا ہے اور اس کے اثرات وقت کے ساتھ مزید بڑھیں گے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Fri, 20 Nov 26 12:53:29 +0000",
+      "date": "Sat, 21 Nov 26 07:41:00 +0500",
       "photo": ""
     },
     {
-      "title": "جی ٹی اے 6 کی خاطر طلبا کی غیر حاضری روکنے کے لیے اسکول کی دلچسپ ترکیب",
-      "link": "https://www.express.pk/story/2845326/school-holds-2845326",
-      "description": "اسکول انتظامیہ نے اس سے قبل والدین کو خط بھی ارسال کیا تھا",
+      "title": "آسٹریلوی رکن پارلیمنٹ نے الوداعی خطاب کے دوران گرل فرینڈ کو شادی کی پیشکش کر دی",
+      "link": "https://www.express.pk/story/2845420/australian-mp-proposes-to-girlfriend-during-farewell-speech-2845420",
+      "description": "اس دلچسپ اور جذباتی لمحے کی ویڈیو بھی کیمرے میں محفوظ ہو گئی، جس میں ساتھی اراکین کو جوڑے کی خوشی میں شریک ہوتے دیکھا جا سکتا ہے۔",
       "source": "Express Urdu",
       "cat": "Strange",
-      "date": "Fri, 20 Nov 26 18:43:11 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پشاور میں نوجوان کا انوکھا اقدام، ولیمے میں رشتے داروں کے بجائے یتیم بچوں کو مہمان بنالیا",
-      "link": "https://www.express.pk/story/2845316/young-man-in-peshawar-takes-a-unique-initiative-invites-orphaned-children-2845316",
-      "description": "مقامی شادی ہال میں منعقدہ ولیمہ کی تقریب میں خصوصی افراد کو شرکت کی دعوت دی",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Fri, 20 Nov 26 17:04:20 +0500",
+      "date": "Sat, 21 Nov 26 08:38:51 +0500",
       "photo": ""
     }
   ],
@@ -352,7 +345,7 @@
     },
     {
       "source": "BBC World",
-      "added": 25,
+      "added": 24,
       "ok": true
     },
     {
@@ -363,7 +356,7 @@
     },
     {
       "source": "CNN",
-      "added": 35,
+      "added": 34,
       "ok": true
     },
     {
@@ -378,7 +371,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 27,
+      "added": 31,
       "ok": true
     }
   ]
