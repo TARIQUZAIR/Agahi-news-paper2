@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:38:51.383311+00:00",
+  "generated_at": "2026-11-22T00:54:36.880925+00:00",
   "count": 35,
   "target": 40,
   "quotas": {
@@ -14,39 +14,66 @@
   "shortages": {},
   "items": [
     {
+      "title": "خیبرپختونخوا ارکان اسمبلی سے مراعات چھین لی گئیں، آرڈیننس منظور",
+      "link": "https://www.express.pk/story/2845523/privileges-withdrawn-from-khyber-pakhtunkhwa-assembly-members-ordinance-approved-2845523",
+      "description": "ایگزیکٹو کمیٹیوں کو وسیع اختیارات دیدیے گئے،انتظامی ڈھانچے میں بڑی تبدیلیاں",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 16:53:31 +0000",
+      "photo": ""
+    },
+    {
+      "title": "معاشی ترقی کے اشارے",
+      "link": "https://www.express.pk/story/2845520/indicators-of-economic-development-2845520",
+      "description": "ترکیہ کا جدید سیسمک تحقیقی بحری جہاز اورچ رئیس کراچی پہنچ گیا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 21:08:36 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، جو کبھی عروس البلاد تھا",
+      "link": "https://www.express.pk/story/2845518/karachi-which-was-once-the-bride-of-cities-2845518",
+      "description": "وقت کے ساتھ کراچی کی آبادی اس رفتار سے بڑھی کہ شہر کا ڈھانچہ اسے سنبھال نہ سکا",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 20:15:59 +0500",
+      "photo": ""
+    },
+    {
+      "title": "بیانات اور وضاحت کا نفسیاتی پہلو",
+      "link": "https://www.express.pk/story/2845511/the-psychological-aspect-of-statements-and-explanations-2845511",
+      "description": "پاکستان کے ابتدائی دور میں سیاستدانوں میں فن خطابت کی صلاحیت تھی",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 19:54:34 +0500",
+      "photo": ""
+    },
+    {
+      "title": "تاشقند اور کراچی: عظمت اور زوال کی داستان",
+      "link": "https://www.express.pk/story/2845503/tashkent-and-karachi-a-tale-of-greatness-and-decline-2845503",
+      "description": "ازبکستان کی سرزمین نے ماضی میں مسلمانوں کی تاریخ میں اہم کردار ادا کیا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 18:57:37 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کتاب: ہندوستانی تاریخ مارکسی تناظر میں",
+      "link": "https://www.express.pk/story/2845496/book-indian-history-from-a-marxist-perspective-2845496",
+      "description": "کتاب کا تعارف پاکستان کے معروف روشن خیال تاریخ دان ڈاکٹر مبارک علی نے لکھا ہے",
+      "source": "Express Urdu",
+      "cat": "National",
+      "date": "Sat, 21 Nov 26 18:36:56 +0500",
+      "photo": ""
+    },
+    {
       "title": "کراچی میں سردی کی دستک، درجہ حرارت میں کمی ریکارڈ",
       "link": "https://www.express.pk/story/2845491/karachi-weather-begging-starts-2845491",
       "description": "درجہ حرارت 2 درجہ کمی کے 16.6 ڈگری سینٹی گریڈ پر پہنچ گئی",
       "source": "Express Urdu",
       "cat": "National",
       "date": "Sat, 21 Nov 26 17:50:45 +0500",
-      "photo": ""
-    },
-    {
-      "title": "2026 میں پاکستان کے 8 مقبول ترین ڈرامے، عالمی ناظرین کی توجہ کا مرکز",
-      "link": "https://www.express.pk/story/2845471/pakistan-8-most-popular-dramas-of-2026-also-captured-the-attention-of-global-audiences-2845471",
-      "description": "2026 پاکستانی ڈراموں کے لیے خاصا سرگرم رہا، کئی ڈراموں نے بہترین ٹی آر پی اور عالمی ناظرین کی توجہ حاصل کی",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 21 Nov 26 15:11:23 +0500",
-      "photo": ""
-    },
-    {
-      "title": "پی ٹی آئی کو پنجاب میں بڑا دھچکا، سینئر رہنما کا پارٹی چھوڑنے کا اعلان",
-      "link": "https://www.express.pk/story/2845468/pti-suffers-major-setback-in-punjab-as-senior-leader-announces-decision-to-quit-party-2845468",
-      "description": "ویڈیو پیغام میں رہنما پی ٹی آئی نے کہا کہ پی ٹی آئی اور تحریک تحفظ آئین پاکستان کے عہدوں سے دستبردار ہو رہا ہوں",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 21 Nov 26 09:54:34 +0000",
-      "photo": ""
-    },
-    {
-      "title": "سندھ انسٹیٹیوٹ آف کارڈیو ویسکولر ڈیزیز کا کارنامہ: 10 ماہ میں 22 ہزار سے زائد مریضوں کا مفت علاج",
-      "link": "https://www.express.pk/story/2845449/achievement-by-the-sindh-institute-of-cardiovascular-diseases-free-treatment-provided-to-over-22000-patients-in-10-months-2845449",
-      "description": "10 ماہ میں 1,626 مریضوں کے اوپن ہارٹ آپریشن بالکل مفت انجام دیے گئے، کارکردگی رپورٹ",
-      "source": "Express Urdu",
-      "cat": "National",
-      "date": "Sat, 21 Nov 26 07:05:47 +0000",
       "photo": ""
     },
     {
@@ -75,33 +102,6 @@
       "cat": "National",
       "date": "Wed, 18 Nov 2026 05:01:47 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ecd/live/e4a3e6d0-e186-11f1-938f-7d0e2ede1ea5.jpg"
-    },
-    {
-      "title": "’کراچی کی سڑکوں پر خون بہے گا‘: محسن نقوی کی ریفرنڈم کی تجویز پر بلاول بھٹو نے سخت جواب کیوں دیا؟",
-      "link": "https://www.bbc.com/urdu/articles/c6dj1gv0yp08o?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستان میں نئے صوبوں کے قیام سے متعلق بحث ایک بار پھر شدت اختیار کر گئی ہے۔ وفاقی وزیر داخلہ محسن نقوی نے نئے صوبے بنانے کے لیے ریفرنڈم کرانے کی تجویز دی ہے، جبکہ چیئرمین پیپلز پارٹی بلاول بھٹو نے اس کی مخالفت کرتے ہوئے کہا ہے کہ آئین میں نئے صوبوں کے قیام کا واضح طریقۂ کار موجود ہے اور کسی غیر آئینی راستے کی حمایت نہیں کی جا سکتی۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 17 Nov 2026 15:25:34 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8701/live/0c1b4cc0-e29b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "مارشل لا دور میں میرے ڈائیلاگ سے لوگوں کی بھڑاس نکلی: مصطفیٰ قریشی",
-      "link": "https://www.bbc.com/urdu/watch/cwr7y7dll32ko?at_medium=RSS&at_campaign=rss",
-      "description": "پاکستانی فلم ’مولا جٹ‘ میں نوری نت کے کردار سے وابستہ جملہ ’نواں آیا ایں، سوہنیا‘ آج بھی مصطفیٰ قریشی کی پہچان ہے۔",
-      "source": "BBC Urdu",
-      "cat": "National",
-      "date": "Tue, 10 Nov 2026 14:30:27 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee1c/live/179d7bf0-dd13-11f1-9019-999bcb7fa2d2.jpg"
-    },
-    {
-      "title": "Pakistan drop former captains Rizwan and Masood in contract overhaul - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVk4Q0hFNlJhTXFhbXFqelhfR1M0dEl2OVQ5SVZjemQtWXZJcEJTUTk4eUhDQW9wbnVibGt3c2dxN0YxYUE1QUp5YjJTUlNvRzA3em5WSVgxdlRqTU54T0pCN3d2VVJqRWdzdTVBNS1Sanpmb0dISk1sU1lLN29CbGZrSHBXWXQ3TjAzSjRDTms4LUpLaE9FNXpKRzAtUTlhSU5mdDdaNkpVQQ?oc=5",
-      "description": "Pakistan drop former captains Rizwan and Masood in contract overhaul RFI",
-      "source": "Sports Pakistan",
-      "cat": "National",
-      "date": "Sat, 21 Nov 2026 09:08:31 GMT",
-      "photo": ""
     },
     {
       "title": "‎ری جینریٹو فارمنگ: ڈھائی ایکڑ کے فارم سے سالانہ 80 لاکھ تک آمدن کیسے حاصل کی جائے؟",
@@ -149,12 +149,30 @@
       "photo": ""
     },
     {
-      "title": "لاہور: خاوند کی غیر موجودگی میں خاتون سے جنسی زیادتی کرنے والا گرفتار",
-      "link": "https://www.express.pk/story/2845453/lahore-man-arrested-for-sexually-assaulting-a-woman-in-her-husbands-absence-2845453",
-      "description": "ملزم زبردستی گھر میں گھس کر ہراساں کر رہا تھا، پولیس نے اطلاع ملنے پر فوری کاروائی کرتے ملزم زبیر کو گرفتار کر لیا",
+      "title": "کراچی، ناخلف بیٹے نے سوتے ہوئے باپ کو ذبح کردیا، سر دھڑ سے جدا، ملزم فرار",
+      "link": "https://www.express.pk/story/2845522/beheaded-body-recovered-from-a-house-in-north-karachi-2845522",
+      "description": "ملزم رضوان کا مبینہ طور پر ذہنی توازن درست نہیں بتایا جاتا ہے",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sat, 21 Nov 26 12:39:36 +0500",
+      "date": "Sat, 21 Nov 26 21:45:55 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، شہر میں ڈاکو بے لگام ہو گئے، تاجر سے 70 لاکھ روپے کے موبائل لوٹ کر فرار",
+      "link": "https://www.express.pk/story/2845521/karachi-bandits-run-rampant-in-the-city-they-flee-after-robbing-a-businessman-of-mobile-phones-worth-7-million-rupees-2845521",
+      "description": "دو موٹر سائیکلوں پر سوار چار ملزمان نے تاجر کو روک کر لوٹ مار کی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 21 Nov 26 16:35:51 +0000",
+      "photo": ""
+    },
+    {
+      "title": "کراچی؛ گلشن حدید میں ماں، بیٹی کو قتل کرنے والا ملزم لاڑکانہ سے گرفتار",
+      "link": "https://www.express.pk/story/2845500/karachi-gulshan-hadeed-mother-and-daughter-murder-suspect-arrested-from-larkana-2845500",
+      "description": "ملزم مبشر نے 5 نومبر کو گلشن حدید فیز 2 میں ایک گھر میں گھس کر فائرنگ کرکے ماں اور بیٹی کو قتل کیا تھا، ایس ایچ او",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Sat, 21 Nov 26 18:52:43 +0500",
       "photo": ""
     },
     {
@@ -176,21 +194,12 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f6c/live/42d9df60-e499-11f1-9cd2-85bef55939bc.png"
     },
     {
-      "title": "Pakistan detains journalist Shahid Maitla for cybercrimes for alleging ex-PM was corrupt - Daily Sun",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUXBCT2dxcW5GUVpGcE5LazVQQ2hPMHBPZTRRVHJvTU5ONkNDZTRuZGRlYUxNMFZ5eUtKSFV2NHRDMlAzdkNUb2NmTnpTMmhXTFA3X2pFWnRSQXFXUlZMeGlNUmFuUVVCOWZaY2tGVUxtVDFpOTZObFU3V2k3N003UzVGdkhSWkR2dzZ1V1pkR3RCRmZoX2dQUXZtU01BbmFVMVdrV0hHQWM0Tmh5U2tFelJTY055LXlxdEFkSXZ5QmJraUhwSXc?oc=5",
-      "description": "Pakistan detains journalist Shahid Maitla for cybercrimes for alleging ex-PM was corrupt Daily Sun",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Fri, 20 Nov 2026 10:17:49 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Qatar, Pakistan sign security cooperation agreement, police training MoU - US Muslims",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUjhEM2paXzhja21VS3lFbnF0R0FQVC1nTnd2aVh1cDhDNTVzeHVjaW5qc0t6NFFkY1dqRVV0MjZnSUltb0l3Qzd2NWdLeGpsZnk1aTRXc3NfTE5BYUJpYUFGM05wTUxFMXowci12bkNWdUZpMzRraTM1SkVYWUR0V05sUy00cWF1TXd0ZGRIVnhZOUtHTFE3TzJwU1VxcDFmYTdaTFR1ZDVkLURT0gG8AUFVX3lxTE9hMnd6Y2NteFE5N3V1SUozWl9TRkhFNFdLNFhFcEFJQWhzNE1DbW5nV2JPTVpMWWtGT2ludTFUcG96a2Z3cHZwSjJaZ0V4bVN5dTVrYlRpbkF6STJnVThIS0dER3JsdXVnckh6T0VUaERwRHZuV1BoUTN5RVpUMmZhQW9ibDNtbUl3Wjg2NnFBM21RUkI5SXFtX3U3cmcwU1FIRnFDRGFKVHU0REJaTkNYZjgtUmlHLXNXWk5r?oc=5",
-      "description": "Qatar, Pakistan sign security cooperation agreement, police training MoU US Muslims",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Fri, 20 Nov 2026 18:22:13 GMT",
+      "title": "سلطان اذلان شاہ ہاکی ٹورنامنٹ: پاکستان نے امریکا کو شکست دے دی",
+      "link": "https://www.express.pk/story/2845506/sultan-azlan-shah-hockey-tournament-pakistan-defeated-usa-2845506",
+      "description": "آخری کوارٹر میں ابو محمد نے 46ویں اور حنان شاہد نے 58ویں منٹ میں گول کرکے پاکستان کی کامیابی 5-1 سے یقینی بنا دی",
+      "source": "Express Urdu",
+      "cat": "Sports",
+      "date": "Sat, 21 Nov 26 19:07:40 +0500",
       "photo": ""
     },
     {
@@ -221,57 +230,66 @@
       "photo": ""
     },
     {
-      "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGtYQUVKQ1VaWXdIR2NRcFFiMnRWM1d0Z2ZJOGlUWFBNU2xQOWFlbVAxVjZOX05adGZTWEd1QW1Ob2NxRGxucTFHOGxHVU9xSXdhcUdBaEJ0Mm14ejE2Zm56Nk03NU5wY3Nlemp2dkxlWUliNTRhcE1qY2c2MFJILXBWYjAxU3lZMmo4NGoyNkU?oc=5",
-      "description": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout Yahoo Sports",
+      "title": "Embassy of Uzbekistan in Pakistan delivers Specialized Workwear and Sports Equipment to Technical Colleges of the Country - Dunyo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUQ2ek1qencwWnE1T3JPb3JtUVFuOVRtRFpmaWtaOEcxVG5leWFaejRKLVJlc1VEa0RyOF9aOEU2Mk5lR1RlNzhlVU5uZnNoUXg2M2lxbEFnV3VGZmZFOHpUUDk0M1Fadjg5WWRQR1Q3bHMya2dqWVpjYWlHU1pra2NoSEVhMnpEd2xhRXBmUmVKam8tYjBFRlF6MFlsS3NxTEI4?oc=5",
+      "description": "Embassy of Uzbekistan in Pakistan delivers Specialized Workwear and Sports Equipment to Technical Colleges of the Country Dunyo",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 19:26:00 GMT",
+      "date": "Sat, 21 Nov 2026 07:38:55 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan Sri Lanka Cricket - Bluefield Daily Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnJHOWMtU1Zqc2ltUU5pdUtQaGpHUGM4Zkh5MDl6M0VNaElWVlZjWEFNYXg3bkF4ekNObWVRVFhRT1ZYellIYUIzRkF0akRZTlFteUJpQWxJTkNKMjlKMy1KSzFrUUZQQVNGZFJzM3FmMThxRHNPVE5nMEpCaXVpLXRNaDFvTl80V0Z3aW1YelY3YWJIU0NKTXlxcFVRaHRTZ1dvN09sVlRMREgtNVZOSndCZEZZSGU3S2IwU19DNGQ?oc=5",
-      "description": "Pakistan Sri Lanka Cricket Bluefield Daily Telegraph",
-      "source": "Sports Pakistan",
-      "cat": "Sports",
-      "date": "Fri, 20 Nov 2026 06:00:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "برطانیہ میں جی ٹی اے 6 کا بخار، بیماری کے باعث چھٹیوں میں بڑا اضافہ!",
-      "link": "https://www.express.pk/story/2845495/brits-throw-sickies-to-play-grand-theft-auto-vi-2845495",
-      "description": "بیماری کی باعث پر چھٹیوں میں 56 فی صد اضافہ ریکارڈ",
+      "title": "شدید دھند کے باعث موٹرویز کے متعدد حصے ٹریفک کے لیے بند",
+      "link": "https://www.express.pk/story/2845525/several-sections-of-motorways-closed-to-traffic-due-to-heavy-fog-2845525",
+      "description": "شہری دھند کے موسم میں غیر ضروری سفر سے گریز کریں، ترجمان موٹر وے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 21 Nov 26 18:31:20 +0500",
+      "date": "Sat, 21 Nov 26 18:28:45 +0000",
       "photo": ""
     },
     {
-      "title": "مولانا فضل الرحمان کو سیکیورٹی تھریٹ ہے تو سیکیورٹی لازمی فراہم کرنی چاہیے، فیصل کریم کنڈی",
-      "link": "https://www.express.pk/story/2845487/faisal-kundi-says-if-molana-fazlur-rehman-faces-a-security-threat-he-must-be-provided-with-security-2845487",
-      "description": "دہشت گردی کے مکمل خاتمے اور پائیدار امن کے قیام تک جنگ جاری رہے گی، گورنر فیصل کریم کنڈی",
+      "title": "جھڈو، آٹھویں جماعت کے طالب علم کی گھر سے پھندا لگی لاش برآمد",
+      "link": "https://www.express.pk/story/2845524/jhuddo-body-of-an-8th-grade-student-found-hanging-at-home-2845524",
+      "description": "پولیس نے لاش تحویل میں لے کر پوسٹ مارٹم کے لیے مرکز صحت جھڈو منتقل کردی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 21 Nov 26 12:13:19 +0000",
+      "date": "Sat, 21 Nov 26 22:23:55 +0500",
       "photo": ""
     },
     {
-      "title": "روما مائیکل کی شادی پر بہن کے ڈانس نے بالی ووڈ ہیروئنز کو ٹکر دے دی، ویڈیوز وائرل",
-      "link": "https://www.express.pk/story/2845484/roma-michael-wedding-party-sister-dance-videos-go-viral-2845484",
-      "description": "روما مائیکل کی شندی کی تقریب میں بہن مریم مائیکل کے ڈانس کی ویڈیوز سوشل میڈیا پر وائرل ہورہی ہیں",
+      "title": "بنگلادیش کی مسجد کے چندہ بکسوں سے 18 کروڑ ٹکہ برآمد، رقم گننے میں 15 گھنٹے لگ گئے",
+      "link": "https://www.express.pk/story/2845519/bangladesh-donation-get-18-crores-counting-took-15-hours-2845519",
+      "description": "مسجد انتظامیہ کے مطابق نقد رقم کے علاوہ چندہ بکسوں سے مختلف ممالک کی غیر ملکی کرنسی اور سونے کے زیورات بھی ملے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 21 Nov 26 16:47:06 +0500",
+      "date": "Sat, 21 Nov 26 20:26:17 +0500",
       "photo": ""
     },
     {
-      "title": "تحریک انصاف نے نئے صوبوں پر ریفرنڈم کی حمایت کو بانی پی ٹی آئی کی منظوری سے مشروط کردیا",
-      "link": "https://www.express.pk/story/2845482/pti-has-made-the-referendum-conditional-upon-the-decision-of-the-pti-founder-2845482",
-      "description": "بلاول پہلے بیان دیتے اور پھر والد سے ملتے ہیں جس کے بعد پیپلزپارٹی پرانی تنخواہ پر کام کرتی ہے، شیخ وقاص اکرم",
+      "title": "کیا حسینہ کو مودی سرکار پھانسی سے بچا پائے گی؟",
+      "link": "https://www.express.pk/story/2845516/will-the-modi-government-be-able-to-save-hasina-from-the-gallows-2845516",
+      "description": "حسینہ نے اب شاید بھارتی مشورے پر دسمبر میں بنگلا دیش واپسی کا عندیہ دیا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sat, 21 Nov 26 11:38:54 +0000",
+      "date": "Sat, 21 Nov 26 20:09:47 +0500",
+      "photo": ""
+    },
+    {
+      "title": "ایران کا بحرین پر حملہ؛ صنعتی ایریا میں خوفناک آگ بھڑک اُٹھی",
+      "link": "https://www.express.pk/story/2845517/iran-attack-on-bahrain-facility-caught-fire-2845517",
+      "description": "بحرین کے سرکاری ٹیلی وژن نے اعلان کیا کہ ملک کے فضائی دفاعی نظام نے ایران کی جانب سے کیے گئے فضائی حملوں کو روک دیا",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sat, 21 Nov 26 15:12:34 +0000",
+      "photo": ""
+    },
+    {
+      "title": "ایران کا امریکی ناکہ بندی توڑنے کا اعلان، جزیرہ خارک پر 14 سے زائد تیل بردار جہاز جمع",
+      "link": "https://www.express.pk/story/2845507/iran-vows-to-break-us-blockade-as-tankers-gather-at-kharg-island-2845507",
+      "description": "ایران نے اپنا مؤقف امریکا اور ثالثی کا کردار ادا کرنے والے ممالک، بشمول قطر تک پہنچا دیا ہے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Sat, 21 Nov 26 14:11:37 +0000",
       "photo": ""
     },
     {
@@ -290,24 +308,6 @@
       "source": "Express Urdu",
       "cat": "Middle East",
       "date": "Sat, 21 Nov 26 12:09:03 +0000",
-      "photo": ""
-    },
-    {
-      "title": "کاویا مرن نے شادی کی تقریب سے پہلے ملازمین میں سونے کی انگوٹھیاں بانٹ دیں",
-      "link": "https://www.express.pk/story/2845464/kavya-maran-distributed-gold-rings-among-the-employees-before-the-wedding-ceremony-2845464",
-      "description": "ملازمین کو تحفے کے ڈبے پیش کیے گئے، جن میں دعوت نامے، چاکلیٹس اور سونے کی انگوٹھیاں شامل تھیں",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Sat, 21 Nov 26 14:19:43 +0500",
-      "photo": ""
-    },
-    {
-      "title": "اینڈرائیڈ 17 اپ ڈیٹ، موٹرولا نے اہل اسمارٹ فونز کی فہرست جاری کردی",
-      "link": "https://www.express.pk/story/2845462/motorola-starts-rolling-out-2845462",
-      "description": "نئی فہرست میں کمپنی کے Razr ، Edge اور Moto سیریز کے متعدد اسمارٹ فونز شامل ہیں",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Sat, 21 Nov 26 14:07:50 +0500",
       "photo": ""
     },
     {
@@ -352,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 25,
+      "added": 27,
       "ok": true
     },
     {
@@ -363,12 +363,12 @@
     },
     {
       "source": "CNN",
-      "added": 34,
+      "added": 35,
       "ok": true
     },
     {
       "source": "Sports Pakistan",
-      "added": 30,
+      "added": 35,
       "ok": true
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 34,
+      "added": 29,
       "ok": true
     }
   ]
