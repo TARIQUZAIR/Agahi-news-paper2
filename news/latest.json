@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T10:39:54.093169+00:00",
-  "count": 34,
+  "generated_at": "2026-11-22T18:59:01.375485+00:00",
+  "count": 35,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,117 +11,97 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {
-    "Strange": 1
-  },
+  "shortages": {},
   "items": [
     {
-      "title": "اسکردو میں درجہ حرارت منفی 6 ڈگری تک گر گیا، کوئٹہ میں پارہ 3 ڈگری ریکارڈ",
-      "link": "https://www.express.pk/story/2845592/skardu-temperature-drops-to-minus-60c-quetta-records-30c-2845592",
-      "description": "ملک کے بیشتر علاقوں میں خشک سردی کی شدت میں اضافہ ریکارڈ کیا جا رہا ہے",
+      "title": "وزیراعلیٰ پنجاب کی کارکردگی پر مخالفین سے کہوں گی محنت کر حسد نہ کر، مریم اورنگزیب",
+      "link": "https://www.express.pk/story/2845632/marriyum-aurangzeb-2845632",
+      "description": "وفاقی وزیر ریلوے محمد حنیف عباسی نے مریم نواز شریف کا تاریخی استقبال کرنے اور اصلی سونے کا تاج پہنانے کا اعلان کردیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 05:08:28 +0000",
+      "date": "Sun, 22 Nov 26 11:13:24 +0000",
       "photo": ""
     },
     {
-      "title": "12 مئی دوبارہ نہیں ہونے دیں گے، مذاکرات ہی مسائل کا حل ہیں، میئر کراچی",
-      "link": "https://www.express.pk/story/2845591/we-will-not-let-may-12-happen-again-negotiations-are-the-only-solution-to-the-problems-says-mayor-of-karachi-2845591",
-      "description": "ہم چاہتے ہیں کہ کوئی سڑک بند نہ ہو، کوئی سیاسی جماعت اگر کوئی بات کرنا چاہے تو کرے، مرتضیٰ وہاب",
+      "title": "‏ریفرنڈم بلوچستان اور خیبرپختونخوا نہیں سندھ و پنجاب کا مسئلہ ہے، گورنر خیبر پختونخوا",
+      "link": "https://www.express.pk/story/2845629/the-referendum-is-not-an-issue-for-balochistan-and-khyber-pakhtunkhwa-but-rather-for-sindh-and-punjab-says-the-governor-of-khyber-pakhtunkhwa-2845629",
+      "description": "جن صوبوں میں مسئلہ ہے ادھر جو آئین اور قانون اجازت دیتا ہے اس کے مطابق عمل ہونا چاہیے، فیصل کریم کنڈی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 05:08:19 +0000",
+      "date": "Sun, 22 Nov 26 10:52:27 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی؛ گھر سے نوجوان کی گلا کٹی لاش برآمد",
-      "link": "https://www.express.pk/story/2845590/karachi-young-mans-throat-slit-body-recovered-from-house-2845590",
-      "description": "متوفی نوجوان نے بے روزگاری سے تنگ آکر خودکشی کی ہے، ایس ایچ او بلوچ کالونی",
+      "title": "کراچی: مختلف جماعتوں کی ریلیوں کے سبب کئی شاہراہوں پر بدترین ٹریفک جام",
+      "link": "https://www.express.pk/story/2845628/karachi-traffic-jam-2845628",
+      "description": "ریلیاں ختم ہونے کے بعد شہر کی تمام اہم شاہراہوں پر ٹریفک بحال ہو گیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 04:51:56 +0000",
+      "date": "Sun, 22 Nov 26 10:46:06 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان عالمی جوہری سلامتی تعاون کے 4 روزہ اجلاس کی میزبانی کرے گا",
-      "link": "https://www.express.pk/story/2845582/pakistan-will-host-a-four-day-meeting-on-global-nuclear-security-cooperation-2845582",
-      "description": "پاکستان عالمی تعاون، علم کے تبادلے اور پائیدار صلاحیت سازی کے ذریعے اپنا کردار جاری رکھے ہوئے ہے، دفتر خارجہ",
+      "title": "جے یو آئی سندھ کا کراچی میں احتجاج، مولانا فضل الرحمٰن کے خلاف مہم بند کرنے کا مطالبہ",
+      "link": "https://www.express.pk/story/2845624/jui-sindh-protests-in-karachi-demands-an-end-to-the-campaign-against-maulana-fazl-ur-rehman-2845624",
+      "description": "مولانا کے گھر کے تقدس کی پامالی، ان کے خلاف مبینہ کردار کشی کی مہم اور سندھ کی تقسیم کی کوششوں کے خلاف شدید احتجاج",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 03:38:47 +0000",
+      "date": "Sun, 22 Nov 26 10:00:08 +0000",
       "photo": ""
     },
     {
-      "title": "ایک وزیر روز میرے اوپر تبصرے کر رہا ہے، میں نے جواب دیا تو منہ چھپانےکے قابل نہیں رہے گا، محسن نقوی",
-      "link": "https://www.express.pk/story/2845578/a-minister-makes-remarks-about-me-every-day-if-i-were-to-respond-he-wouldnt-even-be-able-to-show-his-face-says-mohsin-naqvi-2845578",
-      "description": "ڈھائی سال سے اس وزیر کے تبصرے صبر سے سن رہا ہوں، وفاقی وزیر داخلہ کی لاہور میں صحافیوں سے غیر رسمی گفتگو",
+      "title": "ایشیا کپ رائزنگ اسٹارز؛ پاکستان شاہینز نے بھارت اے کو 314 رنز کا ہدف دے دیا",
+      "link": "https://www.express.pk/story/2845621/asia-cup-rising-stars-pakistan-shaheens-set-india-a-a-target-of-314-runs-2845621",
+      "description": "پاکستان کی جانب سے حسن نواز 79 ، معاذ صداقت 59 اور فرحان یوسف 56 رنز کے ساتھ نمایاں رہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 03:04:26 +0000",
+      "date": "Sun, 22 Nov 26 14:19:19 +0500",
       "photo": ""
     },
     {
-      "title": "سندھ کے 5 اضلاع کی 7 بلدیاتی نشستوں پر ضمنی انتخابات، پولنگ جاری",
-      "link": "https://www.express.pk/story/2845572/by-elections-underway-on-seven-local-government-seats-across-five-sindh-districts-2845572",
-      "description": "حیدرآباد، مٹیاری، میرپورخاص، نوشہروفیروز اور لاڑکانہ میں ضمنی انتخابات ہو رہے ہیں",
+      "title": "ایشیا کپ رائزنگ اسٹارز ٹورنامنٹ: پاکستانی کپتان عبدالصمد نے ریفری کی غلطی پکڑ لی",
+      "link": "https://www.express.pk/story/2845618/asia-cup-rising-stars-tournament-pakistan-captain-abdul-samad-spots-referees-error-2845618",
+      "description": "واقعے کی ویڈیو سوشل میڈیا پر وائرل ہوگئی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 02:52:00 +0000",
+      "date": "Sun, 22 Nov 26 12:53:13 +0500",
       "photo": ""
     },
     {
-      "title": "’’نئے صوبے ناگزیر‘‘؛ مصطفی کمال کے بیان پر ترجمان سندھ حکومت کا ردعمل",
-      "link": "https://www.express.pk/story/2845569/new-provinces-are-inevitable-sindh-government-spokespersons-response-to-mustafa-kamals-statement-2845569",
-      "description": "نئے صوبوں کا نعرہ اپنی سیاسی سانسیں بحال رکھنے کی ناکام کوشش ہے، سعدیہ جاوید",
+      "title": "پاکستان خطے میں امن اور مذاکرات کے ذریعے تنازعات کا حل چاہتا ہے، بلاول بھٹو",
+      "link": "https://www.express.pk/story/2845608/pakistan-seeks-peace-in-the-region-and-the-resolution-of-conflicts-through-dialogue-says-bilawal-bhutto-2845608",
+      "description": "افغانستان سے امریکی انخلا کے بعد جدید اسلحہ دہشت گردوں کے ہاتھ لگا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 02:31:56 +0000",
+      "date": "Sun, 22 Nov 26 07:04:38 +0000",
       "photo": ""
     },
     {
-      "title": "سندھ کی تقسیم کسی صورت قبول نہیں، صوبہ ایک ہے اور ایک رہے گا، ناصر حسین شاہ",
-      "link": "https://www.express.pk/story/2845566/the-division-of-sindh-is-unacceptable-under-any-circumstances-the-province-is-one-and-will-remain-one-says-nasir-hussain-shah-2845566",
-      "description": "کاروباری حضرات اچانک صوبوں کے قیام کی بات کہاں سے لے آئے ہیں؟ صوبائی وزیر",
+      "title": "بابا گورونانک کے 557ویں جنم دن کی تقریبات، 2339 سکھ یاتری بھارت سے پاکستان پہنچ گئے",
+      "link": "https://www.express.pk/story/2845606/celebrations-for-baba-guru-nanaks-557th-birth-anniversary-2339-sikh-pilgrims-arrive-in-pakistan-from-india-2845606",
+      "description": "یاتریوں کے استقبال کے لیے واہگہ بارڈر پر کھانے اور طبی سہولیات کا انتظام، خصوصی بسوں کے ذریعے ننکانہ روانہ ہونگے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 01:53:56 +0000",
+      "date": "Sun, 22 Nov 26 07:04:35 +0000",
       "photo": ""
     },
     {
-      "title": "دسمبر اہم ہے؛ کراچی وفاق کو دینے کی تجویز آئی تو بھرپور حمایت کریں گے، مصطفی کمال",
-      "link": "https://www.express.pk/story/2845565/december-is-significant-if-a-proposal-to-hand-over-karachi-to-the-federal-government-is-put-forward-we-will-fully-support-it-says-mustafa-kamal-2845565",
-      "description": "زرداری سمجھدار سیاستدان ہیں ، معاملات آگے بڑھانے کے لیے مناسب وقت کی اہمیت سمجھتے ہیں، وفاقی وزیر صحت",
+      "title": "دالبندین میں فتنۃ الہندوستان کے دہشت گردوں کی مسافر بس پر فائرنگ، ڈرائیور سمیت 4افراد زخمی",
+      "link": "https://www.express.pk/story/2845600/dalbandin-four-injured-as-fitna-al-hindustan-terrorists-open-fire-on-passenger-bus-2845600",
+      "description": "دہشت گردوں نے دالبندین این 40 پر تفتان سے کوئٹہ جانے والے ایک ٹرک کو روک کر آگ بھی لگا دی",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 01:51:27 +0000",
+      "date": "Sun, 22 Nov 26 06:36:15 +0000",
       "photo": ""
     },
     {
-      "title": "ملک بھر کےعوام نئے چھوٹے صوبوں اور انتظامی یونٹس کے حق میں بول پڑے",
-      "link": "https://www.express.pk/story/2845561/people-across-the-country-have-spoken-out-in-favor-of-new-smaller-provinces-and-administrative-units-2845561",
-      "description": "شہریوں کے مطابق نئے صوبے بننے سے سندھ کے نظرانداز علاقے بھی ترقی سے مستفید ہوں گے",
-      "source": "Express Urdu",
+      "title": "مصدق ملک کا دورۂ انڈیا: کیا اسلام آباد اور نئی دہلی کے تعلقات میں بہتری کی کوئی اُمید پیدا ہوئی ہے؟",
+      "link": "https://www.bbc.com/urdu/articles/cmx276lvq9vjo?at_medium=RSS&at_campaign=rss",
+      "description": "بعض مبصرین اسے دونوں ممالک کے درمیان تعلقات میں بہتری کی اُمید کے طور پر بھی دیکھ رہے ہیں جبکہ بعض ماہرین کا کہنا ہے کہ اس دورے سے دونوں ممالک کے درمیان تعلقات میں بہتری کی گنجائش کم ہے۔",
+      "source": "BBC Urdu",
       "cat": "National",
-      "date": "Sun, 22 Nov 26 01:21:04 +0000",
-      "photo": ""
-    },
-    {
-      "title": "تھر خشک سالی امدادی پیکیج پر فوری عمل درآمد کی باضابطہ منظوری دے دی گئی",
-      "link": "https://www.express.pk/story/2845586/thar-drought-relief-package-approved-for-immediate-implementation-2845586",
-      "description": "وزیراعلیٰ سندھ نے کاشتکاروں کو فی ایکڑ 4 ہزار روپے ڈی اے پی کھاد سبسڈی دینے کا بھی اعلان کر دیا",
-      "source": "Express Urdu",
-      "cat": "Economy",
-      "date": "Sun, 22 Nov 26 04:39:13 +0000",
-      "photo": ""
-    },
-    {
-      "title": "سرکاری قرضوں میں ایک سال کے دوران 6 ہزار 200 ارب روپے کا بھاری اضافہ",
-      "link": "https://www.express.pk/story/2845562/government-debt-increases-by-rs-6200-billion-in-one-year-2845562",
-      "description": "جون 2025 کے اختتام پر پاکستان کے مجموعی سرکاری قرضے 84.8 ٹریلین روپے تھے",
-      "source": "Express Urdu",
-      "cat": "Economy",
-      "date": "Sun, 22 Nov 26 01:26:16 +0000",
-      "photo": ""
+      "date": "Sun, 22 Nov 2026 15:44:39 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29d7/live/78cd9e60-e68b-11f1-936e-1fd1d31671db.jpg"
     },
     {
       "title": "‎ری جینریٹو فارمنگ: ڈھائی ایکڑ کے فارم سے سالانہ 80 لاکھ تک آمدن کیسے حاصل کی جائے؟",
@@ -133,93 +113,93 @@
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2468/live/f0124670-e37e-11f1-a094-5fdc692f3e33.png"
     },
     {
-      "title": "Rising tensions between the Taliban and Islamabad have highlighted the need for stronger regional cooperation to address Afghanistan’s security, economic, and humanitarian challenges. The strained relations between the Taliban and Pakistan, driven by cr - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUi1obUExUHBGR2lMaFExV21pdEJYbFI3bzlxc1I5MGlNaUJadzBxQkdMNEpucklNNXhyNnR3dk1YYzJyT19uMlpoTW1jOHhvRHBPNUlzZUV4WGU1WEpqaUdUd2MtVXZUd1g5UDJUY3VDT2JRYTd5eGllOEJLa05ORG4wRW5Da19JQld0T1dacTkwZHZxdGF4YWxDb08tMW5nNV9ObG9HOHM2ZHUxRUpYdzJWeUg1bjBSaEZjaVYxR3lOVklxU3o5VmtRd0MwU283M0hzSlhn?oc=5",
-      "description": "Rising tensions between the Taliban and Islamabad have highlighted the need for stronger regional cooperation to address Afghanistan’s security, economic, and humanitarian challenges. The strained relations between the Taliban and Pakistan, driven by cr Facebook",
+      "title": "Pakistan Business Environment | Investment Confidence | Economic Challenges - Aaj Exclusive - Aaj TV",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NZi1JZVNZUndzVlRiYVQyTlBERDVSYklUMlN6enpHc1V4WmNmSC15NVUxMDg2bnlPUWc0R0VzbUFmZ3dZSTVUUVFZWHLSAUxBVV95cUxOTWYtSWVTWVJ3c1ZUYmFUMk5QREQ1UmJJVDJTenp6R3NVeFpjZkgteTVVMTA4Nm55T1FnNEdFc21BZmd3WUk1VFFRWVhy?oc=5",
+      "description": "Pakistan Business Environment | Investment Confidence | Economic Challenges - Aaj Exclusive Aaj TV",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sun, 22 Nov 2026 08:11:15 GMT",
+      "date": "Sun, 22 Nov 2026 16:20:09 GMT",
       "photo": ""
     },
     {
-      "title": "Pakistan - Nawaz Sharif, Politics, Economy - Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQamswWW1yNFA3bVNNcFlrZmlfSE83THo5cmhESmM0LWRsY0VIM1dSZXY1cXdwb1N1OWlPNVl4NW1FeGxtQS1IUWdIVEZUYjdRWDExQkdwOFo3WVdGQ1Z4Q04tblRCQm5zZUNfZ29HLTNZS0d1aS1KNHRNRnhnVjRVV3ZsQkNyYWtfYWc?oc=5",
-      "description": "Pakistan - Nawaz Sharif, Politics, Economy Britannica",
+      "title": "Pakistan to showcase investment potential at major London conference as PM Shehbaz Sharif pushes economic prosperity vision - Minute Mirror",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSHRqUDg3X0EtN3pBOGhuQXYyYlJVWGZia3BLbTJkMUtaUk9xcjlIenZTOUw4SldiNzJDY2szbHFUaUJGUFlqYjlKTXIwcFVpN0VvWGkyQ1FBRkVzeUxFS0FQa1hsSEZ1X19LNVMzZjlvNmpJRjRGN0llb2VlX2dSbUFYb3gwY1dNWWhBNVE4Tldyc2F2U3I5cExxQXlxT2c5Y1gzYXRVd0RSelc2TDUwQkxZV0h2Y2xjMnN3X2tiZjJVSXU0X2EwR2huM2dhMXpZS3RsSlltUjQzYjFkSjVhallPb2pCQWV5cWhESERiZDE?oc=5",
+      "description": "Pakistan to showcase investment potential at major London conference as PM Shehbaz Sharif pushes economic prosperity vision Minute Mirror",
       "source": "Pakistan Economy",
       "cat": "Economy",
-      "date": "Sat, 21 Nov 2026 11:01:15 GMT",
+      "date": "Sun, 22 Nov 2026 14:16:46 GMT",
       "photo": ""
     },
     {
-      "title": "کراچی؛ علاقہ پولیس اور شاہین فورس کا مسلح ڈاکوؤں سے مقابلہ، زخمی سمیت 2 ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2845594/karachi-two-suspects-arrested-one-injured-in-police-encounter-with-armed-robbers-2845594",
-      "description": "فرار ساتھی ملزم کی تلاش اور ملزمان کا سابقہ کرمنل ریکارڈ بھی حاصل کیا جا رہا ہے، پولیس",
+      "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth - The Friday Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+      "description": "IMF Urges Pakistan To Pursue Export-Led Economic Growth The Friday Times",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 21 Nov 2026 06:00:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "Pakistan's public debt faces six economic shocks, could exceed 75% of GDP under combined stress scenario: Finance Ministry - Investify",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2JKcVJfalVLQ1JTMWxrUWVzNnVOdHRMdjNNeVhkUU9QcnBrTjZweWRqbWstVTJBN2p3QVNPRDlsWnU4bWtSUGRXT0VVVjB4bFI2S0E1dnhDLUZfWGd1RXdfb1h5VlRXcEpRSDVrTVA4NFZlTDl6QWJsWXkwbi1hS09xc0hXbGkxSnBXbEJDRThDSHNvS3JMV3JGRWNfajlLSjl3VnRRSEJQeW85VEtvd0xzUXdaRzF1WlM3SFdsQUt5TWdYc1k0Rjg4Z2hlZw?oc=5",
+      "description": "Pakistan's public debt faces six economic shocks, could exceed 75% of GDP under combined stress scenario: Finance Ministry Investify",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Sat, 21 Nov 2026 03:00:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "کراچی: بکتر بند اور لگژری گاڑیوں کی وائرل ویڈیو کیس میں اہم پیشرفت، مزید 3 ملزمان گرفتار",
+      "link": "https://www.express.pk/story/2845630/karachi-significant-development-in-the-case-of-the-viral-video-featuring-armored-and-luxury-vehicles-3-more-suspects-arrested-2845630",
+      "description": "پولیس نے پہلے سے گرفتار ملزم کی نشاندہی پر مزید 3 افراد کو حراست میں لیا جو ان گاڑیوں کے ڈرائیور نکلے",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sun, 22 Nov 26 05:23:43 +0000",
+      "date": "Sun, 22 Nov 26 15:53:54 +0500",
       "photo": ""
     },
     {
-      "title": "حیدرآباد؛ سندھ ایس آر اے کا ایک کروڑ روپے ہیڈ منی والا مطلوب دہشت گرد گرفتار",
-      "link": "https://www.express.pk/story/2845584/hyderabad-wanted-sindh-sra-terrorist-with-rs100-million-bounty-arrested-2845584",
-      "description": "گرفتار دہشت گرد ایس آر اے کمانڈر اصغر شاہ کا درینہ ساتھی ہے اور اس کی اعانت پر دہشت گردانہ کارروائیاں کرنا چاہتا تھا",
+      "title": "کراچی: گلشن حدید میں ماں بیٹی کے قتل کا معمہ حل، گرفتار ملزم کے ہولناک انکشافات",
+      "link": "https://www.express.pk/story/2845626/karachi-mystery-of-mother-daughter-murder-in-gulshan-e-hadeed-solved-2845626",
+      "description": "3 سال قبل اسنیپ چیٹ پر دوستی ہوئی تھی، وعدے نہ نبھانے پر جھگڑا چل رہا تھا، اس وجہ سے ماں بیٹی کو فائرنگ کرکے قتل کیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sun, 22 Nov 26 03:58:34 +0000",
+      "date": "Sun, 22 Nov 26 15:16:09 +0500",
       "photo": ""
     },
     {
-      "title": "لاہور؛ نجی کمپنی کی گاڑی سے 2سالہ بچے کی ہلاکت، فوٹیج کی مدد سے ملزم گرفتار",
-      "link": "https://www.express.pk/story/2845580/lahore-suspect-arrested-after-two-year-old-child-killed-by-private-company-vehicle-cctv-footage-helps-trace-him-2845580",
-      "description": "سی سی ٹی وی فوٹیج میں ملزم کو گاڑی کے ذریعے بچے کو کچلتے ہوئے دیکھا جا سکتا ہے",
+      "title": "کراچی؛ مختلف حادثات میں ایک شخص جاں بحق اور 11 افراد زخمی",
+      "link": "https://www.express.pk/story/2845599/karachi-one-killed-11-injured-in-various-accidents-2845599",
+      "description": "حادثے کے بعد لوڈ مزدا ٹرک موقع سے فرار ہوگیا، پولیس نے ٹرک کے ڈرائیور کی تلاش شروع کر دی",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Sun, 22 Nov 26 03:24:49 +0000",
+      "date": "Sun, 22 Nov 26 06:18:35 +0000",
       "photo": ""
     },
     {
-      "title": "رکن بلوچستان اسمبلی سردار عبدالرحمان کھیتران کیخلاف قتل کا مقدمہ درج ، قتل 3 افراد کی لاشیں برآمد",
-      "link": "https://www.express.pk/story/2845573/murder-case-registered-against-balochistan-assembly-member-sardar-abdul-rehman-khetran-bodies-of-3-murdered-individuals-recovered-2845573",
-      "description": "ایک لاش عبدالرحمان کھیتران کی قیام گاہ کے قریب سے برآمد ہوئی، پولیس",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 22 Nov 26 03:01:35 +0000",
-      "photo": ""
-    },
-    {
-      "title": "ایف آئی اے کی لاہور میں کارروائیاں، بینک ڈیفالٹ اور حوالہ ہنڈی کے 3 ملزمان گرفتار",
-      "link": "https://www.express.pk/story/2845567/fia-arrests-three-suspects-in-bank-default-and-hundi-hawala-cases-during-lahore-operations-2845567",
-      "description": "بینک ڈیفلاٹ کا گرفتار ملزم ایم ایس اشرف پولی پرائیویٹ لمیٹڈ اور ایم ایس سمیرا فلور ملز پرائیویٹ لمیٹڈ کا ڈائریکٹر ہے",
-      "source": "Express Urdu",
-      "cat": "Crime",
-      "date": "Sun, 22 Nov 26 02:17:08 +0000",
-      "photo": ""
-    },
-    {
-      "title": "دورہ پاکستان کے اختتام پر سری لنکن کرکٹ ٹیم کے اعزاز میں عشائیہ",
-      "link": "https://www.express.pk/story/2845564/sri-lanka-team-pakistan-tour-dinner-2845564",
-      "description": "مہمان کھلاڑیوں اور ٹیم آفیشلز نے پی سی بی کے انتظامات اور مہمان نوازی کو سراہا، یادگاری تحائف بھی پیش کیے گئے",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Sun, 22 Nov 26 06:48:01 +0500",
-      "photo": ""
-    },
-    {
-      "title": "رضوان کا نام نہ ہونے پر عاقب جاوید کی وضاحتیں: پی سی بی کے نئے سینٹرل کانٹریکٹس سے کن بڑے کھلاڑیوں کو باہر کیا گیا؟",
-      "link": "https://www.bbc.com/urdu/articles/ck1wrdqgjxr9o?at_medium=RSS&at_campaign=rss",
-      "description": "محمد رضوان کو سینٹرل کانٹریکٹ میں شامل نہ کرنے کے سوال پر لاہور میں نیوز کانفرنس کے دوران پی سی کے ڈائریکٹر ہائی پرفارمنس رُکن عاقب جاوید نے کہا کہ محمد رضوان کی پاکستان کرکٹ کے لیے بہت سروسز ہیں، یہ ضروری نہیں ہے کہ جنھیں کانٹریکٹ ملا ہے، صرف وہی سلیکٹ ہو سکتے ہیں۔",
+      "title": "بلوچستان کے رکن اسمبلی عبدالرحمان کھیتران کے خلاف قتل اور اغوا کا مقدمہ: پولیس کا اراضی سے خاتون سمیت تین افراد کی لاشیں برآمد کرنے کا دعویٰ",
+      "link": "https://www.bbc.com/urdu/articles/ck4gn7x9we3ro?at_medium=RSS&at_campaign=rss",
+      "description": "بلوچستان میں حکام کا کہنا ہے کہ سابق صوبائی وزیر اور مسلم لیگ ن کے رکن صوبائی اسمبلی سردار عبدالرحمان کھیتران کے خلاف نہ صرف قتل اور اغوا کا نیا مقدمہ درج ہوا ہے بلکہ پولیس کا دعویٰ ہے کہ ان کی اراضی سے تین افراد کی لاشیں بھی برآمد ہوئی ہیں۔",
       "source": "BBC Urdu",
-      "cat": "Sports",
-      "date": "Sat, 21 Nov 2026 11:19:18 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d525/live/c23c2850-e59b-11f1-9ccc-ff5a88abcfc6.jpg"
+      "cat": "Crime",
+      "date": "Sun, 22 Nov 2026 07:49:59 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0a6/live/844d21f0-e647-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Pakistan ease aside Scotland in Emerging Nations Trophy - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd0hveXFKcEpPNk9fSXowcU9pWkhmVmVLc183TkxUTG9tQm5nX1ZlMm9wQU45NThOVk5jaThVdC02Wi1PbWtoTjBzb1Jva0NscmZVNDZwRWhxSUx1WUxKV1JLM3cwZEdaRGc5bC1Camo5SVk4dVJydjhnX3dmeEJBYlZzTWdOcTRyY2RjdDZqUQ?oc=5",
-      "description": "Pakistan ease aside Scotland in Emerging Nations Trophy Yahoo Sports",
-      "source": "Sports Pakistan",
+      "title": "ڈارک ویب اور وائٹ ہاؤس کے ڈیٹا تک رسائی کا دعویٰ: امریکہ اور چین کی مدد سے پاکستانی ’بیٹ مین‘ کیسے گرفتار ہوا؟",
+      "link": "https://www.bbc.com/urdu/articles/cm8x084j27qlo?at_medium=RSS&at_campaign=rss",
+      "description": "چین اور امریکہ سے ملنے والی معلومات کے بعد پاکستانی شہری کو ڈارک ویب پر ڈیٹا فروخت کرنے کے الزام میں گرفتار کیا گیا۔ حکام کے مطابق وہ ٹیلیگرام اور دیگر آن لائن پلیٹ فارمز کے ذریعے مختلف اداروں کا ڈیٹا فروخت کرتا تھا۔ اس سے پہلے بھی وہ ڈیٹا لیکس کے ایک مقدمے میں گرفتار ہوا تھا، تاہم ضمانت پر رہا ہو گیا تھا۔",
+      "source": "BBC Urdu",
+      "cat": "Crime",
+      "date": "Sat, 21 Nov 2026 13:46:27 GMT",
+      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1a1e/live/c4900160-e5b1-11f1-a188-ff49e70cc466.jpg"
+    },
+    {
+      "title": "حکومت کا پشاور کے عمران خان کرکٹ اسٹیڈیم کا نام تبدیل کرنے کا فیصلہ",
+      "link": "https://www.express.pk/story/2845631/government-decides-to-rename-imran-khan-cricket-stadium-in-peshawar-2845631",
+      "description": "اسٹیڈیم کا پرانا نام ارباب نیاز کرکٹ اسٹیڈیم بحال کیا جائے گا",
+      "source": "Express Urdu",
       "cat": "Sports",
-      "date": "Sun, 22 Nov 2026 10:09:03 GMT",
+      "date": "Sun, 22 Nov 26 16:02:42 +0500",
       "photo": ""
     },
     {
@@ -232,94 +212,121 @@
       "photo": ""
     },
     {
-      "title": "Pakistan Women vs Zimbabwe Women - Women's Twenty20 Internationals, PAK v ZIM | Match Centre - Fox Sports",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVHBKR1B3RnE0TWNUOFFLRWF1QmRMUDRnVGlPelVQc3lfVWdyRmZsX2tIQm1vajdxR0h3bjg4SWs3Q2x1Z281R0VnTjVvU3VfQnNheW9YUldmMVBxcHN2c1B3UW1EOFJmTHZFSU9SMkZHbFJiTldaMkVZTl9IM2M?oc=5",
-      "description": "Pakistan Women vs Zimbabwe Women - Women's Twenty20 Internationals, PAK v ZIM | Match Centre Fox Sports",
+      "title": "Fighter jet gestures: Umpire celebrates with Pakistan team after controversial Asia Cup win; India questions neutrality - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenRXdE5VVXJEb1dYWEtaVlZndndGa25Pc1QtYzV0N1pRZzVrdV9TNHgtOURzaHN1d3pwOXlGOU5NN3MyaDk2UlJrVERPX2MtZV9JRE9SWnYzSDFsMG1ZYk9LUnBfd05rVjIxQV9PTUVvTEx4SW1rclZwaGViTFh2d3dSY2RaNV9xNnhfZk5kb3I?oc=5",
+      "description": "Fighter jet gestures: Umpire celebrates with Pakistan team after controversial Asia Cup win; India questions neutrality Yahoo Sports",
       "source": "Sports Pakistan",
       "cat": "Sports",
-      "date": "Sat, 21 Nov 2026 07:37:21 GMT",
+      "date": "Sun, 22 Nov 2026 05:02:00 GMT",
       "photo": ""
     },
     {
-      "title": "جامع کلاتھ کے قریب خود کو گولی مار زخمی ہونے والا نوجوان دم توڑ گیا",
-      "link": "https://www.express.pk/story/2845593/the-young-man-who-shot-and-wounded-himself-near-jame-cloth-has-succumbed-to-his-injuries-2845593",
-      "description": "متوفی کپڑے کی دکان میں ملازمت کرتا تھا اور قرضوں کی وجہ سے پریشان رہتا تھا",
+      "title": "India A vs Pakistan A Asia Cup Rising Stars 2026: Date, time, live streaming, TV telecast and squads - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdlNKZlRwT1VrWGMtWEdsVGVNby04Q2JTSjFkSldna2t1QWt1SjVubDQxOTF5dHRJeUZmdjl0bjYwVTNhY29ReTBCcUdTa0JFdDJkS0NHekktNGhTZVpUVUxkQ1lNOG5sc3BNT0FGTUdyX2pmdHVEMklsb1VXYjR3UA?oc=5",
+      "description": "India A vs Pakistan A Asia Cup Rising Stars 2026: Date, time, live streaming, TV telecast and squads Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Sat, 21 Nov 2026 16:44:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGtYQUVKQ1VaWXdIR2NRcFFiMnRWM1d0Z2ZJOGlUWFBNU2xQOWFlbVAxVjZOX05adGZTWEd1QW1Ob2NxRGxucTFHOGxHVU9xSXdhcUdBaEJ0Mm14ejE2Zm56Nk03NU5wY3Nlemp2dkxlWUliNTRhcE1qY2c2MFJILXBWYjAxU3lZMmo4NGoyNkU?oc=5",
+      "description": "India boycott trophy ceremony after Pakistan handed Blind Asia Cup title following washout Yahoo Sports",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Fri, 20 Nov 2026 19:26:00 GMT",
+      "photo": ""
+    },
+    {
+      "title": "امریکی ڈرونز خزاں رسیدہ پتوں کیطرح جھڑنے لگے؛ پاسداران انقلاب کے 'طنزیہ وار'",
+      "link": "https://www.express.pk/story/2845642/irgc-spokesman-responds-2845642",
+      "description": "شیئرکردہ تصویر میں دکھایا گیا ہے کہ امریکی ڈرون کا آپریٹر طیارہ تباہ ہونے سے چند لمحے قبل اپنی اسکرین پر کیا دیکھتا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 22 Nov 26 10:21:36 +0500",
+      "date": "Sun, 22 Nov 26 18:13:06 +0500",
       "photo": ""
     },
     {
-      "title": "جی ٹی اے 6 نے ایک روز میں 3.79 ارب ڈالر کی فروخت کا ریکارڈ قائم کردیا",
-      "link": "https://www.express.pk/story/2845583/gta-6-record-sales-2845583",
-      "description": "راک اسٹار گیمز نے نئی ویڈیو گیم کو تاریخ کی سب سے بڑی تفریحی ریلیز قرار دے دیا",
+      "title": "نئے صوبوں کا معاملہ زیادہ عرصہ نہیں چلے گا نئے سال پر ریفرنڈم ہوجائے گا، خواجہ آصف",
+      "link": "https://www.express.pk/story/2845641/the-issue-of-new-provinces-will-not-drag-on-for-long-a-referendum-will-be-held-in-the-new-year-says-khawaja-asif-2845641",
+      "description": "فی الوقت ریفرنڈم کا حتمی ٹائم نہیں دے سکتا، انتظامی یونٹس آئینی طور پر بنائیں گے، پہلے ون یونٹ بنتا ہے پھر صوبہ",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 22 Nov 26 08:47:16 +0500",
+      "date": "Sun, 22 Nov 26 13:10:31 +0000",
       "photo": ""
     },
     {
-      "title": "سرگودھا: 4 مسلح افراد نےگھر میں گھس کر خاتون کا گینگ ریپ کردیا",
-      "link": "https://www.express.pk/story/2845577/sargodha-four-armed-men-broke-into-a-house-and-gang-raped-a-woman-2845577",
-      "description": "پولیس نے چاروں ملزمان کے خلاف مقدمہ درج کرکے ملزمان کی تلاش شروع کردی ہے جبکہ خاتون کا میڈیکل بھی کرایا جا رہا ہے",
+      "title": "پولیس اور حساس اداروں کی مشترکہ کارروائی، رحمان ڈکیت کا بیٹا زیر حراست",
+      "link": "https://www.express.pk/story/2845636/joint-operation-by-police-and-intelligence-agencies-rehman-dakits-son-under-arrest-2845636",
+      "description": "زیر حراست جبران پہلے بھی کئی با گرفتار ہوکر جیل جاچکا ہے، جبران کا بھائی ساربان مبینہ پولیس مقابلے میں مارا جاچکا ہے",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 22 Nov 26 03:04:25 +0000",
+      "date": "Sun, 22 Nov 26 17:28:15 +0500",
       "photo": ""
     },
     {
-      "title": "بنوں میں امن جرگے پر کواڈ کاپٹر سے حملے اور فائرنگ، 10 افراد زخمی",
-      "link": "https://www.express.pk/story/2845575/lucky-marwat-quadcopter-attack-on-aman-jirga-in-bannu-10-people-injured-2845575",
-      "description": "تین کواڈ کاپٹر حملے ہوئے، جس کے بعد علاقے میں فائرنگ بھی شروع ہو گئی، حملے میں کئی افراد زخمی ہوئے۔",
+      "title": "نوشہرہ: ہوائی فائرنگ سے روکنے پر فائرنگ سے تین افراد جاں بحق",
+      "link": "https://www.express.pk/story/2845634/firing-three-died-2845634",
+      "description": "واقعے میں دو راہ گیر شدید زخمی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Sun, 22 Nov 26 03:04:16 +0000",
+      "date": "Sun, 22 Nov 26 12:23:06 +0000",
       "photo": ""
     },
     {
-      "title": "قطر اور جرمنی کا ایران سے حوثی گروہ کی حمایت ختم کرنے کا مطالبہ",
-      "link": "https://www.express.pk/story/2845588/qatar-and-germany-demand-that-iran-end-its-support-for-the-houthis-and-increase-nuclear-transparency-2845588",
-      "description": "قطر اور جرمنی نے ایران پر سے مطالبہ کیا ہے کہ وہ یمن کے حوثی گروہ کو اسلحہ اور دیگر معاونت فراہم کرنا بند کرے",
+      "title": "ایران نے بیک وقت دو میزائل داغنے والا نیا لانچر متعارف کرا دیا",
+      "link": "https://www.express.pk/story/2845643/iran-unveils-missile-launcher-as-commanders-tout-capabilities-in-war-with-us-2845643",
+      "description": "پاسداران انقلاب سربراہ احمد واحدی اور فضائیہ کمانڈر مجید موسوی کی زیر زمین میزائل اڈے کے دورے کی فوٹیج بھی نشر کی۔",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 22 Nov 26 09:46:03 +0500",
+      "date": "Sun, 22 Nov 26 13:23:13 +0000",
       "photo": ""
     },
     {
-      "title": "ایمرجنگ نیشنز ٹرافی، پاکستان ویمنز کی اسکاٹ لینڈ کے خلاف یکطرفہ کامیابی",
-      "link": "https://www.express.pk/story/2845581/pakistan-women-beat-scotland-2845581",
-      "description": "گل فیروزہ اور منیبہ علی کی نصف سنچریاں، پاکستان ویمنز نے اسکاٹ لینڈ کو 17 گیندیں قبل شکست دے دی",
+      "title": "حملے کا خطرہ ہے، سعودی عرب کے سفر سے گریز کریں؛ آسٹریلیا کا اپنے شہریوں کو انتباہ",
+      "link": "https://www.express.pk/story/2845640/australian-embassy-in-saudi-arabia-issues-warning-to-citizens-2845640",
+      "description": "ریاض کے کنگ عبداللہ فنانشل ڈسٹرکٹ سمیت حساس مقامات کے قریب انتہائی احتیاط برتنے کی ہدایت کی ہے",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 22 Nov 26 08:31:59 +0500",
+      "date": "Sun, 22 Nov 26 18:04:29 +0500",
       "photo": ""
     },
     {
-      "title": "غزہ: کھانا تقسیم کرنے والی گاڑی پر اسرائیلی حملہ، 3 کارکن ہلاک، حماس کی ہنگامی مذاکرات کی پیشکش",
-      "link": "https://www.express.pk/story/2845568/hamas-seeks-emergency-talks-after-israeli-strike-killed-3-gaza-aid-workers-2845568",
-      "description": "حماس کا مطالبہ ہے کہ شہریوں اور امدادی کارکنوں کا تحفظ یقینی بنایا جائے",
+      "title": "ایران اور حوثیوں کےحملے کا خدشہ؛ امریکا نے اپنے شہریوں کوبحرین کے سفر سے روکدیا",
+      "link": "https://www.express.pk/story/2845639/us-embassy-release-alert-for-bahrain-2845639",
+      "description": "حوثیوں کی کارروائیوں میں شہری ہوائی اڈوں اور اہم تنصیبات کو نشانہ بنایا گیا",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 22 Nov 26 07:29:03 +0500",
+      "date": "Sun, 22 Nov 26 12:41:44 +0000",
       "photo": ""
     },
     {
-      "title": "ترکیہ عالمی بحرانوں میں غزہ کے مسئلے کو ہمیشہ ترجیح دیتا رہے گا، وزیر خارجہ",
-      "link": "https://www.express.pk/story/2845560/amid-global-crises-turkiye-will-always-prioritize-the-issue-of-gaza-says-foreign-minister-2845560",
-      "description": "جنگ بندی کے باوجود فلسطینی علاقوں میں ہلاکتوں کا سلسلہ جاری ہے",
+      "title": "ایران پہلے سے بڑے اور زیادہ ہولناک سرپرائز حملے کی تیاری کر رہا ہے؛ اسرائیل",
+      "link": "https://www.express.pk/story/2845635/israel-preparing-surprise-attack-on-iran-2845635",
+      "description": "ایران کے خلاف ممکنہ نئی فوجی کارروائی کے حوالے سے امریکہ اور اسرائیل کے درمیان رابطے بھی جاری ہیں",
       "source": "Express Urdu",
       "cat": "Middle East",
-      "date": "Sun, 22 Nov 26 06:17:34 +0500",
+      "date": "Sun, 22 Nov 26 12:23:10 +0000",
       "photo": ""
     },
     {
-      "title": "’ماننا پڑے گا کہ پاکستان نے بہترین انتخاب کیا‘: انڈیا میں مصدق ملک کی ’غالب ڈپلومیسی‘ کا چرچا",
-      "link": "https://www.bbc.com/urdu/articles/cqx2wr9ed721o?at_medium=RSS&at_campaign=rss",
-      "description": "ایس سی او سولائزیشن ڈائیلاگ فورم سے خطاب کرتے ہوئے مصدق ملک نے کہا ’بڑا عجیب سا لگا کہ چند کوس دور غالب کے مقبرے سے یہاں بیٹھ کر میں انگریزی میں بات کر رہا ہوں۔ جی میں یہی سمایا کہ آج آپ سے اپنے دل کی آواز اردو میں بات کروں۔‘",
-      "source": "BBC Urdu",
+      "title": "”ریڈ لائن عبور “، خواجہ آصف کے بلاول سے متعلق ریمارکس ”ناقابل قبول“ ہیں، رہنما پیپلزپارٹی",
+      "link": "https://www.express.pk/story/2845610/crossing-the-red-line-khawaja-asifs-remarks-regarding-bilawal-are-unacceptable-says-ppp-leader-2845610",
+      "description": "معلوم نہ تھا کہ یہ لوگ بددیانتی کے ماہر نکلیں گے اور اتنی حیران کن تیزی سے اپنے رنگ بدلیں گے، وزیر دفاع خواجہ آصف",
+      "source": "Express Urdu",
       "cat": "Strange",
-      "date": "Sat, 21 Nov 2026 16:54:28 GMT",
-      "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b527/live/a534ee20-e5ca-11f1-a094-5fdc692f3e33.png"
+      "date": "Sun, 22 Nov 26 07:08:58 +0000",
+      "photo": ""
+    },
+    {
+      "title": "طاہر اشرفی کا مدارس کی رجسٹریشن کے لیے صدارتی آرڈیننس کا خیرمقدم، 26 سالہ مسائل حل ہونے کا اعلان",
+      "link": "https://www.express.pk/story/2845603/tahir-ashrafi-welcomes-the-presidential-ordinance-for-the-registration-of-seminaries-declares-that-26-year-old-issues-will-be-resolved-2845603",
+      "description": "چیئرمین پاکستان علماء کونسل نے صدر، وزیراعظم اور فیلڈ مارشل کا خصوصی دلچسپی پر شکریہ ادا کیا",
+      "source": "Express Urdu",
+      "cat": "Strange",
+      "date": "Sun, 22 Nov 26 07:03:31 +0000",
+      "photo": ""
     }
   ],
   "sources": [
@@ -345,7 +352,7 @@
     },
     {
       "source": "BBC World",
-      "added": 28,
+      "added": 31,
       "ok": true
     },
     {
@@ -371,7 +378,7 @@
     },
     {
       "source": "Pakistan Crime",
-      "added": 28,
+      "added": 25,
       "ok": true
     }
   ]
