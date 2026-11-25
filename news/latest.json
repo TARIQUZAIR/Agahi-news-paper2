@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T19:54:42.983640+00:00",
-  "count": 35,
+  "generated_at": "2026-11-25T03:55:52.674073+00:00",
+  "count": 34,
   "target": 40,
   "quotas": {
     "National": 10,
@@ -11,96 +11,98 @@
     "Middle East": 4,
     "Strange": 2
   },
-  "shortages": {},
+  "shortages": {
+    "Strange": 1
+  },
   "items": [
     {
-      "title": "پنجاب کو پہلے جادوٹونے سے چلایا جارہا تھا لیکن آج یہ ٹرینڈ سیٹر ہے، مریم نواز",
-      "link": "https://www.express.pk/story/2846059/maryam-nawaz-says-punjab-was-previously-being-run-through-black-magic-but-today-it-is-a-trendsetter-2846059",
-      "description": "مریم نواز کا پنجاب بھر میں مزید 5 ہزار گرین بسیں لانے، اپنی چھت اپنا گھر پروگرام 5 لاکھ گھروں تک لے جانے کا اعلان",
+      "title": "فضائی آلودگی سے لاہور کے درختوں اور پودوں کی صحت متاثر ہونے لگی",
+      "link": "https://www.express.pk/story/2846096/air-pollution-is-affecting-the-health-of-trees-and-plants-in-lahore-2846096",
+      "description": "محققین نے مختلف اقسام کے پودوں میں فضائی آلودگی برداشت کرنے کی صلاحیت میں بھی فرق ریکارڈ کیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 14:09:59 +0000",
+      "date": "Tue, 24 Nov 26 22:16:25 +0000",
       "photo": ""
     },
     {
-      "title": "19 ویں کورین ایمبیسیڈر نیشنل تائیکوانڈو چیمپئن شپ کا افتتاح",
-      "link": "https://www.express.pk/story/2846054/taekwondo-championship-2846054",
-      "description": "پاکستان میں تائیکوانڈو تیزی سے ترقی کر رہا ہے: کورین سفیر",
+      "title": "عطا تارڑ نے تاریخی خلائی مشن سے قبل منعقدہ تقریب کی ویڈیو اپنے سوشل میڈیا اکاؤنٹ پر شیئر کر دی",
+      "link": "https://www.express.pk/story/2846093/atta-tarar-shared-a-video-of-the-ceremony-held-ahead-of-the-historic-space-mission-on-his-social-media-account-2846093",
+      "description": "وفاقی وزیر منصوبہ بندی احسن اقبال اور چین میں پاکستانی سفیر بھی لانچنگ سائٹ پر موجود رہے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 18:19:34 +0500",
+      "date": "Tue, 24 Nov 26 20:59:57 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان کے پہلے خلا باز کی مشن پر تاریخی روانگی، تفصیلات سامنے آگئیں",
-      "link": "https://www.express.pk/story/2846053/pakistans-first-astronaut-departs-on-a-historic-mission-details-revealed-2846053",
-      "description": "الوداعی تقریب رات ایک بج کر 40 منٹ پر منعقد کی جائے گی جو پی ٹی وی پر براہ راست نشر کی جائے گی",
+      "title": "ذیشان علی کی خلائی پرواز نئے پاکستان کی شروعات ہے، احسن اقبال",
+      "link": "https://www.express.pk/story/2846091/zeeshan-alis-space-flight-marks-the-beginning-of-a-new-pakistan-says-ahsan-iqbal-2846091",
+      "description": "یہ ایک خواب کی تعبیر اور پاکستان کی تاریخ کا ناقابل فراموش سنگ میل ہے، وفاقی وزیر",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 13:14:49 +0000",
+      "date": "Tue, 24 Nov 26 20:24:15 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان کی میزبانی میں ہونے والے ساؤتھ ایشن گیمز ایک مرتبہ پھرملتوی",
-      "link": "https://www.express.pk/story/2846047/south-asian-games-postponed-again-2846047",
-      "description": "پاکستان اولمپک ایسوسی ایشن کی زیر نگرانی ہونے والے ساوتھ ایشن گیمزاب نومبر 2027 میں منعقد ہونے کا امکان ہے",
+      "title": "پاکستانی خلا باز کا مشن قومی فخر کا عظیم لمحہ ہے، صدر زرداری کی قوم کو مبارکباد",
+      "link": "https://www.express.pk/story/2846090/pakistani-astronaut-mission-is-a-moment-of-great-national-pride-president-zardari-congratulates-the-nation-2846090",
+      "description": "یہ تاریخی مشن پاکستان کے خلائی پروگرام کے لیے نئے امکانات کے دروازے کھولے گا، صدر مملکت",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 17:37:17 +0500",
+      "date": "Tue, 24 Nov 26 19:33:39 +0000",
       "photo": ""
     },
     {
-      "title": "کراچی میں درجہ حرارت 16.5 ڈگری سینٹی گریڈ ریکارڈ",
-      "link": "https://www.express.pk/story/2846043/temperature-in-karachi-recorded-at-165-degrees-celsius-2846043",
-      "description": "آئندہ 3 روز کے دوران دن کے وقت موسم خشک رہنے اور رات میں خنک رہنے کا امکان ہے",
+      "title": "پاکستان کے پہلے انسانی خلائی مشن کی مناسبت سے سپارکو نے علامتی بورڈنگ پاس جاری کر دیا",
+      "link": "https://www.express.pk/story/2846087/suparco-has-issued-a-symbolic-boarding-pass-to-mark-pakistans-first-human-space-mission-2846087",
+      "description": "سپارکو کی جانب سے اس منفرد اقدام کے تحت ایک خصوصی لنک فراہم کیا گیا",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 17:27:04 +0500",
+      "date": "Tue, 24 Nov 26 18:34:10 +0000",
       "photo": ""
     },
     {
-      "title": "پاکستان کے دو اسٹارٹ اپس یونیسف کے عالمی مقابلے کے فاتح قرار",
-      "link": "https://www.express.pk/story/2846039/pakistan-2-start-ups-declared-winners-in-internation-competition-2846039",
-      "description": "یونیسف کے زیر اہتمام 2026 کے عالمی مقابلے میں 10 ممالک کے اسٹارٹ اپس نے حصہ لیا",
+      "title": "25 کروڑ پاکستانیوں کی امیدیں ساتھ لے کر خلا میں جا رہا ہوں، ذیشان علی",
+      "link": "https://www.express.pk/story/2846084/i-am-heading-into-space-carrying-the-hopes-of-250-million-pakistanis-says-zeeshan-ali-2846084",
+      "description": "خلا میں پاکستان کا نام اپنے کندھوں پر لے کر جائیں گے، پاکستانی خلا نورد",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 11:53:29 +0000",
+      "date": "Tue, 24 Nov 26 17:40:59 +0000",
       "photo": ""
     },
     {
-      "title": "عالمی اسنوکر کپ؛ محمد آصف بھارتی حریف کو شکست دے کر ناک آؤٹ راؤنڈ میں پہنچ گئے",
-      "link": "https://www.express.pk/story/2846032/world-snooker-cup-muhammad-asif-defeats-indian-opponent-to-reach-the-knockout-round-2846032",
-      "description": "عمان میں جاری ایونٹ کے دوسرے روز پاکستان کے محمد آصف، اسجد اقبال اور مبشر رضا نے اپنے دونوں میچز جیت لیے",
+      "title": "دریائے سندھ کے کنارے پھیلا ورثہ",
+      "link": "https://www.express.pk/story/2846081/darya-e-sindh-ke-kinare-phaila-wirsa-2846081",
+      "description": "میانوالی، کالاباغ و کافر کوٹ کا سفرنامہ",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 15:44:08 +0500",
+      "date": "Tue, 24 Nov 26 21:54:28 +0500",
       "photo": ""
     },
     {
-      "title": "پنجاب تھیٹر ایکٹ 2026 کے خلاف فنکار میدان میں آگئے، منسوخی کا مطالبہ",
-      "link": "https://www.express.pk/story/2846025/artists-take-a-stand-against-the-punjab-theatre-act-2026-demanding-its-repeal-2846025",
-      "description": "فنکاروں کا کہنا ہے کہ مجوزہ قانون سے فنکارانہ آزادی اور اظہار رائے کا حق متاثر ہوگا",
+      "title": "معاشی استحکام یا غربت کا پھیلتا دائرہ؟",
+      "link": "https://www.express.pk/story/2846078/maashi-istihkam-ya-ghurbat-ka-phailta-daira-2846078",
+      "description": "ترسیلاتِ زر، زرمبادلہ کے ذخائر اور معاشی اشاریوں کی بہتری کے باوجود عام پاکستانی کی زندگی میں آسودگی کیوں نہیں؟",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 14:52:50 +0500",
+      "date": "Tue, 24 Nov 26 21:24:27 +0500",
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا؛ کورکمانڈر پشاور کی سربراہی میں ایمرجنسی اضلاع کیلئے کمیٹی تشکیل",
-      "link": "https://www.express.pk/story/2846023/khyber-pakhtunkhwa-committee-formed-under-peshawar-corps-commander-for-emergency-hit-districts-2846023",
-      "description": "12 رکنی ایگزیکٹو کمیٹی ایمرجنسی والے اضلاع میں ترقیاتی کاموں کی تکمیل کو بروقت یقینی بنائے گی",
+      "title": "کشتی پھر بھنور میں",
+      "link": "https://www.express.pk/story/2846073/kashti-phir-bhanwar-mein-2846073",
+      "description": "پاکستان کی سیاسی تاریخ اسی بات کا احاطہ کرتی ہے اور ہمیں یہی سبق دیتی ہے کہ جب تک ہمارے سیاسی زعماء اپنا سیاسی قبلہ درست نہیں کریں گے",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 09:37:20 +0000",
+      "date": "Tue, 24 Nov 26 21:00:19 +0500",
       "photo": ""
     },
     {
-      "title": "پاکستان میں آج ’بِیور مون‘ کا نظارہ کیا جا رہا ہے",
-      "link": "https://www.express.pk/story/2846021/beavor-moon-nov-2846021",
-      "description": "نومبر کے مکمل چاند کو روایتی طور پر ’بِیور مون‘ کہا جاتا ہے",
+      "title": "فوڈ اسٹریٹ کلچر",
+      "link": "https://www.express.pk/story/2846071/food-street-culture-2846071",
+      "description": "کراچی کے میئر فوڈ اسٹریٹ قائم کرکے کراچی کو ترقی دینا چاہتے ہیں۔",
       "source": "Express Urdu",
       "cat": "National",
-      "date": "Tue, 24 Nov 26 14:36:23 +0500",
+      "date": "Tue, 24 Nov 26 20:54:23 +0500",
       "photo": ""
     },
     {
@@ -113,15 +115,6 @@
       "photo": ""
     },
     {
-      "title": "پاکستان کیلئے 500 ملین ڈالر کی ایم آئی جی اے ضمانت یافتہ تجارتی مالیاتی سہولت کا اہم اقدام",
-      "link": "https://www.express.pk/story/2846033/pakistan-500-million-dollar-miga-trade-finance-facility-2846033",
-      "description": "وفاقی وزیر کا بین الاقوامی بینکوں کے کنسورشیم کی اعلیٰ قیادت اور ایم آئی جی اے کے نمائندوں کے ساتھ اجلاس ہوا",
-      "source": "Express Urdu",
-      "cat": "Economy",
-      "date": "Tue, 24 Nov 26 10:47:46 +0000",
-      "photo": ""
-    },
-    {
       "title": "‎ری جینریٹو فارمنگ: ڈھائی ایکڑ کے فارم سے سالانہ 80 لاکھ تک آمدن کیسے حاصل کی جائے؟",
       "link": "https://www.bbc.com/urdu/articles/c8r4g6522ey2o?at_medium=RSS&at_campaign=rss",
       "description": "چار سال قبل اسلام آباد کے مضافات میں واقع جس ڈھائی ایکڑ زمین پر محض ایک ’فارم ہاؤس‘ تھا، اب اس زمین سے 70 سے 80 لاکھ روپے سالانہ کی زرعی آمدن کا تخمینہ لگایا گیا ہے لیکن یہ ممکن کیسے ہوا؟",
@@ -129,6 +122,15 @@
       "cat": "Economy",
       "date": "Thu, 19 Nov 2026 04:17:26 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2468/live/f0124670-e37e-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Pakistan eyes $1.21bn IMF disbursement next month - Investify",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzBHcFl3NGJlVWlKRFJIc3JSREQ2YWRxR2tDWlVhTE4ydm5FcmYzOUNnY1RVLVdkRGZjV3JCM0lIYm5kb2RFNjRoa2U4Z1pmMFZ6VGJoNWw4amxwT0NCRll2UkN2bFUxUVFKTTlZcUQzYW9meWNuMTZPNkVkV3Mxa3BHZ0tMWGtYN3JRV21yaDlDeTV4QlE?oc=5",
+      "description": "Pakistan eyes $1.21bn IMF disbursement next month Investify",
+      "source": "Pakistan Economy",
+      "cat": "Economy",
+      "date": "Wed, 25 Nov 2026 02:39:48 GMT",
+      "photo": ""
     },
     {
       "title": "Pakistani youth can lead global digital economy: US Tech Chief Hassan. - | Associated Press Of Pakistan",
@@ -149,12 +151,39 @@
       "photo": ""
     },
     {
-      "title": "خیبرپختونخوا میں سی ٹی ڈی اور فورسز کی کارروائیوں میں 2 کمانڈرز سمیت 8 دہشت گرد ہلاک",
-      "link": "https://www.express.pk/story/2846035/kpk-operation-8-terrorist-killed-include-2-commanders-2846035",
-      "description": "بنوں میں سی ٹی ڈی ، پولیس اور فورسز نے دہشت گردوں کے متعدد سہولت کاروں کو بھی حراست میں لے لیا، پولیس",
+      "title": "کراچی، شہر کے مختلف علاقوں میں پولیس مقابلے، 6 ملزمان زخمی حالت میں گرفتار",
+      "link": "https://www.express.pk/story/2846095/karachi-police-encounters-in-various-parts-of-the-city-6-suspects-arrested-in-injured-condition-2846095",
+      "description": "زخمی ملزمان کو طبی امداد کے لیے اسپتال منتقل کر دیا گیا",
       "source": "Express Urdu",
       "cat": "Crime",
-      "date": "Tue, 24 Nov 26 16:16:47 +0500",
+      "date": "Wed, 25 Nov 26 02:47:57 +0500",
+      "photo": ""
+    },
+    {
+      "title": "لاہور، دو بہنوں سمیت 3 افراد کو قتل کرنے والے ملزم نے زہریلی گولیاں کھا کر خودکشی کر لی",
+      "link": "https://www.express.pk/story/2846086/lahore-the-suspect-who-killed-three-people-including-two-sisters-has-committed-suicide-by-consuming-poisonous-pills-2846086",
+      "description": "ملزم عبدالستار کالونی گوگیرہ سے زہریلی گولیاں کھانے کے بعد خود تھانے پہنچ گیا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Tue, 24 Nov 26 22:55:23 +0500",
+      "photo": ""
+    },
+    {
+      "title": "موٹروے پولیس نے ایم 2 پر لاہور جانے والی ٹریفک بحال کر دی",
+      "link": "https://www.express.pk/story/2846085/motorway-police-restore-lahore-bound-traffic-on-m2-2846085",
+      "description": "نیلا دلہ کے قریب کرین الٹنے کے باعث لاہور جانے والی ٹریفک متاثر ہوئی تھی",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Tue, 24 Nov 26 22:50:08 +0500",
+      "photo": ""
+    },
+    {
+      "title": "کراچی، خالی فلیٹ میں چوری کی کوشش، چوتھی منزل سے گرنے والا ملزم زخمی، ویڈیو وائرل",
+      "link": "https://www.express.pk/story/2846082/karachi-attempted-theft-in-empty-flat-suspect-injured-after-falling-from-fourth-floor-video-goes-viral-2846082",
+      "description": "واش روم کے روشن دان سے فرار ہونے کی کوشش کی اور عمارت سے باہر لٹک گیا",
+      "source": "Express Urdu",
+      "cat": "Crime",
+      "date": "Tue, 24 Nov 26 22:08:51 +0500",
       "photo": ""
     },
     {
@@ -165,42 +194,6 @@
       "cat": "Crime",
       "date": "Mon, 23 Nov 2026 17:25:47 GMT",
       "photo": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f22/live/5036ab00-e761-11f1-b407-33329b1ec67a.jpg"
-    },
-    {
-      "title": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material - Arab News PK",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTk51bzlYR3FyQ1dtbXpmUi1CUG1tdEtrcTZneHdNQ2xnZWtrMEtDSm1SRU1zY0w3Y3NVWWNPd1V6enlZeWg1b0hQYUl5M1B0eE9HVkRPdjdxN0swZWxqT1p6Q0dOY0k3X2s1RHRQVzlBOV93Q2pJMjhZY3lIWmFLWDB5elBMdWpieU9FZmpGYTViWVpELUYtOU40WTRQRmV3Z0YzUmp4d29PM2lzZFFvOVUtdUY4UXJNNXVyWWhDRzdaLVRDcl9Wc0g4bmlOTWM?oc=5",
-      "description": "Pakistan arrests two after overseas alerts on college bomb threat, child sexual abuse material Arab News PK",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Tue, 24 Nov 2026 01:08:00 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan teen arrested after Claude AI chats reveal bomb plot targeting college - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajZIaFlnUVVJLTFYX1NNX1BRdDZiMWs0X21OUGlKN2Q1RWFlN1MtcW1wNlRPb2dvdmp4SDVBNU9YZC1RTzZJNEk1dUhZMndfVm9fUi0wYk9EYlRrQkZ0UGNSS1pwTGh1bEEtY09faUJMMnVpamloX1FsNU5kSU1IQzFrVjFRa0tjWnVBN2ZHN19lYUNzVElUSVk3TkxKbjd5ZUVyUW1uOUduVmhHS08w0gG2AUFVX3lxTE5QTURhYVRLUWJ0ZlR4WmlMbjdoX1VQVVFwcmpLTFNyUW50MW9IM0QxRmszMkJqVjB0SnhyTkZ1Qi15cWMybjZKcFBmMHpJc1RUZTJFRFlPRDdlVUs5NWtpYkdlMjRmQm1ERUhkVTVjenBOWERaVXdqX0hOY2pnOFlZWENTVl8zQXdVd01kRjdlNDdpSkVqYUd3aWNCM1ZvVl9JbWFYSy14UW5FRDlOdjEtYlNmanNn?oc=5",
-      "description": "Pakistan teen arrested after Claude AI chats reveal bomb plot targeting college The Indian Express",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Tue, 24 Nov 2026 14:56:56 GMT",
-      "photo": ""
-    },
-    {
-      "title": "Pakistan Arrests Teen For Alleged AI-Assisted Bomb Plot On School - Rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSGowUXMwRDl4bldSNENYU2d0NWRyX3ZRaTFCUE1CdkJSd19MS3EyZWQta25mVmNjLVZNVHkyVHgwR3ZQSm5hZG1JdXNYYkRfSGNYTkJWd3I0TnJNZjRPN0Y5aWRJTzl0TUtsdl9qc0NFVHVUblVsaTVhZ1FwNTlpUE1uV1dmRnZfNlh1eDZLd1IzM1JyUGs1OEtWS1pGUWtzY3RpLWFFeFBHcjJVQjlIYmdn0gG0AUFVX3lxTE40YndPblhneTB1NEhBSUU3LVIxQzRER2FZWEZTalB5dWhRcWcyRUVlQXk4SzQ2XzVVWlRvUHRaX2ZINkt6OGVIUEQtZVVCYk51d1d4Z08xSncwMG1EZHh3emVkMW52akE4Z1AyZnUtVG50VHphTGEzUzl1aDFvXzlVMjM2VUJrT0NlMW9qdE9Ddzkwb1dGaHpYSFlhUmZld1ozTF9Nb1dsSldsR0FydTAweHFPVA?oc=5",
-      "description": "Pakistan Arrests Teen For Alleged AI-Assisted Bomb Plot On School Rediff.com",
-      "source": "Pakistan Crime",
-      "cat": "Crime",
-      "date": "Tue, 24 Nov 2026 11:07:40 GMT",
-      "photo": ""
-    },
-    {
-      "title": "اذلان شاہ ہاکی ٹورنامنٹ: پاکستان نے سنسنی خیز مقابلے کے بعد جنوبی کوریا کو شکست دیدی",
-      "link": "https://www.express.pk/story/2846034/azlan-shah-hockey-tournament-pakistan-defeats-south-korea-after-a-thrilling-contest-2846034",
-      "description": "میچ کے آخری لمحات میں، 60ویں منٹ میں جنوبی کوریا نے گول کر کے اسکور 2-3 ضرور کیا لیکن جیت نہ سکی",
-      "source": "Express Urdu",
-      "cat": "Sports",
-      "date": "Tue, 24 Nov 26 16:06:01 +0500",
-      "photo": ""
     },
     {
       "title": "رائزنگ ایشیا کپ: سوریہ ونشی کے 28 چھکوں کا ریکارڈ، پاکستان شاہینز کی نیپال کے خلاف کامیابی",
@@ -239,39 +232,75 @@
       "photo": ""
     },
     {
-      "title": "جی ٹی اے 6 میں نظر آنے والا جیٹ اسکی سوار کتا حقیقی زندگی کے کتے کی نقل نکلا",
-      "link": "https://www.express.pk/story/2846064/meet-loosy-the-real-life-jet-ski-dog-2846064",
-      "description": "رپورٹ کے مطابق لُوسی نامی یہ کتا فلوریڈا کے شہر فورٹ لاڈرڈیل میں رہتا ہے",
-      "source": "Express Urdu",
-      "cat": "World",
-      "date": "Tue, 24 Nov 26 19:39:53 +0500",
+      "title": "Pakistan Sri Lanka Cricket - Bluefield Daily Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzZVZmJrcjhzNVRMRnpSei1zd2ZBZ0s0R3RGRGJheExBSzdPX0p5YUFFa2pNVHpNSUZzVXZGMmNPSGJ1eGpaeEtTcWx1bnVtbEltai10aldHazlBZVlOakRnbzAyckZNd0otTG9OZXUzUXBEd1RQaHpWT2Rjb01uQW0taGluZFJISm5Bdlk4WWlWNnI1cXFnOTJGRkxNQ2NGd05zam90R3VrVnBQMHNaRmNMVFhVU3lJSDh6R1paV0k?oc=5",
+      "description": "Pakistan Sri Lanka Cricket Bluefield Daily Telegraph",
+      "source": "Sports Pakistan",
+      "cat": "Sports",
+      "date": "Mon, 23 Nov 2026 06:00:00 GMT",
       "photo": ""
     },
     {
-      "title": "برطانوی شہزادے ولیم کے دیہی شاہی محل میں چور گھس آئے؛ دو افراد گرفتار",
-      "link": "https://www.express.pk/story/2846057/prince-william-country-home-burglary-attempt-two-arrested-2846057",
-      "description": "آنجہانی ملکہ الزبتھ دوم نے 2011 میں شہزادہ ولیم اور کیٹ مڈلٹن کی شادی کے بعد تحفے میں دیا تھا",
+      "title": "موذی مرض ایبولا سے نبرد آزما عالمی ادارہ صحت کی طبی ٹیم تین دن بعد کانگو کے اسپتال سے ریسکیو",
+      "link": "https://www.express.pk/story/2846092/a-medical-team-from-the-world-health-organization-which-was-battling-the-deadly-ebola-disease-was-evacuated-from-a-hospital-in-congo-after-three-days-2846092",
+      "description": "حملوں کے باعث ایبولا کے خلاف طبی کارروائیاں بری طرح متاثر ہوئی ہیں، ٹیڈروس",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 24 Nov 26 18:49:02 +0500",
+      "date": "Wed, 25 Nov 26 01:45:25 +0500",
       "photo": ""
     },
     {
-      "title": "سیاسی رہنماؤں کے مولانا فضل الرحمان سے رابطے اور اظہار یکجہتی، نظر بندی کی مذمت",
-      "link": "https://www.express.pk/story/2846056/political-leaders-reach-out-to-maulana-fazl-ur-rehman-to-express-solidarity-and-condemn-his-detention-2846056",
-      "description": "بلاول بھٹو اور ایمل ولی کا مولانا فضل الرحمان سے رابطہ، حکومتی اقدام پر حیرت کا اظہار",
+      "title": "تاریخی موقع پر چیئرمین سپارکو نے چاند پر قدم رکھنے کی تاریخ کا اعلان کر دیا",
+      "link": "https://www.express.pk/story/2846088/on-this-historic-occasion-the-chairman-of-suparco-announced-the-date-for-landing-on-the-moon-2846088",
+      "description": "ابتدائی طور پر 50 امیدواروں میں سے 19 کو چین بھیجا گیا، ڈاکٹر یوسف خان",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 24 Nov 26 13:40:22 +0000",
+      "date": "Tue, 24 Nov 26 19:00:28 +0000",
       "photo": ""
     },
     {
-      "title": "آبنائے ہرمز میں 3 بحری جہازوں پر نامعلوم پروجیکٹائل سے حملہ",
-      "link": "https://www.express.pk/story/2846052/three-vessels-struck-unknown-projectiles-strait-hormuz-2846052",
-      "description": "آبنائے ہرمز میں تاحال کشیدگی ہے اور وہاں سے گزرنے والے جہازوں کو نشانہ بنایا جا رہا ہے",
+      "title": "بیوی بچوں سے ملنے کے لیے ایل او سی عبور کرنے کی کوشش کرنے والا بھارتی شہری دریائے نیلم میں جاں بحق",
+      "link": "https://www.express.pk/story/2846083/indian-national-dies-in-the-neelum-river-while-attempting-to-cross-the-loc-to-meet-his-wife-and-children-2846083",
+      "description": "عرفان حسین شاہ کی شادی 2002 میں آزاد کشمیر کے علاقے چکار میں ہوئی تھی",
       "source": "Express Urdu",
       "cat": "World",
-      "date": "Tue, 24 Nov 26 18:11:07 +0500",
+      "date": "Tue, 24 Nov 26 22:28:29 +0500",
+      "photo": ""
+    },
+    {
+      "title": "سلیم رضا آواز لازوال، شخصیت باکمال",
+      "link": "https://www.express.pk/story/2846080/saleem-raza-awaaz-la-zawal-shakhsiyat-ba-kamaal-2846080",
+      "description": "ایک عظیم گلوکار جس نے محبت کے نغمے بھی گائے اور وطن کے دفاع میں اپنی آواز کو ہتھیار بھی بنایا",
+      "source": "Express Urdu",
+      "cat": "World",
+      "date": "Tue, 24 Nov 26 21:47:05 +0500",
+      "photo": ""
+    },
+    {
+      "title": "شدید دھند کے باعث موٹروے ایم فور فیصل آباد سے پنڈی بھٹیاں تک بند",
+      "link": "https://www.express.pk/story/2846094/motorway-m-4-closed-from-faisalabad-to-pindi-bhattian-due-to-heavy-fog-2846094",
+      "description": "صبح 10 بجے سے شام 6 بجے تک سفر نسبتاً محفوظ رہتا ہے، ترجمان موٹر وے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Wed, 25 Nov 26 02:39:53 +0500",
+      "photo": ""
+    },
+    {
+      "title": "پاکستان خلا کو تسخیر کرنے والے ممالک میں شامل، چینی مشن کے ساتھ پہلے خلا باز کی تاریخی روانگی",
+      "link": "https://www.express.pk/story/2846089/pakistans-space-dream-just-moments-away-preparations-complete-at-chinas-jiuquan-space-center-2846089",
+      "description": "پاکستان کے پہلے خلا باز محمد ذیشان علی نے نئی تاریخ رقم کر دی",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Tue, 24 Nov 26 19:17:12 +0000",
+      "photo": ""
+    },
+    {
+      "title": "مکہ معاہدہ، پاکستان، سعودیہ، ترکیہ کا اجلاس کل اسلام آباد میں ہو گا",
+      "link": "https://www.express.pk/story/2846074/a-meeting-involving-pakistan-saudi-arabia-and-turkeythe-makkah-agreementwill-be-held-in-islamabad-tomorrow-2846074",
+      "description": "تینوں ممالک مشترکہ دفاع کے وعدوں پر عملدرآمد کیلیے عملی اقدامات پر غور کرینگے",
+      "source": "Express Urdu",
+      "cat": "Middle East",
+      "date": "Tue, 24 Nov 26 16:01:05 +0000",
       "photo": ""
     },
     {
@@ -284,48 +313,12 @@
       "photo": ""
     },
     {
-      "title": "ٹرمپ انتظامیہ کا جنگ ختم کرنے کیلیے ایران کے سخت گیر رہنماؤں کے قتل کی تجویز پر غور",
-      "link": "https://www.express.pk/story/2846060/trump-administration-considers-targeted-killings-iranian-leaders-2846060",
-      "description": "ایران کی سخت گیر قیادت کو نشانہ بنانے کے آپشن پر گزشتہ چند ہفتوں کے دوران بحث میں تیزی آئی ہے",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Tue, 24 Nov 26 14:13:37 +0000",
-      "photo": ""
-    },
-    {
-      "title": "امریکا عالمی امن کو خطرے میں ڈال رہا ہے، ایرانی وزیر خارجہ",
-      "link": "https://www.express.pk/story/2846055/araghchi-accuses-us-of-crippling-chemical-weapons-watchdog-2846055",
-      "description": "مالی مشکلات کے باعث کیمیائی ہتھیاروں کی روک تھام کی تنظیم کو اپنا کام معطل اور اہم پروگرام محدود کرنا پڑ سکتے ہیں",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Tue, 24 Nov 26 13:33:27 +0000",
-      "photo": ""
-    },
-    {
-      "title": "قطری بحریہ کے اہلکار نے ذمہ داریوں کی انجام دہی میں اپنی جان قربان کردی",
-      "link": "https://www.express.pk/story/2846037/qatar-naval-forces-member-ammar-yasser-killed-on-duty-2846037",
-      "description": "متحدہ عرب امارات نے قطری بحری فوجی کی دوران ڈیوٹی شہادت پر قطر سے اظہارِ یکجہتی کرتے ہوئے اہل خانہ سے تعزیت کی ہے",
-      "source": "Express Urdu",
-      "cat": "Middle East",
-      "date": "Tue, 24 Nov 26 16:34:22 +0500",
-      "photo": ""
-    },
-    {
-      "title": "جاپانی میاں بیوی کی انوکھی کہانی؛ طلاق کے بعد بھارتی مندر میں دوبارہ شادی؛ ویڈیو وائرل",
-      "link": "https://www.express.pk/story/2846048/japanese-couple-remarry-hindu-wedding-lucknow-2846048",
-      "description": "دونوں نے 2022 میں طلاق لے لی تھی لیکن پھر بھارتی دوستوں کی کوششوں اور حوصلہ افزائی سے دوبارہ ایک ہوگئے",
+      "title": "موت سے لڑتی ایک بہادر لڑکی",
+      "link": "https://www.express.pk/story/2846079/maut-se-larti-aik-bahadur-larki-2846079",
+      "description": "نادر بیماری سے لڑتی مریم ہمارے لیے ہمت، حوصلے، خلوص اور انسانیت کی نایاب مثال ہے",
       "source": "Express Urdu",
       "cat": "Strange",
-      "date": "Tue, 24 Nov 26 17:38:20 +0500",
-      "photo": ""
-    },
-    {
-      "title": "مولانا فضل الرحمان کی نظربندی اور نقل و حرکت پر پابندی غیر جمہوری اقدام ہے، حافظ نعیم",
-      "link": "https://www.express.pk/story/2846044/hafiz-naeem-condemn-molana-fazal-ur-rehman-dentation-2846044",
-      "description": "ایسی پابندیاں ملک میں سیاسی عدم استحکام بڑھائیں گی، ماضی میں ایک ساتھ جدوجہد کرنے والوں کے اقدامات حیران کن ہیں، بیان",
-      "source": "Express Urdu",
-      "cat": "Strange",
-      "date": "Tue, 24 Nov 26 12:27:30 +0000",
+      "date": "Tue, 24 Nov 26 21:36:42 +0500",
       "photo": ""
     }
   ],
@@ -352,7 +345,7 @@
     },
     {
       "source": "BBC World",
-      "added": 30,
+      "added": 31,
       "ok": true
     },
     {
@@ -368,7 +361,7 @@
     },
     {
       "source": "Sports Pakistan",
-      "added": 28,
+      "added": 26,
       "ok": true
     },
     {
